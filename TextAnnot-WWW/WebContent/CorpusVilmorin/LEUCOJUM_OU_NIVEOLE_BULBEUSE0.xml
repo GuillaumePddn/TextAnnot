@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Leucojum</taxon>
+   <parent type="famille">Amarylidacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LEUCOJUM OU NIVEOLE BULBEUSE</titre>
+        <alinea>Ce genre comprenant une douzaine d'espèces est souvent confondu avec le perce-neige. C'est plus au muguet que ressemble le leucojum, en plus haut et avec de plus grosses fleurs.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

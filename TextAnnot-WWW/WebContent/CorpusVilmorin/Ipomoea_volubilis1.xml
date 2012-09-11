@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Ipomoea volubilis</taxon> 
+        <parent type = "genre">Ipomoea</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Ipomée volubilis</titre>
+                <alinea>
+                Ipomoea purpurea 
+                Dérivée du robuste liseron, c'est une des plantes grimpantes les plus cultivées grâce à sa rusticité. Elle atteint 3 m et donne abondamment, de juillet jusqu'aux gelées, des fleurs en grappes en forme d'entonnoir, de 5 à 6 cm de diamètre, allant du blanc au bleu en passant par le rouge, au panaché rouge, blanc, violet, etc., qui s'épanouissent dès l'aurore et pendant toute la matinée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 croissance très rapide Floraison spectaculaire surtout pour l'Ipomée à grande fleur bleue très hâtive.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                tous sols à exposition ensoleillée.     
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                - Semez en pleine terre de fin avril à juin lorsque le sol est suffisamment réchauffé. 
+                - Arrosez copieusement pendant l'été et supprimez les fleurs fanées pour prolonger la floraison. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                    garnitures de treillages, tonnelles, balcons.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Ipomée Blanche étoilée pourpre
+            </titre_photo> 
+            <fichier_photo_plante>
+                p311_Ipomee_Blanche_etoilee_pourpre.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+        <photo_plante>
+            <titre_photo>
+                Ipomée Pourpre
+            </titre_photo> 
+            <fichier_photo_plante>
+                p311_Ipomee_Pourpre.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+        <photo_plante>
+            <titre_photo>
+                Ipomée volubilis varié
+            </titre_photo> 
+            <fichier_photo_plante>
+                p311_Ipomee_volubilis_varie.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

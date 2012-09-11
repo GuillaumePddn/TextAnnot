@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Muscari</taxon>
+    <parent type="genre">Muscari</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MUSCARI BULBEUSE</titre>
+        <alinea>Petite plante bulbeuse rustique, offrant au printemps des fleurs réunies en grappe au sommet d'une tige dressée et simple, émergeant de feuilles linéaires repliées en gouttière.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>jolie couleur bleue pour l'espèce la plus cultivée et fleurs aux couleurs originales pour les autres. Floraison printanière.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols bien drainés, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Les muscaris se plantent à 8 cm de profondeur, d'octobre à décembre, en touffe. La floraison devient plus abondante si on laisse la culture en place pendant au moins 3 ou 4 ans. - Divisez alors les touffes trop denses lorsque les feuilles jaunissent et replantez aussitôt.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>bordures des massifs de fleurs printanières, taches fleuries en sous-bois, sur les talus, rocailles, notamment avec Muscari botryoïdes 'Album'.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>• Muscari anneniacum (Muscari d'Arménie). C'est, de loin, l'espèce la plus connue. Grappe très dense de fleurs bleues, odorantes, en avril-mai. La variété 'Blue spike' est à fleurs doubles, bleu pâle. Très originale. • Muscari botryoïdes. L'espèce type présente une grappe de fleurs bleu ciel mais on cultive surtout la variété blanche Muscari botryoïdes 'Album'. • Muscari plumosum (ou Muscari comosum plumosum). Cette espèce diffère des précédentes par la forme et la hauteur de ses fleurs. Celles-ci forment de curieux plumets mauve-lilas sur des tiges de 30 à 40 cm.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Muscari 'Blue Spike'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Muscari 'Album'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Exochorda racemosa</taxon>
+    <parent type="genre">Exochorda</parent>
+    <contenu>
+      <paragraphe>
+        <titre>EXOCHORDA CADUC</titre>
+        <alinea>• Fleurit en avril-mai • Sol non calcaire Hauteur 2 à 3 m. Arbuste vigoureux. Sa végétation est dense et buissonnante ; rameaux grêles, souples et arqués. Il se couvre, fin avril-mai, d'une profusion de grandes fleurs blanches en grappes dressées. L'exochorda à grandes fleurs mérite d'être planté, tant en isolé que dans des massifs d'arbustes, en situation ensoleillée. Il vient en toute bonne terre de jardin bien drainée, exempte de calcaire. • 'The Bride' 50 cm de hauteur, excellent en bacs et petits jardins.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Exochorda 'The Bride'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

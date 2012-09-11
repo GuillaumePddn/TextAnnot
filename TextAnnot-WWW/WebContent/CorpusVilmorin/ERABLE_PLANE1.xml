@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Acer platanoïdes </taxon>
+    <parent type="genre">Acer</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ERABLE PLANE</titre>
+        <alinea>Hauteur 10 à 12 m. Espèce rustique et très répandue, à cime ovale. Vigoureux, cet érable ne redoute guère la pollution atmosphérique et on le rencontre fréquemment dans les villes, planté en alignement, Les feuilles vert clair, à lobes très aigus, prennent une teinte jaune d'or éclatante en automne. Tronc à écorce crevassée. </alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

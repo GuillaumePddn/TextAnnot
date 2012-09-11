@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Plectranthus celoides</taxon>
+    <parent type="genre">Plectranthus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PLECTRANTHUS</titre>
+        <alinea />
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>de même que le gnaphalium, le plectranthus est utilisé pour son feuillage décoratif retombant, à développement important, panaché de vert et de blanc.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sol aéré et drainant, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>on trouvera cette plante essentiellement sous forme de plants. La floraison de la fin de l'été à l'automne est insignifiante. Arrosage modéré tout au long de l'été.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>son port retombant le destine à être utilisé en jardinière ou en suspension, associé à des plantes fleuries.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Plectranthus</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

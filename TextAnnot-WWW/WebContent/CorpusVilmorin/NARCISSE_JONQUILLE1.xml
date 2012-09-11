@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Narcissus jonquilla</taxon>
+    <parent type="genre">Narcissus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>NARCISSE JONQUILLE</titre>
+        <alinea> Les narcisses de ce groupe ne doivent pas être confondus avec la vraie jonquille des bois (Narcissus pseudo-narcissus). Ils sont à fleurs jaune d'or vif, d'une odeur délicate rappelant celle de la fleur d'oranger, groupées par deux ou cinq, à couronne centrale petite. Les narcisses jonquilles doivent être cultivés en situation chaude et abritée et ils demandent une protection de feuilles par grands froids.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Très facile, la plantation s'effectue à l'automne, le plus tôt possible jusqu'en novembre ; les plantations hâtives ne modifient pas la date de floraison mais favorisent le développement des caïeux sur les bulbes plantés. - Les bulbes sont de grosseur très variable suivant les espèces, les plus volumineux se plantent à 20 cm de profondeur, en général à une fois et demie leur hauteur. Il est d'usage de planter en groupes et de laisser s'établir des touffes qui s'élargissent chaque année. - Pour les multiplier, arrachez en juillet et séparez les bulbes. Tous les narcisses sont rustiques; toutefois le narcisse 'Totus Albus' demande une couverture en hiver.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>les narcisses comptent parmi les principales plantes bulbeuses à floraison printanière. C'est lorsqu'ils sont utilisés sans trop de discipline, par petits groupes isolés sur pelouse, en rocailles ou en sous-bois, qu'ils sont le mieux mis en valeur. l£s fleurs coupées sont de longue durée, mais dans vos vases, ne mélangez pas les narcisses avec d'autres fleurs (tulipes par exemple). Les tiges contiennent en effet une substance qui se dilue dans l'eau et fait faner rapidement les autres fleurs. Certaines variétés se prêtent au forçage en appartement comme les jacinthes et les tulipes.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Narcisse jonquille</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

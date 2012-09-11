@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Pavot</taxon>
+    <parent type="famille">Papaveracées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PAVOT</titre>
+        <alinea>Ce genre comprend de nombreuses espèces, les unes, annuelles - pavot des jardins, à grandes fleurs simples ou doubles et à coloris nombreux, et pavot tulipe ; les autres, vivaces, comme le pavot d'Islande, le pavot à bractées et le pavot d'Orient. Toutes sont à feuillage glauque et donnent de mai à juillet des fleurs de grande beauté, aux somptueux coloris luisants.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lysimachia nummularia</taxon>
+    <parent type="genre">Lysimachia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LYSIMAQUE NUMMULAIRE</titre>
+        <alinea> Plante à tiges rampantes, s'enracinant spontanément de place en place et portant des feuilles opposées, vert clair arrondies, de la taille d'une pièce de monnaie, qui lui valent le nom populaire "d'herbe aux écus". De mai à juillet, la plante porte des fleurs solitaires, de 2 cm de diamètre, jaune brillant.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>les deux espèces sont des plantes de culture très facile et de développement rapide.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terrains humides, à exposition légèrement ombragée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Multiplication par division de touffes en mars-avril. - La lysimaque ponctuée peut être aussi semée en pépinière, d'avril à juin.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>Lysimaque ponctuée groupes fleuris de grand effet. Lysimaque nummulaire plante tapissante pour lieux humides, bords des eaux, berges de ruisseaux, etc.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lysimaque nummulaire</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

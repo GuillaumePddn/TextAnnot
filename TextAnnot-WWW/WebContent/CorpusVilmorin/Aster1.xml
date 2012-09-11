@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Aster alpinus</taxon>
+    <parent type = "genre">Aster</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ASTER ALPINUS</titre>
+                <alinea>
+                    Variété gazonnante, haute de 20 à 30 cm. Feuilles velues, lancéolées, dentées. Tiges terminées par une grande fleur de 3 à 5 cm de diamètre, bleu violacé, à disque jaune et passant au pourpre. Floraison de mai à juillet. Il existe quelques sous-variétés de ce type, à fleurs blanches, bleues, violettes ou roses
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    plante naine, à port  étalé, rustique et florifère.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    terres siliceuses, à exposition ensoleillée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    c'est pratiquement le seul aster que l'on multiplie par semis. Effectuez-le en mai-juin, en pépinière ombragée, en terre légère. Repiquez en pépinière et mettez en place de préférence en automne (à défaut au printemps suivant) à 25 cm de distance.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     rocailles, bordures.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Aster alpinus
+            </titre_photo> 
+            <fichier_photo_plante>
+                p255_Aster_alpinus.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Aster, VIVACE</taxon>
+        <parent type = "famille"> Asteraceae </parent>
+        <contenu>
+            <paragraphe>
+                <titre>ASTER, VIVACE</titre>
+                <alinea>
+                Les asters comprennent de nombreuses variétés de plantes vivaces dont les unes, de taille basse, ont des tiges qui se terminent par une fleur unique, s'épanouissant au printemps et en été. Les autres, de taille variée mais souvent élevée, fleurissent en bouquets à la fin de l'été et surtout à l'automne. Les fleurs sont assez semblables à de petites marguerites, de duplicature plus ou moins prononcée, mais présentant, pour la plupart, un cœur jaune d'or.
+                </alinea>
+             </paragraphe>               
+        </contenu>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

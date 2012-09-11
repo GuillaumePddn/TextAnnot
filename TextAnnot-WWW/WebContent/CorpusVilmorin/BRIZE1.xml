@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Briza maxima</taxon>
+    <parent type="genre">GRAMINEES ORNEMENTALES</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BRIZE</titre>
+        <alinea> Communément appelée grande brize, c'est une annuelle érigée de 20 cm de hauteur. De mai à août, apparaissent des épillets retombants et globuleux d'abord vert, puis brun rouge et paille en fin de maturité. Briza média Vivace de 30 à 40 cm donnant en juin-juillet de nombreuses panicules aux ramifications légères et filiformes.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>légèreté des panicules.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous terrains frais, ensoleillés.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>semez en avril-mai, directement en place.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>graminées très élégantes, les brizes sèchent facilement lorsqu'elles sont cueillies avant leur complète maturité et composent, avec les immortelles, acrocli-niums, statices etc., des bouquets secs de longue durée.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Briza média</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Grande brize</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="genre">Ixia</taxon>
+        <parent type = "famille">Iridaceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Ixia Bulbeuse</titre>
+                <alinea>
+                    Plante de 10 à 30 cm de hauteur, produisant au printemps des épis légers composés chacun d'une dizaine de fleurs. Leurs coloris vont du blanc au violet en passant par le jaune et présentent presque toujours une tache ronde très foncée, comme un œil, au fond de la fleur.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                hampe florale gracile aux vives couleurs. Floraison de mai à juillet.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 sols légers et bien drainés, en situation ensoleillée et abritée. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                - Plantez fin octobre-novembre, à 10 cm de profondeur et à 8 ou 10 cm d'écartement.
+                - Protégez les bulbes contre le gel. (Ne plantez pas trop tôt pour éviter la formation de feuilles avant l'hiver).
+                - Dès les premiers beaux jours, découvrez progressivement et habituez les jeunes pousses au soleil et à l'air. Arrosez copieusement au cours du printemps.
+                - Diminuez progressivement les arrosages après la floraison et supprimez-les complètement lorsque les feuilles sèchent. Laissez les bulbes en terre, ou récoltez-les et conservez-les au sec, jusqu'en octobre suivant.
+                - Les ixias se multiplient de caïeux séparés à la récolte et qui fleurissent la deuxième année, ou de graines semées en septembre. Celles-ci donnent des bulbes fleurissant la troisième ou quatrième année après le semis.
+                - La culture en pot est possible : à l'automne, placez cinq à six bulbes par pot de 10 à 5 cm de profondeur, et enterrez ces pots sous châssis froid. Arrosez modérément et donnez de l'air par beau temps pour éviter un excès de chaleur qui ne convient pas aux ixias. Puis augmentez les arrosages et l'aération. Sortez les pots dès que les dernières gelées ne sont plus à craindre. La floraison a lieu en avril-mai.     
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                rocailles, massifs printaniers. Excellentes fleurs coupées de très bonne tenue.    
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Ixia
+            </titre_photo> 
+            <fichier_photo_plante>
+                p314_Ixia.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

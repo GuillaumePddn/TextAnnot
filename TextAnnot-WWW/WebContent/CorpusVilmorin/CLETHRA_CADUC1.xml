@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Clethra alnifolia</taxon>
+    <parent type="genre">Clethra</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CLETHRA CADUC</titre>
+        <alinea>Hauteur 1,20 m. Arbuste drageonnant qui se pare en été d'épis blancs parfumés. Les feuilles deviennent jaune d'or en automne. Il préfère les sols frais et acides et des expositions ensoleillées ou mi-ombragées, ce qui permet de l'associer facilement aux rhododendrons. La variété 'Pink Spire' a des boutons roses et des fleurs blanc rosé.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Clethra</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

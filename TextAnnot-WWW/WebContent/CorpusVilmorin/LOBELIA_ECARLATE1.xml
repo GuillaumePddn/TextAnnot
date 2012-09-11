@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lobelia cardinalis</taxon>
+    <parent type="genre">Lobelia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LOBELIA ECARLATE</titre>
+        <alinea>Vivace de 80 cm à 1 m de haut, à feuilles larges, vert luisant rougeâtre. Tiges droites, terminées en juin-juillet par une grappe de Heurs rouge vif. Certaines variétés, dont Lobelia Queen Victoria, sont à fleurs plus grandes et à coloris légèrement variés dans le rouge.  Attrait/ Intérêt fleurs écarlates en juillet-août.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, toutes expositions.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>multiplication par division de touffes en mars-avril.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>dans des massifs de plantes vivaces. En avant de massifs d'arbustes. Fleurs coupées.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lobélia écarlate</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

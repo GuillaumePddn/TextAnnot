@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Bletilla striata</taxon>
+        <parent type = "genre">Bletilla</parent>
+        <contenu>
+            <paragraphe>
+                <titre>BLETILLA, BULBEUSE</titre>
+                <alinea>
+                    Appelé aussi orchidée terrestre. Plante touffue à rhizomes charnus blancs, de forme ovoïde. Feuilles vertes, effilées, plissées et dressées, du centre desquelles émerge une tige de 25 cm portant au moins 6 fleurs de 5 cm de large. La floraison a lieu en août. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    belles fleurs rose carminé d'orchidées, à l'aspect inattendu. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols argilo-calcaires, bien drainés, en situation abritée et semi-ombragée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    la plantation a lieu au printemps. Elle s'effectue à partir de rhizomes commercialisés avec les bulbes. Il est possible et souhaitable de laisser la plante en place mais il est alors nécessaire, dans les régions froides, de couvrir les souches pendant l'hiver avec de la tourbe ou des feuilles mortes. 
+                    Culture en pot possible : plantez (ou rempotez) en mars.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     décor original de zones semi-ombragées.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Bletilla
+            </titre_photo> 
+            <fichier_photo_plante>
+                p262_Bletilla.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

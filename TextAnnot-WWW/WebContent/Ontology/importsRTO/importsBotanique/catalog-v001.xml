@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1338027485477" name="http://www.owl-ontologies.com/OntologieCouleurs.owl" uri="OntologieCouleurs.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1338027485477" name="http://www.owl-ontologies.com/Ontology1328260304.owl" uri="OntologieSols.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1338027485477" name="http://www.owl-ontologies.com/Ontology1328266635.owl" uri="OntologiePorts.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1338027485477" name="http://www.owl-ontologies.com/Ontology1328460992.owl" uri="OntologieFeuillage.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1338027485477" name="http://www.owl-ontologies.com/Ontology1328517277.owl" uri="OntologieCroissance.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1338027485477" name="http://www.owl-ontologies.com/Ontology1328518737.owl" uri="OntologieExposition.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1338027485477" name="http://www.owl-ontologies.com/Ontology1328980639.owl" uri="OntologieJardinage.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1338027485477" name="http://www.semanticweb.org/ontologies/2012/4/OntologieMaladies.owl" uri="OntologieMaladies.owl"/>
+    </group>
+</catalog>

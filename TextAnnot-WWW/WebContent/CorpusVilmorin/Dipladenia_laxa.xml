@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Dipladenia laxa</taxon> 
+        <parent type = "genre">Mandevilla</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Dipladenia laxa (ou suaveolens) Grimpante</titre>
+                <alinea>
+                Ce sont des plantes grimpantes ligneuses magnifiques d'origine tropicale, qu'il convient de ne sortir qu'à la belle saison ou de cultiver à l'intérieur (véranda de préférence). Elles dépassent rarement 2 m en France mais peuvent atteindre 5 m de hauteur en zone tropicale. Malgré son port grimpant, le dipla-denia se présente comme un petit arbuste à l'état jeune.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                grandes fleurs à cinq pétales, en forme d'entonnoir, très décoratives, fleurissant en juin-juillet.
+                Feuillage généralement persistant, coriace et brillant. 
+                À grandes fleurs blanches. Variété semi rustique (jusqu'à -15°C) et semi-persistante.  
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                ensoleillée, en sol riche et bien drainé.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                semis ou bouture au printemps. Boutures semi ligneuses à l'étouffée en août.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                en bacs de façon à pouvoir les rentrer dès que la température descend en dessous de 10°C. 
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

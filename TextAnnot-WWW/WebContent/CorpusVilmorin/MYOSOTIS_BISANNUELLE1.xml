@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Myosotis alpestris</taxon>
+    <parent type="genre">Myosotis</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MYOSOTIS BISANNUELLE</titre>
+        <alinea>Plante vivace, rustique, souvent cultivée comme bisannuelle et formant des touffes de 30 cm de hauteur, à feuilles lancéolées, velues. Porte d'avril à juin de très nombreuses grappes de petites fleurs bleues, étoilées d'un œil jaune. Il existe des variétés à fleurs blanches et à fleurs roses.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>très jolie floraison printanière.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols bien drainés, toutes expositions.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez de juin à août en pépinière. - Repiquez en pépinière et mettez en place à l'automne de préférence, ou au , à 25 cm d'écartement.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>les myosotis s'associent très bien avec les pâquerettes, pensées, primevères et les fleurs bulbeuses (tulipes, narcisses) pour la décoration printanière du jardin. Bordures, fonds de massifs. Culture en pots possible pour les variétés basses. Fleurs coupées pour les variétés hautes.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>Il existe une autre espèce de myosotis, beaucoup moins connue que le myosotis des Alpes et ses variétés il s'agit du myosotis des marais, (Myosotis palustris) qui est une plante vivace à fleurs bleu ciel et affectionnant le bord des eaux. Semi-aquatique, ce myosotis peut même être immergé à faible profondeur, à exposition semi-ombragée. Il se multiplie par division des touffes en mars-avril. • Myosotis des Alpes 'Indigo'. Bleu indigo, port compact et régulier. • Myosotis 'Victoria'. Varié, compact (20 cm). • Myosotis des Alpes 'Pompadour'. Rose carminé, nain, compact (15 cm). • Myosotis 'Ultramarine'. D'un très beau bleu indigo, nain, compact, tapissant (15 cm). Excellente variété pour massifs, bordures et potées.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Myosotis 'Ultramarine'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Salix rosmarinifolia</taxon>
+    <parent type="genre">Salix</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SAULE ROSMARINIFOLIA</titre>
+        <alinea>Salix rosmarinifolia Hauteur 1,50 à 2,50 m. Branches dressées, bien garnies de feuilles étroites à revers blanc. Groupes et petites haies.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Saule rosmarinifolia</titre_photo>
+        <fichier_photo_plante>p470_Saule_rosmarinifolia.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

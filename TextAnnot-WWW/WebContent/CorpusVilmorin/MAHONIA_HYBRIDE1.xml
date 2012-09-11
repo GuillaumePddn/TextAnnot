@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Mahonia hybridis</taxon>
+    <parent type="genre">Mahonia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MAHONIA HYBRIDE</titre>
+        <alinea>2 variétés principales • x média 'Charity' hauteur 3 m. Feuillage persistant vert foncé, luisant. Fleur jaune citron en longs épis parfumés de janvier à mars. • x média 'Winter Sun' hauteur 2,50 à 3 m. Longs épis dressés sur des tiges érigées. Très original.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Mahonia hybride 'Winter Sun'</titre_photo>
+        <fichier_photo_plante>p464_Mahonia_hybride__Winter_Sun_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

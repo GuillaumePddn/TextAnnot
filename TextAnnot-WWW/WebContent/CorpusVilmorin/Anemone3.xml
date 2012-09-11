@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Anemone coronaria</taxon>
+    <parent type = "genre">Anemone</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ANEMONE DES FLEURISTES</titre>
+                <alinea>
+                    Cette espèce comprend les variétés les plus connues d'anémones. Souche ou patte tubéreuse aplatie, noirâtre. Feuilles à nombreux segments très divisés. Tige portant une collerette très découpée à la moitié de sa hauteur et se terminant en avril-mai par de larges fleurs de coloris nombreux et brillants, présentant toute la gamme des couleurs, sauf le jaune. Souvent la base des pétales est maculée d'un coloris plus clair et leur ensemble simule une couronne entourant les étamines qui forment au centre une houppe de couleur foncée. Hauteur de 25 à 35 cm. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    couleurs vives et variées. Très bonne tenue en fleurs coupées. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols perméables, à exposition ensoleillée et chaude. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    - Les pattes d'anémones se plantent en octobre-novembre à 5 ou 6 cm de profondeur et à 15 ou 20 cm d'écartement. Cette distance est à respecter compte tenu du développement ultérieur des racines. Afin de faciliter l'entrée en végétation des "pattes", souvent flétries et dures, nous vous conseillons de les faire tremper dans l'eau pendant 24 heures avant la plantation pour les faire gonfler. Les pattes se plantent à plat, la face portant les yeux étant tournée vers le haut.
+                    - Il est souvent utile de protéger la plantation pendant l'hiver, tout au moins la première année, par un paillis ou des feuilles mortes.
+                    - Après la floraison, vous pouvez laisser les pattes d'anémone en place ou les arracher lorsque les feuilles se dessèchent. Vous les laisserez sécher à l'ombre avant de les rentrer jusqu'à l'automne.
+                    - Les pattes les plus grosses peuvent être divisées au moment de la plantation pour assurer la multiplication. Le semis, très délicat, ne se pratique que par des professionnels avertis et uniquement en vue de la production de fleurs coupées.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     massifs et bordures de printemps. Fleurs coupées.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Nigella hispanica</taxon>
+    <parent type="genre">Nigella</parent>
+    <contenu>
+      <paragraphe>
+        <titre>NIGELLE D'ESPAGNE</titre>
+        <alinea> Très voisine de la nigelle de Damas, mais à tiges plus dressées, de 50 à 60 cm de hauteur ; fleurs bleu verdâtre, marquées transversalement de deux petites lignes blanches et bleues accolées.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>fraîcheur des coloris. Légèreté des fleurs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, de préférence légers et frais, toutes expositions.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>facile. Semez de mars à mai en place et éclaircissez ensuite à 20 cm de distance.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>fleurs coupées. Composition de groupes fleuris avec d'autres espèces annuelles.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

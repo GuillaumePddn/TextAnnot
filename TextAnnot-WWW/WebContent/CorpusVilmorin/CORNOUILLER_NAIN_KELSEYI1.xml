@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cornus sericea 'Kelseyi'</taxon>
+    <parent type="genre">Cornus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CORNOUILLER NAIN KELSEYI</titre>
+        <alinea> Hauteur 0,6 à 0,8 m. Arbuste nain très compact, intéressant en bacs. Feuillage caduc pourpre à l'automne. Rameaux rouges. Ces cornouillers sont utilisés le plus judicieusement en petits groupes, bien souvent  au bord des pièces d'eau car leur reflet dans l'eau, sur fond de ciel bleu, est tout à fait spectaculaire. Dans les massifs d'arbustes, leurs rameaux colorés ressortent bien sûr un fond de feuillages persistants. On les associe harmonieusement aux conifères vert foncé et aux bouleaux blancs. Comme les précédents, ils demandent à être taillés souvent, les rameaux jeunes étantplus colorés que ceux plus âgés.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

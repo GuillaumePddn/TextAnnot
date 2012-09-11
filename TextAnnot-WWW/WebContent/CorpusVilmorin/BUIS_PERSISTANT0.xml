@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Buxus sempervirens</taxon>
+    <parent type="famille">Bruxacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BUIS PERSISTANT</titre>
+        <alinea />
+      </paragraphe>
+	     </contenu>
+	<maladies>
+      <maladie>
+        <nom_maladie>Parasites et maladies des buis</nom_maladie>
+        <enonce>Les buis sont sensibles à la rouille ainsi qu'à la mouche du buis (Cecidomyie). Les feuilles sont cloquées, avec un petit asticot orange sous l'épiderme. </enonce>
+        <fichier_photo_maladie />
+      </maladie>
+    </maladies>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

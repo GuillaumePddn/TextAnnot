@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Hydrangea quercifolia</taxon>
+    <parent type="genre">Hydrangea</parent>
+    <contenu>
+      <paragraphe>
+        <titre>HYDRANGEA A FEUILLES DE CHENE</titre>
+        <alinea>Hauteur: 1,25 à 1,50 m. Feuilles remarquables en forme de feuille de chêne, rougissant à l'automne. Fleurs blanches devenant rosées de juillet à octobre. Redoute le calcaire. • Snow Çjueen 'Flemygea' grandes panicules blanches.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Hydrangea à feuilles de chêne Snow Queen"</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Anemone nemorosa</taxon>
+    <parent type = "genre">Anemone</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ANEMONE DES BOIS</titre>
+                <alinea>
+                    Souche à rhizome. Hampes florales grêles de 15 à 20 cm. Fleurs blanches, rosées ou quelquefois bleuâtres, de 2 cm de diamètre, à pétales nombreux, en mars-avril, avant le développement complet du feuillage.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    très grande rusticité et floraison printanière.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols siliceux, frais, en sous bois.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    très facile. Multiplication par éclats, de juillet à octobre, en espaçant les pieds de 10 à 15 cm. À laisser en place plusieurs années.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     rocailles, bosquets.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Anémone des bois
+            </titre_photo> 
+            <fichier_photo_plante>
+                p251_Anemone_des_bois.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

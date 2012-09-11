@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cornus mas</taxon>
+    <parent type="genre">Cornus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CORNOUILLER MALE</titre>
+        <alinea>Hauteur 3 à 5 m et plus. Le cornouiller mâle, de moindre intérêt, doit cependant être cité. Floraison légère sous forme de petites fleurs jaunes en bouquets, en février-mars, avant les feuilles. Plante robuste qui peut constituer des haies rustiques, sur sol calcaire qu'elle affectionne.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+       <photo_plante>
+        <titre_photo>Cornouiller_male</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

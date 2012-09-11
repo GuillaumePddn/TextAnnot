@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Némésia d'Afrique</taxon>
+    <parent type="genre">Nemesia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>NEMESIA ANNUELLE</titre>
+        <alinea>Plante buissonnante de 25 à 30 cm de hauteur. Grandes et nombreuses fleurs en grappes terminales, à corolle formée de deux lèvres, la supérieure étant plus petite et divisée en quatre lobes arrondis. Cette plante offre une grande variété de coloris blanc, jaune, rose, orange, pourpre et bleu ; les fleurs jaunes ou orange sont souvent bariolées de pourpre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>fleurs délicates aux riches coloris.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, toutes expositions.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Semez en septembre-octobre en pépinière. Repiquez en pots trois plants par godet de 9 cm et hivernez sous châssis. Mettez en place en avril, à 25 cm de distance. La floraison commence en mai. 2) Semez en mars-avril sous châssis, en pots de préférence, et mettez en place en mai. Floraison de juillet à septembre. Les pincements favorisent la ramification des plantes.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>bordures, rocailles, pots, jardinière. Taches fleuries dans les massifs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Némésia</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

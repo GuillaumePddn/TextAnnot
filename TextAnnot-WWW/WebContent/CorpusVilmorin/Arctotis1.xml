@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Arctotis grandis</taxon>
+    <parent type = "genre">Arctotis</parent>
+         <contenu>
+            <paragraphe>
+                <titre>ARCTOTIS ANNUELLE</titre>
+                <alinea>
+                     Plante à feuilles dentées, blanchâtres. Ses longues tiges grêles portent des fleurs évoquant une grande marguerite à ligules pointues, de coloris à tonalités pastel : jaune, orange, rose. Ces capitules ne s'ouvrent que si la température est assez élevée (+18°C). Floraison de juillet à octobre.
+                </alinea>
+             </paragraphe>               
+             <paragraphe>
+                <titre>Attrait / Intérêt</titre>              
+                <alinea>
+                    floraison estivale. Beaux coloris. Plante très résistante à la chaleur et à la sécheresse.
+                </alinea>
+            </paragraphe>           
+            <paragraphe>
+                <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols sains, bien drainés, à chaude exposition, en plein soleil. Redoute l'excès d'humidité.
+                </alinea>                   
+            </paragraphe>           
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                    - multiplication par semis, en mars-avril, sous châssis.
+                    - mise en place enmai, en terre sableuse, à 30 cm d'écartement
+                </alinea>                   
+            </paragraphe>   
+             <paragraphe>
+                <titre>Utilisation</titre>
+                <alinea>
+                    plates-bandes,massifs, rocailles.
+                </alinea>                   
+            </paragraphe>                      
+        </contenu>    
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

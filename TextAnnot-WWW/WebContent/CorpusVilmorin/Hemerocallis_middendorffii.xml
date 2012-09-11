@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Hemerocallis middendorffiï</taxon> 
+        <parent type = "genre">Hemerocallis middendorffiï</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Hémérocalle de Sibérie</titre>
+                <alinea>
+                Hemerocallis middendorffiï
+                Hauteur 50 cm. Touffe de feuilles nombreuses, gracieusement recourbées. Fleurs jaune orangé, très ouvertes. Première floraison en avril-mai et deuxième en septembre-octobre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                plante très florifère, peu exigeante et de culture facile.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                tous sols, même calcaires et pauvres, plus ou moins ombragés.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                multiplication par division de touffes à l'automne et plantation tous les 40 ou 50 cm. Rajeunissez les touffes tous les quatre ou cinq ans.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                plates-bandes de plantes vivaces, bords des massifs d'arbustes, groupes isolés sur pelouse. Fleurs coupées.
+                </alinea>
+            </paragraphe>
+         </contenu>
+        
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

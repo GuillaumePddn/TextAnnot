@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="genre">Hemerocallis</taxon>
+        <parent type = "famille">Liliaceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Hémérocalle Vivace</titre>
+                <alinea>
+                    Plante très rustique, formant une touffe de feuilles rubanées d'où partent les tiges florales nues, portant à leur extrémité un bouquet de fleurs analogues à celles des lis. De nombreux hybrides aux couleurs variant du jaune au rouge et dont la floraison s'échelonne de mai à août sont issus des espèces types.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Massif d'hémérocalles
+            </titre_photo> 
+            <fichier_photo_plante>
+                p308_Massif_d_hemerocalles.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

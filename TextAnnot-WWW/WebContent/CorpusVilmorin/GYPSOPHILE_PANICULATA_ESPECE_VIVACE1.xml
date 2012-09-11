@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Gypsophile paniculata</taxon>
+    <parent type="genre">Gypsophila</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GYPSOPHILE PANICULATA ESPÈCE VIVACE</titre>
+        <alinea> Plante à racines charnues et épaisses pro- duisant des tiges nombreuses et ramifiées de 80 cm à 1 m de haut portant une multitude de petites fleurs blanches en panicules.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>légèreté des inflorescences. C'est le "brouillard des fleuristes".</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols à exposition ensoleillée ou mi-ombragée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez de mai à juillet en pépinière. - Repiquez en pépinière et mettez en place au printemps à 60 cm d'écartement. - La floraison a lieu de juin à août. - La multiplication peut également se faire par division des touffes au printemps.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>plates-bandes ou massifs de plantes pour donner de la légèreté à l'ensemble ou séparer des coloris violents. Fleurs coupées et bouquets secs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>• Gypsophile paniculata 'Virgo'. Double blanc.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Gypsophile paniculata 'Virgo'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

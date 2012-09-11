@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">JACINTHE DU CAP</taxon>
+    <parent type="genre">Galtonia candicans</parent>
+    <contenu>
+      <paragraphe>
+        <titre>JACINTHE DU CAP</titre>
+        <alinea>bulbeuse  Plante bulbeuse émettant, au centre d'une rosace de longues feuilles, une hampe flo- rale de 1 m de hauteur dégagée à la base et terminée par une grappe de très belles fleurs blanches, en cloches retombantes, s'épanouis-sant de juin à octobre. Souvent, une seconde hampe se montre au moment où la première cesse de fleurir.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>plante décorative par la longueur de sa hampe florale.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>toutes terres, en situation abritée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Plantez en mars-avril, à 15 cm de profon- deur, cinq ou six bulbes disposés à 10 cm de distance, de façon à former une touffe. - Relevez ces bulbes en novembre, mettez-les à l'abri des gelées pour les replanter en mars suivant. - Multiplication possible par semis et bul-billes.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>la jacinthe du Cap peut être plantée dans l'axe des plates-bandes pour donner du relief à des compositions florales de plantes basses. C'est cependant lorsqu'elle est utilisée en groupes dans les plates-bandes de plantes vivaces ou sur fond de pelouse que l'originalité de sa silhouette est, au mieux, mise en valeur.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Jacinthe du Cap</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

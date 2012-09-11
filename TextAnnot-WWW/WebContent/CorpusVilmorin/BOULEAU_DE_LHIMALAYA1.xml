@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Betula utilis Jacquemontii</taxon>
+    <parent type="genre">Betula</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BOULEAU DE L'HIMALAYA</titre>
+        <alinea>Hauteur 10 à 12 m. Son principal intérêt est une écorce très blanche. Etant donné son origine, il réussit bien en altitude.  Les bouleaux prospèrent généralement dans tous les sols, même calcaires et secs, mais ils poussent moins vite dans ces derniers.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Bouleau de l'Himalaya</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

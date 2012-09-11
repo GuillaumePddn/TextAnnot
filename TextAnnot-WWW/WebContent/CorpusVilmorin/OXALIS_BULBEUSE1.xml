@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Oxalis deppei</taxon>
+    <parent type="genre">Oxalis</parent>
+    <contenu>
+      <paragraphe>
+        <titre>OXALIS BULBEUSE</titre>
+        <alinea>Plante vivace connue sous le nom de "trèfles à quatre feuilles", à feuilles de trèfle, mais divisées en quatre folioles tachées d'une bande pourpre. Nombreuses hampes florales, hautes de 25 à 30 cm, terminées de juin à août par des ombelles d'une dizaine de fleurs rouge cuivré, jaune verdâtre à la base. Il en existe aussi une variété à fleurs blanches.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>abondante floraison estivale</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terre sablonneuse mais humifère, à exposition ensoleillée ou mi-ombragée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Plantez les bulbes en avril à 8/10 cm de profondeur et à 8/10 cm d'écartement. - Dans les régions à hiver assez doux, on peut laisser les bulbes en terre, protégés par une litière de feuilles. Ailleurs, arrachez les bulbes avant les gelées et conservez-les à l'abri une fois ressuyés.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>bordures, taches au bord de plates-bandes herbacées. Si le terrain est favorable, cette plante risque de devenir envahissante. Culture possible en pots et jardinières.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

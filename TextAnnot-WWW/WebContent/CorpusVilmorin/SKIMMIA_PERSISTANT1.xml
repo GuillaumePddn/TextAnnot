@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Skimmia japonica</taxon>
+    <parent type="genre">Skimmia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SKIMMIA PERSISTANT</titre>
+        <alinea>• Fleurit en mars-avril • Fruits de septembre à mars. Hauteur 0,80 à 1 m. Petit arbuste touffu de forme régulière et arrondie, à feuilles ovales, coriaces et brillantes. Fleurs blanches, étoi-lées, dont le parfum rappelle celui de la fleur d'oranger. Les fleurs mâles, plus spectaculaires, se présentent en grandes panicules. Les fleurs femelles, portées sur des pieds différents, sont plus groupées et sont suivies de fruits rouges très décoratifs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>La variété 'Rubella'. mâle, remarquable, produit des inflorescences rouges, en boutons pendant tout l'hiver. Etant donné leur petite taille, les skimmias s'emploient en isolé dans la rocaille, mais aussi avec des plantes de terre de bruyère, en groupant un sujet mâle avec trois ou quatre sujets femelles. Ils ne sont pas véritablement calcifuges mais préfèrent néanmoins les terres de jardin humifères non calcaires, au soleil ou à mi-ombre. Taille superflue.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Skimmia 'Rubella'</titre_photo>
+        <fichier_photo_plante>p471_Skimmia__Rubella_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">ANGELIQUE EN ARBRE</taxon>
+    <parent type="genre">Aralia elata</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ANGELIQUE EN ARBRE</titre>
+        <alinea>• Fleurit en juillet-août. Hauteur 1 à 2 m. Arbuste curieux, à port dressé, peu ou pas ramifié mais drageonnant. Intéressant par ses immenses feuilles bipen-nées, atteignant plusieurs dizaines de centimètres et donnant à la plante un aspect exotique tout à fait original. En été, l'arbuste est "coiffé" d'une inflorescence de petites fleurs blanches, importante mais légère. Prospérant en toute bonne terre de jardin, l'angélique en arbre du Japon mérite d'être plantée en isolé.</alinea>
+      </paragraphe>
+    </contenu>
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Angélique en arbre</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

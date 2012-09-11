@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Solidago hybrides</taxon>
+    <parent type="genre">Solidago</parent>
+    <contenu>
+      <paragraphe>
+        <titre>Solidago hybrides</titre>
+        <alinea>Les plantes ne sont pas envahissantes comme l'espèce type. Les plantes sont plus compactes, de 40 à 80 cm de hauteur et sont très florifères. La variété 'Laurin' a des tiges très feuillues, des hampes florales en sorte de glomérules jaune vif.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Verge d'or hybride taurin</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

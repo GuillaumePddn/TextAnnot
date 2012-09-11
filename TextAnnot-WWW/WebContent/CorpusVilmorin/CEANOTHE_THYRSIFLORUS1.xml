@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Ceanothus thyrsiflorus</taxon>
+    <parent type="genre">Ceanothus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CEANOTHE THYRSIFLORUS</titre>
+        <alinea> Hauteur 1,50 à 2 m. Assez vigoureux, à fleurs bleu-violet plus ou moins foncé, en mai-juin. La variété 'Repens' a un port étoile. Les céanothes à feuilles persistantes sont encore moins rustiques que les caducs et ne prospèrent vraiment que sous les climats doux. Ils sont plantés en isolé, là où leur floraison très abondante est bien mise en valeur, mais ils font merveille également palissés contre un mur ensoleillé lequel, de surcroît, les protège.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

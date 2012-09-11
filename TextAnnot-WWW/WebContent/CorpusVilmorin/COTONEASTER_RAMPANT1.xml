@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cotoneaster horizontalis</taxon>
+    <parent type="genre">Cotoneaster</parent>
+    <contenu>
+      <paragraphe>
+        <titre>COTONEASTER RAMPANT</titre>
+        <alinea> Hauteur 0,50 à 1 m. Ce petit arbuste mérite une attention toute particulière. Ses branches arquées étalées, ont des rameaux secondaires disposés régulièrement de part et d'autre, en arête de poisson. Les petites feuilles caduques, arrondies, vert foncé, prennent avant de tomber un coloris rouge vif. Les petites fleurs roses, mellifères, en mai, qui garnissent toute la plante, ajoutent à son intérêt mais, comme tous les autres cotoneasters, il est surtout spectaculaire lorsque ses fruits ont pris leur belle couleur rouge vif. Cette remarquable espèce a des utilisations multiples elle est souvent plantée en isolé, en particulier dans la rocaille ; près d'un mur, on peut la palisser jusqu'à 1 m ou 1,50 m de hauteur ; il est enfin possible d'en faire de charmantes petites haies.  À noter, une variété à feuillage panaché • Cotoneaster horizontalis 'Variegata'. Les cotoneasters sont des arbustes faciles à cultiver, prospérant dans tous les sols et ne craignant guère le calcaire. Ils supportent la mi-ombre mais ils y fleurissent un peu moins qu'en situation ensoleillée. Certains d'entre eux, comme cotoneaster franchetii,  peuvent souffrir lors d'hivers très rigoureux ;  abattus près du sol, ils  repartent vigoureusement.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Cotoneaster horizontalis</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+	  <photo_plante>
+        <titre_photo>Cotoneaster horizontalis 'Variegata'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

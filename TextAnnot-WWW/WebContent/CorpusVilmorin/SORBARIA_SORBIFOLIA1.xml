@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Sorbaria sorbifolia</taxon>
+    <parent type="genre">Sorbaria</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SORBARIA SORBIFOLIA</titre>
+        <alinea>Sorbaria sorbifolia Hauteur: 1,50m environ. Fleurs en juin-juillet.  Les sorbarias sont plantés de préférence en groupes dans les terrains humides. Il est conseillé de les tailler très court en mars pour obtenir une plus belle floraison.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Sorbaria sorbifolia</titre_photo>
+        <fichier_photo_plante>p471_Sorbaria_sorbifolia.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

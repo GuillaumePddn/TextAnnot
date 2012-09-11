@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Phoenix ou Washingtonia ou Trachycarpus ou Chamaerops</taxon>
+    <parent type="famille">Arécacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PALMIERS PERSISTANTS</titre>
+        <alinea>• Peu rustiques   La plupart des palmiers sont des arbres non rustiques en dehors des zones privilégiées de la Côte d'Azur, où ils peuvent néanmoins souffrir lors d'hivers exceptionnellement rigoureux. Leur silhouette évoque les paysages tropicaux. I.eurs très grandes feuilles, certaines atteignant plusieurs mètres, sont groupées au sommet du tronc appelé "stipe". Les uns ont des feuilles palmées, en éventail, les autres des feuilles pennées comme d'immenses plumes.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

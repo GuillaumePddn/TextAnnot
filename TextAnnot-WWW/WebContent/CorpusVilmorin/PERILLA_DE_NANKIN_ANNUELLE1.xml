@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Perilla frutescens</taxon>
+    <parent type="genre">Périlla de Nankin</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PERILLA DE NANKIN ANNUELLE</titre>
+        <alinea>Plante exclusivement cultivée pour son feuillage coloré. Port pyramidal, larges feuilles dentées, violet pourpre presque noir à reflets métalliques. Sa variété à feuilles laciniées est de même port et de même coloris. Hauteur - 60 à 70 cm.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>beauté du feuillage extrêmement coloré.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols profonds, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Semez en fin mars-avril sous abri, repiquez et mettez en place fin mai, à 40 cm d'écartement. 2) Semez en place en mai et éclaircissez à 30 cm. Pincez l'extrémité des jeunes pousses pour obtenir des plantes plus compactes et ramifiées.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>le feuillage sombre du périlla permet de réaliser de vigoureux contrastes de couleurs avec les coloris clairs, le jaune des œillets d'Inde ou des roses d'Inde par exemple.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Périlla</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

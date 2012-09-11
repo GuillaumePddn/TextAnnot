@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Aquilegia chrysantha</taxon>
+    <parent type = "genre">Aquilegia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ANCOLIE A FLEUR DOREE</titre>
+                <alinea>
+                    Haute de 80 cm à 1 m, elle est remarquable par l'élégance de ses fleurs dressées en cornets et terminées par de longs éperons étroits et grêles.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    1) Toutes les ancolies se reproduisent fidèlement de semis faits en avril-mai ou en octobre-novembre. Leur germination dure ordinairement de deux à quatre semaines.
+                    - Repiquez en pépinière légèrement ombrée.
+                    - Mettez en place à l'automne à 30 ou 50 cm de distance, suivant les espèces.
+                    Dans les semis de printemps, il reste toujours beaucoup de graines dures qui passent l'année en terre et ne germent qu'au printemps suivant. On pourrait obtenir une germination plus abondante et plus régulière en stratifiant les graines en octobre-novembre et en les semant en mars, ainsi préparées.
+                    2) Les ancolies se multiplient aussi, facilement, d'éclats de touffes faits de très bonne heure au printemps.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     l'élégance et la richesse des coloris des ancolies font merveille en massifs (variétés naines). Les fleurs coupées tiennent très bien en vase (variétés hautes).
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Ancolie à fleur dorée
+            </titre_photo> 
+            <fichier_photo_plante>
+                p249 _Ancolie_a_fleur_doree.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

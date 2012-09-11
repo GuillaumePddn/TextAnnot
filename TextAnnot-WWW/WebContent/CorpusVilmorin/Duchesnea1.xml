@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Duchesnea indica</taxon> 
+        <parent type = "genre">Duchesnea</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Duchesnea indica ou fragaria indica Vivace</titre>
+                <alinea>
+                Faux-fraisier
+                Plante à longs rameaux flexibles et rampants. Feuilles assez semblables à celles du fraisier. Fleurs petites, jaunes, auxquelles succèdent, tout l'été, des fruits rouges, peu charnus, inodores et insipides.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 plante basse, décorative par ses fruits pendant tout l'été.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 tous sols, toutes expositions.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                semez en mai-juin, en pépinière, sur terre légère fraîche, légèrement ombragée. Repiquez en pépinière à l'automne et mettez en place au printemps. Il est possible aussi de multiplier ce fraisier par séparation des filets en août-septembre ou en avril.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                c'est lorsqu'il est cultivé de façon à ce que ses rameaux souples puissent retomber librement que le faux-fraisier est le mieux mis en valeur. On l'emploie donc surtout sur les terrasses et balcons ainsi que pour la décoration des murets et rocailles.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Duchesnea indica
+            </titre_photo> 
+            <fichier_photo_plante>
+                p287_Duchesnea_indica.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

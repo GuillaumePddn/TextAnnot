@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lunaria annua ou Lunaria biennis</taxon>
+    <parent type="genre">Lunaria annua ou Lunaria biennis</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LUNAIRE BISANNUELLE</titre>
+        <alinea>Monnaie du pape  Connue sous le nom de "monnaie du pape", c'est une plante à tiges ramifiées, à port pyramidal, atteignant de 80 cm à 1 m de hauteur. Elle offre en mai-juin, des fleurs violet purpurin disposées en panicules et auxquelles succèdent des fruits très décoratifs, en siliques aplaties, ovales. La variété à feuilles panachées est remarquable par ses feuilles amples, largement bordées de blanc et de jaune. Il en existe aussi une variété à fleurs blanches.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>aspect décoratif de la floraison mais surtout plante pour bouquets secs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols légers, à mi-ombre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez en mai-juin en pépinière, repiquez en pépinière et mettez en place en août-septembre, à 50 cm de distance. - Floraison l'année suivante, en mai-juin.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>la lunaire est surtout utilisée après séchage, pour la confection de bouquets secs</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lunaire</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Bambou</taxon>
+    <parent type="genre">Bambou</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BAMBOU PERSISTANT</titre>
+        <alinea>Assez rustique. Les bambous comprennent plusieurs genres botaniques d'origine tropicale dont certaines espèces sont rustiques et cultivées jusqu'en région parisienne, en situation abritée. Ce sont des graminées ligneuses dont les chaumes étaient autrefois utilisés pour faire des cannes à pêche et sont encore d'excellents tuteurs. Hormis le bambou nain, assez différent, ils ont en commun plusieurs caractères cannes bien droites, généralement non ramifiées, feuilles étroites, souvent vert foncé et brillant dessus, plus claires au revers.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>Voici quelques espèces et variétés intéressantes • Phyllostachys aurea Hauteur 3 à 4 m. Cannes jaunes. • Phyllostachys nigra Hauteur 3 à 4 m. Les cannes, d'abord vertes, deviennent très foncées, presque noires. • Pseudosasa japonica Hauteur 3 à 4 m. Espèce très répandue. Cannes vertes, grandes feuilles. • Semiarundinaria fastuosa Hauteur 6 à 8 m. Cannes vert foncé. Idéal pour les haies. • Fargesia Sinarundinarii murielae Hauteur 3 à 4 m. Cannes vert clair devenant jaunes. • Pleioblastus pumilus Hauteur 0,30 à 0,80 m. Bambou nain très efficace en couvre-sol. Il aime l'ombre. • Pleioblastus vicidistriatus Hauteur 0,3 à 1,5 m. Feuillage panaché vert et jaune d'or. Apprécie également l'ombre. • Sasa veitchii Hauteur 1 m à 1,5 m. Grandes feuilles vert sombre marginées de blanc crème en hiver. Les bambous sont des végétaux très intéressants, à planter isolément ou, mieux, en petit; grou|)es au bord des pièces d'eau, des rivières ou des étangs. Ils confèrent un aspect exotique au paysage, fis prospèrent en toute bonne terre de jardin profonde et fraîche, mais bien drainée. En dehors des climats à hivers doux, il est conseillé de les placer en situation ensoleillée et abritée. Il est préférable de planter des sujets élevés en conteneurs et de les mettre en place au printemps ou même en été. Contrairement aux autres, en raison de sa végétation naine et touffue (hauteur 50 à 60 cm), le bambou nain (Sasa pumila) est souvent utilisé comme couvre-sol.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Phyllostachys nigra</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Semiarundinaria fastuosa</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Sasa veitchii</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

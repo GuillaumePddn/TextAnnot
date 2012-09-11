@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cytisus x praecox</taxon>
+    <parent type="genre">Cytisus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GENET PRECOCE</titre>
+        <alinea> Hauteur 0,80 à 1 m. Petit arbuste à port plus ou moins étalé, à floraison abondante jaune pâle en avril-mai.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>De nombreuses variétés en sont issues • 'Albus' à fleurs blanches, à port plus étalé. • 'Allgold' jaune d'or, à port plus dressé. • ïlollandia' rouge et blanc. • Zeelandia' rose, etc.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+     <photo_plante>
+        <titre_photo>Genet__Allgold_</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+	</photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

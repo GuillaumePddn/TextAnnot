@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Giroflée de Nice</taxon>
+    <parent type="genre">Cheiranthus et Matthiola</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GIROFLEE DE NICE</titre>
+        <alinea>Bisannuelle, souvent cultivée comme annuelle, cette race de giroflée est voisine de la giroflée Quarantaine remontante. Bien ramifiée, elle est à fleurs doubles très parfumées. Hauteur 50 cm.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>plante très remontante.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols secs, même calcaires, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Comme plante annuelle semez en février-mars, comme pour les giroflées d'été et mettez en place fin avril à 30 cm d'écartement. Floraison de juillet-août jusqu'aux gelées. 2) Comme plante bisannuelle semez clair en mai-juin en pépinière mi ombragée. Les plants devront être hivernes en pots, ou la plantation assurée en terrain bien drainé, à très bonne exposition et protégée des froids. Floraison d'avril à juillet.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>bordures, massifs, fleurs coupées. Culture en pots.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

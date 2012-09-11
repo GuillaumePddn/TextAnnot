@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Pétunia à fleurs moyennes</taxon>
+    <parent type="genre">Pétunia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PETUNIA A FLEURS MOYENNES</titre>
+        <alinea>Des variétés fixées telles que 'Fire Chief (rouge feu), et 'Rose de Haven' (rose vif), à port buissonnant et à floraison abondante, ont toujours un certain intérêt mais les variétés hybrides les surclassent de plus en plus. Très florifères et nettement plus résistants à la pluie que les variétés à grandes fleurs, ils ont, en plus, une régularité de port et une vigueur qui les font recommander pour les plantations en massifs ou en jardinières.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pétunia 'Rose de Haven'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Pétunia 'Pire Chief'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

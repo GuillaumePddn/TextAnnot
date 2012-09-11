@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Pulsatilla vulgaris</taxon>
+    <parent type="genre">Pulsatille</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PULSATILLE VIVACE</titre>
+        <alinea>Plante à racine pivotante. duveteux. Très rustique. Feuillage</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>hampe florale de 20 à 25 cm de haut portant d'avril à juin, de jolies fleurs en clochettes, violet clair. Après la floraison, formation d'une boule plumeuse originale.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terrains calcaires, ou ordinaires bien drainés, même en plein vent.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>très facile. Multiplication par division des souches en automne ou très tôt au printemps. Espacez les pieds de 20 cm.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>rocailles.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pulsatille</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

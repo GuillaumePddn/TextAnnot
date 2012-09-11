@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Chimonanthus praecox</taxon>
+    <parent type="genre">Chimonanthus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CHIMONANTHE CADUC</titre>
+        <alinea>Fleurit en décembre-janvier. Hauteur 2 à 3 m. Le chimonanthe odorant, même s'il n'est pas très spectaculaire, intéresse les amateurs de fleurs parfumées, et ce d'autant plus que les siennes s'épanouissent en plein hiver... C'est un arbuste vigoureux, à rameaux raides mais à port assez large, avec des feuilles rugueuses assez grandes. Les fleurs, de 2 à 3 cm de diamètre, sont d'un jaune cireux à centre brun, et délicieusement parfumées. Ne redoutant que les sols trop calcaires, le chimonanthe odorant gagne à être planté près de la maison si l'on veut profiter au maximum de son intérêt en situation bien dégagée et chaude en été. lorsque les boutons sont bien apparents, on peut couper des branches qui fleurissent aisément, en vase. Sinon, la taille n'est pas nécessaire.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Chimonanthe</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Chamaerops humilis</taxon>
+    <parent type="genre">Chamaerops</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PALMIER NAIN</titre>
+        <alinea>Hauteur 3 à 5 m. Ce palmier nain est le plus petit du groupe. Drageonnant, il forme des touffes de feuilles palmées. Il est rustique dans le Midi et même sur le littoral atlantique. Les Palmiers, qui prospèrent en toute bonne terre de jardin saine et non calcaire, sont d'un emploi difficile en dehors de la Côte d'Azur, car leur aspect exotique s'associe difficilement à la plupart des autres végétaux. Dans les microclimats favorables des autres régions, il convient de les associer à des plantes de même style bambous, bananiers, Dracaena, Phormium, etc.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Chamaerops humilis</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

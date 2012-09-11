@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Xeranthemum annuum</taxon> 
+        <parent type = "genre">Xeranthemum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Immortelle annuelle</titre>
+                <alinea>
+                Plante à feuillage blanchâtre cotonneux, ramifiée dès la base, à rameaux étalés, puis dressés Fleurs légères, élégantes, solitaires, portées par de longs pédoncules, de coloris blanc, rose ou violet, d'une texture sèche. Une de ses variétés :  l'immortelle impériale double violette, se distingue par la teinte franchement violette de ses fleurs.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

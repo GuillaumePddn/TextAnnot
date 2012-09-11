@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cortaderia selloana</taxon>
+    <parent type="genre">GRAMINEES ORNEMENTALES</parent>
+    <contenu>
+      <paragraphe>
+        <titre>HERBE DE LA PAMPA</titre>
+        <alinea> Cette graminée géante forme de très fortes touffes vivaces, aux feuilles longues et étroites, dentées et très coupantes, d'où partent, à l'automne, de longues inflorescences pouvant atteindre 3 mètres, portant à leur extrémité un long panache argenté et soyeux, de 60 à 80 cm de longueur. Cette magnifique herbe de la Pampa originaire d'Amérique du Sud comporte des variétés de taille plus ou moins élevée dont une produit des panaches rosés. Elle possède la particularité de comporter des sujets mâles et des sujets femelles. Ces derniers produisent, de loin, les plus beaux épis. Ce sont eux que les pépiniéristes multiplient par éclats.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>végétation majestueuse. Légèreté des inflorescences.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols fertiles, bien drainés, en situation abritée et ensoleillée. Redoute l'excès d'humidité.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>la multiplication s'opère par éclats de touffes au printemps. Compte tenu du développement de la touffe, les plantations se font généralement en "isolé". - Lorsque les froids surviennent, couper les chaumes à leur base et nettoyer les plantes, puis réunir les feuilles ensemble et les lier après avoir garni le centre de feuilles sèches. Le tout est recouvert d'une enveloppe de plastique qui rejettera les eaux loin du pied ; l'herbe de la Pampa est une plante qui craint plus l'humidité que le froid. - En mars-avril, cet abri est enlevé au moment du départ de la végétation et les vieilles feuilles sont coupées au ras du sol pour faire place aux nouvelles.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>plante à isoler sur une pelouse ou dans un massif (prévoir un espace suffisant pour son développement). Dans de grands espaces, on peut planter par groupe de trois ou cinq. Les panaches, soyeux, coupés avant complète maturité et mis à sécher à l'ombre, la tête en bas, entrent dans la composition de superbes bouquets secs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Herbe de la Pampa</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Gros minet</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

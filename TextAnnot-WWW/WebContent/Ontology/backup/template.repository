@@ -1,0 +1,4 @@
+./importsRTO/importsBotanique/?forceReadOnly=true
+./importsRTO/?forceReadOnly=true
+http://sqwrl.stanford.edu/ontologies/built-ins/3.4/sqwrl.owl
+http://swrl.stanford.edu/ontologies/3.3/swrla.owl

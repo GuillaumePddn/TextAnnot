@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Callistephus chinensis</taxon>
+    <parent type="famille">Composacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>REINE MARGUERITE ANNUELLE</titre>
+        <alinea>Aster de Chine Plante extrêmement populaire qui conserve tout son intérêt par l'apport constant de créations nouvelles. Tige dressée se divisant en ramifications plus ou moins nombreuses qui portent une fleur en capitule s'épanouissant de juillet à septembre. Les très nombreuses variétés diffèrent par leur taille, leur port pyramidal ou divergent, leurs fleurs tantôt de forme régulière, tantôt échevelées. Les coloris sont nombreux et vont, suivant les races, du blanc au bleu foncé en passant par toute la gamme des rouges et des roses et même par le jaune pour quelques-unes. Si la plupart sont à fleurs doubles, qu'on apprécie très pleines, une mention spéciale doit être faite aux reines-marguerites à fleurs simples en raison de leur intérêt pour la fleur coupée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>culture facile. Floraison éclatante de fin d'été. Diversité des formes et des couleurs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols profonds et humifères, bien drainés, en situation aérée et à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Semez en mars-avril sous abri, repiquez et mettez en place en mai. 2) Semez en avril sous châssis froid ou au pied d'un mur au Midi. Repiquez sous châssis ou en pépinière bien exposée et mettez en place en mai-juin. Distancez les plants de 30 à 50 cm selon les variétés. 3) Il est possible de semer en place fin avril-début mai. Éclaircissez à 30/40 cm. Évitez de répéter la culture des reines-marguerites plusieurs années de suite au même emplacement afin de contrecarrer l'infestation du sol par la fusariose. maladie actuellement sans autre remède que la voie génétique.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>plantes de culture facile et de grande floribondité, les reines-marguerites se prêtent à la réalisation de massifs et de groupes fleuris pour la fin de l'été. Les variétés naines sont utilisées pour la confection de bordures et pour la culture en pots. Se transplantant facilement en motte, même lorsqu'elles sont prêtes à fleurir, les reines-marguerites permettent de remplacer dans les massifs, les espèces d'épanouissement plus précoce mais dont la floraison s'arrête en août. Toutes les races à longues tiges produisent des fleurs à couper extrêmement brillantes et très durables.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

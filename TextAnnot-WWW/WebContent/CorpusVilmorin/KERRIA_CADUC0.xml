@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Kerria</taxon>
+    <parent type="famille">Rosaceae</parent>
+    <contenu>
+      <paragraphe>
+        <titre>KERRIA CADUC</titre>
+        <alinea>• Fleurit en avril-mai</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

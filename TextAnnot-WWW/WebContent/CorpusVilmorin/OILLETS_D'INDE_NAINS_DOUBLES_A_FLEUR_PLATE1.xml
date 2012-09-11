@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cordoba</taxon>
+    <parent type="genre">Tagetes patula</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ŒILLETS D'INDE NAINS DOUBLES A FLEUR PLATE</titre>
+        <alinea>Fleurs larges, à pétales plats. Végétation extrêmement régulière, floraison très abondante.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>• 'Cordoba' - jaune d'or taché de brun, 30 cm. Pétales parsemés de taches brunes, presque rouges, sur fond jaune d'or. • 'Boléro' - fleurs doubles brun et jaune d'or. Hauteur - 30 cm. Abondante floraison. • 'Carmen' - Fleurs doubles, énormes, aux coloris bruns bordé d'un fin liseré or. Hauteur - 30 cm.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Œillet d'Inde 'Carmen'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Œillet d'Inde 'Boléro'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

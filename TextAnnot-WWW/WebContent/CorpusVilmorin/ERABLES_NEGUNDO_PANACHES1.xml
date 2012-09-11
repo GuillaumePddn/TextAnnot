@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Acer negundo 'Aureomarginatum' </taxon>
+    <parent type="genre">Acer</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ERABLES NEGUNDO PANACHES</titre>
+        <alinea>Feuilles panachées de jaune. Les variétés panachées émettent parfois des pousses vertes qu'il convient des supprimer aussitôt, sous peine de les voir absorber toute la sève à leur profit et contrarier le développement des branches à feuilles panachées.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+        <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

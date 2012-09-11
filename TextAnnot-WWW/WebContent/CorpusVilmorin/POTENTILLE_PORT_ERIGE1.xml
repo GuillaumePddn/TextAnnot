@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Potentilla suffruticora</taxon>
+    <parent type="genre">Potentilla</parent>
+    <contenu>
+      <paragraphe>
+        <titre>POTENTILLE PORT ERIGE</titre>
+        <alinea>• 'Goldfinger' 1 m à 1,20 m. Fleurs jaune citron, feuillage vert glauque. • 'Jackman' 1 m à 1,20 m. Petites fleurs précoces jaune d'or ; • Marian Red Robin 'Marrob' 50 cm, la plus rouge. Ces potentilles à port dressé permettent de réaliser de petits groupes ou des haies basses. Toutes prospèrent en sol sain, même sec, en situation ensoleillée. Taillez court en mars.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Potentitle Marian Red Robin'</titre_photo>
+        <fichier_photo_plante>p468_Potentitle_Marian_Red_Robin_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

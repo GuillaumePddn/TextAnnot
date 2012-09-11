@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Osmanthus delavayi</taxon>
+    <parent type="genre">Osmanthus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>OSMANTHE DELAVAYI</titre>
+        <alinea> Hauteur 2 à 3 m. Feuillage persistant vert bleuté lustré. Fleurs blanches au parfum Noisetier pourpre de jasmin en mars-avril. Redoute les fortes gelées. L'osmanthe, au beau feuillage décoratif, est planté en isolé ou dans les massifs d'arbustes ; on en fait aussi de jolies haies très denses. Il vient en toute bonne terre de jardin pas trop humide.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Osmanthe delavayi</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Ulmus résista' 'Sapporo Gola" </taxon>
+    <parent type="genre">Ulmus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ORME RESISTA</titre>
+        <alinea>Hauteur 10 m. Arbuste très vigoureux pouvant se conduire en tige, mais à recommander en haie champêtre.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Orme résista'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

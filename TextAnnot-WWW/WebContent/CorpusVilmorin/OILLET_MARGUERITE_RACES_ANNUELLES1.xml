@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Œillet géant Chabaud</taxon>
+    <parent type="genre">Dianthus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ŒILLET MARGUERITE RACES ANNUELLES</titre>
+        <alinea>En fait, elles sont vivaces lorsqu'elles sont conservées sous abri pendant l'hiver, mais se cultivent le plus souvent comme plantes annuelles, fleurissant l'année même du semis. Elles sont en général remontantes, étant toutes issues de l'œillet marguerite qui a lui-même ce caractère.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>les dates de floraison étant fonction des dates de semis, plusieurs possibilités vous sont données. 1) Floraison à partir de juillet - semez en janvier sous abri, repiquez sous abri en pépinière et mettez en place en mai, à 25 cm d'écartement. 2) Floraison en septembre - semez en mars sous châssis et mettez en place en juin, à 25 cm de distance. 3) Floraison de mai à août - semez en août en pépinière, repiquez en pépinière bien exposée, au pied d'un mur pour abriter des gelées ou, mieux, hivernez sous châssis froid (ou en serre froide) et mettez en place en mars-avril à 25 cm de distance. Dans tous les cas, la levée demandant de la lumière, ne recouvrez pas les graines.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>surtout production de fleurs coupées. Potées fleuries pour les races compactes.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>• Œillet marguerite. Hauteur - 50 cm. Race extrêmement florifère émettant un grand nombre de tiges fines et souples, portant chacune une fleur de taille moyenne, double, odorante, à pétales dentelés, aux coloris variés, blanc, rose, jaune, rouge et violet. Elle fleurit cinq à six mois après le semis. Semée en février, elle s'épanouit de juillet aux gelées. • Œillet géant Chabaud. Hauteur - 50 cm. Amélioration de la race précédente dont elle a conservé la floribondité. Les tiges sont plus solides, les fleurs plus grosses, plus doubles et plus odorantes, et la gamme des coloris beaucoup plus étendue, principalement dans les roses et les rouges. Elle fleurit six à sept mois après le semis qui, ayant lieu en janvier, permet d'obtenir une floraison échelonnée de juillet à octobre. Abritée, celle-ci se poursuit pendant l'hiver. De culture très facile, c'est la meilleure race de jardin pour l'emploi en fleurs coupées. • Œillet géant 'Enfant de Nice'. Hauteur 40 cm. Race remontante issue de la précédente, mais de taille plus courte, se prêtant mieux à la culture en pots ou en jardinières et massifs. Feuillage vert glauque, tiges très robustes, un peu cassantes, portant une fleur énomie de 7 à 8 cm de diamètre, à calice souvent rond qui éclate, contenant une grande quantité de pétales non dentelés. Comme la précédente, elle fleurit six à sept mois après le semis et possède une gamme de coloris presque aussi étendue.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Œillet Géant Enfant de Nice</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Œillet Marguerite</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Œillet Géant Chabaud varié</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

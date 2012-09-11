@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Chionodoxa, BULBEUSE</taxon>
+    <parent type = "famille"> Liliaceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CHIONODOXA, BULBEUSE</titre>
+                <alinea>Gloire des neiges 
+                    Parmi les premières fleurs du printemps, les
+chionodoxas sont des plantes très rustiques. Leur feuillage vert clair rappelle celui des jacinthes.
+                </alinea>
+            </paragraphe>
+       </contenu>
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

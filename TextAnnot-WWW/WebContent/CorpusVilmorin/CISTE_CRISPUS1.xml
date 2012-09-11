@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cistus crispus</taxon>
+    <parent type="genre">Cistus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CISTE CRISPUS</titre>
+        <alinea> Hauteur 0,60 m à 1 m. Feuilles ondulées, argentées. Fleurs rose foncé.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+       <photo_plante>
+        <titre_photo>Ciste_crispus</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+	   </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

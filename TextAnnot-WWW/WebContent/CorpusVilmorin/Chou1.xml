@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Brassica oleracea</taxon>
+        <parent type = "genre">Brassica</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CHOU D'ORNEMENT, ANNUELLE</titre>
+                <alinea>
+                  Cette espèce comprend différents types de choux non pommés, à feuillage dressé ou étalé, frisé, frangé ou lisse et diversement coloré ou panaché de blanc, jaune, vert et rouge. La coloration est d'autant plus marquée que les plantes ont subi les premières gelées.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    plante très originale pour décoration de fin d'automne et de début d'hiver
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols frais. Résiste au vent et à la neige. Supporte le climat maritime.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    facile.
+                    - Semez en mai-juin et repiquez en pépinière, après trois à quatre semaines, en espaçant suffisamment les plants.
+                    - Mettez en place à 50 cm de distance, en juillet-août, en enfonçant bien le collet car la tête devient assez lourde. La plante atteint son complet développement à l'automne et sa coloration s'accentue dès l'apparition des premiers frimas. C'est à partir de ce moment qu'elle est la plus décorative.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     massifs, corbeilles, potées. Les choux d'ornement sont également utilisés, coupés, pour la décoration des appartements. Ils tiennent bien dans l'eau et servent de garnitures d'intérieur à une époque où il n'y a plus de fleurs au jardin.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Chou d'ornement
+            </titre_photo> 
+            <fichier_photo_plante>
+                p269_Chou_d_ornement.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

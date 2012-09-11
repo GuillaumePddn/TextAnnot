@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1338360761240" name="http://www.owl-ontologies.com/OntologieBotanique.owl" uri="OntologieBotanique10.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1338360761240" name="http://www.owl-ontologies.com/OntologieCouleurs.owl" uri="importsBotanique/OntologieCouleurs.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1338360761240" name="http://www.owl-ontologies.com/OntologieCroissance.owl" uri="importsBotanique/OntologieCroissance.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1338360761240" name="http://www.owl-ontologies.com/OntologieExposition.owl" uri="importsBotanique/OntologieExposition.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1338360761240" name="http://www.owl-ontologies.com/OntologieFeuillage.owl" uri="importsBotanique/OntologieFeuillage.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1338360761240" name="http://www.owl-ontologies.com/OntologieJardinage.owl" uri="importsBotanique/OntologieJardinage.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1338360761240" name="http://www.owl-ontologies.com/OntologiePorts.owl" uri="importsBotanique/OntologiePorts.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1338360761240" name="http://www.owl-ontologies.com/OntologieSols.owl" uri="importsBotanique/OntologieSols.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1338360761240" name="http://www.semanticweb.org/ontologies/2012/4/OntologieMaladies.owl" uri="importsBotanique/OntologieMaladies.owl"/>
+    </group>
+</catalog>

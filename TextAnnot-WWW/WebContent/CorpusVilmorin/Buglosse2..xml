@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Anchusa capensis</taxon>
+        <parent type = "genre">Anchusa</parent>
+        <contenu>
+            <paragraphe>
+                <titre>BUGLOSSE DU CAP</titre>
+                <alinea>
+                    Plante bisannuelle formant une touffe basse de longues feuilles étroites, poilues, rudes au toucher, d'où partent les nombreuses tiges florales très ramifiées. Les (leurs, de forme semblable à celles de la Buglosse d'Italie, sont d'un splendide bleu outremer et leur corolle est centrée de blanc. Elles s'épanouissent successivement du sommet jusqu'à la base de l'inflorescence qui atteint 50 cm.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    coloris bleu d'une grande intensité. Floraison juillet-août-septembre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous sols bien ameublis, à exposition ensoleillée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    1 ) La buglosse du Cap peut être semée en avril, en pépinière et fleurit alors de juillet à septembre la même année.
+                    2) La plante devient cependant plus belle et plus florifère lorsqu'elle est semée en août-septembre, hivernée sous châssis et mise en place en mars. Les fleurs apparaissent alors dès le mois de mai. Pincez les tiges florales pour les amener à se ramifier. Utilisation : la buglosse du Cap donne du relief aux compositions de fleurs annuelles ou vivaces d'allure rustique, auxquelles elle apporte son très joli coloris bleu.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Buglosse du Cap
+            </titre_photo> 
+            <fichier_photo_plante>
+                p263_Buglosse_du_Cap.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

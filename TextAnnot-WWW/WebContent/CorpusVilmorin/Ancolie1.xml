@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Aquilegia alpina</taxon>
+        <parent type = "genre">Aquilegia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ANCOLIE DES ALPES</titre>
+                <alinea>
+                    Touffe de 60 cm de hauteur. Feuillage ample, légèrement pruineux et bleuté. Les fleurs sont grandes, dotées d'éperons recourbés. Cette espèce craint le calcaire.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Ancolie des Alpes
+            </titre_photo> 
+            <fichier_photo_plante>
+                p249_Ancolie_des_Alpes.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

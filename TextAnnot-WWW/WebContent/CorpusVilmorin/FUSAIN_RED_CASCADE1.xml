@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Euonymus europaeus 'Red Cascade' </taxon>
+    <parent type="genre">Euonymus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>FUSAIN RED CASCADE</titre>
+        <alinea>Forme arrondie, branches retombantes. Ces feuilles deviennent rouges brique en automne. Les fruits roses et orange en forme typique de bonnet d'évêque sont très décoratifs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Fusain 'Red cascade', fruits</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

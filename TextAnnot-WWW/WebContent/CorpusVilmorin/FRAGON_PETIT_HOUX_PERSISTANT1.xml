@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Danae racemosa</taxon>
+    <parent type="genre">Danae racemosa</parent>
+    <contenu>
+      <paragraphe>
+        <titre>FRAGON PETIT HOUX PERSISTANT</titre>
+        <alinea>Laurier d'Alexandrie. Fruits en septembre-octobre. Hauteur 0,50 à 1 m. Touffe érigée, ramifiée, à rameaux grêles. Fausses feuilles lancéolées, pointues, d'un beau vert foncé brillant. Ce sont en réalité des "cladodes", c'est-à-dire des tiges modifiées aplaties. Les fleurs, insignifiantes, sont suivies de baies rouges qui ressortent bien sur le fond sombre du feuillage. La plante est utilisée en sous-bois, en terrain frais, pas ou peu calcaire. Les branches coupées, surtout accompagnées de fruits, sont très appréciées en art floral.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Fragon</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

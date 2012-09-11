@@ -1,0 +1,399 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.owl-ontologies.com/OntologieExposition.owl#"
+     xml:base="http://www.owl-ontologies.com/OntologieExposition.owl"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+     xmlns:xsp="http://www.owl-ontologies.com/2005/08/07/xsp.owl#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://www.owl-ontologies.com/OntologieExposition.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#accepte -->
+
+    <owl:ObjectProperty rdf:about="#accepte">
+        <rdfs:label xml:lang="fr">accepte</rdfs:label>
+        <rdfs:range rdf:resource="#FacteurClimatique"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#craint -->
+
+    <owl:ObjectProperty rdf:about="#craint">
+        <rdfs:label xml:lang="fr">craint</rdfs:label>
+        <rdfs:range rdf:resource="#FacteurClimatique"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#doitEtreCultiveeEn -->
+
+    <owl:ObjectProperty rdf:about="#doitEtreCultiveeEn">
+        <rdfs:label xml:lang="fr">doit être cultivée en</rdfs:label>
+        <rdfs:range rdf:resource="#Emplacement"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#doitEtreExpose -->
+
+    <owl:ObjectProperty rdf:about="#doitEtreExpose">
+        <rdfs:label xml:lang="fr">doit être exposé</rdfs:label>
+        <rdfs:range rdf:resource="#Exposition"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#estAbriteDe -->
+
+    <owl:ObjectProperty rdf:about="#estAbriteDe">
+        <rdfs:label xml:lang="fr">doit être protégé de</rdfs:label>
+        <rdfs:label xml:lang="fr">est à l&#39;abri de</rdfs:label>
+        <rdfs:range rdf:resource="#FacteurClimatique"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#resisteA -->
+
+    <owl:ObjectProperty rdf:about="#resisteA">
+        <rdfs:label xml:lang="fr">résiste à</rdfs:label>
+        <rdfs:range rdf:resource="#FacteurClimatique"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#supporte -->
+
+    <owl:ObjectProperty rdf:about="#supporte">
+        <rdfs:label xml:lang="fr">supporte</rdfs:label>
+        <rdfs:label xml:lang="fr">tolère</rdfs:label>
+        <rdfs:range rdf:resource="#FacteurClimatique"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#AirMarin -->
+
+    <owl:Class rdf:about="#AirMarin">
+        <rdfs:label xml:lang="fr">air marin</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FacteurClimatique"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#CourantAir -->
+
+    <owl:Class rdf:about="#CourantAir">
+        <rdfs:label xml:lang="fr">courant d&#39;air</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FacteurClimatique"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#Embrun -->
+
+    <owl:Class rdf:about="#Embrun">
+        <rdfs:label xml:lang="fr">embrun</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FacteurClimatique"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#Emplacement -->
+
+    <owl:Class rdf:about="#Emplacement">
+        <rdfs:label xml:lang="fr">emplacement</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FacteurEnvironnemental"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#EnAppartement -->
+
+    <owl:Class rdf:about="#EnAppartement">
+        <rdfs:label xml:lang="fr">en appartement</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#Interieur"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#Exposition -->
+
+    <owl:Class rdf:about="#Exposition">
+        <rdfs:label xml:lang="fr">exposition</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FacteurEnvironnemental"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#ExpositionIntensiteLumiere -->
+
+    <owl:Class rdf:about="#ExpositionIntensiteLumiere">
+        <rdfs:label xml:lang="fr">intensité de la lumière</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#Exposition"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#ExpositionIntensiteOmbre -->
+
+    <owl:Class rdf:about="#ExpositionIntensiteOmbre">
+        <rdfs:label xml:lang="fr">intensité à l&#39;ombre</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#Exposition"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#ExpositionIntensiteSoleil -->
+
+    <owl:Class rdf:about="#ExpositionIntensiteSoleil">
+        <rdfs:label xml:lang="fr">intensité au soleil</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#Exposition"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#ExpositionLumiere -->
+
+    <owl:Class rdf:about="#ExpositionLumiere">
+        <rdfs:label xml:lang="fr">lumière</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#ExpositionIntensiteLumiere"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#ExpositionLumiereDiffuse -->
+
+    <owl:Class rdf:about="#ExpositionLumiereDiffuse">
+        <rdfs:label xml:lang="fr">lumière diffuse</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#ExpositionIntensiteLumiere"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#ExpositionLumiereForte -->
+
+    <owl:Class rdf:about="#ExpositionLumiereForte">
+        <rdfs:label xml:lang="fr">lumière forte</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#ExpositionIntensiteLumiere"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#ExpositionLumiereTamisee -->
+
+    <owl:Class rdf:about="#ExpositionLumiereTamisee">
+        <rdfs:label xml:lang="fr">lumière tamisée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#ExpositionIntensiteLumiere"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#ExpositionMiOmbre -->
+
+    <owl:Class rdf:about="#ExpositionMiOmbre">
+        <rdfs:label xml:lang="fr">mi-ombragé</rdfs:label>
+        <rdfs:label xml:lang="fr">mi-ombre</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#ExpositionIntensiteOmbre"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#ExpositionOmbre -->
+
+    <owl:Class rdf:about="#ExpositionOmbre">
+        <rdfs:label xml:lang="fr">ombragé</rdfs:label>
+        <rdfs:label xml:lang="fr">ombre</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#ExpositionIntensiteOmbre"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#ExpositionOmbrePartielle -->
+
+    <owl:Class rdf:about="#ExpositionOmbrePartielle">
+        <rdfs:label xml:lang="fr">ombre partielle</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#ExpositionIntensiteOmbre"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#ExpositionPleinSoleil -->
+
+    <owl:Class rdf:about="#ExpositionPleinSoleil">
+        <rdfs:label xml:lang="fr">plein soleil</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#ExpositionIntensiteSoleil"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#ExpositionPleineLumiere -->
+
+    <owl:Class rdf:about="#ExpositionPleineLumiere">
+        <rdfs:label xml:lang="fr">pleine lumière</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#ExpositionIntensiteLumiere"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#ExpositionSoleil -->
+
+    <owl:Class rdf:about="#ExpositionSoleil">
+        <rdfs:label xml:lang="fr">ensoleillé</rdfs:label>
+        <rdfs:label xml:lang="fr">soleil</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#ExpositionIntensiteSoleil"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#ExpositionSoleilDirect -->
+
+    <owl:Class rdf:about="#ExpositionSoleilDirect">
+        <rdfs:label xml:lang="fr">soleil direct</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#ExpositionIntensiteSoleil"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#ExpositionSoleilLeger -->
+
+    <owl:Class rdf:about="#ExpositionSoleilLeger">
+        <rdfs:label xml:lang="fr">soleil léger</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#ExpositionIntensiteSoleil"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#ExpositionSoleilNonBrulant -->
+
+    <owl:Class rdf:about="#ExpositionSoleilNonBrulant">
+        <rdfs:label xml:lang="fr">soleil non brûlant</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#ExpositionIntensiteSoleil"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#ExpositionSoleilTamise -->
+
+    <owl:Class rdf:about="#ExpositionSoleilTamise">
+        <rdfs:label xml:lang="fr">soleil tamisé</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#ExpositionIntensiteSoleil"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#Exterieur -->
+
+    <owl:Class rdf:about="#Exterieur">
+        <rdfs:label xml:lang="fr">extérieur</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#Emplacement"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#FacteurClimatique -->
+
+    <owl:Class rdf:about="#FacteurClimatique">
+        <rdfs:label xml:lang="fr">facteur climatique</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FacteurEnvironnemental"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#FacteurEnvironnemental -->
+
+    <owl:Class rdf:about="#FacteurEnvironnemental">
+        <rdfs:label xml:lang="fr">facteur environnemental</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#Gelee -->
+
+    <owl:Class rdf:about="#Gelee">
+        <rdfs:label xml:lang="fr">gelée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FacteurClimatique"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#Interieur -->
+
+    <owl:Class rdf:about="#Interieur">
+        <rdfs:label xml:lang="fr">intérieur</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#Emplacement"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#SousSerre -->
+
+    <owl:Class rdf:about="#SousSerre">
+        <rdfs:label xml:lang="fr">sous serre</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#Emplacement"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieExposition.owl#Vent -->
+
+    <owl:Class rdf:about="#Vent">
+        <rdfs:label xml:lang="fr">vent</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FacteurClimatique"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.2.3.1824) http://owlapi.sourceforge.net -->
+

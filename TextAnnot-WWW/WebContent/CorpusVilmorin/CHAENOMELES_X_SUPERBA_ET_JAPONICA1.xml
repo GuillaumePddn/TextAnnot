@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Chaenomeles x superba et japonica</taxon>
+    <parent type="genre">Chaenomeles</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CHAENOMELES X SUPERBA ET JAPONICA</titre>
+        <alinea>On les classe en deux grandes catégories selon que leur port est étalé ou dressé. Elles ont en commun des branches épineuses, à écorce sombre, de jolies feuilles d'un vert foncé brillant et de magnifiques fleurs en forme de coupe, plus ou moins grandes suivant les variétés, rappelant celles du pommier et apparaissant en avril, avant les  feuilles. Fruits jaunes en octobre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>varietes à port etale Hauteur: 0,50 à 1,50 m. • 'Crimson and Gold' rouge foncé, le bouquet central d'étamines jaune d'or faisant un superbe contraste avec les pétales. • 'Elly Mossel' rouge. • 'Etna' semi-double, rouge orangé. • 'Nicoline' grandes fleurs rouge écarlate à cœur jaune. Ces variétés sont plantées en isolé, sur pelouse ou, mieux, dans la rocaille où leur port étalé et un peu désordonné est particulièrement mis en valeur. 
+		Varietes à port erige Hauteur: 2 à 3 m. • 'Falconnet Charlet' saumon. • 'Nivalis' blanc pur. • 'Umbilicata' rose, etc. Arbustes vigoureux, ils peuvent être traités en isolé, mais aussi constituer des haies magnifiques au moment de leur floraison et, en même temps, défensives. Ils s'intègrent parfaitement aux massifs d'arbustes, dans lesquels leur belle floraison précoce est rehaussée par la proximité d'un forsythia par exemple. Comme les buissons ardents, ils peuvent être palissés contre les murs. Les cognassiers du Japon, appelés parfois à tort "pommiers du Japon", prospèrent en toute bonne terre de jardin, à condition qu'elle ne soit pas trop calcaire, et en situation ensoleillée. Ils supportent la taille qui, logiquement, doit être effectuée après la floraison mais qui peut intervenir en fin d'hiver. Des rameaux coupés portent des boutons floraux et peuvent alors être utilisés pour faire des bouquets qui s'épanouissent rapidement à l'intérieur.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Cognassier_du_Japon</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

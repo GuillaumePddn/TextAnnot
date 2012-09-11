@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Oléaria x scillonensis</taxon>
+    <parent type="genre">Oléaria</parent>
+    <contenu>
+      <paragraphe>
+        <titre>OLEARIA SCILLONENSIS</titre>
+        <alinea> Hauteur: 1 à 1,50m. Arbuste très décoratif, réservé au Midi et au littoral atlantique jusqu'en Bretagne. Petites feuilles vert foncé à revers blanc. En mai-juin, les petites fleurs blanches en forme de marguerites sont si nombreuses qu'elles forment comme des manchons autour des branches. Arbuste prospérant en tous terrains, à planter en isolé.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Oléaria</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

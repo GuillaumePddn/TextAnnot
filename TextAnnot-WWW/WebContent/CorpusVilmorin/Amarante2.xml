@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Amaranthus caudatus</taxon>
+        <parent type = "genre">Amaranthus</parent>
+        <contenu>
+            <paragraphe>
+                <titre>AMARANTE QUEUE DE RENARD</titre>
+                <alinea>
+                    ESPÈCE À FLEURS
+                    Hauteur 70 cm à 1 m. Tige herbacée, feuilles larges, vert clair. Fleurs très petites, en longs épis très serrés, de couleur amarante, groupés en panache retombant. Floraison en août-septembre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    originalité et couleur des longues inflorescences flexueuses et retombantes, en août-septembre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols sains, même calcaires, mais ensoleillés.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    facile.
+                    - semez en avril-mai en place en situation abritée, ou en pépinière,
+                    - compte tenu du développement de la plante, éclaircissez ou repiquez à 60-80 cm et arrosez copieusement pendant l'été.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     en groupe de trois ou cinq, ou en isolé.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Amarante queue de renard
+            </titre_photo> 
+            <fichier_photo_plante>
+                p248_Amarante_queue_de_renard.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+            </description>
+</fiche>

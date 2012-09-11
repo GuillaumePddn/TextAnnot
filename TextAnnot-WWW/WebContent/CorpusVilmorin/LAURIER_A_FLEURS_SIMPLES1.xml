@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Nerium oleander</taxon>
+    <parent type="genre">Nerium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>À FLEURS SIMPLES</titre>
+        <alinea>• 'Emile Sahut' rouge velouté. • 'Otalia' rouge vif. • 'Minouche' rose lumineux. • 'Tito Poggi' abricot.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Laurier rose à fleurs simples, roses</titre_photo>
+        <fichier_photo_plante>p460_Laurier_rose_a_fleurs_simples,_roses.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

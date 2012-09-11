@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Phlox de Drummond nain</taxon>
+    <parent type="genre">Phlox</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PHLOX DE DRUMMOND NAIN</titre>
+        <alinea>Dans cette race, haute de 15 à 20 cm, les plantes ont un port compact. Les fleurs se présentent de la même façon, sont plus petites, mais couvrent davantage le feuillage; les coloris sont moins nombreux mais plus brillants.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>• Phlox de Drummond nain 'Beauté'. Forme nettement améliorée en ce qui concerne la grandeur, la forme bien ronde de la fleur et la richesse des coloris (rose, saumon, écarlate, etc.). Son port est identique à celui du phlox nain ordinaire mais sa floraison est beaucoup plus abondante et plus régulière.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>richesse des coloris. Plante annuelle de culture très facile. Longue durée de la floraison.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols légers, moyennement ensoleillés. Supporte le climat maritime.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Souffrant du repiquage, les Phlox annuels gagnent à être semés en place, en avril-mai, puis éclaircis à 20 cm de distance. - Pour obtenir une floraison plus précoce, vous pouvez également semer à raison de trois graines par godet de 6 à 8 cm (godets de tourbe de préférence), sous châssis, en fin mars-avril. Vous ne conserverez, à la plantation, que le plus beau sujet de chaque potée. - En cas de semis en pépinière, repiquez les plants très jeunes, également en pépinière ou, mieux, en godets avant de les mettre en place fin mai. - Arrosez généreusement pendant les cha- leurs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>excellentes plantes annuelles, rustiques, de culture facile, pour massifs, bordures (variétés naines). Culture en pots possible.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Phlox de Drummond nain 'Beauté'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

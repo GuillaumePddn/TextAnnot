@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Freesia hybrida</taxon> 
+        <parent type = "genre">Freesia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Freesia Bulbeuse</titre>
+                <alinea>
+                Plante vivace de 25 à 30 cm, à feuilles linéaires, légères et fines, engainantes à la base, à hampe florale très souple supportant une petite grappe de fleurs tubuleuses, odorantes, aux coloris variés.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                fleurs coupées très durables et délicieusement parfumées.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                sols légers un peu sableux, riches, à exposition ensoleillée mais abritée.     
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                 - La méthode la plus facile consiste à planter les bulbes en pleine terre au mois d'avril. Enterrez-les à 2 ou 3 cm de profondeur.
+                 - La floraison aura lieu de juillet à septembre.
+                 - Dans les régions à climat très doux, il est possible de planter en pleine terre en août-septembre. La floraison a lieu en avril-mai.
+                 - Ailleurs, pour obtenir une floraison printanière, plantez les bulbes à l'automne, en pots. Regroupez-les à raison de six à huit bulbes par pot que vous enterrerez dans un endroit frais du jardin. Rentrez-les dès la première gelée dans un local clair, aéré, à l'abri du gel mais où la température reste basse. Le freesia est en effet très sensible à la température et un excès de chaleur nuit à la floraison. Arrosez modérément au fur et à mesure du développement de la végétation. La floraison a lieu de fin janvier à avril.   
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

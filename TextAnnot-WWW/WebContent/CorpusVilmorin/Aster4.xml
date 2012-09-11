@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Aster novi-belgii</taxon>
+        <parent type = "genre">Aster</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ASTER NOVI-BELGII</titre>
+                <alinea>
+                    La souche est plus ou moins traçante, les feuilles sont étroites, lisses, vert foncé et lustrées.
+                    Hauteur : 89 à 140 cm.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    floraison s'étalant de fin août à octobre-novembre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous sols, toutes expositions. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    les asters, plantes vivaces très rustiques, poussent dans tous les terrains et à toutes les expositions. Cependant, leur forte végétation finit par épuiser la terre où ils sont plantés. 11 sera donc bon de les renouveler leur terre ; on en profitera pour changer de place tous les trois ans ou de diviser les touffes devenues trop fortes. 
+                    1) Les asters se multiplient, en effet, le plus souvent par éclats de touffes ou de drageons indifféremment à l'automne ou au printemps.
+                    2) Le semis, bien qu'il soit facile, n'est utilisé que pour la recherche de variétés nouvelles.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     les aster d'automne sont parmi les meilleures plantes vivaces pour les décors d'arrière-saison en compagnie des anémones du Japon, soleils vivaces, rudbeckias, verges d'or, etc. On en fait également de magnifiques bouquets d'excellente tenue.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Aster novi-belgii rouge
+            </titre_photo> 
+            <fichier_photo_plante>
+                p256_Aster_novi_belgii_rouge.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

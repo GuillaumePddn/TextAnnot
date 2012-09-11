@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Ilex Crenata 'Golden Gem'</taxon>
+    <parent type="genre">Ilex</parent>
+    <contenu>
+      <paragraphe>
+        <titre>HOUX NAIN DORE</titre>
+        <alinea> Hauteur 0,80 à 1 m. Petite plante à végétation compacte, à feuillage doré. À planter en isolé, par exemple dans la rocaille, en plein soleil.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Houx nain doré</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

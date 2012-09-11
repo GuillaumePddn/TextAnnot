@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Abélia</taxon>
+    <parent type="genre">Abelia x grandiflora</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ABELIA SEMI PERSISTANT</titre>
+        <alinea>• Fleurit de juillet à octobre • Presque rustique Hauteur 1,20 à 1,50 m. Charmant petit arbuste à port élégant, à petites feuilles vert foncé. La floraison se produit à l'extrémité des pousses de l'année. Les fleurs, de couleur blanc rosé, apparaissent en abondance et sans interruption à partir de juillet et bien souvent jusqu'aux gelées. L'Abelia préfère les climats doux, mais il fleurit très bien en région parisienne, en sol sain et en situation abritée. Taillez court en mars si nécessaire. Plantez en isolé ou au premier rang de massif d'arbustes.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>2 variétés sont à signaler • 'Francis Masson' Feuillage marginé de jaune, donnant un aspect doré à la plante. • 'Prostrata' Forme étalée, compacte. Feuillage pourpré à l'automne. Bonne plante de rocaille ou de talus. Couvre-sol.</alinea>
+      </paragraphe>
+    </contenu>
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Abélia nain</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Campanula médium</taxon>
+        <parent type = "genre">Campanula</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CAMPANULE A GROSSE FLEUR, BISANNUELLE</titre>
+                <alinea>
+                    Plante velue, à tiges ramifiées, de port pyramidal, haute de 60 à 80 cm. Feuilles de la base en rosette. Fleurs tubuleuses, en cloches penchées, de 4 à 5 cm de long, en grappes aux extrémités des rameaux. Elles apparaissent de mai à juillet. Violettes dans le type, elles sont blanches, lilas et roses dans les variétés simples ou doubles. Sa forme Campanula calycanthema présente un calice largement accru et transformé en une large collerette très évasée, de même coloration que la corolle. Elle est de plus longue floraison que les campanules à fleurs simples et présente les mêmes coloris.
+                    Variété : • Campanule à grosse fleur double variée. Hauteur 70 cm.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    Intérêt : production de fleurs coupées de mai à juillet.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous sols même calcaires. Résiste au climat maritime.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    - Semez en pépinière en mai-juin. 
+                    - Repiquez en pépinière. 
+                    - Mettez en place à l'automne ou au printemps à 40 ou 50 cm de distance.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     production de fleurs coupées. Les campanules bisannuelles peuvent être aussi utilisées en plates-bandes et massifs mais leur floraison est de courte durée.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Campanule à grosse fleur double
+            </titre_photo> 
+            <fichier_photo_plante>
+                p264_Campanule_a_grosse_fleur double.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

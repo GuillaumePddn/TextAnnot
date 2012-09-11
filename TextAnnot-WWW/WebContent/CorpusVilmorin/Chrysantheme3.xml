@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Chrysanthemum segetum</taxon>    
+    <parent type = "genre">Chrysanthemum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CHRYSANTHEMES DES MOISSONS, ANNUELLE</titre>
+                <alinea>
+                Plantes buissonnantes, ramifiées, à fleurs plates de forme semblable à celle de la marguerite des prés.
+                Tige dressée, ramifiée, haute de 40 à 50 cm. Fleurs terminales en capitules entièrement jaune d'or dans le type. La floraison, abondante, se prolonge de juin à septembre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                    facilité de culture. Floraison abondante aux couleurs vives. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                    tous terrains à exposition ensoleillée. Supportent la sécheresse et le climat maritime.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea> 
+                    semez de mars à mai en pépinière ou en place et mettez en place ou éclaircissez à 25-30 cm d'écartement. Ce sont des plantes peu exigeantes, de développement rapide.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Utilisation</titre>
+                <alinea> 
+                    massifs, fleurs coupées, rocailles, talus
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Chrysanthème des moissons varié
+            </titre_photo> 
+            <fichier_photo_plante>
+                p270_Chrysantheme_des_moissons_varié.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

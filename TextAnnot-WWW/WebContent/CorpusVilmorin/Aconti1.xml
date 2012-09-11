@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Aconitum napellus</taxon>    
+    <parent type = "genre">Aconitum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ACONIT, VIVACE</titre>
+                <alinea>Plante haute de 1 m à 1,20 m formant une grande touffe de tiges raides à feuilles très découpées et terminées par un long épi de grandes fleurs.</alinea>
+            </paragraphe>
+             <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>floraison de mai à août. Fleurs d'un très beau bleu, de forme particulière évoquant celle d'un casque.</alinea>
+            </paragraphe>
+             <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>sols frais, profonds, à exposition mi-ombragée ou en sous-bois clairs.</alinea>
+            </paragraphe>
+             <paragraphe>
+               <titre>Culture</titre>
+                <alinea>facile. Multiplication par éclats de touffe, au printemps de préférence.
+                    - La multiplication par semis se fait en octobre-novembre, en pots remplis de terre sableuse et placés sous châssis froid ou complètement enterrés pour la stratification des graines qui ne germent qu'au printemps.
+                    - Les jeunes plants seront repiqués en pépinière et la mise en place se fera à l'automne ou au printemps suivant, à 40 ou 50 cm de distance.</alinea>
+            </paragraphe>
+             <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>en plates-bandes de plantes vivaces, cette espèce apporte une note de bleu très particulière. Attention : la plante est vénéneuse dans toutes ses parties et notamment par ses racines.</alinea>
+             </paragraphe>
+          </contenu>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Spiraea x bumalda</taxon>
+    <parent type="genre">Spiraea</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SPIREE GOLDFLAME FLORAISON ESTIVALE</titre>
+        <alinea>Spiraea x bumalda 'Goldflame' Hauteur 60 à 80 cm. Les feuilles sont le principal attrait de cette variété du printemps à l'automne, elles changent de coloris, passant du jaune bronzé au jaune, à l'orange puis au rouge. Fleurs roses en été. Isolé, bordures ou haies basses.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Spirée 'Goldflame'</titre_photo>
+        <fichier_photo_plante>p472_Spiree__Goldflame_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

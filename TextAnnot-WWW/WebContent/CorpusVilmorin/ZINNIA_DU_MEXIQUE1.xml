@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Zinnia angustifolia</taxon>
+    <parent type="genre">Zinnia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ZINNIA DU MEXIQUE</titre>
+        <alinea>Les zinnias du Mexique sont des plantes annuelles, assez voisines du zinnia élégant, mais à tiges plus ou moins étalées, hautes de 30 à 40 cm. Les fleurs jaune orangé, tachées de brun dans le type, sont petites, nombreu- ses, assez voisines de celles de l'œillet d'Inde 'Légion d'Honneur'. Divers croisements ont permis l'obtention de races hybrides remarquables par la diversité des coloris, souvent répartis en deux ou trois zones concentriques dans les mêmes fleurs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>coloris originaux et contrastés.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols sains, à exposition très chaude.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>celle-ci se faisant à l'obscurité, prenez soin de bien recouvrir la graine lors du semis. 1) Semez en mars sous abri, repiquez sous châssis en avril, mettez en place en mai, à 35/40 cm de distance pour les variétés hautes et à 25 cm pour les variétés basses. Floraison de juin à octobre. 2) Semez en fin mars-avril sous châssis froid ou en pépinière bien exposée, mettez en place fin mai-juin. Floraison de juillet à octobre. Arrosez régulièrement en cours de culture et supprimez les fleurs fanées.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>toutes les variétés de zinnias se prêtent à la plantation des massifs, taches fleuries, bordures... Les variétés hautes fournissent, en outre, de magnifiques fleurs à couper, d'excellente tenue en vase.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Zinnia du Mexique</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Un massif tout en camaïeu de roses avec ces zinnias mêlés aux cléomes et aux cosmos.</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Laurus nobilis</taxon>
+    <parent type="genre">Laurus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LAURIER SAUCE PERSISTANT</titre>
+        <alinea>• Moyennement rustique Hauteur 3 à 4 m et plus. \e laurier d'Apollon (c'est son autre nom) est, comme le laurier-rose, une plante du Midi de la France où il peut atteindre les dimensions d'un arbre. Touffu dès la base, à branches érigées, à port pyramidal ou conique. Ses feuilles vert foncé, à bord ondulé, aromatiques, sont bien connues pour leur usage culinaire. Sous climats doux, comme il supporte bien la taille, le laurier d'Apollon forme des haies ou des brise-vent très efficaces. Ailleurs, il est planté en isolé, à exposition chaude et abritée, ce qui ne l'empêche pas de geler lors des hivers rigoureux ; il repart alors de la souche. Une autre solution est de le cultiver en pot ou en bac, ce qui est le cas des sujets taillés en cône ou en boule, sur petite tige. Ceux-ci servent à l'ornementation des terrasses en été et doivent être rentrés en octobre dans un local clair, non chauffé, à l'abri du gel. Le laurier d'Apollon pousse en toute terre de jardin, de préférence légère et perméable.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Laurier sauce</titre_photo>
+        <fichier_photo_plante>p461_Laurier_sauce.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

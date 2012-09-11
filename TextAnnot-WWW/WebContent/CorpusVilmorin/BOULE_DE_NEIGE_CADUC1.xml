@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Viburnum opulus 'Roseum'</taxon>
+    <parent type="genre">Viburnum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BOULE DE NEIGE CADUC</titre>
+        <alinea>• Fleurit en mai-juin Hauteur 3 à 4 m. Arbuste vigoureux, de port arrondi, à larges feuilles trilobées. Les fleurs, stériles, sont groupées en inflorescences sphériques pendantes, blanc verdâtre puis blanc pur en plein épanouissement. L'arbuste, qui en est abondamment garni, est alors très spectaculaire. Les fleurs se teintent ensuite de rose. Le feuillage rougit en automne. Magnifique sujet à isoler, de préférence à mi-ombre. Il a aussi sa place à l'intérieur des massifs d'arbustes. La boule de neige prospère en toute bonne terre de jardin. Taillez aussitôt après la floraison.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Boule de neige</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

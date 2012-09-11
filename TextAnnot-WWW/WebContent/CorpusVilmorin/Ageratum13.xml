@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Agératum 'Roi des bleus'</taxon>    
+    <parent type = "espece">Ageratum houstonianum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Agératum 'Roi des bleus'</titre>
+                <alinea>
+                     Très grosses fleurs bleu-violet, hauteur 25 à 30 cm.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

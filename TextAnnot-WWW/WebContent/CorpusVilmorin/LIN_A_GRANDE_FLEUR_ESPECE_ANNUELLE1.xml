@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Linum grandiflorum</taxon>
+    <parent type="genre">Linum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LIN A GRANDE FLEUR ESPÈCE ANNUELLE</titre>
+        <alinea> Espèce de 30 cm à 40 cm de hauteur, à tiges ramifiées dès la base, à rameaux dressés, en touffe. Feuilles lancéolées, bleu-vert. Nombreuses fleurs larges, en forme de coupe, bien ouvertes, rouge éclatant avec une tache fauve au centre ; floraison précoce et soutenue de mai à octobre suivant l'époque du semis.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>coloris éclatant. Facilité de culture.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>toutes terres. Toutes expositions. Supporte le climat maritime.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>facile. Semez clair, en place, d'avril à juin.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>effet de masse dans massifs, rocailles. Éventuellement potées fleuries.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>• Lin à grande fleur rouge. • Lin 'Charmer Salmon'. Pétales couleur saumon à cœur rouge.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lin 'Charmer Salmon'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

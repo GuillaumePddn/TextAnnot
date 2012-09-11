@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Armeria pseudarmeria</taxon>
+        <parent type = "genre">Armeria</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ARMERIA PSEUDARMERIA</titre>
+                <alinea>
+                    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    les coussins de 30 cm de hauteur sont plus lâches. De juin à août, les fleurs apparaissent en gros pompons roses, blancs ou rouges pour la variété 'Bees Ruby'.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    ordinaire mais pas trop sec.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    identique à Armeria juniperifolia.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     bordures de massif, fleurs coupées.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Armeria pseudarmeria
+            </titre_photo> 
+            <fichier_photo_plante>
+                p253_Armeria_pseudarmeria.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

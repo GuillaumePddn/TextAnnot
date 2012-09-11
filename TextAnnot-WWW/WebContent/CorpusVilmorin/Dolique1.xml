@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Dolichos lablab</taxon> 
+        <parent type = "genre">Lablab</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Dolique annuelle</titre>
+                <alinea>
+                Le dolique d'Egypte est une plante à tiges grimpantes, volubiles, atteignant 3 mètres, assez semblable au haricot à rames. l£s fleurs, en septembre-octobre, sont blanches ou violettes, en grappes lâches sur de longs pédoncules. Les gousses, pendantes, longues de 5 à 6 cm, sont plates, en forme de sabre et de coloris pourpre violet.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                croissance rapide.
+                Aspect décoratif des fleurs, des gousses et du feuillage.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                tous sols, à exposition chaude.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                semez en avril sous abri, en godets, en plaçant deux graines par godet ; mettez en place en mai contre un treillage ou un mur que la plante couvrira rapidement de son opulent feuillage.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                garniture de tonnelles, murs et treillages dans le Midi. Compositions florales originales avec des branches garnies de gousses.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

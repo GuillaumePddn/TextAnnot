@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Punica granatum</taxon>
+    <parent type="famille">Punicacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GRENADIER CADUC</titre>
+        <alinea>Fleurit en été. Peu rustique. Hauteur: 3 à 4m. Arbuste vigoureux, à rameaux souvent épineux et au joli feuillage vert brillant. Les pousses printanières sont d'un coloris cuivré. En été, apparaissent de nombreuses fleurs d'un rouge orangé éclatant, à pétales froissés, suivies de fruits jaune orangé comestibles, les grenades. Il en existe plusieurs variétés à fleurs doubles, blanches, jaune clair, panachées 'legrellia' ou rouges 'plena'. Cette dernière est certainement la plus belle et la plus répandue, à titre ornemental.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

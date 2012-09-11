@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Deutzia x hybrida 'Perle Rose'</taxon>
+    <parent type="genre">Deutzia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>DEUTZIA PERLE ROSE</titre>
+        <alinea> Hauteur 1,50 à 1,80 m. Port érigé. Fleurs rose vif en grappe en mai-juin. Les deutzias, très abondamment plantés dans les jardins parce que d'une culture facile, prospèrent dans tous les sols, frais de préférence, en situation ensoleillée. Il convient de les tailler après la floraison, en supprimant à la base une partie des branches les plus anciennes, ce qui permet d'aérer et de rajeunir les touffes sans compromettre la floraison de l'année suivante.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+       <photo_plante>
+        <titre_photo>Deutzia__Perle_Rose_</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

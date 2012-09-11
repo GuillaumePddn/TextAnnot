@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Phlox</taxon>
+    <parent type="famille">Polémomiacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PHLOX</titre>
+        <alinea>Ce nom groupe des espèces annuelles et d'autres, vivaces, de port différent, mais présentant en commun des inflorescences en corymbe.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

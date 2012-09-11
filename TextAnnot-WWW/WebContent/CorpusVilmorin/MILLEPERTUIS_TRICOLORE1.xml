@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Hypericum x moserianum</taxon>
+    <parent type="genre">Hypericum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MILLEPERTUIS TRICOLORE</titre>
+        <alinea>Hypericum x moserianum 'Tricolor' Hauteur ,50m. Feuillage semi-persistant vert panaché de blanc crème, de rose et de rouge clair. Floraison jaune de juillet à septembre.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Millepertuis</titre_photo>
+        <fichier_photo_plante>p465_Millepertuis_tricolore.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

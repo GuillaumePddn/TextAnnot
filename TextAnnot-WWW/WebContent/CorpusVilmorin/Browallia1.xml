@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Browallia speciosa</taxon>
+        <parent type = "genre">Browallia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>BROWALLIA, ANNUELLE</titre>
+                <alinea>
+                    Plante à très grande fleur bleue ou clochette marine ne dépassant pas 30 cm, à port légèrement pyramidal, au feuillage vert foncé. Grandes fleurs bleu pur à large gorge blanche. Très belle plante ornementale.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    sa floraison bleu intense, de juin à octobre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    bonnes terres légères, à exposition ensoleillée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    1) Semez en mars-avril sous abri, repiquez de même et mettez en place fin mai à exposition chaude et à 30 cm d'écartement. Il est possible de cultiver le browallia en pot.
+                    2) Des boutures faites à l'automne en serre permettent d'obtenir une floraison plus précoce au printemps.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     plates-bandes et bordures de fleurs annuelles à floraison estivale où la couleur bleue du browallia fait merveille.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Browallia
+            </titre_photo> 
+            <fichier_photo_plante>
+                p263_Browallia.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

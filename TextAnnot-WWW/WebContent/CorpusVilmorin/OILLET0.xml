@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Dianthus</taxon>
+    <parent type="famille">Caryophyllacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ŒILLET</titre>
+        <alinea>Ce genre, extrêmement étendu, comprend un très grand nombre d'espèces botaniques et de variétés horticoles résultant d'hybridations successives entre les différentes races et variétés. De toutes tailles et de toutes formes, leur emploi est très varié. Nous distinguerons Les œillets des fleuristes, vivaces et annuels. Les œillets mignardise. Les œillets nains ou de rocaille. Les œillets de Chine. Les œillets de poète, simples et doubles.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

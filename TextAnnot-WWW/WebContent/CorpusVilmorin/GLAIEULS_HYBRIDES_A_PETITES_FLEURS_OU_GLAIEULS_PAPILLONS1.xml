@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Glaïeul papillon</taxon>
+    <parent type="genre">Gladiolus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GLAÏEULS HYBRIDES A PETITES FLEURS OU GLAÏEULS PAPILLONS</titre>
+        <alinea>Les bulbes de ces glaïeuls ne dépassent guère le calibre 12 (circonférence en cm). Ils produisent des hampes florales de 80 cm à 1 m, garnies de fleurons aux coloris souvent variés.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>originalité et élégance des fleurs, de hauteur moyenne.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>mêmes exigences que les glaïeuls à grandes fleurs. Terres légères et fraîches, fumées l'année précédente. Exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>identique à celle des glaïeuls hybrides.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>fleurs coupées, massifs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Glaïeul hybride violet pourpre foncé</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Glaïeul hybride jaune</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Glaïeul papillon rouge bordé de blanc</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Glaïeul papillon rose saumon et jaune, gorge rouge</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

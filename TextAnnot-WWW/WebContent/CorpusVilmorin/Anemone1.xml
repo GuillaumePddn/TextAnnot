@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Anemone Manda</taxon>
+        <parent type = "genre">Anemone</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ANEMONE DE GRECE</titre>
+                <alinea>
+                    Souche tubéreuse appelée "patte". Plante basse de 12 à 15 cm de hauteur. Fleurs de 3 à 5 cm de diamètre, étoilées comme des marguerites.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    floraison printanière (mars-avril). Coloris variés, lumineux et très frais.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols riches en humus.
+                    Situation ensoleillée ou mi-ombragée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    facile.
+                    Plantation des "pattes" à l'automne (de septembre à décembre) à une profondeur de 5 à 7 cm et à environ 15 cm d'écartement. Vous avez intérêt à laisser cette culture en place car ce n'est qu'après deux ou trois ans qu'elle produira son maximum d'effet.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                    en groupes, en sous-bois clair, en racailles, en pots ou en jardinières et de préférence en mélange. 
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Anémone de Grèce
+            </titre_photo> 
+            <fichier_photo_plante>
+                p250_Anemone_de_Grece.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

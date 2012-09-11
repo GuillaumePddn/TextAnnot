@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Berberis julianae</taxon>
+    <parent type="genre">Berberis</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BERBERIS JULIANAE</titre>
+        <alinea> Hauteur 2 à 3 m. Espèce vigoureuse à port érigé, dont le feuillage vert foncé dessus, plus pâle au revers, est joliment coloré de rouge en automne. I.es fruits noirs persistent un peu. À associer en massifs avec d'autres arbustes.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

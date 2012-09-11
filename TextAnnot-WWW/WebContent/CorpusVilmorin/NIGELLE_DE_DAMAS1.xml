@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Nigella damascena</taxon>
+    <parent type="genre">Nigella</parent>
+    <contenu>
+      <paragraphe>
+        <titre>NIGELLE ANNUELLE  NIGELLE DE DAMAS</titre>
+        <alinea> Plante annuelle, en touffe. Tiges droites, ramifiées, de 40 à 50 cm de hauteur ; feuilles finement découpées. En juin-juillet, fleurs bleu clair, entourées d'une collerette extrêmement décorative, très finement laciniée. On cultive surtout ses variétés bleu d'azur, blanche, bleu foncé, rose et rouge.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Nigelle de Damas</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

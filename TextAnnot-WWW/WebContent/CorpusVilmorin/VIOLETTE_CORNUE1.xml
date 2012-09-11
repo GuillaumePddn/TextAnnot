@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">VIOLETTE CORNUE</taxon>
+    <parent type="genre">Viola cornuta</parent>
+    <contenu>
+      <paragraphe>
+        <titre>VIOLETTE CORNUE</titre>
+        <alinea>Vivace. Plante ressemblant à une petite pensée, mais beaucoup plus rustique, produisant toute l'année une floraison extrêmement abondante.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>abondance et durée de la floraison. Plante naine.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez de juillet à septembre en pépinière à bonne exposition, en terre saine et légère. - Repiquez en pépinière. - Mettez en place avec la motte, en automne de préférence ou au printemps, à 25 cm environ de distance. - Floraison de mars à octobre de l'année sui- vante.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>par la régularité de sa végétation et par la durée de sa floraison, la violette cornue est une excellente plante à bordure qui peut aussi être utilisée pour la réalisation de tapis fleuris servant de fond aux tulipes par exemple. Elle s'emploie aussi avantageusement pour décorer rocailles et murets fleuris.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Violette cornue variée</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

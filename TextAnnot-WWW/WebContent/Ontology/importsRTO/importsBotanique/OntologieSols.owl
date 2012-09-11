@@ -1,0 +1,370 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns="http://www.owl-ontologies.com/OntologieSols.owl#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+    xmlns:xsp="http://www.owl-ontologies.com/2005/08/07/xsp.owl#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+    xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xml:base="http://www.owl-ontologies.com/OntologieSols.owl">
+  <owl:Ontology rdf:about="http://www.owl-ontologies.com/OntologieSols.owl"/>
+  <owl:Class rdf:ID="Glaise">
+    <rdfs:label xml:lang="fr">glaiseux</rdfs:label>
+    <rdfs:label xml:lang="fr">glaise</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="TextureSol"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="ComposantRocheux"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Lourd">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="NatureSolConsistance"/>
+    </rdfs:subClassOf>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >sol ayant une forte teneur en argile</rdfs:comment>
+    <rdfs:label xml:lang="fr">lourd</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Fumier">
+    <rdfs:label xml:lang="fr">fumier</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="ComposantOrganique"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Frais">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#NatureSolConsistance"/>
+    </rdfs:subClassOf>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >sol riche en humus</rdfs:comment>
+    <rdfs:label xml:lang="fr">frais</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Basalte">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#TextureSol"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#ComposantRocheux"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">basaltique</rdfs:label>
+    <rdfs:label xml:lang="fr">basalte</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Tourbe">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#ComposantOrganique"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">tourbeux</rdfs:label>
+    <rdfs:label xml:lang="fr">tourbe</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Pauvre">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#NatureSolConsistance"/>
+    </rdfs:subClassOf>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >sol pauvre en humus et compost</rdfs:comment>
+    <rdfs:label xml:lang="fr">pauvre</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Mousse">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#ComposantOrganique"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">mousse</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Potasse">
+    <rdfs:label xml:lang="fr">potasse</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="ComposantChimique"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#ComposantRocheux">
+    <rdfs:label xml:lang="fr">composant rocheux</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="ComposantInorganique"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Acide">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="NatureSolPhysicoChimique"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">acide</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Alcalin">
+    <rdfs:label xml:lang="fr">alcalin</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#NatureSolPhysicoChimique"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="NatureSol">
+    <rdfs:label xml:lang="fr">nature du sol</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="QualiteDuSol"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Argile">
+    <rdfs:label xml:lang="fr">argileux</rdfs:label>
+    <rdfs:label xml:lang="fr">argile</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#TextureSol"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#ComposantRocheux"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Neutre">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#NatureSolPhysicoChimique"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">neutre</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="ArgiloCalcaire">
+    <rdfs:label xml:lang="fr">argilo-calcaire</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#TextureSol"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#ComposantRocheux"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Normal">
+    <rdfs:label xml:lang="fr">ordinaire</rdfs:label>
+    <rdfs:label xml:lang="fr">normal</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#NatureSolConsistance"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#ComposantOrganique">
+    <rdfs:label xml:lang="fr">composant organique</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="ComposantSol"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Fertile">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="QualiteFertilité"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">fertile</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Humus">
+    <rdfs:subClassOf rdf:resource="#ComposantOrganique"/>
+    <rdfs:label xml:lang="fr">humifère</rdfs:label>
+    <rdfs:label xml:lang="fr">humus</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Silice">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#TextureSol"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#ComposantRocheux"/>
+    <rdfs:label xml:lang="fr">siliceux</rdfs:label>
+    <rdfs:label xml:lang="fr">silice</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Limon">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#TextureSol"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#ComposantRocheux"/>
+    <rdfs:label xml:lang="fr">limoneux</rdfs:label>
+    <rdfs:label xml:lang="fr">limon</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Riche">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#NatureSolConsistance"/>
+    </rdfs:subClassOf>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >sol rcihe en humus et compost</rdfs:comment>
+    <rdfs:label xml:lang="fr">riche</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Sable">
+    <rdfs:label xml:lang="fr">sableux</rdfs:label>
+    <rdfs:label xml:lang="fr">sablonneux</rdfs:label>
+    <rdfs:label xml:lang="fr">sable</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#TextureSol"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#ComposantRocheux"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Sec">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="QualiteDrainage"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">sécheresse</rdfs:label>
+    <rdfs:label xml:lang="fr">sec</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="ArgiloLimoneux">
+    <rdfs:label xml:lang="fr">argilo-limoneux</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#TextureSol"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#ComposantRocheux"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Meuble">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >sol riche en humus et mousse de tourbe</rdfs:comment>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#NatureSolConsistance"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">meuble</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Leger">
+    <rdfs:label xml:lang="fr">léger</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#NatureSolConsistance"/>
+    </rdfs:subClassOf>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >sol contenant plutôt du sable</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:about="#NatureSolConsistance">
+    <rdfs:subClassOf rdf:resource="#NatureSol"/>
+    <rdfs:label xml:lang="fr">consistance du sol</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Poreux">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#QualiteDrainage"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">porosité</rdfs:label>
+    <rdfs:label xml:lang="fr">poreux</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Aride">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#QualiteFertilité"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">aride</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Roche">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#TextureSol"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#ComposantRocheux"/>
+    <rdfs:label xml:lang="fr">rocaille</rdfs:label>
+    <rdfs:label xml:lang="fr">pierre</rdfs:label>
+    <rdfs:label xml:lang="fr">cailloux</rdfs:label>
+    <rdfs:label xml:lang="fr">roche</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Nitrate">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#ComposantChimique"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">nitrate</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Salin">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#NatureSolPhysicoChimique"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">salin</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Humide">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#QualiteDrainage"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr"
+    >humidité</rdfs:label>
+    <rdfs:label xml:lang="fr">humide</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Marecage">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#TextureSol"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">marécage</rdfs:label>
+    <rdfs:label xml:lang="fr">marécageux</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Schiste">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#TextureSol"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#ComposantRocheux"/>
+    <rdfs:label xml:lang="fr">schisteux</rdfs:label>
+    <rdfs:label xml:lang="fr">schiste</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#TextureSol">
+    <rdfs:subClassOf rdf:resource="#QualiteDuSol"/>
+    <rdfs:label xml:lang="fr">texture du sol</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Draine">
+    <rdfs:label xml:lang="fr">drainage</rdfs:label>
+    <rdfs:label xml:lang="fr">drainé</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#QualiteDrainage"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#ComposantSol">
+    <rdfs:subClassOf rdf:resource="#QualiteDuSol"/>
+    <rdfs:label xml:lang="fr">composition du sol</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Engrais">
+    <rdfs:subClassOf rdf:resource="#ComposantOrganique"/>
+    <rdfs:label xml:lang="fr">engrais</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Terreau">
+    <rdfs:label xml:lang="fr">terreau</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#ComposantOrganique"/>
+  </owl:Class>
+  <owl:Class rdf:about="#ComposantChimique">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#ComposantInorganique"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">composant chimique</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Calcaire">
+    <rdfs:subClassOf rdf:resource="#TextureSol"/>
+    <rdfs:subClassOf rdf:resource="#ComposantRocheux"/>
+    <rdfs:label xml:lang="fr">calcaire</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Fer">
+    <rdfs:label xml:lang="fr">fer</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#ComposantChimique"/>
+  </owl:Class>
+  <owl:Class rdf:about="#ComposantInorganique">
+    <rdfs:subClassOf rdf:resource="#ComposantSol"/>
+    <rdfs:label xml:lang="fr">composant inorganique</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Sterile">
+    <rdfs:label xml:lang="fr">stérile</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#QualiteFertilité"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Phosphate">
+    <rdfs:label xml:lang="fr">phosphate</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#ComposantChimique"/>
+  </owl:Class>
+  <owl:Class rdf:about="#QualiteFertilité">
+    <rdfs:label xml:lang="fr"
+    >fertilité</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#QualiteDuSol"/>
+  </owl:Class>
+  <owl:Class rdf:about="#NatureSolPhysicoChimique">
+    <rdfs:label xml:lang="fr">nature physico-chimique du sol</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#NatureSol"/>
+  </owl:Class>
+  <owl:Class rdf:about="#QualiteDrainage">
+    <rdfs:subClassOf rdf:resource="#QualiteDuSol"/>
+    <rdfs:label xml:lang="fr"
+    >humidité</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Compost">
+    <rdfs:label xml:lang="fr">compost</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#ComposantOrganique"/>
+  </owl:Class>
+  <owl:ObjectProperty rdf:ID="necessiteElementInorganique">
+    <rdfs:range rdf:resource="#ComposantInorganique"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:ID="necessiteTextureSol">
+    <rdfs:range rdf:resource="#TextureSol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:ID="necessiteDrainage">
+    <rdfs:range rdf:resource="#QualiteDrainage"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:ID="necessiteComposantOrganique">
+    <rdfs:range rdf:resource="#ComposantOrganique"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:ID="necessiteNatureSol">
+    <rdfs:range rdf:resource="#NatureSol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:ID="necessiteFertilite">
+    <rdfs:range rdf:resource="#QualiteFertilité"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:ID="necessiteElementChimique">
+    <rdfs:range rdf:resource="#ComposantChimique"/>
+  </owl:ObjectProperty>
+</rdf:RDF>
+
+<!-- Created with Protege (with OWL Plugin 3.4.4, Build 579)  http://protege.stanford.edu -->

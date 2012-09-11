@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Elsholtzia stauntonii</taxon>
+    <parent type="genre">Elsholtzia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ELSHOLTZIA CADUC</titre>
+        <alinea>• Fleurit d'août à octobre Hauteur 1 à 1,50 m. Petit arbuste formé de branches dressées garnies de feuilles lancéolées, vert clair, odorantes lorsqu'on les froisse. En fin d'été, les branches se terminent par des épis de fleurs lilas pourpré qui durent jusqu'en octobre. Cet arbuste se comporte un peu comme une plante vivace, les branches étant souvent détruites par le gel. Quoi qu'il en soit, il est préférable de le tailler court au printemps, la floraison se produisant sur les pousses de l'année. L'elsholtzia s'intègre bien aux plates-bandes de plantes vivaces, où sa floraison tardive sera toujours appréciée. À planter en plein soleil, en toute bonne terre de jardin.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

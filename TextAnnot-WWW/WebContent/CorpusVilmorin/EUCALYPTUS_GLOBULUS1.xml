@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Eucalyptus globulus</taxon>
+    <parent type="genre">Eucalyptus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>EUCALYPTUS GLOBULUS</titre>
+        <alinea> Hauteur 15 à 20 m et plus. Bel arbre, très vigoureux dont la faible rusticité n'en permet guère la plantation hors du Midi méditerranéen. Feuilles juvéniles arrondies, feuilles adultes longues, pointues et étroites.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

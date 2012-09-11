@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="espece">Dahlia topmix</taxon> 
+        <parent type = "genre">Dahlia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Dahlia nain pour culture en pots ou topmix</titre>
+                <alinea>
+   Race à fleurs simples ne dépassant pas 20 à
+     30 cm de hauteur et pouvant facilement se
+     cultiver en pots ou jardinières. Également
+     utilisée pour bordures et rocailles.             
+                </alinea>
+            </paragraphe>
+
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                 plantation fin avril-mai en terre riche, bien fumée, saine, à exposition chaude et ensoleillée, à 1 m de distance pour les variétés hautes, et de 40 à 60 cm de distance pour les dahlias nains à fleurs simples et les dahlias nains à fleurs doubles. Les soins de culture consistent à pailler le sol quand la reprise est assurée, à arroser souvent et copieusement, à tuteurer les branches sur un tuteur fort et à enlever les fleurs fanées. Les dahlias profitent beaucoup d'apports périodiques d'engrais liquides. La floraison commence en juillet-août et se prolonge abondamment jusqu'aux gelées. L'éboutonnage permet d'obtenir des fleurs plus volumineuses. Il consiste à conserver seulement le bouton terminal de chaque tige et à supprimer ceux de plus petite taille qui sont insérés au-dessous de lui. Avant les gelées, rabattez les plantes à 15 cm de la souche, arrachez-les, puis rentrez les tubercules bien ressuyés, en serre ou dans tout autre local sain, aéré, à l'abri des gelées mais où la température ne doit pas excéder 6 à 8°C. Au début du printemps, les tubercules seront mis "en végétation" dans de la tourbe humide ou sous châssis avant d'être replantés. Si la souche est importante et comporte plusieurs tiges, elle peut être fractionnée pour multiplier le nombre de plantes.
+                 La mise en végétation n'est pas indispensable mais elle hâte la floraison. La multiplication par bouturage est également possible. Mettez en végétation sous abri ou en serre, en février, les tubercules arrachés à l'automne et conservés à l'abri du froid au l'hiver. Ceux-ci émettent alors des bourgeons que vous couperez au-dessous de leur point de naissance et que vous mettrez en godets sous abri. Éclairez le plus possible, pincez au besoin et mettez en place fin mai. Ce moyen de multiplication donne des plantes dont les fleurs répondent exactement aux variétés mères et sont souvent plus belles que celles obtenues par tubercule fractionné.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                les variétés de dahlias à très grosses fleurs, presque monstrueuses, mais de floraison réduite et tardive, sont presque abandonnées. Le goût se porte aujourd'hui sur les variétés à grandes fleurs bien dégagées du feuillage mais aussi sur les variétés à fleurs moyennes et même petites qui fleurissent en abondance. Nous ne nous étendrons pas sur l'emploi très connu du dahlia, sinon pour signaler qu'il faut être attentif à tenir compte, dans les plantations, de la taille des diverses variétés qui est fort différente. Les dahlias nains trouvent un emploi de plus en plus généralisé dans les massifs, en bordures, où toutes les variétés procurent une abondance de belles fleurs à couper, depuis les sortes à grandes fleurs et hautes tiges tout indiquées pour les grands vases, jusqu'aux petits dahlias pompons et mini décoratifs dont on fait des décorations très originales dans les petits vases.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Dahlia topmix
+            </titre_photo> 
+            <fichier_photo_plante>
+                p285_Dahlia_topmix.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

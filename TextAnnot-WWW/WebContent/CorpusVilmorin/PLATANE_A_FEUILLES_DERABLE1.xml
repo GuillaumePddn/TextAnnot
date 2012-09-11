@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Platanus x acerifolia</taxon>
+    <parent type="genre">Platanus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PLATANE A FEUILLES D'ERABLE</titre>
+        <alinea> Hauteur 15 m et plus. Espèce bien connue, à cime arrondie, au tronc puissant dont l'écorce se détache par plaques, lui donnant son aspect caractéristique. Grandes feuilles coriaces, semblables à celles de l'érable plane. Le Platane s'adapte à la sécheresse et aux sols de qualité médiocre. Il apprécie les climats chauds et, pour cette raison, on le rencontre beaucoup dans le Midi. Supportant bien la pollution, la taille, et même les élagages sévères, il est fréquemment utilisé comme arbre d'alignement. C'est de toute façon un arbre pour les parcs et les grands espaces. Du fait de leur décomposition très lente, ne pas chercher à transformer les feuilles mortes en compost.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Platane à feuilles d'érable, fruits</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

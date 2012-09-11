@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Vinca rosea ou Catharanthus roseus</taxon>
+    <parent type="genre">Vinca</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PERVENCHE DE MADAGASCAR</titre>
+        <alinea>Annuelle buissonnante, de 30 à 50 cm de hauteur, à feuilles oblongues et pointues, vert clair brillant dessus, vert mat au revers.  </alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>fleurs à corolle longuement tubuleuse, puis étalée en cinq divisions d'un rose foncé teinté de pourpre au centre chez le type, mais présentant des coloris blancs, rouges ou pourprés chez les variétés actuelles. Elles s'épanouissent successivement de juillet à octobre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sol riche bien drainé, à exposition chaude mais ombragée à mi-ombragée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez sous châssis ou en serre, en mars-avril, à température de 18 à 20°C. - Repiquez en pots de 10 ou 12 cm dans un mélange de 2/3 de terreau de feuilles et 1/3 de tourbe, additionné d'un peu de sable. - Pincez une ou deux fois les pousses afin de provoquer leur ramification.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>massifs, couvre-sol.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pervenche de Madagascar</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

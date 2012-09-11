@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Rudbeckia Speciosa</taxon>
+    <parent type="genre">Rudbeckia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>RUDBECKIA SPECIOSA ESPÈCES VIVACES</titre>
+        <alinea> Plante ramifiée, velue, haute de 50 à 60 cm. Fleurs remarquables, d'un jaune d'or fréquemment orangé à la base des ligules avec un disque allongé pourpre brun ou noir. Le feuillage est étroit et discret.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

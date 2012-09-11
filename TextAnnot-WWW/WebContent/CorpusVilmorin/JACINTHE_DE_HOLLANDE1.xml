@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">JACINTHE DE HOLLANDE</taxon>
+    <parent type="genre">Hyacinthus orientalis</parent>
+    <contenu>
+      <paragraphe>
+        <titre>JACINTHE DE HOLLANDE</titre>
+        <alinea>Gros bulbe, bien arrondi, émettant au centre d'une rosace de feuilles longues une superbe grappe de fleurs, simples ou doubles. Elles présentent toute la gamme des coloris, et des variantes dans la grandeur des fleurs, la forme et la densité des grappes, etc. Les variétés cultivées sont en très grand nombre ; on préfère celles à fleurs simples. Les jacinthes de Hollande sont les plus belles, tant par la grosseur et la perfection des fleurs que par l'intensité des coloris. Elles dégénèrent malheureusement très vite en dehors de leur pays d'origine et, dès la troisième année de culture en France, ne produisent que des grappes réduites, aux coloris fades. Il est donc préférable de renouveler tous les ans l'approvisionnement en oignons de Hollande, pour être assuré d'une belle floraison. Ne plantez que des bulbes d'un calibre (circonférence) au moins égal à 15-16 cm ; les oignons de taille inférieure, parfois proposés à prix réduit, ne donnent qu'une floraison décevante.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>floraison printanière.Jolis coloris. Parfum délicat.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terres légères perméables, bien ameublies. Toutes expositions.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Plantez en octobre-novembre en enterrant les bulbes de 8 à 10 cm et à 15 ou 20 cm d'écartement. - En climat très rude, couvrez de litière pour abriter des grands froids. - La floraison a lieu en mars-avril. Après celle-ci, attendre le jaunissement et le flétrissement des feuilles pour arracher les oignons qui seront conservés au sec dans l'attente de leur replantation à l'automne suivant. - La floraison de seconde année sera généralement moins belle que la première, mais encore très acceptable pour la garniture des massifs. - La culture en pot est possible.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>garniture de vasques, jardinières, massifs. Plantez les jacinthes à proximité de la maison ou d'une allée pour apprécier la beauté des fleurs et la délicatesse du parfum.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Jacinthe 'City of Haarlem'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

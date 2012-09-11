@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Acer Negundo</taxon>
+    <parent type="genre">Acer</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ERABLE PANACHE CADUC</titre>
+        <alinea>Voir chapitre "Arbres d'ornement". Greffées au ras du sol, les variétés de l'érable Negundo, à feuillage panaché de blanc ou de jaune, sont des arbustes vigoureux (2,50 m à 4 m) utilisés en isolé ou en contraste de couleur avec les arbustes à feuillage pourpre.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+        <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

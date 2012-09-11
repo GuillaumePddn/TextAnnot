@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Achillea 'Moonshine'</taxon>
+    <parent type = "genre">Achillea</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ACHILLÉE 'MOONSHINE'</titre>
+                <alinea>Ce cultivar a un beau feuillage découpé gris argent. Les fleurs, en grandes ombelles plates, sont jaune citron. Le port de la plante est lâche.</alinea>
+            </paragraphe>       
+        </contenu>
+
+      <photos_plante>
+
+        <photo_plante>
+            <titre_photo>
+                Achillée 'Moonshine'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p242_Achillee_Moonshine_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+   
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

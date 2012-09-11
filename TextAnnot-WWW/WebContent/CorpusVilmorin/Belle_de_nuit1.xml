@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Mirabilis jalapa</taxon>
+        <parent type = "genre">Mirabilis</parent>
+        <contenu>
+            <paragraphe>
+                <titre>BELLE DE NUIT, VIVACE</titre>
+                <alinea>
+                    Considérée comme annuelle, la belle de nuit est vivace par ses racines tubéreuses. Plante buissonnante, à tiges ramifiées hautes de 60 à 80 cm. Fleurs en entonnoir évasé, dans les coloris blanc, jaune, rouge ou panaché, s'épanouissant de juillet aux gelées, mais ne s'ouvrant qu'en fin d'après-midi pour se refermer dans la matinée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    très décorative par son feuillage et sa floraison vespérale multicolore. Très agréablement odorante.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    Sol / Exposition : tous sols, même en situation peu ensoleillée. Supporte le climat maritime.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    - Semez en mai directement en place et éclair-cissez à 40 cm.
+                    - Arrosez copieusement en été. 
+                    - Le semis en pépinière en avril-mai est possible, mise en place fin mai.
+                    - Les souches tubéreuses peuvent être arrachées à l'automne et conservées comme celle du dahlia jusqu'au printemps suivant mais le semis est tellement aisé que ce mode de culture est peu employé.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     massifs, près de la maison ou d'une terrasse pour profiter, en plus des couleurs, du délicat parfum qu'exhalent les fleurs à la tombée du jour.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Belle de nuit
+            </titre_photo> 
+            <fichier_photo_plante>
+                p261_Belle_de_nuit.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

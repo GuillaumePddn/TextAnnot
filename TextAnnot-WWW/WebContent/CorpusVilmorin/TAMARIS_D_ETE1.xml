@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Tamarix ramosissima</taxon>
+    <parent type="genre">Tamarix</parent>
+    <contenu>
+      <paragraphe>
+        <titre>TAMARIS D ETE</titre>
+        <alinea>Tamarix ramosissima Hauteur 3 à 4 m. I.es grappes de fleurs sont groupées à l'extrémité des rameaux et ressor-tent bien sur le fond de feuillage. Fleurs rose saumoné en août-septembre. La variété 'Pink Cascade' est rose foncé. Les tamaris sont parfois plantés en isolé, surtout quand ils ont été élevés sur une petite tige, mais ils sont encore plus beaux en groupes. Ils sont aussi utilisés dans les massifs ou en rideaux de verdure. Ils viennent en tous terrains, ni trop humides ni trop calcaires et sont réputés pour leur grande résistance aux embruns. On les trouve donc beaucoup dans les jardins du bord de mer. Il convient de les tailler court pour les obliger à se ramifier les tamaris à floraison printanière juste après la floraison, ceux à floraison estivale en mars, en supprimant les 2/3 ou les 3/4 des dernières pousses.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Tamaris d'été</titre_photo>
+        <fichier_photo_plante>p473_Tamaris_d_ete.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

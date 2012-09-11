@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Agrostis pulchella</taxon>
+    <parent type="genre">GRAMINEES ORNEMENTALES</parent>
+    <contenu>
+      <paragraphe>
+        <titre>AGROSTIDE PULCHELLA</titre>
+        <alinea> Voisin de l'Agrostis nebulosa par la tenue de son inflorescence et son caractère annuel, il en diffère par la taille (15 à 20 cm seulement).</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>facile. 1) Semez en avril-mai, sur place. Éclaircissez à 5 ou 8 cm d'écartement floraison en juillet-août. 2) Semis possible en septembre, en place ou en pépinière. Dans ce dernier cas, repiquez par petites touffes dans un endroit abrité et mettez en place en mars-avril à 20 cm de distance. Floraison en mai-juin.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>bouquets secs. Pour cela, coupez les tiges avant la formation des graines et faites sécher la tête en bas.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

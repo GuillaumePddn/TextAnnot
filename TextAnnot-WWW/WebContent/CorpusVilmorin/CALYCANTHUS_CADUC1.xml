@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Calycanthus floridus</taxon>
+    <parent type="genre">Calycanthus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CALYCANTHUS CADUC</titre>
+        <alinea>Arbre aux anémones. Fleurit en mai-juin. Hauteur 2 à 3 m. Arbuste vigoureux à feuilles ovales, à revers duveteux. Les fleurs s'épanouissent fin mai-juin assez grandes, rappelant un peu certaines anémones, elles sont rouge brun et très parfumées. Les feuilles et les branches sont aromatiques. L'arbre aux anémones a sa place dans les massifs d'arbustes et prospère en toute bonne terre de jardin.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Arbre aux anémones</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

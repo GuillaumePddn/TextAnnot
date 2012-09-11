@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="espece">Dimorphotheca</taxon> 
+        <parent type = "genre">Osteospermum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Dimorphothéca Annuelle</titre>
+                <alinea>
+                Plante de 25 à 35 cm de hauteur. Tiges ramifiées, étalées, puis dressées. Fleurs en forme de marguerites, apparaissant de juin à septembre, avec des coloris très brillants. Elles présentent une certaine ressemblance avec le souci mais sont plus élégantes et offrent une gamme de coloris plus large. Elles ont la particularité de ne s'ouvrir qu'au soleil. L'espèce la plus couramment cultivée est le Dimorphothéca aurantiaca hybride (syn. sinuata). Obtenue par croisement, elle offre des coloris saumon, abricot, jaune clair et orangé, blanc. On rencontre également l'espèce Dimorphothéca pluvialis, appelée aussi souci pluvial.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 profusion de fleurs aux coloris lumineux frais et variés.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                tous sols, même secs, à exposition ensoleillée.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                semez en place ou en pots en avril-mai (les plantes supportant mal le repiquage). Éclaircissez à 30 ou 40 cm. Les plants en pots peuvent être transplantés en pleine terre sans briser les mottes.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                rocailles, talus. Les dimorphothécas, supportant bien la sécheresse, peuvent être utilisés pour fleurir les endroits pierreux et secs. 
+                </alinea>
+            </paragraphe>
+         </contenu>
+ 
+        <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

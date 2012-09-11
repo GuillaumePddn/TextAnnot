@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Helenium autumnale</taxon> 
+        <parent type = "genre">Helenium</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Helenium Vivace</titre>
+                <alinea>
+                Plante de 1,20 m à 1,80 m de hauteur, à tiges rameuses à leur sommet. Nombreuses fleurs jaune pâle en capitules, à cœur proéminent, solitaires au sommet des ramifications, s'épanouissant d'août en octobre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                floraison de fin d'été et d'automne.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 sols perméables, à exposition chaude et ensoleillée.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                  multiplication par éclats plantés en mars-avril à 50 cm d'écartement.
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                    massifs de plantes vivaces et plus particulièrement association avec d'autres espèces à floraison automnale (asters par exemple). Fleurs coupées très durables.                
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

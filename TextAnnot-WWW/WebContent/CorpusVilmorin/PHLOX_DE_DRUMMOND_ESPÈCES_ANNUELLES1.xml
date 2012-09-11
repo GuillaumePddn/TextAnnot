@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Phlox drummondii</taxon>
+    <parent type="genre">Phlox</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PHLOX DE DRUMMOND ESPÈCES ANNUELLES</titre>
+        <alinea> Plante herbacée aux tiges nombreuses portant chacune un volumineux corymbe terminal et quelques corymbes secondaires moins importants. Ceux-ci sont assez lâches et composés de nombreuses fleurs rondes, de 2 à 2,5 cm de diamètre. Nous distinguerons la race à grande fleur et la race naine.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Alstroemeria</taxon>
+        <parent type = "famille">Amaryllidaceae</parent>
+    <contenu>
+        <paragraphe>
+            <titre>ALSTRŒMERE, VIVACE</titre>
+            <alinea>
+               Lisdeslncas
+               Des tiges cylindriques hautes de 80 cm à 1 m s'élèvent, raides, de racines charnues, assez semblables à une griffe d'asperge. Elles portent à leur sommet, émanant d'un verticille de feuilles, un bouquet de fleurs jaunes rayées de rose ou de pourpre, s'épanouissant de juin à septembre. Il existe plusieurs variétés de cette superbe plante, mais elles ne se reproduisent pas fidèlement par le semis.
+            </alinea>
+        </paragraphe>
+        <paragraphe>
+            <titre>Attrait / Intérêt</titre>
+            <alinea>
+                jolies fleurs souvent comparées aux orchidées, très finement striées. 
+            </alinea>
+        </paragraphe>
+         <paragraphe>
+            <titre>Sol / Exposition </titre>
+            <alinea>
+                perméable et meuble, riche et non calcaire à exposition chaude et ensoleillée.               
+            </alinea>
+        </paragraphe>
+        <paragraphe>
+            <titre> Culture  </titre>
+            <alinea>la multiplication se fait d'éclats de griffe en septembre-octobre, en prenant soin de ne pas briser les racines très fragiles. On peut aussi reproduire par semis : les graines sont mises en stratification en pots, sous châssis froid, en octobre-novembre ; la levée a lieu en mars suivant. Repiquage des jeunes plants sous châssis et mise en place à 30 cm de distance, en terre légère. Modérément rustique, l'alstroemère doit être protégée en hiver par une couche de feuilles dans la moitié nord de la France.
+            </alinea>
+        </paragraphe>
+        <paragraphe>
+            <titre>Utilisation</titre>
+            <alinea>
+                à planter par groupes dans les plates-bandes de plantes vivaces. On peut aussi la cultiver en grands pots.
+            </alinea>
+        </paragraphe>
+   </contenu>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

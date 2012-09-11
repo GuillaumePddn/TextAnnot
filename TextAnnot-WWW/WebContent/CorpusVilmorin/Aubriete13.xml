@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Aubrieta x cultorum 'Cascade Rouge'</taxon>    
+    <parent type = "espece">Aubrieta x cultorum</parent>
+        <contenu>
+            <paragraphe>
+                <titre> </titre>
+                <alinea>                
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Aubriète 'Cascade Rouge'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p257_Aubriete__Cascade_Rouge_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Aquilegia coerulea hybride</taxon>
+        <parent type = "genre">Aquilegia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ANCOLIE HYBRIDE DECOERULEA</titre>
+                <alinea>
+                    Fleur simple avec de longs éperons, possédant la grande élégance de l'ancolie dorée (ancolie chrysantha) dont elle est issue. Elle offre une gamme très riche de coloris. 
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Pyrethrum roseum ou Tanacetum coccineum</taxon>
+    <parent type="genre">Pyrethrum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PYRETHRE ROSE</titre>
+        <alinea>  Plante vivace formant d'amples touffes aux feuilles finement découpées. Tiges simples, dressées, hautes de 40 à 60 cm, portant à leur extrémité des fleurs simples ou doubles, semblables à des reines-marguerites, en mai-juin, puis à l'automne si les tiges ont été rabattues après la première floraison. Coloris nombreux, du blanc pur au rouge foncé.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>facilité de culture. Belle floraison remontante. Excellente fleur à couper.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez les variétés à fleurs simples en mai, en pépinière, et mettez en place en juillet, à 40 cm de distance. - ks variétés à fleurs très doubles sont multipliées d'éclats à l'automne ou au printemps, mais il est préférable de ne procéder à cette opération que tous les trois ou quatre ans en prélevant des parties jeunes. En effet, les parties lignifiées des vieilles souches sont impro- pres à la multiplication.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>le pyrèthre rose peut s'intégrer aux groupes de plantes vivaces à floraison estivale, mais c'est surtout une excellente fleur à bouquets.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pyrèthre</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

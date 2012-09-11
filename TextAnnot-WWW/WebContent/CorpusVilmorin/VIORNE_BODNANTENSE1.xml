@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Viburnum x bodnantense</taxon>
+    <parent type="genre">Viburnum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>VIORNE BODNANTENSE</titre>
+        <alinea>Viburnum x bodnantense Hauteur 2 à 2,50 m. Fleurs parfumées, roses, puis blanches, plus grandes et en bouquets plus importants que Viburnum fragrans dont il est issu. La floraison a lieu en hiver mais cet arbuste, bien moins rustique que Viburnum fragrans, ne peut convenir qu'aux régions à climats doux. Le parfum de ses fleurs le désigne pour une plantation à un emplacement privilégié, près de la maison. • 'Charles Lamont' fleurs plus roses.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Viorne bodnantense</titre_photo>
+        <fichier_photo_plante>p475_Viorne_bodnantense.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

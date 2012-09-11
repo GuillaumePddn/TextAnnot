@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Ilex aquifolium </taxon>
+    <parent type="genre">Ilex</parent>
+    <contenu>
+      <paragraphe>
+        <titre>HOUX COMMUN</titre>
+        <alinea>Hauteur 4 à 6 m et plus. Étant donné sa croissance très lente, le houx atteint rarement les dimensions d'un arbre, qu'il peut cependant devenir avec le temps. Feuilles coriaces, vert brillant foncé, munies d'épines acérées. Fleurs mâles et fleurs femelles (sans intérêt) étant, sauf exception, portées par des sujets différents, les sujets femelles ont besoin d'un sujet mâle dans les environs pour fructifier. Cette précision est très importante car les variétés femelles ajoutent à la beauté de leur feuillage, l'attrait incontestable de leurs fruits d'un rouge éclatant (parfois jaunes). Les nombreuses variétés de houx attestent de l'intérêt que cette espèce représente pour la décoration de nos jardins • 'Alaska' végétation compacte,feuillage vert, très florifère. • 'Albomarginata' feuilles panachées de blanc. • 'Mme Briot' feuilles panachées de jaune d'or, forme femelle, etc.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Houx commun 'Mme Briot'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Syringa microphylla</taxon>
+    <parent type="genre">Syringa</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LILAS MICROPHYLLA SUPERBA</titre>
+        <alinea>Syringa microphylla 'Superba' Hauteur 1,50 à 2 m, est voisin du précédent. Les feuilles sont plus petites, de même que les grappes de fleurs parfumées. Il produit également une seconde floraison.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

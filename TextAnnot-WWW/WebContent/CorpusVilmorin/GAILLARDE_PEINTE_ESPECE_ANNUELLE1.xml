@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Gaillardia picta </taxon>
+    <parent type="genre">Gaillardia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GAILLARDE PEINTE ESPÈCE ANNUELLE</titre>
+        <alinea>Vivace par sa souche, mais cultivée comme plante annuelle, elle forme de larges touffes étalées, hautes de 50 cm. Les fleurs de 5 à 6 cm de diamètre en capitules rayonnants, jaunes à l'extérieur, à centre jaune orangé, disque brun, puis pourpre noir, sont solitaires sur un long pédoncule.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>plante très florifère, aux coloris chauds.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, même secs, à exposition ensoleillée. Supporte le climat maritime.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>semez en mars sous abri, repiquez sous abri et plantez en mai, à 40 cm d'écartement.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>massifs, fleurs coupées.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Gaillarde peinte</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cheiranthus cheiri</taxon>
+    <parent type="genre">Cheiranthus et Matthiola</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GIROFLEE RAVENELLE</titre>
+        <alinea> Vivace, cultivée comme bisannuelle, c'est la plus populaire des giroflées. Plante ramifiée dès la base, à tiges raides, atteignant 60 cm de hauteur ; elle se couvre, de mars à mai, de fleurs odorantes, simples ou doubles, disposées en grappes au sommet des tiges. Les variétés, simples ou doubles, présentent des coloris variés et bien fixés blanc, ivoire, rose, rouge, orangé, jaune, brun, violet. Ces différents coloris, parfois panachés et striés, se retrouvent dans de nombreuses variétés.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>floraison printanière. Coloris chauds. Parfum agréable.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols sains, même secs, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez clair, en mai, en pépinière bien exposée - Mettez en place à l'automne à 30 cm d'écartement pour les variétés hautes et à 20 cm pour les variétés naines.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>fleurs à couper, massifs. Les giroflées ravenelle s'associent très bien aux myosotis, pensées, tulipes pour les décorations printanières. Bordures, rocailles, murets fleuris, et même culture en pots.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>• Giroflée ravenelle 'Buisson d'or'. Fleurs simples très odorantes. Hauteur 35 cm. • Giroflée Ravenelle 'Diabolo' varié. Coloris vifs et variés. Hauteur 40 cm.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Giroflée ravenelle 'Diabolo' varié</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Giroflée ravenelle 'Buisson d'or'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

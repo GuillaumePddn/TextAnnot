@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Pittosporum tobira</taxon>
+    <parent type="genre">Pittosporum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PITTOSPORUM PERSISTANT</titre>
+        <alinea>• Fleurit en avril-mai •Peu rustique Hauteur 3 m et plus. Arbuste à port dressé, bien ramifié, portant d'assez grandes feuilles allongées, coriaces, vert foncé brillant. Les fleurs, groupées, blanc crème au printemps, sont agréablement parfumées. • 'Nanum' végétation compacte étalée. Hauteur 0,60 m, diamètre 0,80 à 1 m. Excellent pour bacs, rocailles, bordures de dallages. Dans le Midi et sur le littoral atlantique, il est apprécié pour créer des haies moyennes et des rideaux de verdure. 11 résiste bien en bord de mer. Dans les autres régions, on le cultive en bac pour la décoration en été des terrasses ensoleillées et il excelle à cet usage. Il accepte tous les sols et supporte bien la taille.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pittosporum</titre_photo>
+        <fichier_photo_plante>p467_Pittosporum.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

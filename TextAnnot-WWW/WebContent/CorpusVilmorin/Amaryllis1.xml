@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Amaryllis belladonna</taxon>
+        <parent type = "genre"> Amaryllis </parent>
+        <contenu>
+            <paragraphe>
+                <titre>AMARYLLIS BELLADONNE OU LIS DE JERSEY</titre>
+                <alinea>
+                    Hauteur 80 cm. Émet en août-septembre une forte tige, nue, terminée par un bouquet d'une dizaine de grandes fleurs odorantes, assez semblables au lis blanc, de couleur rose chez l'Amaryllis belladonna.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    floraison automnale. Fleurs agréablement parfumées.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols bien drainés, à exposition ensoleillée et abritée. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    - Plantez les bulbes en juin, en terrain léger, profond et bien drainé, à 20-25 cm de profondeur et à 30 cm de distance Protégez-les l'hiver, soit par des châssis, soit par une bonne couverture de feuilles ou de paille.
+                    - On peut aussi cultiver en pots mais il faut que ceux-ci soient très profonds. Tous les trois ou quatre ans, refaites la plantation et profitez-en pour séparer les caïeux qui devront être repiqués aussitôt.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                    Utilisation : plantes curieuses, utilisables parmi d'autres plantes vivaces ou en rocaille. 
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Amaryllis belladone
+            </titre_photo> 
+            <fichier_photo_plante>
+                p248_Amaryllis_belladone.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

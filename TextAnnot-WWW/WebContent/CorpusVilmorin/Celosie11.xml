@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Aster nain 'Snow Sprite'Celosia argentea 'plumosa'</taxon>    
+    <parent type = "espece">Aster nainCelosia argentea</parent>
+        <contenu>
+            <paragraphe>
+                <titre> Célosie à panache</titre>
+                <alinea> Célosie à panache varié,
+Compacte, très ramifiée.
+30               
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Célosie à panache
+            </titre_photo> 
+            <fichier_photo_plante>
+                p267_Celosie_a_panache.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

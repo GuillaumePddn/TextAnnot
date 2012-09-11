@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Verbena venosa</taxon>
+    <parent type="genre">Verbena</parent>
+    <contenu>
+      <paragraphe>
+        <titre>VERVEINE A FEUILLES RUGUEUSES ou VERVEINE VEINEUSE</titre>
+        <alinea>Plante vivace, souvent cultivée comme annuelle, très rustique, robuste, élégante, à tiges hautes de 25 à 40 cm, fleurs violet bleuâtre réunies en épis terminaux, de juin à octobre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>très beau coloris bleu violet. Durée de la floraison.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, même secs et calcaires, à exposition ensoleillée et</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Verveine veineuse</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

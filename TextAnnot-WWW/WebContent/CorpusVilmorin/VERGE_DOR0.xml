@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Solidago</taxon>
+    <parent type="famille">Asteracées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>VERGE D'OR</titre>
+        <alinea />
+      </paragraphe>
+      <paragraphe>
+        <titre>VERGE D'OR</titre>
+        <alinea>vivace  Les verges d'or sont des plantes formant des touffes amples, robustes et rustiques, dont tous les rameaux dressés se terminent, entre juillet et octobre, selon les variétés, par une ample panicule terminale, composée de très nombreuses fleurs minuscules jaune d'or</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>légèreté des hampes florales. Coloris très vif.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, à exposition ensoleillée ou mi-ombragée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Couramment, la multiplication se fait par éclats de touffes à l'automne ou au printemps. Plantez à 50 cm d'écartement pour les variétés hautes et à 25/30 cm pour les variétés basses. 2) Semis possible d'avril à juin en pépinière pour certaines variétés, avec mise en place à l'automne.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>association possible avec des plantes à fleurs bleues ou violettes telles que asters, véroniques, sauge superbe. </alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

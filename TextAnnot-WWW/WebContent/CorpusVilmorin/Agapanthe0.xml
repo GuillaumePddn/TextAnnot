@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Agapanthus, VIVACE</taxon>
+        <parent type = "famille"> Liliaceae </parent>
+        <contenu>
+            <paragraphe>
+                <titre>AGAPANTHE</titre>
+                <alinea>
+                    Tubéreuse bleue
+                    SOUCHE VIVACE TUBÉREUSE
+                    À partir de la souche se développent au printemps de longues feuilles rubanées, lisses, d'un beau vert, persistantes. Au centre s'élève une tige longue de 80 cm, dont l'extrémité porte une énorme ombelle de 50 à 100 ravissantes fleurs du bleu le plus tendre. Il en existe une variété à fleurs blanches.
+                 </alinea>
+             </paragraphe>               
+             <paragraphe>
+                <titre>Attrait / Intérêt</titre>              
+                <alinea>
+                    originalité du port de la plante. Beauté du feuillage et floraison somptueuse de juin jusqu'en août et septembre. 
+                </alinea>
+            </paragraphe>           
+            <paragraphe>
+                <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols bien drainés dans un endroit ensoleillé et abrité. Redoute les rigueurs de l'hiver
+                </alinea>                   
+            </paragraphe>           
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                    facile en climat doux ou en zone méditerranéenne où elle se pratique en pleine terre. S'il y a risque de gelée, protégez la souche par un paillis, des feuilles sèches, etc. Dans les régions froides, il est préférable de cultiver l'agapanthe en pot dans un mélange de terre de bruyère, de terre franche siliceuse et de terreau de feuilles. Hivernes sous châssis ou en serre froide, les pots seront sortis en fin avril pour la mise en végétation ; arrosez modérément au début, puis copieusement pendant la floraison. Après celle-ci, coupez les tiges florales le plus bas possible. Réduisez ensuite les arrosages et supprimez-les lorsque les feuilles jaunissent. Hivernez en maintenant la terre à peine humide. Aussi bien en extérieur qu'en pot, les feuilles jaunies seront coupées à l'automne.
+                    1) La multiplication s'effectue par division des souches après la floraison. Pour la culture en pots, les éclats munis d'un bourgeon seront mis en premier lieu dans un pot relativement petit, puis rempotés un an plus tard. La floraison a lieu en général deux ans après. 
+                    2) Le semis, possible en mai-juin, n'est guère employé, la floraison n'ayant lieu que quatre ans plus tard.
+                </alinea>                   
+            </paragraphe>   
+             <paragraphe>
+                <titre>Utilisation</titre>
+                <alinea>
+                    en pleine terre, l'agapanthe constitue un magnifique ornement des plates-bandes, par son feuillage et ses superbes fleurs. En pots, bacs, jarres, elle garnit agréablement cours, terrasses, patios, etc.
+                </alinea>                   
+            </paragraphe>                      
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Agapanthe
+            </titre_photo> 
+            <fichier_photo_plante>
+                p244_Agapanthe.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

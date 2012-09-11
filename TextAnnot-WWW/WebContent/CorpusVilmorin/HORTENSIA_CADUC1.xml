@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Hydrangea macrophylla</taxon>
+    <parent type="genre">Hydrangea macrophylla</parent>
+    <contenu>
+      <paragraphe>
+        <titre>HORTENSIA CADUC</titre>
+        <alinea>Fleurit de juillet à septembre. Sol non calcaire. Hauteur 1 à 1,50 m et plus. L'hortensia forme une touffe de branches raides, peu ramifiées, portant de larges feuilles ovales, molles, et des fleurs en inflorescences terminales, arrondies.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>Les variétés sont nombreuses et leurs coloris vont du blanc au rose et au rouge • 'Ayesha' rose lilas • 'Blaumeise' bleu • 'Mousmee' rose soutenu • 'Sœur Thérèse' blanc • 'Tricolor' blanc rosé à centre mauve Le coloris bleu est obtenu, en partant de variétés roses, soit en cultivant celles-ci dans des sols schisteux très acides (terre d'Angers), soit en arrosant les plantes avec une solution de sulfate d'alumine pendant la végétation. Il est bien connu que les hortensias sont particulièrement beaux et vigoureux en Anjou et surtout en Bretagne, mais ce sont des arbustes parfaitement rustiques, susceptibles de prospérer et de fleurir partout en France. Il convient de les planter, en groupes, le long d'un mur au nord ou en situation mi-ombragée car ils n'aiment pas trop le soleil. Ils n'apprécient guère le calcaire ; sans exiger la terre de bruyère, ils prospèrent néanmoins dans une bonne terre de jardin non calcaire, améliorée par un apport de tourbe ou de terreau de feuilles. Ils demandent des arrosages copieux en été. La floraison se produisant essentiellement à l'extrémité des rameaux vigoureux développés l'année précédente, la taille consiste donc à supprimer les vieilles branches et les rameaux trop grêles. Bien entendu, les fleurs fanées sont supprimées lorsque la  couleur en est passée. Sous les climats froids, il est conseillé d'ajouter une litière de feuilles mortes, cette protection servira de paillis en été.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Hortensia__Ayesha_</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Hortensia__Blaumeise_</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Hortensias_en_melange</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

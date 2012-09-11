@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Celosia cristata</taxon>
+        <parent type = "genre">Amaranthus</parent>
+        <contenu>
+            <paragraphe>
+                <titre>AMARANTE CRÊTE DE COQ</titre>
+                <alinea>
+                    ESPÈCE À FLEURS
+                    Plante à tige unique portant de longues feuilles, pointues, vert clair parfois teinté de rouge ou de violet, d'où émerge une inflorescence en crête, étalée en éventail, compacte, plus ou moins plissée ou ondulée. Les coloris vont du jaune au violet pourpre intense avec toute une gamme intermédiaire.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    inflorescence curieuse en forme de crête, richesse des coloris et durée de floraison (juin à octobre).
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                     sols sains, riches en matière organique, bien ensoleillés.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    - semez en mars sous abri, 
+                    - repiquez une ou deux fois sous abri et mettez en place en mai, à 30/35 cm en tous sens. Arrosez copieusement, au pied surtout, pendant les grandes chaleurs et faites des apports d'engrais soluble ou liquide (engrais fleurs) toutes les trois semaines.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     massifs ou plates-bandes.
+                     Potées fleuries
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Amarante crête de coq
+            </titre_photo> 
+            <fichier_photo_plante>
+                p248_Amarante_crête_de_coq.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

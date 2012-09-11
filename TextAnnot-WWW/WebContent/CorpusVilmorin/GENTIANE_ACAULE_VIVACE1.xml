@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Gentiana acaulis</taxon>
+    <parent type="genre">Gentiana</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GENTIANE ACAULE VIVACE</titre>
+        <alinea>Plante gazonnante, et rustique, à feuilles persistantes, disposées en rosette d'où s'élèvent, de mai à juillet, de nombreuses petites hampes florales de 5 à 10 cm, terminées par une grande fleur d'un beau bleu velouté pur.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>les fleurs de la gentiane offrent l'un des plus beaux bleus de toutes les fleurs de l'été.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terre fraîche argilo-siliceuse, à mi-ombre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez en pots ou en terrines dès la récolte des graines et avant octobre. Le gel favorise souvent la germination qui a lieu en mars suivant. - Repiquez en pépinière et mettez en place à l'automne ou au printemps suivant. La multiplication la plus courante se fait toutefois par division de touffes, en juin. Plantation à 20 cm d'écartement.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>surtout rocailles, et talus pierreux.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Gentiane acaule</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

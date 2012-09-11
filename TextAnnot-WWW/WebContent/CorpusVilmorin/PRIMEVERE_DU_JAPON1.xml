@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Primula japonica</taxon>
+    <parent type="genre">Primula</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PRIMEVERE DU JAPON</titre>
+        <alinea> Cette espèce à feuillage rugueux se distingue par la hauteur de sa hampe florale qui atteint 40 à 60 cm de hauteur. D'avril à juillet, les fleurs sont disposées en quatre ou cinq verticilles rapprochés à leur naissance et s'étageant successivement au fur et à mesure du développement de la plante. Variétés blanches, rose carné, lilas, grenat ou rouge purpurin.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>floraison printanière.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terres fraîches et saines en situation mi-ombragée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez de juillet à septembre, en pots ou terrines, en terre de bruyère et à mi-ombre ; hivernez sous châssis. - Repiquez en pépinière au printemps et mettez en place à mi-ombre, en automne ou au printemps, ou laissez fleurir en pots. - Les graines, stratifiées dès l'automne, peuvent être semées de janvier à mars, en pépinière sous châssis.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>convient très bien pour une plantation au bord des eaux.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Primevère du Japon</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

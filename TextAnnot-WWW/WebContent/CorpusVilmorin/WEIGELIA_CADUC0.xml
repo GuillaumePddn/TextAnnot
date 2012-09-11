@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Weigela</taxon>
+    <parent type="famille">Caprifoliaceae</parent>
+    <contenu>
+      <paragraphe>
+        <titre>WEIGELIA CADUC</titre>
+        <alinea>• Fleurit en mai-juillet Les weigelias sont des arbustes assez vigou- reux mais de taille moyenne (1,50 à 2,50 m) à port généralement évasé, à feuilles ovales. Fleurs réparties tout au long des rameaux, à partir de fin mai. La floraison se prolonge jusqu'en juillet, et des fleurs continuent souvent d'apparaître au cours de l'été. Les espèces types ne sont plus cultivées ; elles ont été remplacées par des variétés hybrides, à fleurs parfois blanches mais plus souvent roses ou rouges. En voici une sélection</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

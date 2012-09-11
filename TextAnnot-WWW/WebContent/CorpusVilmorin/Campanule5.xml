@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Campanula persicifolia</taxon>
+        <parent type = "genre">Campanula</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CAMPANULE A FEUILLES DE PECHER, VIVACE</titre>
+                <alinea>
+                    Espèces à tiges dressées, hautes de 30 à 50 cm. Les fleurs bleu violacé sont agglomérées en sortes de capitules. 
+                    Tiges raides, dressées, hautes de 40 à 80 cm. Fleurs bleu clair, grandes, largement ouvertes, en grappes allongées, simples ou ramifiées. Elles se montrent en juin-juillet. Les plus intéressantes variétés sont à fleurs blanches, à fleurs doubles blanches et bleues, à fleurs couronnées blanches et bleues.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    plante de culture très facile, à floraison de longue durée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous sols. Préfère les endroits ombragés.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    1) - Semez très clair en pépinière en mai-juin. - Repiquez directement en place en août-septembre.
+                    2) Il est également possible de multiplier par éclats de souches au printemps.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     massifs de plantes vivaces. Fleurs à couper de longue conservation.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Campanule à feuilles de pêcher
+            </titre_photo> 
+            <fichier_photo_plante>
+                p265_Campanule_a_feuilles_de_pecher.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

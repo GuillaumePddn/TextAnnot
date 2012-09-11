@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="espece">Dahlia à fleurs d'orchidées girafe</taxon> 
+        <parent type = "genre">Dahlia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Dahlia à fleurs d'orchidées girafe</titre>
+                <alinea>
+                Fleurs originales aux marbrures de teintes contrastées. 
+                Pour fleurs coupées. 
+                Hauteur : 0,80 à 0,90 m.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Dahlia à fleurs d'orchidées girafe
+            </titre_photo> 
+            <fichier_photo_plante>
+                p284_Dahlia_a_fleurs_d_orchidees_girafe.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

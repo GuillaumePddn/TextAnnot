@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Plumbago capensis</taxon>
+    <parent type="genre">Plumbago</parent>
+    <contenu>
+      <paragraphe>
+        <titre>DENTELAIRE SEMI PERSISTANT</titre>
+        <alinea>• Fleurit en juin-octobre • Peu rustique La dentelaire du Cap est un arbuste sarmenteux, à rameaux de 3 à 4 m, à petites feuilles ovales. Inflorescences globuleuses légères, composées de fleurs ressemblant à celles du phlox, d'un bleu clair presque irréel. La floraison, abondante, dure pendant toute la belle saison. Cette plante magnifique n'est malheureusement rustique en pleine terre que dans le Midi et les secteurs privilégiés du littoral atlantique où elle décore avec beaucoup de grâce les murs, les grillages. Il est possible de la cultiver en bac, sous fonne d'arbuste ou sur petite tige, dans les autres régions où l'on doit la rentrer à l'abri des gelées dès le mois d'octobre. Sa floraison bleu ciel, remarquable, en fait un sujet de choix pour les massifs de plantes d'été. On trouve également une variété bleu foncé.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Dentelaire_du_Cap__Detail_fleurs_bleu_fonce</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

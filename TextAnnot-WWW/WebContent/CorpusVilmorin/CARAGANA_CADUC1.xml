@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">??</taxon>
+    <parent type="genre">Caragana Arborescens</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CARAGANA CADUC</titre>
+        <alinea>Hauteur 3 à 4 m. Arbuste vigoureux, peu ramifié, à feuilles composées, paripennées. Nombreuses fleurs jaunes, suivies de gousses longuement pédonculées. Il existe sur tige. Très rustique et réussissant en toute bonne terre de jardin, en plein soleil, le caragana est un arbuste à planter dans les massifs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Caragana_sur_tige</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Arabis blepharophylla</taxon>
+            <parent type = "genre">Arabis</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ARABIS BLEPHAROPHYLLA</titre>
+                <alinea>
+                   Végétation en forme de petits coussins. Les feuilles sont ovales ou oblongues, vert foncé. Les fleurs rose soutenu, sont disposées en grappes. Protégez-le en climat à hivers rigoureux. 
+                </alinea>
+            </paragraphe>       
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Arabis blepharophylla
+            </titre_photo> 
+            <fichier_photo_plante>
+                p252_Arabis_blepharophylla.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

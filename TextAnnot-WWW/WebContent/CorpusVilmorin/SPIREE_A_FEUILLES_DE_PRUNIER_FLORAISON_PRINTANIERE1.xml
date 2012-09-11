@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Spiraea prunifolia</taxon>
+    <parent type="genre">Spiraea</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SPIREE A FEUILLES DE PRUNIER FLORAISON PRINTANIERE</titre>
+        <alinea>Spiraea prunifolia 'Plena' Hauteur 2 à 2,50 m. Port souple. Abondantes fleurs doubles blanches en avril-mai. Isolé, massifs, haies fleuries.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

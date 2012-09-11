@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Alyssum maritimum 'Tapis de neige'</taxon>    
+    <parent type = "espece">Alyssum maritimum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Alyssum maritimum 'Tapis de neige'</titre>
+                <alinea>
+                     Très nain. 10 à 15 cm. Coloris blanc pur.
+                </alinea>
+            </paragraphe>
+         </contenu>
+   
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Photinia x fraseri</taxon>
+    <parent type="genre">Photinia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PHOTINIA RED ROBIN</titre>
+        <alinea>Photinia x fraseri 'Red Robin' Hauteur 2 à 3 m. Arbuste vigoureux, à feuilles ovales, d'un beau rouge brillant et très spectaculaires lorsqu'elles sont jeunes ; elles passent ensuite au vert. Petites fleurs blanc rosé, légèrement parfumées, en groupes légers, suivies de petits fruits rouges très décoratifs. Sous climats doux, le photinia 'Red Robin' est un magnifique arbuste à planter en isolé ou en haies libres. Il vient en toute bonne terre de jardin, fraîche de préférence, même un peu calcaire.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Photinia 'Red Robin'</titre_photo>
+        <fichier_photo_plante>p467_Photinia__Red_Robin_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

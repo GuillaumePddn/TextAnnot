@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Brachycome iberidifolia</taxon>
+        <parent type = "genre">Brachycome</parent>
+        <contenu>
+            <paragraphe>
+                <titre></titre>
+                <alinea>
+                   Plante à tiges très rameuses, puis dressées, de 20 à 30 cm de hauteur, à feuilles découpées en lanières. Les fleurs terminales, bleu intense, apparaissent de juin à septembre. Il en existe des variétés : bleu franc, blanc, rose.  
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    plante élégante, intéressante surtout dans le coloris bleu. Floraison abondante.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous sols meubles, à bonne exposition. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    1) Semez en septembre en pots que vous hivernerez sous châssis ou tunnel. Mettez en place fin avril à 25/30 cm d'écartement. Floraison de mai à août.
+                    2) Semez en mars sous abri, repiquez de même et mettez en place en mai. Floraison de juin à août.
+                    3) Semez en avril-mai directement en place. Éclaircissez à 25 cm. Floraison de juillet à septembre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     a végétation tapissante du Brachycome le destine particulièrement à la plantation en bordures ou en tapis, associé à des fleurs de taille plus élevée.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

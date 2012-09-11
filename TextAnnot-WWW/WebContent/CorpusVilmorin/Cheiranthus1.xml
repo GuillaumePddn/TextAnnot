@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Erysimum allionii</taxon>
+        <parent type = "genre">Erysimum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CHEIRANTHUS, BISANNUELLE</titre>
+                <alinea>
+                    Plante de 30 à 40 cm, voisine des giroflées ravenelle, mais de floraison plus hâtive.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    floraison printanière (avril à juin). Fleurs légèrement parfumées.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols bien drainés, même pauvres, mais ensoleillés.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    facile.
+                    - Semez en juin-juillet pour mettre en place à l'automne, à 25 cm de distance, 
+                    - Au printemps, éliminez les siliques (sorte de gousses contenant les graines) au fur et à mesure de leur formation pour prolonger la floraison. Le cheiranthus peut également être cultivé comme une plante annuelle, le semis étant effectué en mars-avril directement en place. Floraison en juillet-août.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     massifs, bordures, rocailles, fleure coupées. Produit un très bel effet en association avec les tulipes, pensées, myosotis.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Cheiranthus allionii
+            </titre_photo> 
+            <fichier_photo_plante>
+                p269_Cheiranthus_allionii.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

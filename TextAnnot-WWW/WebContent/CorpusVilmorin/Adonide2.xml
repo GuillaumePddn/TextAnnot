@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Adonis vernalis</taxon>
+        <parent type = "genre">Adonis</parent>
+    <contenu>
+            <paragraphe>
+                <titre>ADONIDE DE PRINTEMPS, VIVACE</titre>
+                <alinea>
+                    Plante buissonnante de 20 à 25 cm. Tiges simples portant une fleur de 5 à 6 cm de diamètre jaune citron, en mars-avril.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    précocité de la floraison.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    terres légères. Exposition nord ou est..
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    facile. Multiplication par division de touffes à l'automne ou par semis en octobre-novembre, en terre sableuse, sous châssis froid. Les graines stratifiées ne germent qu'au printemps suivant ; mise en place à l'automne suivant
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     plante de rocaille ou de sous-bois.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Adonide de printemps
+            </titre_photo> 
+            <fichier_photo_plante>
+                p244_Adonide_de_printemps.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

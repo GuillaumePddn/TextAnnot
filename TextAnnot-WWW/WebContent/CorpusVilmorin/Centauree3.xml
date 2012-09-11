@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Centaurea montana</taxon>
+        <parent type = "genre">Centaurea</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CENTAUREE MONTANA OU BLEUET DES MONTAGNES, VIVACE</titre>
+                <alinea>
+                    Plante émettant de nombreuses tiges formant une touffe, haute de 40 cm, à feuilles lancéolées, duveteuses.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    plante vivace, rustique, à fleur de bleuet, de 6 à 8 cm de diamètre et d'un très beau bleu, ou blanc, de fin avril à fin mai.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    terrains sablonneux de préférence.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    1) Multiplication par éclats de touffes en août. Plantation à 30 cm d'écartement.
+                    2) Le semis en mai-juin en pépinière est possible. Après un repiquage en pépinière, mettez en place à l'automne ou au printemps.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     plates-bandes de plantes vivaces, rocailles.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Centaurée des montagnes blanche
+            </titre_photo> 
+            <fichier_photo_plante>
+                p268_Centauree_des_montagnes_blanche.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cistus laurifolius</taxon>
+    <parent type="genre">Cistus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CISTE A FEUILLES DE LAURIER</titre>
+        <alinea> Hauteur 1,50 à 2 m. Petit arbuste à port érigé, à fleurs blanches. Les feuilles, vert foncé à la face supérieure et duveteuses au dessous, ressemblent à celles du laurier. Rustique en région parisienne, à bonne exposition.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Ciste_a_feuilles_de_laurier</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+	  </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="variete">Digitalis purpurea 'Excelsior hybrids'</taxon>    
+    <parent type = "espece">Digitalis purpurea</parent>
+        <contenu>
+            <paragraphe>
+                <titre> Digitale hybride Excelsior variée</titre>
+                <alinea> 
+                Coloris
+     très nombreux, à reflets saumonés. La
+     position dressée des fleurs met en valeur
+     la coloration interne de la corolle.    
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lilium</taxon>
+    <parent type="genre">Lilium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LIS  BULBEUSE</titre>
+        <alinea>Les lis doivent à leur port majestueux, à la beauté de leurs fleurs, à leur parfum doux et à la richesse de leurs coloris d'être universellement appréciés. Les bulbes sont constitués d'écaillés épaisses qui sont en réalité des feuilles modifiées assurant le stockage des réserves de la plante. Du centre émergera la tige florale garnie de feuilles et portant des fleurs en turban, en trompette ou en large coupe.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>beauté, majesté et noblesse de la fleur de lis.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols bien drainés, riches en humus, à bonne exposition. Les lis redoutent l'excès d'humidité et, en général, le calcaire. La classification des lis est complexe et difficile en raison des nouveaux hybrides aux formes intermédiaires. Quelques espèces types intéressantes méritent une mention particulière.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

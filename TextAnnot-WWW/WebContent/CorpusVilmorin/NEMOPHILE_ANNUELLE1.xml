@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Némophile</taxon>
+    <parent type="genre">Nemophila</parent>
+    <contenu>
+      <paragraphe>
+        <titre>NEMOPHILE ANNUELLE</titre>
+        <alinea>Plante rustique, très ramifiée, de 20 à 25 cm de hauteur, à rameaux poilus, en touffes étalées, de développement rapide. Elle fleurit en deux mois, présentant de juin à octobre de nombreuses fleurs bleues ou blanches, solitaires, largement ouvertes.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>plante à développement rapide.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terres fraîches et sableuses. Toutes expositions.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Semez de mars à juin en place, en lignes pour constituer des bordures, ou à la volée pour réaliser des taches de couleur. 2) Semez en septembre-octobre en pépinière bien exposée, abritez des grands froids à l'aide de litières, paillassons... et mettez en place en mars-avril. La floraison a lieu de mai à octobre selon l'époque du semis.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>bordures, taches de couleur. La croissance du némophile est rapide mais la durée de floraison est assez courte. Culture en pot intéressante. Espèces • Némophile maculata (15 à 30 cm). À fleurs blanches, marquées à l'extrémité des pétales de bleu-violet. • Némophile mensiesii ou némophile insignis (20 cm). À fleurs bleu clair à centre blanc.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Némophile maculata</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Némophile mensiesii</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

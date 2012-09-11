@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Chrysanthemum</taxon>
+        <parent type = "famille">Asteraceae</parent>
+        <contenu>
+            <paragraphe>
+               <alinea>
+                    Il existe de nombreuses espèces de chrysanthèmes, annuelles ou vivaces, dont certaines semblent assez éloignées des chrysanthèmes traditionnels de la Toussaint, par leur port, la forme de leurs fleurs, leur date de floraison. Nous leur donnerons la classification suivante : les chrysanthèmes annuels et chrysanthèmes vivaces et regrouperons ensuite les espèces communément dénommées chrysanthèmes (ou chrysanthèmes des fleuristes), à floraison en général automnale.
+                </alinea>
+            </paragraphe>
+             <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    
+                </alinea>
+            </paragraphe>
+             <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                
+                </alinea>
+            </paragraphe>
+             <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                
+                </alinea>
+            </paragraphe>
+             <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea> 
+                 
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                A
+            </titre_photo> 
+            <fichier_photo_plante>
+                p
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

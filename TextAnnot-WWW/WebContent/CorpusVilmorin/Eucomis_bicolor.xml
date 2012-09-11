@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Eucomis bicolor</taxon> 
+        <parent type = "genre">Eucomis</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Eucomis bicolor</titre>
+                <alinea>
+                Plante Ananas Bulbeuse
+                Plante à larges feuilles vertes à bord ondulé. 
+                Fleurs étroites, verdâtres, bordées de pourpre, réunies en une grosse grappe dense. 
+                Hauteur :  60 cm. 
+                L'inflorescence surmontée d'une rosette de feuilles ressemble à un ananas.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                originalité de l'inflorescence à l'aspect exotique et qui persiste plusieurs semaines en juillet-août.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                terres riches et profondes, en situation ensoleillée et abritée.     
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                - Plantez les bulbes au printemps à environ 20 cm de profondeur et à 40 cm d'écartement.
+                - À l'automne, arrachez les bulbes et hivernez les à l'abri ou laissez en terre à condition de les protéger par une litière de feuilles mortes.     
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                bordure de massifs, rocailles (en isolé pour être mis en valeur).
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Plante ananas
+            </titre_photo> 
+            <fichier_photo_plante>
+                p291_Plante_ananas.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

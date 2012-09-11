@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Alyssum saxatile</taxon>
+        <parent type = "genre">Alyssum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ALYSSE CORBEILLE D'OR, VIVACE</titre>
+                <alinea>
+                    Plante de 20 à 30 cm de haut, aux rameaux étalés, légèrement duveteux.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    floraison jaune d'or du plus brillant effet, d'avril à juin.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous sols sains, ensoleillés, même secs. Supporte le climat maritime.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    - semez en mai-juin,
+                    - repiquez en pépinière et mettez en place à l'automne, à 40 cm de distance.
+                    La multiplication par bouturage est possible surtout en automne et au printemps. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                <alinea>
+                    une des meilleures plantes vivaces rustiques pour bordures printanières ou pour rocailles. Associez-la aux Aubriétias et Arabis qui fleurissent en même temps.           
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Alysse Corbeille d'or
+            </titre_photo> 
+            <fichier_photo_plante>
+                p247_Alysse_Corbeille_d_or.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

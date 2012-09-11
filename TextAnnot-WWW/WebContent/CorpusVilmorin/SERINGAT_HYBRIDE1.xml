@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Philadelphus hybridis</taxon>
+    <parent type="genre">Philadelphus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SERINGAT HYBRIDE</titre>
+        <alinea>Philadelphus</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>• 'Bouquet blanc' hauteur 1,50 m environ. Très nombreuses fleurs semi-doubles, légèrement parfumées. • 'Manteau d'Hennine' hauteur 0,80 à 1 m. Fleurs doubles ou semi-doubles, non parfumées. • 'Minnesota Snowflake' hauteur 1,50 à 1,80 m. Grandes fleurs doubles, légèrement parfumées. • 'Virginal' hauteur 2 à 2,50 m. Grandes fleurs doubles ou semi-doubles, légèrement parfumées. • 'Silberregen' hauteur 1 m. Petit seringat au parfum sucré. • 'Belle Etoile' hauteur 1,80 m. Fleurs blanches à cœur légèrement rouge pourpre, parfumées.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>Les seringats sont des arbustes très florifères, à fleurs souvent parfumées, qui trouvent leur place dans tous les jardins, d'autant plus qu'ils acceptent tous les sols. Ils peuvent être plantés en isolé, mais aussi dans les massifs. La taille intervient en fin de floraison et consiste à supprimer les rameaux ayant fleuri. Le cas échéant, il est possible de rabattre près du sol, en mars, un seringat âgé deux ans après, il sera de nouveau en fleurs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Seringat 'Virginal'</titre_photo>
+        <fichier_photo_plante>p470_Seringat__Virginal_.jpg</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Seringat 'Belle Etoile'</titre_photo>
+        <fichier_photo_plante>p470_Seringat__Belle_Etoile_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

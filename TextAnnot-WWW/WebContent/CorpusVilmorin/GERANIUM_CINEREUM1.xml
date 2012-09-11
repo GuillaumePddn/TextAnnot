@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Géranium cinereum</taxon>
+    <parent type="genre">Geranium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GERANIUM CINEREUM</titre>
+        <alinea>Géraniums de rocailles et de bordures  Plante basse de 10 à 15 cm de hauteur, aux feuilles vert grisâtre et pubescentes.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>très grandes fleurs rose clair, à veines plus foncées, de mai à juillet.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>ensoleillée en sol drainant.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>semis ou division des touffes au printemps. Jeunes plants disponibles dans le commerce en automne et au printemps.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>rocailles, auges, dallages, talus caillouteux.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>• 'Ballerina' fleurs rose pourpré, à cœur noir.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Géranium cinereum 'Ballerina'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

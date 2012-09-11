@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Ornithogalum umbellatum</taxon>
+    <parent type="genre">Ornithogale</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ORNITHOGALE A OMBELLE</titre>
+        <alinea>  Très rustique au froid et à la sécheresse. Fleurs blanc satiné dessus, à revers bleuâtre, s'épanouissant en mai-juin vers 11 heures du matin, pour se refermer vers 15 heures, d'où son nom populaire de "dame de onze heures". Hauteur - 30 à 40 cm.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>beauté toute simple de la fleur étoilée. Excellente fleur à couper de très longue durée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols sablonneux, à exposition ensoleillée, éventuellement à mi-ombre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Plantez les bulbes à l'automne à 8/10 cm de profondeur et à 15/20 cm d'écartement. - Laissez la culture en place plusieurs années afin que les plantes prolifèrent.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>identique à celle d'Ornithogalum arabicum. Rocailles, talus mêmes secs, fleurs coupées de très longue tenue en vase.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Ornithogale à ombelle</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

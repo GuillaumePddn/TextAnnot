@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Chrysanthemum spectabile</taxon>    
+    <parent type = "genre">Chrysanthemum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CHRYSANTHEMES SPECTABILE, ANNUELLE</titre>
+                <alinea>
+                Plantes buissonnantes, ramifiées, à fleurs plates de forme semblable à celle de la marguerite des prés.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                    facilité de culture. Floraison abondante aux couleurs vives. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                    tous terrains à exposition ensoleillée. Supportent la sécheresse et le climat maritime.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea> 
+                    semez de mars à mai en pépinière ou en place et mettez en place ou éclaircissez à 25-30 cm d'écartement. Ce sont des plantes peu exigeantes, de développement rapide.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Utilisation</titre>
+                <alinea> 
+                    massifs, fleurs coupées (surtout chrysanthème spectabile 'Cecilia'), rocailles, talus 
+                </alinea>                 
+            </paragraphe>            
+         </contenu>
+       
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">NARCISSE A FLEURS DOUBLES</taxon>
+    <parent type="genre">Narcissus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>NARCISSE A FLEURS DOUBLES</titre>
+        <alinea>La coupe, très double, n'a pas en général une forme bien délimitée et présente un aspect chiffonné. Nous ne citerons dans cette catégorie que des variétés uniflores, intéressantes pour la fleur coupée.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Narcisse à fleurs doubles</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

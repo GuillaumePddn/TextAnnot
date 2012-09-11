@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Genista tinctoria 'Royal Gold'</taxon>
+    <parent type="genre">Genista</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GENET DES TEINTURIERS</titre>
+        <alinea> Hauteur 50 à 60 cm. Arbuste dressé, fleurs très abondantes jaune d'or, de juin en août. Les genêts sont très décoratifs par leur floraison printanière d'un très bel effet dans la rocaille ou dans les massifs de plantes de terre de bruyère. Genista lydia et Genista 'Royal Gold' se contentent de terre de jardin non calcaire et légère, bien drainée. Pour tous les genêts la taille est souvent nécessaire, pour éviter que les plantes se dégarnissent, et doit alors intervenir en fin de floraison.  Supportant mal la transplantation, les genêts sont élevés en pots ou en conteneurs afin de leur assurer une meilleure reprise lors de la transplantation.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

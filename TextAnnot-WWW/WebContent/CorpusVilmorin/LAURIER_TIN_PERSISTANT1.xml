@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Viburnum tinus</taxon>
+    <parent type="genre">Viburnum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LAURIER TIN PERSISTANT</titre>
+        <alinea>• Fleurit de novembre à avril • Assez rustique  Hauteur 1,50 à 2,50 m. Arbuste touffu, à port compact et arrondi, à feuilles ovales de texture ferme, vert foncé. Fleurs en petits bouquets, blanc rosé, s'épanouissant, selon les situations et le climat de l'année, entre novembre et avril, pendant toutes les périodes un peu douces de l'hiver. Fruits noirs, sous climats doux. Le laurier-tin est très répandu dans le Midi et dans l'Ouest, mais on le trouve fréquemment jusqu'en région parisienne où il résiste bien aux hivers moyens en situation abritée. Rarement planté en isolé, plus souvent en groupes ou dans les massifs, il peut aussi constituer de belles haies plus ou moins libres, bien touffues. On le taille en mars. Il préfère les sols légers et supporte la mi-ombre. • 'Eve Price' plus compacte, boutons rose foncé.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Laurier-tin 'Eve Price'</titre_photo>
+        <fichier_photo_plante>p461_Laurier-tin__Eve_Price_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

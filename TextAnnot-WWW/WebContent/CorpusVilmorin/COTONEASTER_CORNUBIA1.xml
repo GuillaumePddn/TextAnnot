@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cotoneaster x watereri 'Cornubia'</taxon>
+    <parent type="genre">Cotoneaster</parent>
+    <contenu>
+      <paragraphe>
+        <titre>COTONEASTER CORNUBIA</titre>
+        <alinea> Hauteur 4 à 5 m, très vigoureux, port arrondi, nombreux fruits rouges.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

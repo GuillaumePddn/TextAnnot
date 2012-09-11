@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Aquilegia coerulea 'Étoile variée'</taxon>    
+    <parent type = "espece">Aquilegia coerulea</parent>
+        <contenu>
+            <paragraphe>
+                <titre>'Étoile variée'</titre>
+                <alinea>
+                     Hauteur 50 à 60 cm. Feuillage vert frais et découpé, fleurs aux coloris variés à éperon très gracieux.
+                </alinea>
+            </paragraphe>
+         </contenu>
+     <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Ancolie 'Etoile variée'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p249_Ancolie__Etoile_variee_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+   
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

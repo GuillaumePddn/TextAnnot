@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Viburnum x burkwoodii</taxon>
+    <parent type="genre">Viburnum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>VIORNE BURKWOODII</titre>
+        <alinea>Viburnum x burkwoodii Hauteur 1,50 à 2 m. Il ressemble beaucoup à Viburnum Carlesi, avec ses fleurs roses puis blanches, en bouquets terminaux, aussi délicieusement parfumées (avril-mai). À planter en isolé ou au premier rang des massifs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

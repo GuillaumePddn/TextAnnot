@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="espece">Dahlia à collerette</taxon> 
+        <parent type = "genre">Dahlia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Dahlia à collerette ou à fleurs d'anémones</titre>
+                <alinea>
+                L'extérieur de la fleur est celui d'un capitule simple mais le centre est garni de ligules courtes et tuyautées formant un "rucher". 
+                Hauteur : 30 à 50 cm. 
+                Également pour massifs.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Dahlia à fleurs d'anémones
+            </titre_photo> 
+            <fichier_photo_plante>
+                p284_Dahlia_a_fleurs_d_anemone.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

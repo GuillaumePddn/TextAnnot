@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="variete">Xeranthemum annuum 'Brasero'</taxon>    
+    <parent type = "espece">Xeranthemum annuum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Xeranthemum annuum 'Brasero' </titre>
+                <alinea>                
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                'Brasero' forme un mélange harmonieux de coloris rose, violet, carmin, lavande et blanc. La multitude de fleurs se dresse au dessus d'un feuillage vert clair à l'aspect velu. Hauteur :  70 cm.    
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Immortelle 'Brasero'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p309_Immortelle__Brasero_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

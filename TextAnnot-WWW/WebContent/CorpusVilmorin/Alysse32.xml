@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Alyssum maritimum 'Golfy'</taxon>    
+    <parent type = "espece">Alyssum maritimum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Alyssum maritimum 'Golfy'</titre>
+                <alinea>
+                     hybride Fl. Très compact. Mélange de coloris très frais. Parfum délicat.
+                </alinea>
+            </paragraphe>
+         </contenu>
+   
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

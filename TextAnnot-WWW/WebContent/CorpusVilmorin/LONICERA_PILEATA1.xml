@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lonicera pileata</taxon>
+    <parent type="genre">Lonicera</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LONICERA PILEATA</titre>
+        <alinea>Lonicera pileata Hauteur 30 à 50 cm. Plante à port étalé, bien ramifiée, à tiges fines et à feuilles vert brillant un peu plus grandes et plus allongées que celles de Lonicera Nitida. C'est une excellente plante couvre-sol, en particulier dans les endroits ombragés.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lonicera pileata</titre_photo>
+        <fichier_photo_plante>p463_Lonicera_pileata.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

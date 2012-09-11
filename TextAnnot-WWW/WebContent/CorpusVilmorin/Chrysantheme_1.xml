@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Chrysanthemum maximum</taxon>    
+    <parent type = "genre">Chrysanthemum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>MARGUERITE D'ETE, VIVACE</titre>
+                <alinea>ou Leucanthemum (Superbum Group)
+                Ce sont les grandes marguerites de nos jardins ou leucanthèmes. Plantes de 70 à 80 cm, à feuilles lancéolées, dentelées, vert foncé. Fleurs blanches, simples, portées par une grande tige et apparaissant de juin à septembre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                    - Semez en mai-juin en pépinière.
+                    - Mettez en place à l'automne, à 50 cm de distance.
+                    - La floraison aura lieu de juin à septembre de l'année suivante.
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                massifs de plantes vivaces, fleurs coupées (de très bonne tenue).
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                A
+            </titre_photo> 
+            <fichier_photo_plante>
+                p
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

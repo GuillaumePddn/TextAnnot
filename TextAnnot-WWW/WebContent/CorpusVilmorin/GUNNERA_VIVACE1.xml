@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Gunnera manicata</taxon>
+    <parent type="genre">Gunnera</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GUNNERA VIVACE</titre>
+        <alinea>Plante semi-rustique, d'environ 1 m de hauteur, à très grandes feuilles décoratives portées par de longs pétioles. Certaines feuilles atteignent 1 m de diamètre. Fleurs vertes, en épis.  Attrait/Intérêt feuillage extrêmement décoratif par son ampleur étonnante.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols frais, riches et profonds, à exposition mi-ombragée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>le semis, possible, est peu utilisé. La multiplication s'opère par division des touffes ou prélèvement d'œilletons à la base des plantes adultes. - Fin avril-début mai, plantez ces œilletons en pots dans du terreau. - Placez-les à l'ombre pour assurer la reprise. - Hivernez-les sous châssis froid en prenant la précaution de les recouvrir d'une litière de paille ou bien en serre froide. Mettez en place en avril-mai. Moyennement rustique, le gunnéra résiste néanmoins assez bien à l'hiver si l'on prend soin de protéger la souche par une litière de feuilles ou de paille pendant les froids.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>plante de grand mérite par son feuillage extraordinaire, elle est mise en valeur en plantation isolée au bord d'une pièce d'eau ou d'un étang.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Gunnéra</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

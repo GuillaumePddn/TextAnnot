@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Kochia, ANNUELLE</taxon>
+    <parent type = "genre"> Kochia scoparia Trichophylla </parent>
+        <contenu>
+            <paragraphe>
+                <titre>KOCHIA</titre>
+                <alinea>Plante à rameaux légers, à feuillage très fin, vert clair, devenant pourpre à l'automne.
+                    Sans taille, ni pincement, elle prend d'elle-même une forme ovale parfaitement
+                    régulière. Sa taille atteint 1 m à 1,30 m ; la variété Kochia trichophylla 'Childsii', haute
+                    de 80 cm, à feuillage très fin et vert clair, ne rougit pas à l'automne.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>développement rapide. Forme évoquant celle de petits conifères.</alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol exposition</titre>
+                <alinea>tous sols, à exposition ensoleillée et chaude.</alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>semez en avril, en terrines placées sous châssis ; repiquez en godets, sous
+                    châssis, et mettez en place en juin, à 80 cm de distance. </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Utilisation</titre>
+                <alinea>grâce à son développement rapide et à sa forme, peut constituer des
+                    haies temporaires pendant l'été, en attente des plantations définitives.
+                    Est mis en valeur en isolé ou en groupes.
+                    Culture en grand pot possible mais nécessite, dans ce cas, de nombreux
+                    arrosages.</alinea>
+            </paragraphe>            
+        </contenu>
+    <photos_plante>
+
+        <photo_plante>
+            <titre_photo>
+                Kochia
+            </titre_photo> 
+            <fichier_photo_plante>
+                p317_Kochia.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+       
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

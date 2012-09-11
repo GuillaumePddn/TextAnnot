@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Iris kaempferi</taxon> 
+        <parent type = "genre">Iris</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Iris de Kaempfer</titre>
+                <alinea>
+                Iris rhizomateux.
+                Originaire du Japon, cet iris est sensiblement différent du précédent. Il présente un rhizome très court, produisant une touffe de feuilles rubanées, étroites, s'infléchissant dans leur partie supérieure. De celle-ci sortent, en juin-juillet, des tiges rigides, hautes de 90 cm à 1,20 m, portant chacune deux à trois boutons qui s'épanouissent pour donner une fleur extrêmement élégante, simple ou double, à corolle largement étalée évoquant un énorme papillon. Leurs couleurs vont du blanc pur au pourpre et au bleu foncé, souvent associées en stries ou en marbrures très originales.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 originalité des fleurs.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 tous sols frais non calcaires à exposition mi-ombragée. Bords des eaux.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                 - L'iris de Kaempfer se multiplie comme le précédent par division de touffes, autant que possible aussitôt après la floraison et jusqu'en fin septembre-octobre. Les espacer de 30 à 35 cm.	
+                 - les diviser tous les trois à cinq ans, lorsque les touffes paraissent trop serrées.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                 	cette espèce sert à fleurir le bord des bassins, étangs, rivières ou autres endroits humides. Fleurs coupées.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Iris de Kaempfer
+            </titre_photo> 
+            <fichier_photo_plante>
+                p313_Iris_de_Kaempfer.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Corylus avellana 'Conforta'</taxon>
+    <parent type="genre">Corylus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>NOISETIER TORTILLARD</titre>
+        <alinea> Hauteur 1,50 à 2,50 m. Arbuste de croissance lente, très curieux du fait de ses rameaux tortueux, spirales, très enchevêtrés, parfois en tire-bouchon. Particulièrement spectaculaire en hiver, sur un fond de neige ou au moment où l'arbuste se garnit de chatons mâles qui pendent à toutes les branches. Les feuilles, arrondies et duveteuses, sont, elles aussi, un peu déformées. Le noisetier tortillard demande à être mis en valeur en isolé, par exemple pour marquer un point précis du jardin, près de la maison, ou dans la rocaille.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Noisetier tortillard et ses chatons en hiver</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

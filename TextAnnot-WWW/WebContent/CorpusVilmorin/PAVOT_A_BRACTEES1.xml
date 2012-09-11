@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Papaver bracteatum</taxon>
+    <parent type="genre">Pavot</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PAVOT A BRACTEES ESPÈCES VIVACES</titre>
+        <alinea> Hauteur - 1 m à 1,20 m. Larges fleurs rouge foncé, marquées d'une tache noire à la base des pétales.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

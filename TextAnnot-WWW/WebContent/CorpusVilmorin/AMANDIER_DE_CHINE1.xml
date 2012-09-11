@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Prunus triloba</taxon>
+    <parent type="genre">Prunus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>AMANDIER DE CHINE</titre>
+        <alinea>Prunus triloba Hauteur 1,50 à 2,50 m. Kn fait, il s'agit d'un amandier mais sur les catalogues spécialisés, il figure toujours avec les pruniers à fleurs. C'est un ravissant petit arbuste dont les branches bien droites se couvrent en avril, avant les feuilles, de petites fleurs doubles, roses, en pompons. Il est parfois cultivé sur une petite tige de 1 ou 1,20 m et toujours planté en isolé. Il y a lieu de le tailler court, aussitôt après la floraison, pour provoquer le départ de branches vigoureuses qui porteront la prochaine floraison. Traités au chapitre des arbres d'ornement, Prunus x blireana et Prunus pissardii peuvent également être conduits sous forme d'arbustes. Ils sont alors utilisés en isolé ou en association avec des feuillages panachés dans des massifs d'arbustes, ou encore pour constituer des haies plus ou moins libres. Les pruniers à fleurs acceptent tous les sols, même calcaires, mais sans excès d'humidité, et préfèrent les situations ensoleillées.</alinea>
+      </paragraphe>
+    </contenu>
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Amandier de Chine</titre_photo>
+        <fichier_photo_plante>p469_Amandier_de_Chine.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

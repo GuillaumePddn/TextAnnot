@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Asclepias, VIVACE</taxon>
+        <parent type = "famille"> Asclepiadaceae </parent>
+        <contenu>
+            <paragraphe>
+                <titre>ASCLEPIADE</titre>
+                <alinea>
+                Plante préférant les situations ensoleillées et chaudes. La rusticité est variable selon les espèces et il est préférable de les protéger dans les climats à hivers rigoureux.
+                </alinea>
+            </paragraphe>
+        </contenu>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Chrysanthemum carinatum 'Cachemire varié'</taxon>    
+    <parent type = "espece">Chrysanthemum carinatum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Chrysanthème à carène Cachemire varié </titre>
+                <alinea> 
+                    grandes fleurs de 5 à 6 cm de diamètre. Coloris riches.
+                </alinea>
+            </paragraphe>
+        </contenu>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

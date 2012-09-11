@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Ligustrum ovalifolium</taxon>
+    <parent type="genre">Ligustrum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>TROENE DE CALIFORNIE</titre>
+        <alinea>Ligustrum ovalifolium Hauteur 3 à 4 m en sujet non taillé. C'est un arbuste vigoureux, extrêmement répandu dans nos jardins. Très ramifié, il porte des feuilles vert foncé, ovales, presque persistantes. Ses petites fleurs blanches, odorantes, en petites panicules terminales, en juin-juillet, ne présentent guère d'intérêt. Supportant très bien la taille, il n'est pratiquement utilisé que pour constituer des haies économiques de 1 à 1,50 m de hauteur ou plus. Si les sujets plantés ne sont pas très ramifiés dès la base, il est recommandé de les rabattre à 30 ou 40 cm du sol et de les tailler ensuite deux fois par an en remontant à chaque fois la coupe de 30 ou 40 cm. On obtient ainsi rapidement une haie bien touffue jusqu'au sol. Par la suite, plus la haie est taillée et plus les feuilles persistent longtemps. Elles tombent néanmoins lors des hivers rigoureux mais le départ de la végétation est relativement précoce. La variété 'Aureum' a un feuillage marginé de jaune doré.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>D'autres espèces sont utilisées Ligustrum japonicum 'Rotundifolium' Hauteur 1 m à 1,50 m. Feuillage coriace persistant et vert foncé brillant. • Ligustrum japonicum 'Rotundifolium Aureum' feuillage marginé de jaune, pre- nant une couleur rose au printemps et en automne. • Ligustrum vulgare 'Atrovirens' hauteur 2,50 m. Feuillage allongé plus grand que ligustrum ovalifolium. • Ligustrum sinense hauteur 2,50 à 3 m. Petites fleurs blanches parfumées en juin juillet. Pour les haies libres. • Ligustrum 'Lodense' variété naine. Hauteur 0,80 à 1 m.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Troène 'Aureum'</titre_photo>
+        <fichier_photo_plante>p474_Troene__Aureum_.jpg</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Troène 'Rotundifolium'</titre_photo>
+        <fichier_photo_plante>p474_Troene__Rotundifolium_.jpg</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Troène nain tondense'</titre_photo>
+        <fichier_photo_plante>p474_Troene_nain_tondense_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

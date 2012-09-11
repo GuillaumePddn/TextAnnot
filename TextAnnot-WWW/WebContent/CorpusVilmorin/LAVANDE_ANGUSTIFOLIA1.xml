@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lavandula angustifolia</taxon>
+    <parent type="genre">Lavandula</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LAVANDE ANGUSTIFOLIA</titre>
+        <alinea>Lavandula angustifolia Hauteur 40 à 60 cm en fleurs. Plante touffue, compacte, d'aspect argenté, à petites feuilles étroites. En juillet-août, nombreux épis dressés de petites fleurs bleu-mauve, très parfumées.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>• 'Dutch' 60 à 80 cm, feuillage bien argenté. • 'Hidcote' 40 à 50 cm, épi très foncé. • 'Munstead' 60 à 70 cm, compacte, etc. • Rosea' 60 à 80 cm, fleurs roses. • 'Edelweiss' 50 à 70 cm, fleurs blanches.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lavande 'Hidcote'</titre_photo>
+        <fichier_photo_plante>p461_Lavande__Hidcote_.jpg</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Lavande 'Dutch'</titre_photo>
+        <fichier_photo_plante>p461_Lavande__Dutch_.jpg</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Lavande 'Edelweiss'</titre_photo>
+        <fichier_photo_plante>p461_Lavande__Edelweiss_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

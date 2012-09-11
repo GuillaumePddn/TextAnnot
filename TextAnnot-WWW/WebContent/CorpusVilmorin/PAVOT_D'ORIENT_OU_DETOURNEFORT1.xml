@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Papaver orientale</taxon>
+    <parent type="genre">Pavot</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PAVOT D'ORIENT OU DETOURNEFORT ESPÈCES VIVACES</titre>
+        <alinea> Hauteur de 1 m à 1,20 m. Espèce voisine de la précédente, caractérisée par l'absence de feuilles sur la tige florale, et des coloris plus variés. Larges vermillon, fleurs rouge rouge écarlate, brique, ponceau, abricot, saumon, blanc.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>floraison très brillante.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous terrains, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez d'avril à juillet en place, très clair, ou en pépinière. - Repiquez alors en pots et mettez en place en automne de préférence ou au printemps, en distançant les plantes de 80 cm à 1 m. - Il est possible d'opérer par division des touffes après la floraison. Cette opération doit être faite avec beaucoup de soin car les racines ne se séparent pas facilement.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>taches de couleurs dans des massifs de plantes vivaces à floraison tardive (asters, par exemple). Ils contribuent ainsi à l'échelonnement des floraisons et, de plus, leurs souches se trouvent dissimulées lorsque leurs fleurs sont "passées". Le pavot d'Islande est une excellente fleur à couper, mais il faut plonger le bas de ses tiges dans l'eau bouillante avant de le mettre en vase afin de dissoudre le latex coagulé qui, sinon, s'oppose à la montée du liquide.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pavot d'Orient 'Pizzicato'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

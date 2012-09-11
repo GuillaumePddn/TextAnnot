@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Populus nigra 'Italica'</taxon>
+    <parent type="genre">Populus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PEUPLIER D'ITALIE</titre>
+        <alinea> Hauteur 12 à 15 m et plus. Arbre très répandu tant dans les grands jardins que dans les villes sa silhouette élancée est très familière. Tronc garni dès la base de branches très érigées. Les feuilles, presque triangulaires, apparaissent de bonne heure au printemps et sont panni les dernières à tomber, après avoir pris une jolie teinte jaune d'or. Le peuplier d'Italie est très utilisé en groupes, rideaux de verdure, ou en alignement. 11 convient de signaler que ses racines superficielles, vigoureuses, peuvent nuire aux plantations voisines, aux allées, et même causer des dégâts à certaines maçonneries légères. Il est prudent d'en tenir compte avant tout projet de plantation. Le peuplier d'Italie aime les sols frais et profonds, où sa croissance est rapide.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Peuplier d'Italie</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

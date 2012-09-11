@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Chrysanthemun indicum</taxon>    
+    <parent type = "genre">Chrysanthemun</parent>
+        <contenu>
+            <paragraphe>
+                <titre>MARGUERITES D'AUTOMNE OU CHRYSANTHEMES HYBRIDES DES JARDINS</titre>
+                <alinea>Chrysanthemun indicum et sinense hybrides
+                Ce sont les innombrables variétés issues de croisements effectués entre des espèces originaires d'Extrême-Orient.
+                Les marguerites d'automne regroupent toutes les espèces appelées autrefois indicum, coreanum et rubellum.
+                Nombre de ces dernières sont suffisamment rustiques pour participer au décor du jardin parmi les plantes vivaces et fournissent des fleurs à couper d'une durée exceptionnelle en vase.
+                Les variétés les plus précoces fleurissent dès le mois de juillet. Les chrysanthèmes sont réellement les rois de l'automne et ils peuvent prolonger les floraisons de votre jardin tant qu'une gelée sévère n'y vient pas mettre un terme.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                    1) Les marguerites d'automne se multiplient par bouturage de janvier à mai. Mettez en place en pleine terre à partir de mai, les premières boutures racinées. Les plantes se ramifient normalement sans pincement. Cependant, des pincements effectués jusqu'au 15 juillet permettent d'obtenir des plantes basses compactes et très florifères. Il n'est pas utile d'ébourgeonner.
+                    2) Les chrysanthèmes hybrides s'obtiennent aussi très facilement par semis. Si celui-ci est assez précoce (janvier-février, à chaud) les plantes fleurissent dès l'automne. Sans matériel spécial, semez en pépinière en mai-juin. Repiquez et hivernez en pépinière bien exposée et plantez au printemps. La floraison a lieu à partir du mois de septembre suivant.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Chrysanthèmes hybrides des jardins
+            </titre_photo> 
+            <fichier_photo_plante>
+                p272_Chrysanthemes_hybrides_des_jardins.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+        <photo_plante>
+            <titre_photo>
+                Marguerite d'automne à fleurs rouge orangé
+            </titre_photo> 
+            <fichier_photo_plante>
+                p272_Marguerite_d_automne_a_fleurs_rouge_orange.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+        <photo_plante>
+            <titre_photo>
+                Marguerite d'automne à fleurs très doubles rouge
+            </titre_photo> 
+            <fichier_photo_plante>
+                p272_Marguerite_d_automne_a_fleurs_tres_doubles_rouge.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+     <photo_plante>
+        <titre_photo>
+            Chrysanthèmes cascade
+        </titre_photo> 
+        <fichier_photo_plante>
+            p272_Chrysanthèmes_cascade.jpg
+        </fichier_photo_plante>
+    </photo_plante>
+     <photo_plante>
+        <titre_photo>
+            Chrysanthèmes pompon
+        </titre_photo> 
+        <fichier_photo_plante>
+            p273_Chrysanthemes_pompon.jpg
+        </fichier_photo_plante>
+    </photo_plante>
+     <photo_plante>
+         <titre_photo>
+            Les chrysanthèmes offrent souvent des coloris très chauds
+        </titre_photo> 
+        <fichier_photo_plante>
+            p273_Les_chrysanthemes_offrent_souvent_des_coloris_tres_chauds.jpg
+        </fichier_photo_plante>
+    </photo_plante>
+   </photos_plante>
+     
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

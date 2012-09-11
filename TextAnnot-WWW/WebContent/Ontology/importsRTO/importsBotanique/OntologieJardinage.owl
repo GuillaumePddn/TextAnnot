@@ -1,0 +1,552 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY swrl "http://www.w3.org/2003/11/swrl#" >
+    <!ENTITY swrlb "http://www.w3.org/2003/11/swrlb#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY protege "http://protege.stanford.edu/plugins/owl/protege#" >
+    <!ENTITY xsp "http://www.owl-ontologies.com/2005/08/07/xsp.owl#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.owl-ontologies.com/OntologieJardinage.owl#"
+     xml:base="http://www.owl-ontologies.com/OntologieJardinage.owl"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+     xmlns:xsp="http://www.owl-ontologies.com/2005/08/07/xsp.owl#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://www.owl-ontologies.com/OntologieJardinage.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#necessite -->
+
+    <owl:ObjectProperty rdf:about="#necessite"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Abattage -->
+
+    <owl:Class rdf:about="#Abattage">
+        <rdfs:label xml:lang="fr">abattage</rdfs:label>
+        <rdfs:label xml:lang="fr">abattre</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationTailleArbuste"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Amendement -->
+
+    <owl:Class rdf:about="#Amendement">
+        <rdfs:label xml:lang="fr">amendement</rdfs:label>
+        <rdfs:label xml:lang="fr">amender</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationTraitementSol"/>
+        <rdfs:comment rdf:datatype="&xsd;string">rendre le sol plus riche</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Arrosage -->
+
+    <owl:Class rdf:about="#Arrosage">
+        <rdfs:label xml:lang="fr">arrosage</rdfs:label>
+        <rdfs:label xml:lang="fr">arroser</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationArrosage"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Binage -->
+
+    <owl:Class rdf:about="#Binage">
+        <rdfs:label xml:lang="fr">binage</rdfs:label>
+        <rdfs:label xml:lang="fr">biner</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationPlantation"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Bouturage -->
+
+    <owl:Class rdf:about="#Bouturage">
+        <rdfs:label xml:lang="fr">bouturer</rdfs:label>
+        <rdfs:label xml:lang="fr">bouturage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationPlantation"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Broyage -->
+
+    <owl:Class rdf:about="#Broyage">
+        <rdfs:label xml:lang="fr">broyage</rdfs:label>
+        <rdfs:label xml:lang="fr">broyer</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationAutres"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Culture -->
+
+    <owl:Class rdf:about="#Culture">
+        <rdfs:label xml:lang="fr">cultiver</rdfs:label>
+        <rdfs:label xml:lang="fr">culture</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationPlantation"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Debroussaillage -->
+
+    <owl:Class rdf:about="#Debroussaillage">
+        <rdfs:label xml:lang="fr">débroussaillage</rdfs:label>
+        <rdfs:label xml:lang="fr">débroussailler</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationNettoyageVegetal"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Deplantation -->
+
+    <owl:Class rdf:about="#Deplantation">
+        <rdfs:label xml:lang="fr">déplantation</rdfs:label>
+        <rdfs:label xml:lang="fr">déplanter</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationNettoyageVegetal"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Depressage -->
+
+    <owl:Class rdf:about="#Depressage">
+        <rdfs:label xml:lang="fr">dépressage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationTailleArbuste"/>
+        <rdfs:comment rdf:datatype="&xsd;string">réduire la densité</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Desherbage -->
+
+    <owl:Class rdf:about="#Desherbage">
+        <rdfs:label xml:lang="fr">désherbage</rdfs:label>
+        <rdfs:label xml:lang="fr">désherber</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationNettoyageVegetal"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Desouchage -->
+
+    <owl:Class rdf:about="#Desouchage">
+        <rdfs:label xml:lang="fr">désouchage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationTailleArbuste"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Drainage -->
+
+    <owl:Class rdf:about="#Drainage">
+        <rdfs:label xml:lang="fr">drainage</rdfs:label>
+        <rdfs:label xml:lang="fr">drainer</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationArrosage"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Echardonnage -->
+
+    <owl:Class rdf:about="#Echardonnage">
+        <rdfs:label xml:lang="fr">échardonnage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationNettoyageVegetal"/>
+        <rdfs:comment xml:lang="fr">enlever les chardons</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Elagage -->
+
+    <owl:Class rdf:about="#Elagage">
+        <rdfs:label xml:lang="fr">élagage</rdfs:label>
+        <rdfs:label xml:lang="fr">élaguer</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationTailleArbuste"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Epierrage -->
+
+    <owl:Class rdf:about="#Epierrage">
+        <rdfs:label xml:lang="fr">épierrage</rdfs:label>
+        <rdfs:label xml:lang="fr">épierrer</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationNettoyageMineral"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Faucardage -->
+
+    <owl:Class rdf:about="#Faucardage">
+        <rdfs:label xml:lang="fr">faucardage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationTailleArbuste"/>
+        <rdfs:comment xml:lang="fr">couper et exporter les roseaux</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Fauchage -->
+
+    <owl:Class rdf:about="#Fauchage">
+        <rdfs:label xml:lang="fr">fauchauge</rdfs:label>
+        <rdfs:label xml:lang="fr">faucher</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationTailleHerbe"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Fendage -->
+
+    <owl:Class rdf:about="#Fendage">
+        <rdfs:label xml:lang="fr">fendage</rdfs:label>
+        <rdfs:label xml:lang="fr">fendre</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationAutres"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Humidification -->
+
+    <owl:Class rdf:about="#Humidification">
+        <rdfs:label xml:lang="fr">humidification</rdfs:label>
+        <rdfs:label xml:lang="fr">humidifier</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationArrosage"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Mulchage -->
+
+    <owl:Class rdf:about="#Mulchage">
+        <rdfs:label xml:lang="fr">mulchage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationTraitementSol"/>
+        <rdfs:comment rdf:datatype="&xsd;string">mettre de la tonte de gazon ou de la paille sur le sol</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Operation -->
+
+    <owl:Class rdf:about="#Operation">
+        <rdfs:label xml:lang="fr">opération</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#OperationAeration -->
+
+    <owl:Class rdf:about="#OperationAeration">
+        <rdfs:label xml:lang="fr">aération</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#Operation"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#OperationArrosage -->
+
+    <owl:Class rdf:about="#OperationArrosage">
+        <rdfs:label xml:lang="fr">humidité</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#Operation"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#OperationAutres -->
+
+    <owl:Class rdf:about="#OperationAutres">
+        <rdfs:label xml:lang="fr">autres opérations</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#Operation"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#OperationCoupe -->
+
+    <owl:Class rdf:about="#OperationCoupe">
+        <rdfs:label xml:lang="fr">coupe</rdfs:label>
+        <rdfs:label xml:lang="fr">couper</rdfs:label>
+        <rdfs:label xml:lang="fr">scier</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationTaille"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#OperationMaintien -->
+
+    <owl:Class rdf:about="#OperationMaintien">
+        <rdfs:label xml:lang="fr">entretien du port</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#Operation"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#OperationNettoyage -->
+
+    <owl:Class rdf:about="#OperationNettoyage">
+        <rdfs:label xml:lang="fr">nettoyage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#Operation"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#OperationNettoyageMineral -->
+
+    <owl:Class rdf:about="#OperationNettoyageMineral">
+        <rdfs:label xml:lang="fr">nettoyage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationNettoyage"/>
+        <rdfs:comment rdf:datatype="&xsd;string">enlever les pierres</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#OperationNettoyageVegetal -->
+
+    <owl:Class rdf:about="#OperationNettoyageVegetal">
+        <rdfs:label xml:lang="fr">nettoyage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationNettoyage"/>
+        <rdfs:comment xml:lang="fr">enlever les mauvaises herbes</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#OperationPlantation -->
+
+    <owl:Class rdf:about="#OperationPlantation">
+        <rdfs:label xml:lang="fr">entretien de la terre</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#Operation"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#OperationSechage -->
+
+    <owl:Class rdf:about="#OperationSechage">
+        <rdfs:label xml:lang="fr">aridité</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#Operation"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#OperationTaille -->
+
+    <owl:Class rdf:about="#OperationTaille">
+        <rdfs:label xml:lang="fr">taille</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#Operation"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#OperationTailleArbuste -->
+
+    <owl:Class rdf:about="#OperationTailleArbuste">
+        <rdfs:label xml:lang="fr">taille des arbustes</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationTaille"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#OperationTailleHerbe -->
+
+    <owl:Class rdf:about="#OperationTailleHerbe">
+        <rdfs:label xml:lang="fr">taille de l&#39;herbe</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationTaille"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#OperationTraitementSol -->
+
+    <owl:Class rdf:about="#OperationTraitementSol">
+        <rdfs:label xml:lang="fr">traitement du sol</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#Operation"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Paillage -->
+
+    <owl:Class rdf:about="#Paillage">
+        <rdfs:label xml:lang="fr">paillage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationTraitementSol"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Plantation -->
+
+    <owl:Class rdf:about="#Plantation">
+        <rdfs:label xml:lang="fr">plantation</rdfs:label>
+        <rdfs:label xml:lang="fr">planter</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationPlantation"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Recepage -->
+
+    <owl:Class rdf:about="#Recepage">
+        <rdfs:label xml:lang="fr">recépage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationTailleArbuste"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Rempotage -->
+
+    <owl:Class rdf:about="#Rempotage">
+        <rdfs:label xml:lang="fr">rempotage</rdfs:label>
+        <rdfs:label xml:lang="fr">rempoter</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationPlantation"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Sechage -->
+
+    <owl:Class rdf:about="#Sechage">
+        <rdfs:label xml:lang="fr">séchage</rdfs:label>
+        <rdfs:label xml:lang="fr">sécher</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationSechage"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Taille -->
+
+    <owl:Class rdf:about="#Taille">
+        <rdfs:label xml:lang="fr">taille</rdfs:label>
+        <rdfs:label xml:lang="fr">tailler</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationTailleArbuste"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Terrassement -->
+
+    <owl:Class rdf:about="#Terrassement">
+        <rdfs:label xml:lang="fr">terrassement</rdfs:label>
+        <rdfs:label xml:lang="fr">terrasser</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationNettoyageMineral"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Tonte -->
+
+    <owl:Class rdf:about="#Tonte">
+        <rdfs:label xml:lang="fr">tondre</rdfs:label>
+        <rdfs:label xml:lang="fr">tonte</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationTailleHerbe"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Transplantation -->
+
+    <owl:Class rdf:about="#Transplantation">
+        <rdfs:label xml:lang="fr">transplantation</rdfs:label>
+        <rdfs:label xml:lang="fr">transplanter</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationPlantation"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Tuteurage -->
+
+    <owl:Class rdf:about="#Tuteurage">
+        <rdfs:label xml:lang="fr">tuteurage</rdfs:label>
+        <rdfs:label xml:lang="fr">tuteurer</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationMaintien"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Vaporisation -->
+
+    <owl:Class rdf:about="#Vaporisation">
+        <rdfs:label xml:lang="fr">vaporisation</rdfs:label>
+        <rdfs:label xml:lang="fr">vaporiser</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationArrosage"/>
+    </owl:Class>
+    
+
+
+    <!--http://www.owl-ontologies.com/OntologieJardinage.owl#Ventilation -->
+
+    <owl:Class rdf:about="#Ventilation">
+        <rdfs:label xml:lang="fr">ventilation</rdfs:label>
+        <rdfs:label xml:lang="fr">ventiler</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#OperationAeration"/>
+    </owl:Class>
+
+  <!-- http://www.owl-ontologies.com/OntologieJardinage.owl#estAttaquéePar -->
+
+  
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.2.3.1824) http://owlapi.sourceforge.net -->
+

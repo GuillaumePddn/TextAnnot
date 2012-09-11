@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Galanthus nivalis</taxon>
+    <parent type="genre">Perce neige</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PERCE NEIGE BULBEUSE</titre>
+        <alinea>Plante bulbeuse, vivace, produisant deux feuilles linéaires, vert-bleu, atteignant 15 cm de hauteur. Au centre s'élève, en février-mars, une hampe florale terminée par une petite fleur simple blanc pur tachée de vert à l'extrémité des pétales. Il existe une variété 'Flore Pleno' à fleur double.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>précocité de la floraison qui annonce le réveil de la végétation.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols lourds, frais et partiellement ombragés (sous-bois).</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>facile. - Plantez les bulbes de perce-neige dès que possible, de septembre à novembre. Enfon- cez-les de 3 à 4 cm et faites-en des groupes de quinze ou vingt, au moins. - Ensuite, la culture demande peu de soins et nous vous conseillons de laisser les touffes en place plusieurs années. Elles proliféreront naturellement.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>taches fleuries en sous-bois, au pied d'arbustes, etc. Rocailles, murets fleuris.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Perce-neige</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

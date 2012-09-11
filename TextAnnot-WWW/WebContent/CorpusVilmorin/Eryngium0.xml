@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="genre">Eryngium</taxon>
+        <parent type = "famille">Apiaceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Eryngium Vivace</titre>
+                <alinea>
+                Panicaut
+                Plante dont l'inflorescence ressemblant à celle de l'echinops est mise en valeur par une collerette décorative constituée de bractées souvent dentelées et épineuses.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait / Intérêt</titre>
+                <alinea>
+                aspect métallique de la plante.
+                Inflorescences globuleuses originales diversement colorées et de longue durée.     
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / Exposition</titre>
+                <alinea>
+                sols secs et sains à exposition chaude et ensoleillée.
+                Supporte le calcaire et le climat maritime.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                 - La plantation a lieu en automne, ou au printemps, en isolé ou à 40 cm d'écartement environ, en bonne terre franche bien drainée. Ces plantes sont peu exigeantes.
+                 - Après la floraison, coupez les tiges à ras du sol.
+                 - La multiplication par semis, ou bouturage de racines, n'est guère employée en culture d'amateur.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Utilisation</titre>
+                <alinea>
+                rocailles, murets fleuris, massifs. Les Eryngiums, entrent également dans la confection de bouquets secs. Pour cela, cueillez les fleurs avant leur complet épanouissement et faites-les sécher la tête en bas, à l'ombre et au frais.  
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Panicaut
+            </titre_photo> 
+            <fichier_photo_plante>
+                p290_Panicaut.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

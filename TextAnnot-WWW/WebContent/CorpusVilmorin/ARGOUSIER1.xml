@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">ARGOUSIER</taxon>
+    <parent type="genre">Hippophae rhamnoides</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ARGOUSIER</titre>
+        <alinea>• Fruits de septembre à mars. Hauteur 3 à 5 m. L'argousier est un arbuste vigoureux et très décoratif par ses feuilles et ses fruits. Ses feuilles, très étroites, sont grises à revers argenté. 11 existe des plantes mâles et des plantes femelles, les fruits n'apparaissent sur les plantes femelles que si la plantation comporte au moins un sujet mâle pour 5 ou 6 sujets femelles. Surtout visibles après la chute des feuilles, les petits fruits orangés, très abondants, sont groupés le long des branches et persistent jusqu'au printemps. Curieusement, les oiseaux ne les recherchent pas ; acidulés, ils sont riches en vitamine C. comme en témoigne le sirop d'argousier couramment vendu dans les magasins commercialisant des produits diététiques. L'argousier est, de plus, un arbuste précieux pour sa grande résistance aux terrains salés et aux embruns. Il prospère dans tous les sols, ne craint ni l'humidité ni le calcaire. Il peut être utilisé au jardin en isolé mais il est surtout recommandé en petits groupes (comprenant au moins un sujet mâle !) associés à d'autres arbustes, en contraste avec des feuillages pourpres par exemple.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Argousier</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Pourpier de mer</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Hunnemannia fumarifolia</taxon> 
+        <parent type = "genre">Hunnemannia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Hunnemannia fumarifolia Annuelle</titre>
+                <alinea>
+                Plante cultivée comme annuelle, mais vivace en serre. Haute de 40 à 50 cm, elle ressemble beaucoup à l'Eschscholtzia de Californie mais ses fleurs sont plus grandes, d'un jaune canari très vif.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                floraison estivale d'un jaune éclatant.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                terrains sablonneux, légers, bien exposés. Redoute l'humidité et les sols compacts.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                 1) Semez à chaud en février-mars, repiquez en godets et plantez en mai à 25 cm d'écartement pour floraison à partir de juillet.
+                 2) Semez directement en place en mai. Éclaircissez à 25 cm. 
+                 Floraison août-septembre. L'hunnemannie supporte mal les repiquages.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                pour rocailles, talus. Fleurs coupées.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

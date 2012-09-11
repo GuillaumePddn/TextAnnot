@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Allium moly</taxon>
+    <parent type = "genre">Allium</parent>
+        <contenu>
+            <paragraphe>
+                <titre>AIL DORE</titre>
+                <alinea>
+                    Feuillage vert bleuté. Fleurs jaunes en ombelle, en mai-juin. Hauteur 30 cm. Les petits bulbes de 2 à 3 cm de diamètre se plantent à l'automne, à 10 cm d'écartement.
+                </alinea>
+           </paragraphe>
+           <paragraphe>
+                <titre>Utilisation</titre> 
+                <alinea> 
+                     décoration de massifs de plantes vivaces, rocailles.
+                </alinea>
+            </paragraphe>
+        </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Ail doré
+            </titre_photo> 
+            <fichier_photo_plante>
+                p246_Ail_dore.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

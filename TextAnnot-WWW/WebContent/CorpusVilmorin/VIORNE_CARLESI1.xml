@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Viburnum carlesi</taxon>
+    <parent type="genre">Viburnum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>VIORNE CARLESI</titre>
+        <alinea>Viburnum carlesi Hauteur 1,50 m environ. Arbuste à croissance lente, feuilles ovales. Fleurs en bouquets terminaux, roses en boutons, blanches ensuite, en avril-mai. Elles sont surtout délicieusement parfumées. À planter en isolé ou au premier rang des massifs. • La variété 'Aurora' a des fleurs plus roses.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Viorne carlesi</titre_photo>
+        <fichier_photo_plante>p475_Viorne_carlesi.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

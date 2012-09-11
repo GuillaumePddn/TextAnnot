@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Aquilegia, VIVACE</taxon>
+        <parent type = "famille"> Ranunculaceae </parent>
+        <contenu>
+            <paragraphe>
+                <titre>ANCOLIE, VIVACE</titre>
+                <alinea>              
+                </alinea>
+             </paragraphe>               
+             <paragraphe>
+                <titre>Attrait / Intérêt</titre>              
+                <alinea>
+                     les ancolies comptent parmi les plus belles des plantes vivaces. Le feuillage est très frais de couleur. Les fleurs, qui apparaissent en mai-juin au sommet d'un faisceau de longues tiges, sont d'une élégance rare et gracieusement originales dans leur forme. Elles offrent enfin des coloris très particuliers allant du blanc, du bleu clair et du jaune pâle au rose, au brun et au lie de vin les plus intenses. 
+                </alinea>
+            </paragraphe>           
+            <paragraphe>
+                <titre>Sol / Exposition</titre>
+                <alinea>
+                    terres riches et profondes. au soleil ou à mi-ombre.
+                </alinea>                   
+            </paragraphe>           
+        </contenu>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

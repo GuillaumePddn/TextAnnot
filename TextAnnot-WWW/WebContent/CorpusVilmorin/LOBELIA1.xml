@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lobelia</taxon>
+    <parent type="genre">Lobelia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LOBÉLIA</titre>
+        <alinea>Plante annuelle, mais vivace en serre, formant une touffe compacte, très ramifiée, de 10 à 15 cm de hauteur ; feuilles petites et étroites ; fleurs très nombreuses, irrégulières, en forme de papillon, bleu clair, portant deux taches blanches au centre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>plante très basse. Durée de la floraison (mai à octobre).</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>toutes terres, toutes expositions.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Semez en mars-avril sous abri, repiquez sur couche et mettez en place en mai, à 20 cm d'écartement. Floraison de juillet à octobre 2) Semez fin avril en pépinière, sous châssis froid ou à bonne exposition. Repiquez en pépinière et mettez en place en juin, à 20 cm d'écartement. Floraison de fin juillet à octobre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>bordures, tapis fleuris (fond de parterre), rocailles, j ardinières. La variété pen-dula 'Cascade' convient très bien à la culture en pots (suspensions ou jardinières). Espèces et variétés • Lobélia compacta 'Crystal Palace'. Petite plante compacte, très florifère, à fleurs bleu intense. Hauteur de 10 cm. • Lobélia erinus 'Blue Carpet'. Bleu pur. Hauteur 10 cm. • Lobélia pendula 'Cascade'. Plante retom- bante idéale pour les suspensions, très florifère. Coloris bleu lavande, rouge et blanc. Hauteur de 50 cm.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Les lobélias associés aux pétunias composent</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Lobélia 'Crystal Palace'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Lobélia 'Cascade'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

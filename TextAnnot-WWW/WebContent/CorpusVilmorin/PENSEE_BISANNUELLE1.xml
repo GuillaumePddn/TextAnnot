@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Viola hortensis ou Viola wittrockiana</taxon>
+    <parent type="genre">Pensée</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PENSEE BISANNUELLE</titre>
+        <alinea>Plantes vivaces, cultivées comme bisannuelles, les pensées sont parmi les meilleures fleurs de printemps, grâce à l'abondance et à la durée de leur floraison. Elles ont été et font toujours l'objet d'importants travaux de sélection qui visent à obtenir des fleurs plus grandes et surtout plus nombreuses, apparaissant précocement et même en fin d'hiver, ainsi qu'une meilleure résistance aux différentes maladies qui affectent cette espèce. Il est à remarquer que l'abondance de la floraison automnale, que manifestent certaines races, n'est pas forcément liée à leur floribondité hivernale et printanière. Leur hauteur varie de 15 à 20 cm. Les fleurs de Pensées sont unicolores, à œil ou à macule. L'œil au centre de la fleur, est beaucoup plus petit que la macule qui occupe la majeure partie du pétale inférieur de la fleur.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>floraison automnale et de fin d'hiver, puis de printemps.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols riches, frais, bien drainés, à exposition ensoleillée ou mi-ombragée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Semez de juillet à août, en pépinière ombragée, en terre saine et légère ; repiquez en pépinière et mettez en place à l'automne, à 25 cm de distance. On peut également mettre en place au printemps. En semant clair et en éclaircissant éventuellement ensuite, on évite le repiquage, mais on obtient des plantes plus chétives. Floraison d'avril à août. 2) Semez en juin. Même conduite de culture qu'au paragraphe précédent avec repiquage en août-septembre. Floraison fin octobre et printemps. 3) Semez en janvier-février sous abri chaud. Repiquez en pépinière en mars. Mettez en place fin mai. Floraison de juin à septembre. Les résultats de ces derniers semis sont moins bons - la floraison plus tardive est souvent saisie par les premières chaleurs, les fleurs sont plus petites et moins abondantes. Cette méthode peut convenir pour les régions maritimes et fraîches ou, au contraire, à hiver très rigoureux. Dans ce cas, la pensée est utilisée comme une plante annuelle d'été, comme c'est de plus en plus le cas en Europe conti- nentale. Les pensées sont relativement peu exigeantes quant au sol, mais dans une terre riche, on obtiendra des fleurs plus grandes et plus nombreuses. Pourtant, il faut éviter la culture sur terreau pur ou terrain riche en humus car les plantes prennent alors un développement foliacé exagéré et supportent moins bien l'hiver.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>la pensée est la reine des plantes bisannuelles à floraison printanière. On peut l'utiliser en opposant les couleurs de deux de ses variétés, rêve bleu et rêve jaune par exemple ou en association avec les myosotis, pâquerettes, primevères, etc. C'est aussi le "faire valoir" idéal pour les tulipes. Certaines variétés, notamment les hybrides Fl, fleurissent le jardin dès l'automne. Enfin toutes les pensées se prêtent très bien à la culture en pots ou jardinières. Ce sont des plantes vigoureuses, à gros feuillage vert, à fleurs très grandes, soutenues par de forts pédoncules. Hauteur 15 cm.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>• Pensée Mes Rêves. Race hâtive à coloris unis et francs, sans tache ni macule, blanc, bleu clair, bleu nuit, jaune soufre, jaune d'or, pourpre, rouge vif, orange, violet. Cette pureté des coloris permet d'obtenir des contrastes beaucoup plus tranchés qu'avec des fleurs multicolores, lorsque plusieurs variétés sont plantées en opposition (tons bleus et jaunes par exemple). Les pensées mes rêves sont également les plus propres à servir de fond aux tulipes sans risquer de heurter les couleurs de ces dernières. • Pensée géante de Suisse. De port plus compact et légèrement plus tardive, c'est une race parfaite pour massifs. Les fleurs, très rondes, présentent une association agréable de brillants coloris jaune, rouge, lilas et même rose. • Pensée 'Chrysantha'. Jaune d'or à macules noires. • Pensée lac de Thoune'. Bleu pur à macules. • Pensée 'Lueur des Alpes'. Grandes fleurs de tons chauds, rouge cardinal. • Pensée 'Les Ecrins'. Violet foncé velouté. • Pensée "Tutti Frutti'. Mélange à cœur framboise.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pensée 'Chrysantha'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Pensée tac de Thoune'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Pensée lueur des Alpes'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Pensée les Ecrins'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Pensée 'Tutti Frutti'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Pensée Mes Rêves variée</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Pensée Géante Suisse variée</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

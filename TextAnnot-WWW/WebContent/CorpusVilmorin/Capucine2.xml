@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Tropaeolum peregrinum</taxon>
+        <parent type = "genre">Tropaeolum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CAPUCINE DES CANARIS, ANNUELLE</titre>
+                <alinea>
+                    Cette capucine grimpante (2 m et plus) diffère de la capucine hybride de Lobb par la forme de ses feuilles et de ses fleurs. Les feuilles vert tendre sont palmées, à cinq ou sept lobes, et évoquent la découpe d'une feuille de figuier. Les fleurs sont nombreuses et petites, jaune soufre, à pétales laciniés, surtout les deux supérieurs qui sont relevés et plus importants que les autres.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Capucine des Canaris
+            </titre_photo> 
+            <fichier_photo_plante>
+                p266_Capucine_des_Canaris.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Alyssum</taxon>
+        <parent type = "famille">Brassicaceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ALYSSE</titre>
+                <alinea>
+                Le genre Alyssum comprend deux espèces de caractère différent, une vivace de floraison printanière, l'alysse corbeille d'or compact, une annuelle, de floraison estivale, l'alysse odorant.
+                </alinea>
+             </paragraphe>               
+        </contenu>
+   
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

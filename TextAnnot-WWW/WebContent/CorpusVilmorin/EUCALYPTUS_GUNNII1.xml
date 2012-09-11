@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">??</taxon>
+    <parent type="genre">??</parent>
+    <contenu>
+      <paragraphe>
+        <titre>EUCALYPTUS GUNNII</titre>
+        <alinea>Eucalyptus gunnii Hauteur 10 à 15 m. Couramment proposé dans les catalogues des pépiniéristes, sa rusticité est encore toute relative ; il ne dépasse pas la Bretagne et le Cotentin. Feuillage bleu argenté, puis gris verdâtre.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Eucalyptus gunnii, feuilles juvéniles</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

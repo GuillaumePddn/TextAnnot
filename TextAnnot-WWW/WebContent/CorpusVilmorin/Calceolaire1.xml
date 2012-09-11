@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Calceolaria rugosa</taxon>
+        <parent type = "genre">Calceolaria</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ADONE, ANNUELLE</titre>
+                <alinea>ou Calceolaria integrifolia
+                    Petit arbuste ligneux, vivace, haut de 40 à 60 cm. Nombreuses ramifications dressées, à feuilles rugueuses, terminées par un bouquet de fleurs jaune vif. Les fleurs sont originales, renflées en deux poches arrondies.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    floraison jaune vif ininterrompue pendant tout l'été. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    bonnes terres de jardin à pH acide. Supporte le climat maritime. Redoute les terrains calcaires.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    la calcéolaire ligneuse était autrefois multipliée uniquement par boutures. Celles-ci se faisaient en septembre dans du sable presque pur et en pots placés au chaud. On mettait trois à quatre boutures par pots. Les nouvelles variétés hybrides permettent maintenant une multiplication facile par semis qui évite l'hivernage toujours délicat des boutures.
+                    - Semez clair en janvier-février, sous abri, à une température d'environ 15°C. Ne couvrez pas les graines car la levée demande de la lumière.
+                    - Repiquez sous châssis, les jeunes plants ne demandant que 10 à 12°C. Mettez en place fin mai à 25 cm d'écartement. La floraison commence en juin et dure jusqu'à l'automne.
+                    - Arrosez en période de sécheresse pour assurer la continuité de la floraison. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     bordures, massifs, potées. De très bel effet en association avec la verveine rugueuse et un pétunia rose.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Calcéolaire ligneuse
+            </titre_photo> 
+            <fichier_photo_plante>
+                p264_Calceolaire_ligneuse.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

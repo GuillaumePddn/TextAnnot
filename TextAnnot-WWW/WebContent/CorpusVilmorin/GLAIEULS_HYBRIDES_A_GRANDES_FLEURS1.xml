@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Gladiolus grandiflorus </taxon>
+    <parent type="genre">Gladiolus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GLAÏEULS HYBRIDES A GRANDES FLEURS</titre>
+        <alinea>Glaïeuls à planter au printemps. Race vigoureuse à tige forte, rigide, haute de 1 m à 1,60 m au moment de la floraison. La hampe florale est un épi dense garni de grandes fleurs s'ouvrant successivement de la base au sommet. Tous les coloris, sauf le vrai bleu, existent chez cette espèce. Le nombre des variétés est considérable et se trouve perpétuellement renouvelé par les obtenteurs spécialisés qui pratiquent le semis. Une certaine dégénérescence fait progressivement disparaître les plus anciennes variétés. En dehors de leur taille et de leurs coloris respectifs, ces variétés diffèrent par la rapidité de leur croissance il s'écoule environ soixante dix jours entre la plantation et la floraison des plus précoces et il en faut une centaine aux plus tardives.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>production de splendides fleurs coupées.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terres légères et fraîches, fumées l'année précédente, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>très facile, mais il est essentiel de considérer la grosseur des bulbes avant tout achat pour éviter des déboires à la floraison. Les plus gros bulbes vous donneront en général les plus belles fleurs. Le calibre 10-12, (circonférence mesurée en cm) souvent proposé à bon marché, est sous de laquelle il ne faut pas descendre pour obtenir de bons résultats avec des glaïeuls hybrides à grandes fleurs. Demandant beaucoup plus de soins que les gros bulbes, les bulbes de petit calibre servent à des plantations de masses en massifs ou à la production de fleurs coupées de taille moyenne. Il est préférable de planter des bulbes de 14-16 ou plus pour s'as- surer d'une production de fleurs de qualité. - Plantez à partir de mars-avril et jusqu'en juillet, en choisissant des variétés de précocité différente de façon à échelonner les floraisons qui peuvent ainsi s'étaler de juin à l'automne. - Enterrez les bulbes à 10 cm de profondeur et distancez-les de 20 cm les uns des autres. - Arrosez-les régulièrement en été, surtout à partir de la sortie de la 4e feuille qui coïncide avec le début de formation de l'inflorescence. - Trois à quatre fois par mois, additionnez l'eau de ces arrosages d'un engrais complet du type engrais fleurs. - En raison de leur haute taille, les variétés hybrides sont sensibles au vent. Tuteurez à 50 cm du sol au moyen de ficelles entrecroisées fixées sur des piquets fichés de part et d'autre de la planche ou, mieux, grâce à un grillage à mailles de 10 à 15 cm, tendu de la même façon parallèlement au sol. Les glaïeuls poussent ainsi au travers de ces entrelacs ou de ces mailles et se trouvent automatiquement maintenus. - Le bulbe qui a été planté au printemps est complètement vidé de sa substance par la floraison. Il s'atrophie donc mais, au-dessus de lui, se forme un "bulbe de remplacement" identique à lui-même, qui peut être réemployé l'année suivante de la même façon. - Si vous destinez vos glaïeuls à la fleur coupée, ne sectionnez pas les hampes à ras de terre mais laissez au moins quatre feuilles sur le pied. Celles-ci sont en effet indispensables pour nourrir ce bulbe de remplacement. Faute d'observer cette précaution, celui-ci ne se formerait pas et les Glaïeuls ne pourraient être réutilisés. Pour la même raison, il est indispensable de continuer à arroser et fertiliser régulièrement les plants tant que le jaunissement de leur feuillage n'indique pas l'arrêt de la végétation. • Arrachage et conservation À ce stade, généralement atteint fin octobre, et en tout cas avant les froids, arrachez les bulbes en les débarrassant de la terre adhérente et coupez les tiges à une dizaine de centimètres de longueur. Après les avoir laissé sécher et les avoir débarrassés des bulbilles qui les entourent généralement et des restes de hampes qui se détachent alors facilement, stockez-les tels quels dans un local sain et à l'abri du gel en attendant de les replanter au printemps. • Multiplication Le semis est réservé aux spécialistes qui recherchent de nouvelles variétés car il ne donne qu'un nombre infime de plantes de valeur.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>essentiellement la fleur coupée. Par des plantations échelonnées, de mars à juillet, et par le choix de variétés de précocité différente, on peut facilement étaler la production. Le glaïeul est aussi utilisé en massifs par groupes, entre des plantes vivaces ou en plates-bandes.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

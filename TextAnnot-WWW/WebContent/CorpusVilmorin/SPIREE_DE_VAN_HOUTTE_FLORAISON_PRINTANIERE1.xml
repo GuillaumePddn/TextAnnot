@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Spiraea x Van Houttei</taxon>
+    <parent type="genre">Spiraea</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SPIREE DE VAN HOUTTE FLORAISON PRINTANIERE</titre>
+        <alinea>Spiraea x Van Houttei  Hauteur: 1,50 à 2,50m. Longues branches arquées, à feuilles ovales, dentées, ployant gracieusement sous le poids des fleurs blanches, groupées en petits bouquets sphériques, en mai. Remarquable en isolé grâce à son port ; peut aussi constituer de larges haies fleuries</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Spirée de Van Houtte</titre_photo>
+        <fichier_photo_plante>p471_Spiree_de_Van_Houtte.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

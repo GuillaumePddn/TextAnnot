@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Phormium</taxon>
+    <parent type="famille">Agavaceae</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LIN DE NOUVELLE ZELANDE PERSISTANT</titre>
+        <alinea />
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

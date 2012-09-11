@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Escallonia</taxon>
+    <parent type="genre">Escallonia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ESCALLONIA SEMI PERSISTANT</titre>
+        <alinea>Fleurit en été. Moyennement rustique. Les escallonias ont été abondamment hybrides, et les espèces botaniques ne sont plus guère cultivées de nos jours. Les variétés les plus courantes, issues de ces travaux génétiques, sont citées ci-après, en une liste non exhaustive. D'une façon générale, les escallonias sont des arbustes à végétation assez dense, au feuillage vert brillant, presque persistant. La floraison intervient en été, à l'extrémité des pousses, en panicules plus ou moins lâches, dans les coloris roses ou rouges.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>Les espèces et variétés suivantes sont intéressantes. • 'Red Dream' hauteur 0,30 à 0,60 m. Fleurs rouge foncé. • Donard Radiance' hauteur 1,50 à 2 m. Port compact. Fleurs rose foncé. • 'Alexandra' hauteur 1 m environ. Fleurs roses, feuillage pourpre. • Tveyi' abondance de petites fleurs blanches, à large feuillage ovale vert foncé. • 'Pride of Donard' abondance de petites fleurs blanches, à large feuillage ovale vert foncé. • x langleyensis hauteur 1,50 à 2,50 m. Ses longues branches souples lui confèrent un port léger. Fleurs rose cramoisi. • rubra var. Macrantha hauteur 2 à 3 m. Port compact. Fleurs rose foncé. Résiste en bord de mer. Le nombre des variétés confirme la faveur méritée dont jouissent les escallonias qui allient, sous les climats doux, un beau feuillage généralement persistant à une floraison brillante et prolongée. Ils sont évidemment cultivés surtout dans le Midi et dans l'Ouest, mais ils peuvent être plantés jusqu'en région parisienne et même au-delà en situation abritée, par exemple le long des murs contre lesquels on peut les palisser. On en fait également de très belles haies libres de 1,50 à 2 m de hauteur. La taille n'intervient alors qu'en fin de floraison. Les variétés à port souple sont à préférer pour la plantation en isolé, mais toutes peuvent être associées, dans des massifs, à d'autres arbustes. Tous les sols sains leur conviennent et ils supportent même un peu de  calcaire.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Escallonia ïveyi'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Escallonia__Donard_Radiance_</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+	  <photo_plante>
+        <titre_photo>Escallonia 'Red Dream'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

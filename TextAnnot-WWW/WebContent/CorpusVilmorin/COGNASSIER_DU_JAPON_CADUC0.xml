@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Chaenomeles ou Cydonia</taxon>
+    <parent type="famille">Rosacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>COGNASSIER DU JAPON CADUC</titre>
+        <alinea>• Fleurit de mars à mai Les variétés de cognassier du Japon actuellement commercialisées sont issues - soit de Chaenomeles Japonica, - soit de Chaenomeles Speciosa, - soit d'un hybride entre ces deux espèces.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

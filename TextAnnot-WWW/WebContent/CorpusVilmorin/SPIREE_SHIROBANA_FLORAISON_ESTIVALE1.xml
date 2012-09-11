@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Spiraea japonica</taxon>
+    <parent type="genre">Spiraea</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SPIREE SHIROBANA FLORAISON ESTIVALE</titre>
+        <alinea>Spiraea japonica 'Shirobana' Hauteur 0,80 à 1 m. Arbuste à forme arrondie à feuillage caduc vert clair. Fleur en corymbes rouge, rose et blanc sur la même plante. De juin à septembre.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Spirée 'Shirobana'</titre_photo>
+        <fichier_photo_plante>p472_Spiree__Shirobana_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

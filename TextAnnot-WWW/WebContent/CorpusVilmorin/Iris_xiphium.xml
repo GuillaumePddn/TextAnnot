@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Iris xiphium</taxon> 
+        <parent type = "genre">Iris</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Iris de Hollande</titre>
+                <alinea>
+                Iris xiphium hybride
+                Iris bulbeux.
+                Espèce vivace par son bulbe qui émet de longues feuilles linéaires, aiguës et très étroites, de couleur vert-bleu. De cette touffe, émergent, en mai-juin, de longues hampes rigides terminées par une spathe d'où sortent deux fleurs de forme curieuse et très élégante. Celles-ci sont composées de trois divisions largement étalées et de trois autres dressées, au centre. Nombreuses variétés aux coloris bleu, jaune, violet et blanc.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 facilité de culture. Fleurs originales.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                sols sains à exposition ensoleillée.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                facile.
+                - Plantez les bulbes de préférence en octobre-novembre mais en tout cas avant fin décembre à 5 cm de profondeur et à 15 cm d'écartement.
+                - Il est préférable de réunir les bulbes par touffes de cinq à sept, au moins, par variété.
+                - La plante ne demande pratiquement pas de soins jusqu'à sa floraison.
+                - Après celle-ci, les bulbes peuvent être laissés en place pendant au moins deux ou trois ans, mais il est également possible de les arracher et de les conserver au sec comme des tulipes par exemple, lorsque les tiges et les feuilles ont séché à la suite de la floraison.     
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                en groupes dans des plates-bandes. Fleurs coupées de très bonne tenue.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Iris de Hollande 'Blue Magic'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p313_Iris_de_Hollande__Blue_Magic_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+        <photo_plante>
+            <titre_photo>
+                Iris de Hollande 'Royal Yellow'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p313_Iris_de_Hollande__Royal_Yellow_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+        <photo_plante>
+            <titre_photo>
+                Iris de Hollande 'Romano'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p313_Iris_de_Hollande__Romano_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+        <photo_plante>
+            <titre_photo>
+                Iris de Hollande 'Symphony'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p313_Iris_de_Hollande__Symphony_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

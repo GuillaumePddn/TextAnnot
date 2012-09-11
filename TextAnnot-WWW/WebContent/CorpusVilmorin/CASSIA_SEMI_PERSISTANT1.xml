@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cassia corymbosa = floribunda</taxon>
+    <parent type="genre">Cassia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CASSIA SEMI PERSISTANT</titre>
+	<alinea>Fleurit en juillet-août
+Hauteur : 2 m. Arbuste de climat doux au feuillage semi-persistant à persistant. Floraison en épis jaune vif en juillet-août.
+Nécessite un emplacement chaud et abrité.
+Résiste à -5°C environ.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Cassia</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

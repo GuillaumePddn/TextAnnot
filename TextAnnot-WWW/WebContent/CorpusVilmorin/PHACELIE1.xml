@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+        <taxon type="espece">Phacelia campanularia</taxon>
+    <taxon type="genre">Phacélie</taxon>
+    <contenu>
+      <paragraphe>
+        <titre>PHACELIE</titre>
+        <alinea> Plante de 25 cm de haut portant des bouquets de grandes fleurs d'un bleu profond, en forme de cloche. C'est la seule espèce de phacélie qui soit décorative par la forme de ses fleurs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Phacélie</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

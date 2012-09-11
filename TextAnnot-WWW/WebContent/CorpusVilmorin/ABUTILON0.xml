@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Abutilon</taxon>
+    <parent type="famille">Malvaceae</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ABUTILON</titre>
+        <alinea>Fleurit de mai à octobre. Arbuste de climat doux dont les feuilles rappellent par leur forme celles des érables, souvent panachées ou piquetées de jaune sur fond vert. Choisir un endroit ensoleillé et abrité. Peu exigeant sur la nature du sol, il préfère toutefois un sol léger, frais et non calcaire. Tailler sévèrement à chaque fin d'hiver.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

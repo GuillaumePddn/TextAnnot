@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="espece">Eremurus</taxon> 
+        <parent type = "genre">Asphodelus</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Eremurus</titre>
+                <alinea>
+                Aiguille de Cléopâtre
+                Grande plante vivace par sa souche formée de grosses racines charnues en forme de griffes. Feuilles en rosette, longues de près de 1 mètre, décoratives. Les fleurs apparaissent en mai-juin, très nombreuses, formant un grand épi porté par une hampe longue et nue.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                originalité de l'inflorescence spectaculaire et majestueuse.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                terres légères sablonneuses, riches, à chaude exposition. Redoute l'excès d'humidité    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                Plantez les griffes pendant leur période de repos de végétation, en septembre-octobre. Le bourgeon doit affleurer la surface du sol, les racines étant étalées à l'horizontale. Espacez de 1 m pour les grandes espèces et de 70 à 80 cm pour les autres. La multiplication se fait par la séparation des souches âgées qui se dédoublent.
+                Le semis, possible, n'est pratiquement pas utilisé par l'amateur, la floraison n'intervenant alors que la 4e ou 5F année.
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                à isoler, ou en touffe sur une pelouse, ou encore dans un endroit dégagé pour être mis en valeur. Fleurs coupées de très bonne tenue.            
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Eremurus
+            </titre_photo> 
+            <fichier_photo_plante>
+                p289_Eremurus.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

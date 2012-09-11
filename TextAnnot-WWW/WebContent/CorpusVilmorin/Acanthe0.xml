@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Acanthus, VIVACE</taxon>
+        <parent type = "famille"> Acanthaceae </parent>
+        <contenu>
+            <paragraphe>
+                <titre>ACANTHE, vivace</titre>
+                <alinea>Plante dont les feuilles élégamment découpées ont inspiré les sculpteurs des chapiteaux corinthiens.</alinea>
+            </paragraphe>
+                        <paragraphe>
+                <titre>Attrait / Intérêt :</titre>
+                <alinea>feuillage décoratif très pittoresque, longs épis floraux en juillet-août. 
+
+paragraphe>
+				</alinea>
+				</paragraphe>
+				<paragraphe>
+                <titre>Sol / Exposition :</titre>
+                <alinea>
+				terres riches meubles et fraîches à exposition chaude et abritée. 
+				</alinea>
+				</paragraphe>
+				<paragraphe>
+                <titre>Culture : </titre>
+                <alinea>
+				facile. 
+                    Semez en mars-avril, sous châssis ou, de mai à juillet, en pleine terre. Lorsque les plants ont deux ou trois vraies feuilles, repiquez en pleine terre ou en pots enterrés à exposition chaude et mettez en place en mars de l'année suivante, à 80 cm de distance. 
+                    </alinea>
+				</paragraphe>
+				<paragraphe>
+                <titre>Utilisation : </titre>
+                <alinea>
+					à isoler sur une pelouse ou à associer en massifs et aux arbustes d'ornement.
+                 </alinea>
+            </paragraphe>           
+        </contenu>
+   
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

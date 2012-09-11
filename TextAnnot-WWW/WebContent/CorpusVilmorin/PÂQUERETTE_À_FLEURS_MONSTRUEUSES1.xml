@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Pâquerette à fleurs monstrueuses</taxon>
+    <parent type="genre">Pâquerette</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PÂQUERETTE À FLEURS MONSTRUEUSES</titre>
+        <alinea>Hauteur - 15 cm. Dans cette catégorie, se rangeait autrefois la race dite de Chevreuse, tardive, à port nain et compact et feuillage vert foncé. La première fleur était énorme mais les suivantes moins grosses et de port moins rigide. Des travaux de sélection est issue la race Radar, très florifères et à très grosses fleurs doubles, bien dégagées du feuillage par une tige courte et solide.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez en juillet-août en pépinière. - Repiquez en pépinière et mettez en place en automne de préférence, ou au printemps, à 20 cm d'écartement. - La floraison a lieu de mars à juin.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>la pâquerette est l'une des meilleures espèces bisannuelles à floraison printanière et elle se prête particulièrement bien à la mise en valeur des tulipes et autres espèces bulbeuses. La pâquerette pomponnette fournit en même temps de très jolies fleurs à couper. Les races à plus grandes fleurs sont très appréciées pour la culture en pots ou jardinières.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pâquerette à fleurs monstrueuses Radar</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

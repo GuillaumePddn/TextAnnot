@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Aster nain 'Snow Sprite'</taxon>    
+    <parent type = "espece">Aster nain</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Aster nain 'Snow Sprite'</titre>
+                <alinea>                
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    floraison s'étalant de fin août à octobre-novembre.
+                    Blanc, hauteur de 20/25 cm.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous sols, toutes expositions.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Aster nain 'Snow Sprite'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p256_Aster_nain__Snow_Sprite_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

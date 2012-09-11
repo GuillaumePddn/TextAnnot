@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">??</taxon>
+    <parent type="genre">Tagetes erecta</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ROSE D'INDE ANNUELLE</titre>
+        <alinea>Plante rustique, à port dressé et buissonnant. Feuillage découpé, vert foncé luisant, exhalant une odeur très particulière. Quelques variétés possèdent un feuillage inodore. Tiges robustes portant de grosses fleurs doubles, de coloris jaune et orange. Il existe des races hautes (60 à 90 cm) et des races naines (30 à 40 cm). De plus en plus cultivées, les nouvelles variétés hybrides Fl apportent des améliorations spectaculaires dans le domaine de la grandeur des fleurs, de la vigueur et de l'homogénéité de la végétation.  </alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, même pauvres et secs, à exposition ensoleillée ou mi-ombragée. Supporte le climat maritime.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>facile. 1) Semez en mars sous abri. Repiquez en pépinière et mettez en place en mai. La floraison s'étale de début juin à octobre. 2) Semez en avril, en pépinière bien exposée. Repiquez en pépinière et mettez en place avec la motte, fin mai en espaçant de 25 à 50 cm selon la taille des variétés. La floraison a lieu de fin juin à octobre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>les roses d'Inde sont pamii les meilleures fleurs annuelles pour massifs et plates-bandes à floraison estivale, ks variétés basses s'emploient surtout en bordures et en potées, les variétés hautes, outre leur utilisation en massifs, fournissent de magnifiques fleurs à couper.</alinea>
+      </paragraphe>
+	  <paragraphe>
+        <titre>Attrait/Intérêt</titre>
+        <alinea> grande floribondité et durée de la floraison. Facilité de culture.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>• 'Uranus' - hauteur 60 cm. Coloris jaune d'or, orange et varié. • Perfection' orange et jaune - hauteur - 60 cm. Floraison abondante. • 'Kilimanjaro Blanche' - hauteur - 40 à 50 cm. Couleur crème. • 'Cupidon'. Hauteur - 20 cm, race très naine aux coloris jaune citron, jaune d'or et orangé.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Rose d'Inde 'Perfection' orange hybride Fl</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Rose d'Inde 'Kilimanjaro Blanche'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Rose d'Inde 'Cupidon'jaune d'or</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

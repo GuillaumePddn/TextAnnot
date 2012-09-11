@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cistus x purpureus</taxon>
+    <parent type="genre">Cistus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CISTE POURPRE</titre>
+        <alinea>Hauteur 0,60 à 1 m. Feuilles grisâtres. Très belles fleurs roses marquées au centre d'une tache pourpre à la base de chaque pétale. Grâce à leurs fleurs qui ressemblent à des églantines, les cistes sont de merveilleux petits végétaux à floraison abondante et prolongée, bien que chaque fleur ne dure qu'une seule journée. Hormis le ciste à feuilles de laurier, les cistes sont réservés aux régions méditerranéennes et au littoral atlantique, à bonne exposition. On en fait des groupes ou des bordures. Il est préférable de planter des sujets élevés en conteneurs, la reprise étant capricieuse.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+        <photo_plante>
+        <titre_photo>Ciste_pourpre</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

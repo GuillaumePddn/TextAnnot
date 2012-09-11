@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Aubrieta x cultorum</taxon>
+        <parent type = "genre">Aubrieta</parent>
+    <contenu>
+    <paragraphe>
+        <titre>AUBRIETE, VIVACE</titre>
+        <alinea>
+            Plante vivace, de 10 à 15 cm de haut. Tiges très ramifiées, rampantes, gazonnantes, à feuilles persistantes, portant d'avril à juin des fleurs, de coloris bleu, lilas, pourpre et rouge, et groupées par trois ou quatre en petites grappes dépassant à peine le feuillage.
+        </alinea>
+    </paragraphe>               
+    <paragraphe>
+        <titre>Attrait / Intérêt</titre>              
+        <alinea>
+            plante très tapissante, sans exigence particulière et extrêmement florifère.
+        </alinea>
+    </paragraphe>           
+    <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>
+            sols sains, même secs et calcaires, à exposition ensoleillée. Supporte le climat maritime. Redoute l'excès d'humidité.
+        </alinea>                   
+    </paragraphe>           
+    <paragraphe>
+        <titre>Culture</titre>
+        <alinea>
+            facile.
+            1) - La multiplication se fait par semis en mai.
+            - Repiquage en pépinière ensuite.
+            - Mise en place en septembre-octobre à 20-25 cm de distance.
+            2) La multiplication par boutures ou éclats de touffes est également possible de septembre à mars.
+        </alinea>                   
+    </paragraphe>   
+    <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>
+            l'aubrietia est, avec l'alysse corbeille d'or et l'arabis, une des plantes vivaces tapissantes les plus remarquables par sa floraison de premier printemps. 
+            Employez-la en bordures ou pour décorer les rocailles, murets et talus. 
+        </alinea>                   
+    </paragraphe>                      
+    </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Aga
+            </titre_photo> 
+            <fichier_photo_plante>
+                p244_Aga.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Narcissus</taxon>
+    <parent type="famille">Amaryllidaceae</parent>
+    <contenu>
+      <paragraphe>
+        <titre>NARCISSE BULBEUSE</titre>
+        <alinea>Le genre Narcissus groupe plusieurs espèces botaniques ou horticoles. Toutes sont de jolies plantes bulbeuses, vivaces, ordinairement rustiques, à feuilles linéaires. Elles présentent au printemps, à l'extrémité d'une hampe de 15 à 40 cm, des fleurs solitaires ou groupées, allant du jaune d'or au blanc pur, à couronne centrale en cloche ou en coupe.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>floraison printanière. Grande variété de coloris et de types de fleurs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terres argileuses plutôt fraîches, légèrement ombragées. La classification usuelle tient compte du caractère uniflore ou pluriflore de l'espèce ainsi que de la forme des fleurs.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

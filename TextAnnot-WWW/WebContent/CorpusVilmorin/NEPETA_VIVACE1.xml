@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Nepeta mussinii</taxon>
+    <parent type="genre">Nepeta</parent>
+    <contenu>
+      <paragraphe>
+        <titre>NEPETA VIVACE</titre>
+        <alinea>Plante à feuillage gris vert. Tiges ramifiées, de 40 cm de hauteur. Fleurs d'un magnifique bleu azuré, en grappe allongée, en juin-juillet. La plante dégage une odeur aromatique.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>abondante floraison à odeur aromatique.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols sains, même calcaires, à exposition ensoleillée et chaude.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Le népéta se multiplie généralement par division des touffes, au printemps (mars-avril) ou à l'automne. - Replantez à 40 ou 50 cm d'écartement. - Le bouturage sous châssis froid est possible en mars-avril. - La multiplication par semis se fait en mai-juin pour plantation à l'automne après repiquage.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>décoration des talus, rocailles et murs fleuris. C'est aussi une excellente plante mellifère.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Népéx</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Astilbe, VIVACE</taxon>
+        <parent type = "famille"> Saxifragaceae </parent>
+        <contenu>
+            <paragraphe>
+                <titre>AGAP</titre>
+                <alinea>
+                Plante touffue, au feuillage élégant, duquel émergent des tiges feuillées, surmontées de grandes panicules en pyramides de fleurs blanches, roses, ou lilas, très petites, apparaissant en juillet-août.
+                </alinea>
+             </paragraphe>               
+             <paragraphe>
+                <titre>Attrait / Intérêt</titre>              
+                <alinea>
+                     feuillage décoratif. légèreté des inflorescences en panicules. Aptitude à fleurir en situation ombragée dans des lieux humides.
+                </alinea>
+            </paragraphe>           
+            <paragraphe>
+                <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols légers et frais, acides, (terre de bruyère) à mi-ombre.
+                </alinea>                   
+            </paragraphe>           
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                    facile.
+                    - Les astilbes se multiplient par division des touffes au printemps ou à l'automne.
+                    - La plantation s'effectue à 30 ou 40 cm d'écartement, de préférence en terre de bruyère et en situation ombragée. Le sol doit rester frais pendant toute la durée de la végétation.
+                </alinea>                   
+            </paragraphe>   
+             <paragraphe>
+                <titre>Utilisation</titre>
+                <alinea>
+                    décoration du bord de pièces d'eau, d'endroits ombragés, humides. L'astilbe sert aussi de plante de bordure pour les massifs d'arbustes de terre de bruyère (azalées, rhododendrons).
+                </alinea>                   
+            </paragraphe>                      
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Astilbe
+            </titre_photo> 
+            <fichier_photo_plante>
+                p257_Astilbe.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

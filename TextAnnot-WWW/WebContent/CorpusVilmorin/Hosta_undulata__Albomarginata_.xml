@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Hosta undulata 'Albomarginata'</taxon>    
+        <parent type = "espece">Hosta undulata</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Hosta undulata 'Albomarginata' </titre>
+                <alinea> 
+                 Feuilles vertes margées de blanc. Fleurs blanches en clochettes. Floraison juillet-août.   
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Hosta undulata 'Albomarginata'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p295_Hosta_undulata__Albomarginata_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

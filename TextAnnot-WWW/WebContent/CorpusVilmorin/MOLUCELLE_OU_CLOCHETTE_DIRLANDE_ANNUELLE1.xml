@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Molucella laevis</taxon>
+    <parent type="genre">Molucella</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MOLUCELLE OU CLOCHETTE D'IRLANDE ANNUELLE</titre>
+        <alinea>Plante de 30 à 50 cm de hauteur, à feuilles arrondies, longuement pétiolées, portant en été des inflorescences curieuses. Celles-ci forment une sorte d'épi dressé, composé de groupes de cinq à six fleurs régulièrement superposés. Ces fleurs, de petite taille, sont insignifiantes par elles-mêmes mais elles sont entourées d'un calice très développé, en forme de coupe, de texture membraneuse et de couleur vert cendré.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>aspect insolite des hampes florales qui se conservent facilement après séchage.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terre légère, riche en humus, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>semez en mars-avril, sous abri, repiquez en pépinière et mettez en place en mai, à 25 cm de distance.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>Les hampes florales de cette plante sont très faciles à conserver par séchage. Files sont extrêmement originales par l'aspect insolite des calices parcheminés, veinés d'un fin réticule qui est visible par transparence, et entrent dans la composition des bouquets secs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Molucelle</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cornus alba 'Sibirica'</taxon>
+    <parent type="genre">Cornus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CORNOUILLER A BOIS ROUGE</titre>
+        <alinea> Hauteur 1,50 m à 2 m. Les rameaux de cette variété sont plus vivement colorés que ceux de l'espèce type et leur tonalité, rouge corail, plus visible bien sûr après la chute des feuilles, est particulièrement remarquable. La variété 'Sibirica Variegata' a en outre un feuillage vert bordé de blanc qui devient vert bordé de rose en automne.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

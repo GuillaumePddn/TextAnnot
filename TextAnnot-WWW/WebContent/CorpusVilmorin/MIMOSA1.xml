@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Mimosa</taxon>
+    <parent type="genre">Acacia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MIMOSA</titre>
+        <alinea>Voir chapitre "Arbres d'ornement". En dehors de la Côte d'Azur et des endroits privilégiés du littoral ouest où i 1 est généralement rustique en pleine terre, le mimosa, surtout A. Retinodes, (mimosa des quatre saisons) est cultivé en bac pour la décoration des terrasses où son aspect exotique est toujours fort apprécié. En octobre, le bac est rentré dans un local frais, clair, où il ne gèle pas.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

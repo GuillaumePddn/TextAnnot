@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Giroflée d'hiver</taxon>
+    <parent type="genre">Cheiranthus et Matthiola</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GIROFLEE D'HIVER</titre>
+        <alinea>Ce sont des giroflées bisannuelles (la giroflée de Nice qui se cultive en bisannuelle est une giroflée d'hiver).</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>floraison précoce.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, même calcaires, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez clair en mai-juin, en pépinière bien exposée. Bassinez fréquemment. - Mettez en pots en août-septembre, puis hivernez sous châssis. - Mettez en place en mars à 30 cm de distance, ou laissez fleurir en pots. Floraison d'avril à juin-juillet. Dans les régions à hiver doux, la giroflée d'hiver résiste bien à l'hiver en pleine terre et elle y est parfois conservée plusieurs années.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>bordures, potées fleuries.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Giroflée d'hiver</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

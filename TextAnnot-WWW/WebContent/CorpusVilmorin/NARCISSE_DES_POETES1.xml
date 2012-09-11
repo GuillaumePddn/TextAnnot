@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Narcissus poeticus</taxon>
+    <parent type="genre">Narcissus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>NARCISSE DES POETES</titre>
+        <alinea>Narcissus poeticus L'espèce sauvage prolifère dans nos prairies et montagnes. Il est cultivé la variété 'Actaea', blanc pur à petite coupe jaune d'or bordée de rouge. Hauteur - 35 cm. Parfumée.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Narcisse des poètes</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

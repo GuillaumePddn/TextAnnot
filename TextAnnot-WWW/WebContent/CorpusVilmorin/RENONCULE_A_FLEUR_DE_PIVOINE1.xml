@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Ranunculus asiaticus</taxon>
+    <parent type="genre">Ranunculus asiaticus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>RENONCULE A FLEUR DE PIVOINE</titre>
+        <alinea>Race à fleurs régulières, aux pétales plus ou moins dressés, imbriqués, parfois très serrés, donnant des fleurs très grandes, doubles ou semi-doubles, très séduisantes par la perfection de leur tonne et la beauté de leurs coloris.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>coloris riches et variés. Plante bulbeuse à floraison printanière et de grand intérêt pour la fleur coupée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols frais, à exposition moyennement ensoleillée. Redoute les sols trop secs et les expositions fortement ensoleillées.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- La plantation des griffes s'effectue en novembre dans les régions à hivers doux. Floraison dès avril. - Préférez la plantation en février-mars sous le climat de Paris. Floraison à partir de juin. - Plantez à 3 ou 5 cm de profondeur, à 10/15 cm d'écartement. - Les griffes peuvent passer l'hiver en terre sans être relevées, sous une protection de feuilles, il est cependant préférable de les arracher après la chute des tiges, à la fin de l'été. - Toutes les variétés se multiplient par la séparation des griffes au moment de la plantation.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>les renoncules peuvent être utilisées pour réaliser des corbeilles et groupes fleuris, ainsi que pour la culture en pots. C'est toutefois surtout en fleurs coupées qu'elles sont particulièrement appréciées, pour la diversité de leurs coloris et pour leur longue durée en vase.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Renoncule à fleurs de pivoine</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Paeonia</taxon>
+    <parent type="genre">Paeonia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PIVOINE EN ARBRE A FLEURS DOUBLES</titre>
+        <alinea>• 'Alice Harding' jaune. • 'Bijou de Chusan' blanc. • 'Flambeau' rouge saumoné. • 'Reine Elisabeth' rose cocciné nuancé de feu. • 'Satin Rouge' rouge. • 'Souvenir de Maxime Cornu' jaune teinté d'orangé, etc. Les fleurs de cette dernière variété sont très lourdes et des pédoncules un peu faibles nécessitent un tuteurage délicat et discret afir que les fleurs soient bien visibles.  Les pivoines en arbre ne commencent à fleurir que 2 ou 3 ans après la plantation. Elles gagnent à être plantées isolément, dans toute bonne terre de jardin, même calcaire, enrichie régulièrement de fumier et d'humus. Bien rustiques jusqu'en région parisienne, il est prudent toutefois de les placer à une exposition ouest ou sud-ouest, pour éviter les dégâts que pourraient leur causer des gelées printa-nières. La taille se limite à la suppression du bois mort.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

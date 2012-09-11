@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">BIDENS, ANNUELLE</taxon>
+    <parent type = "famille"> Asteraceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>AGAP</titre>
+                <alinea>
+                Plante retombante très florifère, donnant de juillet à octobre, une multitude de petites fleurs jaune d'or très décoratives. Donne de bons résultats en jardinière en association avec des pétunias retombants, des géraniums ou des verveines.
+                </alinea>
+             </paragraphe>               
+             <paragraphe>
+                <titre>Attrait / Intérêt</titre>              
+                <alinea>
+                     croissance rapide, une profusion de petites fleurs élégantes et résistantes aux intempéries.
+                </alinea>
+            </paragraphe>           
+            <paragraphe>
+                <titre>Sol / Exposition</titre>
+                <alinea>
+                    bonne terre riche, à exposition ensoleillée.
+                </alinea>                   
+            </paragraphe>           
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                    semez en février-mars en caissette, repiquez et mettez en place en mai.
+                </alinea>                   
+            </paragraphe>   
+             <paragraphe>
+                <titre>Utilisation</titre>              
+                <alinea>
+                     suspensions, jardinières, premier plan de massifs.
+                </alinea>
+            </paragraphe>           
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Bidens
+            </titre_photo> 
+            <fichier_photo_plante>
+                p262_Bidens.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

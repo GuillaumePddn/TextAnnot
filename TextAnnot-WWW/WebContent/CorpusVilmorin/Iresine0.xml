@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Iresine</taxon>
+        <parent type = "famille">Amaranthaceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Irésine vivace cultivée en annuelle</titre>
+                <alinea>
+                Plante vivace en serre, dont les fleurs sont sans intérêt, mais cultivée pour son brillant feuillage coloré, ordinairement pourpre, parfois panaché. Très employée en mosaïculture pour la décoration florale des parterres.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+     <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

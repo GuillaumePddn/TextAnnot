@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Betula pendula 'Fastigiata'</taxon>
+    <parent type="genre">Betula</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BOULEAU FASTIGIE</titre>
+        <alinea>Hauteur 8 à 10 m. Son port en colonne le recommande pour la création de rideaux de verdure, moins élevés toutefois que ceux réalisés avec le peuplier d'Italie.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Anagallis monellii</taxon>
+        <parent type = "genre">Anagallis</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ANAGALLIS OU MOURON, VIVACE</titre>
+                <alinea>
+                    Plante rampante, à tiges souples donnant une multitude de petites fleurs en forme de coupe. Vivace cultivée comme annuelle.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    fleurs bleues de 1 à 2 cm de diamètre, à pétales crénelés, fleurissant de juin aux gelées.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous types de sols à exposition ensoleillée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    - semez de mars à mai,
+                    - éclaircissez si nécessaire. On peut multiplier par bouture de tête en juillet août.                     
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     Pour rocailles, jardinières et suspensions.                    
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Anagallis
+            </titre_photo> 
+            <fichier_photo_plante>
+                p249_Anagallis.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

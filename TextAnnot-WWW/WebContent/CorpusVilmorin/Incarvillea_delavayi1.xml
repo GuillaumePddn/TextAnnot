@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Incarvillea delavayi </taxon> 
+        <parent type = "genre">Incarvillea</parent>
+        <contenu>
+            <paragraphe>
+                <titre>G</titre>
+                <alinea>
+                Plante vivace par ses racines fusiformes, charnues. Le feuillage élégant forme une touffe de 60 cm. Les feuilles pennées, d'un vert intense, atteignent 30 à 40 cm de longueur. En juin, apparaissent des hampes florales de 80 cm à 1 m, portant chacune 4 à 10 fleurs carmin, maculées de brun et jaune à la base longuement tubulées, en forme de trompette, ressemblant à celles du bignonia.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 très belles fleurs au dessus d'un feuillage finement découpé.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 sols légers et riches, exposition mi-ombragée.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                 - La multiplication peut se faire par semis, en avril, sous châssis froid.
+                 - Repiquez en pépinière.
+                 - Mettez en place en octobre à 35 cm d'écartement. Les plants ne fleuriront que deux à trois ans après le semis.
+                 - La multiplication la plus courante est la division de touffes en avril. La rusticité de l'incarvillée est satisfaisante sous le climat de Paris, mais il est prudent de couvrir la souche  de feuilles sèches en cas de grand froid.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                massifs de plantes vivaces, rocailles mi-ombragées. Sous-bois rocheux.
+                </alinea>
+            </paragraphe>
+         </contenu>
+       
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Hyacinthus orientalis</taxon>
+    <parent type="famille">Liliacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>JACINTHE</titre>
+        <alinea>bulbeuse  La jacinthe d'orient est une plante vivace par son bulbe. Feuilles dressées, lancéolées. Hampe florale de 20 à 30 cm de hauteur, bien dégagée du feuillage, portant une grappe dense composée de vingt à trente fleurons très odorants. Les Jacinthes avec leur floraison précoce sont aujourd'hui des variétés parfaites de formes et de coloris, grâce aux améliorations apportées par des spécialistes hollandais. On ne cultive pratiquement plus aujourd'hui les jacinthes dites "romaines" à hampes florales multiples.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Jacinthe 'DelftBIue'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Narcissus incomparabilis</taxon>
+    <parent type="genre">Narcissus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>NARCISSE INCOMPARABLE</titre>
+        <alinea>La coronule ou couronne est moins développée que chez les Narcisses trompettes mais très ouverte elle atteint une longueur au moins égale au tiers du diamètre de la corolle. La fleur, solitaire sur la tige, est grande, odorante et très élégante, les variétés diffèrent par la coloration des pétales, du blanc au jaune, les dimensions et coloris de la coronule, du jaune au rouge et à l'orangé.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Narcisse incomparable</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

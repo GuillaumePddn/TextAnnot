@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Sorbaria aitchisonii</taxon>
+    <parent type="genre">Sorbaria</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SORBARIA AITCHISONII</titre>
+        <alinea>Sorbaria aitchisonii Hauteur 2 à 2,50 m. Fleurs de juillet à septembre.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

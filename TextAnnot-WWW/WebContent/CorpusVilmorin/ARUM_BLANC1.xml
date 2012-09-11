@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Zantedeschia aetiopica</taxon>
+    <parent type="genre">Arum, Calla</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ARUM BLANC</titre>
+        <alinea>Cette plante est très populaire. Elle est vivace, semi-aquatique, à souche tubéreuse noirâtre, à feuilles décoratives larges, en forme de fer de lance. De mai-juin à septembre, à l'extrémité de tiges de 80 cm à 1 m, fleurs très curieuses, en cornet évasé, blanc pur, entourant un spa-dice en colonne centrale jaune ou orange.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Arum blanc</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

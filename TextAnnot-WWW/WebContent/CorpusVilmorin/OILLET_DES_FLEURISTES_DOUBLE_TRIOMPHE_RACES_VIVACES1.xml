@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Œillet des fleuristes double Triomphe</taxon>
+    <parent type="genre">Dianthus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ŒILLET DES FLEURISTES DOUBLE TRIOMPHE RACES VIVACES</titre>
+        <alinea>Œillet des fleuristes double Triomphe. Hauteur 70 cm. Race à longues tiges, solides et souples, fleurs très grandes à calice non fendu, à pétales dentelés, aux coloris francs blanc, rose, rose saumoné, lilas et pourpre. Floraison du 15 juin au 15 juillet.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Œillet des fleuristes Triomphe</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

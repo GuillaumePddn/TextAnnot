@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Viburnum x carlcephalum</taxon>
+    <parent type="genre">Viburnum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>VIORNE CARLCEPHALUM</titre>
+        <alinea>Viburnum x carlcephalum Hauteur 1,50 à 2 m. Amélioration du Vibur- num carlesi, il s'en distingue par de plus grandes fleurs en gros bouquets, blanc rosé, apparaissant en avril. Très bel arbuste à planter en isolé.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Viorne carlcephalum</titre_photo>
+        <fichier_photo_plante>p475_Viorne_carlcephalum.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Campanula</taxon>
+    <parent type = "famille">Campanulaceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CAMPANULE</titre>
+                <alinea>
+                    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    Ce genre comprend de très nombreuses espèces en annuelles, bisannuelles ou vivaces, naines, demi-naines ou hautes. Nous vous présenterons les espèces les plus courantes.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

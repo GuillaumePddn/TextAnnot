@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Tropaeolum, ANNUELLE</taxon>
+    <parent type = "famille"> Tropaeolaceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CAPUCINE, ANNUELLE</titre>
+                <alinea>
+                    Parmi les nombreuses races existantes, beaucoup n'ont qu'un intérêt botanique. Nous n'avons retenu que les principales espèces grimpantes et naines qui, en raison de leurs caractéristiques, sont intéressantes pour la décoration des jardins.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    floraison de juin aux gelées. Facilité de culture.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous sols, même pauvres. Expositions chaudes et ensoleillées, sauf la capucine des Canaris qui préfère des situations abritées, légèrement ombrées et demande une terre franche, riche et fraîche.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                    1) Semez en février-mars, sous châssis et en pots (cinq à six graines par pot) et mettez en place en mai sans diviser, à 50 cm d'écartement pour les variétés grimpantes et à 30 cm pour les naines.
+                    2) Semez directement en place, fin avril-mai, en poquets de quatre à cinq graines aux distances ci-dessus. Arrosez copieusement en cours de culture pendant les périodes sèches. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Utilisation</titre>
+                <alinea>
+                    • Capucines grimpantes : décoration de clôtures, balcons, treillages, tonnelles.
+                    • Capucines naines : bordures de massifs et plates-bandes, potées, jardinières.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">ARCTOSTAPHYLLOS</taxon>
+    <parent type="genre">Arctostaphylos uva-ursi</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ARCTOSTAPHYLLOS</titre>
+        <alinea>Hauteur 0,15 à 0,20 m. Plante tapissante au feuillage vert foncé luisant. Petites fleurs blanc rosé d'avril à juin. Très utile comme couvre-sol pour talus et sous-bois. La variété 'Vancouver Jade' a des feuilles plus grandes et une végétation plus compacte.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Arctostaphyllos 'Vancouver Jade'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

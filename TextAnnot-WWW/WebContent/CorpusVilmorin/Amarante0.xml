@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Amaranthus, ANNUELLE</taxon>
+        <parent type = "famille"> Amaranthaceae </parent>
+        <contenu>
+            <paragraphe>
+                <titre>AMARANTE</titre>
+                <alinea>
+                Nous distinguerons deux groupes de plantes : les amarantes décoratives par leurs fleurs, les amarantes décoratives par leur feuillage
+                </alinea>
+             </paragraphe>               
+        </contenu>
+
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

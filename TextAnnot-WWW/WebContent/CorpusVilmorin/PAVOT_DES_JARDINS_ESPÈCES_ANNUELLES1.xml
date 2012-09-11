@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Papaver somniferun</taxon>
+    <parent type="genre">Pavot</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PAVOT DES JARDINS ESPÈCES ANNUELLES</titre>
+        <alinea> Hauteur - 1 m à 1,30 m. Feuilles grossièrement dentées, tiges simples et dressées, terminées par une fleur solitaire de 10 à 12 cm de diamètre. Variétés simples ou doubles, allant du blanc pur au violet en passant par le rose, le vermillon et le grenat. Les fleurs sont à pétales frangés dans les variétés grandes ou naines (50 à 80 cm), à pétales entiers dans la variété à fleur de pivoine.  Sous l'appellation Pavot exotica grand double varié est commercialisé un mélange de pavots à fleur de pivoine.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pavot des jardins 'Drapeau Danois'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

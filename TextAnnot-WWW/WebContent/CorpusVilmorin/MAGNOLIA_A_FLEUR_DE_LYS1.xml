@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Magnolia liliflora</taxon>
+    <parent type="genre">Magnolia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MAGNOLIA À FLEUR DE LYS</titre>
+        <alinea>Magnolia liliflora 'Nigra' Hauteur: 1,50 à 2 m . Arbuste moins vigoureux.à port compact, convenant mieux aux petits jardins. Fleurs rouge pourpre, s'épa-nouissant d'avril à juin.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Magnolia liliiflora 'Nigra'</titre_photo>
+        <fichier_photo_plante>p463_Magnolia_liliiflora__Nigra_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Viburnum rhytidophyllum</taxon>
+    <parent type="genre">Viburnum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>VIORNE RHYTIDOPHYLLUM</titre>
+        <alinea>Viburnum rhytidophyllum Hauteur 3 à 4 m. Arbuste vigoureux, à branches fortes. Les feuilles, longues, vert foncé, à revers duveteux, sont fortement ridées. Elles sont pendantes en hiver, I,es fleurs ne méritent guère l'attention, mais elles sont suivies de fruits rouges, puis noirs, qui décorent agréablement l'arbuste. À planter à l'intérieur des massifs. Les viornes ne sont pas très exigeantes sur la nature du sol. Précisons toutefois que Viburnum tomentosum n'aime guère le calcaire alors que Viburnum rhytidophyllum s'en accommode fort bien. Toutes préfèrent les terrains frais. Elles ne nécessitent pas de taille d'entretien.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

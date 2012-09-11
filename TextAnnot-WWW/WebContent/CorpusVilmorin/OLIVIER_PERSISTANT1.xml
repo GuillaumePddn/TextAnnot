@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Olivier</taxon>
+    <parent type="genre">Olea europaea</parent>
+    <contenu>
+      <paragraphe>
+        <titre>OLIVIER PERSISTANT</titre>
+        <alinea>Hauteur 12 à 15 m. L'olivier est un arbre de rapport dans le Sud de la France. Il produit, selon la maturité, des olives vertes ou noires, ainsi que de l'huile d'olive et ses produits dérivés (tapenade, savon etc.). Dans ces régions, c'est aussi un excellent arbre d'ombrage et d'ornement. Son feuillage est persistant, étroit, gris-vert dessus et argenté dessous. Les vieux sujets (parfois centenaires) ont un tronc noueux caractéristique. L'olivier résiste bien à la sécheresse et aux vents violents, mais redoute l'humidité et les gelées importantes. On le rencontre de plus en plus dans toutes les régions de France où il est vendu en pot pour orner les terrasses. Le jeune olivier résiste jusqu'à -5°C, l'adulte jusqu'à -10°C.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Olivier, olives noires</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

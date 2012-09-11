@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">??</taxon>
+    <parent type="genre">??</parent>
+    <contenu>
+      <paragraphe>
+        <titre>EUCALYPTUS NIPHOPHILA</titre>
+        <alinea>Eucalyptus niphophila Hauteur 4 à 6 m. Petit arbre à croissance lente, d'une rusticité comparable au précédent. Une des particularités des eucalyptus qui sont généralement plantés en isolé dans des endroits abrités, est la différence de forme, et parfois de couleur, entre les jeunes Févier d'Amérique 'Rubylace'</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Populus simonii 'Fastigiata'</taxon>
+    <parent type="genre">Populus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PEUPLIER DE SIMON PYRAMIDAL</titre>
+        <alinea>  Hauteur 8 à 10 m. Belle espèce, voisine de la précédente mais sensiblement moins vigoureuse et ainsi plus adaptée à la plantation dans des jardins de dimensions plus modestes. À retenir pour des groupes, rideaux de verdure et alignements.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Peuplier de Simon pyramidal</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

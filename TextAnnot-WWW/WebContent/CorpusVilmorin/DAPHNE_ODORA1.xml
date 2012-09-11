@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Daphne odora</taxon>
+    <parent type="genre">Daphne</parent>
+    <contenu>
+      <paragraphe>
+        <titre>DAPHNE ODORA</titre>
+        <alinea> À feuillage persistant, peu rustique, à réserver aux régions à hivers cléments. La variété 'Aureomarginata' a un feuillage marginé de jaune.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Bois_joli</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Daphne_odora__Aureomarginata_</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

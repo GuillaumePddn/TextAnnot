@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="genre">Dahlia</taxon>
+        <parent type = "famille">Asteraceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>DAHLIA BULBEUSE</titre>
+                <alinea>Le dahlia est l'une des fleurs les plus communes de nos jardins.
+                    Plante vivace par ses racines tubéreuses réunies en faisceau en un même point d'où partent les tiges. Celles-ci, dressées, rondes, creuses, ramifiées en fort buisson, ont de 20 cm à 2 m de hauteur selon les variétés et les terrains. Les fleurs, simples, semi-doubles ou doubles, de toutes couleurs, sauf le bleu, se renouvellent de juillet aux gelées. De très nombreuses races sont cultivées et elles se classent en fonction de la hauteur des plantes, de la forme et de la duplicature des fleurs. La plupart se multiplient par voie végétative mais quelques-unes, bien fixées, se reproduisent par semis.
+                    On distingue
+                    1 - DAHLIAS SE REPRODUISANT PAR DIVISION DE TUBERCULES OU PAR BOUTURAGE
+                    Les appellations de chacune des races caractérisent souvent la taille de la plante et la forme de la fleur.
+                    GRANDS DAHLIAS Hauteur: 0,80 à 1,40 m 
+                    DAHLIAS DECORATIFS
+                    Fleurs doubles, à pétales larges et plats se recourbant extérieurement, à l'encontre des dahlias cactus. Elles sont bien supportées par des pédoncules rigides. Hauteur:   1 m à 1,40 m.
+                    2 -  DAHLIAS NAINS
+                    Hauteur:  0,35 à0,60m.  
+                    3 - DAHLIAS SE REPRODUISANT PAR SEMIS
+                    Ce sont des dahlias nains dont les caractères sont bien fixés et qui se reproduisent facilement et très fidèlement par le semis en donnant des plantes de taille régulière. Leurs fleurs sont simples ou semi-doubles, de coloris très variés et quelquefois plus grosses que les fleurs des variétés naines multipliées par voie végétative.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

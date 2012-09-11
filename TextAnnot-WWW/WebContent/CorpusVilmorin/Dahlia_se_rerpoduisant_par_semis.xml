@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="espece">Dahlia se reproduisant par semis</taxon> 
+        <parent type = "genre">Dahlia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Dahlia se rerpoduisant par semis</titre>
+                <alinea>
+                Ce sont des dahlias nains dont les caractères sont bien fixés et qui se reproduisent facilement et très fidèlement par le semis en donnant des plantes de taille régulière. Leurs fleurs sont simples ou semi-doubles, de coloris très variés et quelquefois plus grosses que les fleurs des variétés naines multipliées par voie végétative.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                très grande floribondité et durée de la floraison.
+              </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 tous sols, à exposition ensoleillée   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                1) Semez en mars, sous abri, en terrine. Repiquez en godets de 8 cm (godets de tourbe de préférence) maintenus sous châssis jusqu'à la fin du risque de gelée. Aérez le plus possible et pincez les plantes une ou deux fois pour favoriser leur ramification.
+                2) Semez en avril, en pépinière bien exposée et repiquez comme précédemment, en godets ou en pleine terre. Abritez des gelées. Plantez fin mai à 30 ou 35 cm de distance. En cours de végétation de nombreux arrosages sont nécessaires. La floraison sera plus belle et plus prolongée si vous prenez soin de couper les fleurs fanées pour éviter que la formation des graines n'épuise la plante. Les tubercules formés par ces plantes peuvent être arrachés à l'automne et conservés jusqu'à leur replantation printanière, comme ceux des autres dahlias, mais le semis, très facile à réussir et fournissant des plantes exemptes de dégénérescence, est généralement préféré. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                les dahlias de semis sont essentiellement des plantes à massifs et bordures. Les variétés les plus naines peuvent être utilisées en jardinières.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

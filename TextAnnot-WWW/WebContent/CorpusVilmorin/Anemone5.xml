@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Anemone sylvestris</taxon>
+    <parent type = "genre">Anemone</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ANEMONE SYLVESTRIS</titre>
+                <alinea>
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                     souche traçante de 40 cm de hauteur. Les feuilles sont palmées, à lobes dentés, pubescentes. Les fleurs apparaissent en mai-juin sont blanches et légèrement parfumées.                   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sol limoneux et calcaire, à exposition ensoleillée ou mi-ombragée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    identique à Anémone Manda.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     en sous-bois ou en massifs. Fleurs coupées.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Anémone sylvestris
+            </titre_photo> 
+            <fichier_photo_plante>
+                p251_Anemone_sylvestris.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

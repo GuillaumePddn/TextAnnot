@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Cotinus coggygria</taxon>
+    <parent type="famille">Anacardiacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ARBRE A PERRUQUE</titre>
+        <alinea> Caduc </alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

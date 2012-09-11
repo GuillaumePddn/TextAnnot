@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Malus 'Echtermeyer'</taxon>
+    <parent type="genre">Malus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>POMMIERS A FLEURS A PORT PLEUREUR</titre>
+        <alinea>Malus 'Echtermeyer' Feuilles rouges, puis bronzées. Fleurs simples, rouge carmin. Fruits rouges durables.
+		</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pommier à fleurs 'Echtermeyer'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

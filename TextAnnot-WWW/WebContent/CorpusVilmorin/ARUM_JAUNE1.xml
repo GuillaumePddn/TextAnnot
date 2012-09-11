@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Zantedeschia elliottiana</taxon>
+    <parent type="genre">Arum, Calla</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ARUM JAUNE</titre>
+        <alinea>Plante vivace semblable à la précédente, mais s'en distinguant par la coloration jaune de ses grandes spathes. La souche, est formée d'un tubercule arrondi, qui développe des feuilles plus ou moins tachetées de blanc.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Arum jaune</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

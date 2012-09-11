@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Phillyrea decora = Phillyrea vilmoriniana</taxon>
+    <parent type="genre">Phillyrea</parent>
+    <contenu>
+      <paragraphe>
+        <titre>FlLARIA PERSISTANT</titre>
+        <alinea>• Fleurit en avril-mai • Fruits en août-septembre Hauteur 2 à 2,50 m. Bel arbuste à port arrondi, à feuilles vert foncé rappelant celles du laurier-cerise. Les fleurs blanches apparaissent à la base des feuilles, en petits glomérules denses. Les fruits sont rouge foncé. Avec son beau feuillage vernissé, le fllaria peut servir de fond dans des massifs pour mettre en valeur des floraisons claires. En terre légère et en situation ensoleillée, le filaria résiste aux hivers normaux de la région parisienne.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

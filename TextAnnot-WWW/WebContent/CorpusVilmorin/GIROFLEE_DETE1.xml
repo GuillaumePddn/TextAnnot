@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Giroflée d'été</taxon>
+    <parent type="genre">Cheiranthus et Matthiola</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GIROFLEE D'ETE</titre>
+		</paragraphe>
+        <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+		<alinea>annuelle fleurissant de juin à septembre. Fleurs aux nombreux coloris bien variés blanc, bleu, jaune, rose, rouge violet.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols secs, même calcaires, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Semez clair, en février-mars, sous châssis froid, mettez en place fin-avril, à 30 cm d'écartement. Floraison de juin à septembre. 2) Semez en avril-mai en place ou en pépinière. Éclaircissez ou plantez à 30 cm d'écartement. Les giroflées excelsior se prêtent bien à la culture sous verre, sous abri ou en serre froide, où la hampe florale peut atteindre 1,20 m de hauteur.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>massifs pour les variétés basses. Fleurs coupées ou massifs pour les variétés à grandes tiges.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>• Giroflée quarantaine à grande fleur double variée. Hauteur 50 cm. La tige, peu ramifiée, est garnie de fleurons très serrés. Plante à massifs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

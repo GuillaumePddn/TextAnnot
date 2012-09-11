@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Géranium dalmaticum</taxon>
+    <parent type="genre">Geranium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GERANIUM DALMATICUM</titre>
+        <alinea> Plante basse de 10 à 15 cm de hauteur, à souche rhizomateuse formant de grands coussins.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>fleurs roses en juin juillet. Belle coloration rougeâtre du feuillage en automne.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>ensoleillée ou légèrement ombragée, en sol normal pas trop sec.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>semis ou division des touffes au printemps. Jeunes plants disponibles dans le commerce en automne et au printemps.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>grandes rocailles, bordures.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>• 'Album'  fleurs blanches.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Géranium dalmaticum</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

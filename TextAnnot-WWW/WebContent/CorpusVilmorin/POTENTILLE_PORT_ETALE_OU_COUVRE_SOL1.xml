@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Potentilla suffruticora</taxon>
+    <parent type="genre">Potentilla</parent>
+    <contenu>
+      <paragraphe>
+        <titre>POTENTILLE PORT ETALE OU COUVRE SOL</titre>
+        <alinea>• 'Elisabeth' 50 à 80 cm. Floraison prolongée jaune d'or • 'Abbotswood' 80 cm. Port semi-étalé, floraison blanche • Red Ace Bloace' 30 à 50 cm. Floraison rouge orangé à revers jaune • 'Tangerine' 80 cm à 1 m. couvre-sol à fleurs orange.  Ces variétés font office de couvre-sol, sur des pentes ou des talus, ou encore s'intègrent dans une rocaille.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Potentille 'Elisabeth'</titre_photo>
+        <fichier_photo_plante>p468_Potentille__Elisabeth_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

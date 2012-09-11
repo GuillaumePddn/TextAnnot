@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Phaseolus multiflorus</taxon> 
+        <parent type = "genre">Phaseolus</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Haricot d'Espagne Annuelle</titre>
+                <alinea>
+                C'est un haricot à rames comestible mais surtout cultivé comme plante grimpante et d'ornement pour ses jolies fleurs, toujours renouvelées. Feuillage très ample et fleurs bien érigées, s'épanouissant en été, rouges dans le type. Il en existe des variétés blanches ou bicolores (rouges et blanches) mais c'est le mélange des diverses variétés qui est le plus cultivé.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 plante grimpante de 3 à 5 m, de végétation rapide et à floraison abondante.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 bonnes terres franches de préférence, à exposition ensoleillée.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                facile.
+                - Semez en mai-juin, en place en poquets distants de 50 cm.
+                - Floraison de juillet à septembre.
+                - Pour obtenir une floraison plus précoce, semez en mars-avril quatre à cinq graines par pot placés sous châssis froid et mettez en place en mai sans diviser. Floraison en juin-juillet.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                décoration de pergolas, tonnelles, treillages.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Haricot d'Espagne
+            </titre_photo> 
+            <fichier_photo_plante>
+                p306_Haricot_d_Espagne.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

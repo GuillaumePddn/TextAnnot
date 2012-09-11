@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Ricin sanguin</taxon>
+    <parent type="genre">Ricinus communis</parent>
+    <contenu>
+      <paragraphe>
+        <titre>RICIN SANGUIN VIVACE CULTIVEE EN ANNUELLE</titre>
+        <alinea>Plante vivace, industrielle dans les pays chauds, cultivée comme annuelle et décorative sous notre climat. Tige robuste, peu ramifiée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>Grandes feuilles palmées brun pourpre et fructification rouge très ornementales. Croissance rapide. Hauteur - 1,50 à 3 m.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>bonne terre franche, à exposition chaude.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Semez de mars à mai, en pots, sous abri et mettez en place fin mai. 2) Semez en place en mai-juin à bonne exposition. Éclaircissez en distançant les plantes de 1 m environ. Arrosez copieusement pendant l'été.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>grâce à sa végétation rapide et au développement très important qu'il acquiert, le ricin se prête à la plantation de petits groupes sur pelouses il peut aussi combler provisoirement les vides entre les massifs d'arbustes récemment plantés et qui sont encore insuffisamment développés.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Ricin sanguin</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

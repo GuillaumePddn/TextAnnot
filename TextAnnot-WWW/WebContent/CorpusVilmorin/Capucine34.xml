@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Tropaeolum minus 'Globe'</taxon>    
+    <parent type = "espece">Tropaeolum minus</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CAPUCINE GLOBE </titre>
+                <alinea> 
+                    CAPUCINE NAINES À FLEURS DOUBLES
+                    De port compact, elle forme une touffe en globe parfaitement régulier. Malgré la diversité des espèces, les capucines présentent des caractéristiques assez homogènes.
+                </alinea>
+            </paragraphe>
+          </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Capucine 'Globe'
+            </titre_photo> 
+            <fichier_photo_plante>
+               p267_Capucine__Globe_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Hepatica nobilis</taxon> 
+        <parent type = "genre">Hepatica</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Anémone	hépatique</titre>
+                <alinea>
+                Plante à souche fibreuse d'où partent, en février-mars, de très nombreuses petites fleurs solitaires, bleues, blanches ou roses, simples ou doubles, suivant les variétés, portées par des hampes poilues de 8 à 15 cm de hauteur. Les feuilles, vert luisant, à trois lobes, ayant quelque ressemblance avec les feuilles de lierre, paraissent après les fleurs, et persistent jusqu'en novembre ; il arrive même qu'elles durent jusqu'à la floraison suivante.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                fleurs abondantes de février à avril.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                sols frais et humifères, à mi-ombre.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                multiplication par éclats de touffes en septembre-octobre. Plantez à 25 cm en tous sens.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                excellente plante de bordures, de rocailles et de sous-bois, demandant peu de soins.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

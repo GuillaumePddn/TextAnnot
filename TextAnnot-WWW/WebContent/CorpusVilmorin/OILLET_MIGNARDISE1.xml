@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Dianthus plumarius </taxon>
+    <parent type="genre">Dianthus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ŒILLET MIGNARDISE</titre>
+        <alinea>Vivace, atteignant 25 à 30 cm, il diffère de l'œillet des fleuristes par son port plus court, ramifié et diffus, ses feuilles plus longues, plus étroites et de teinte plus glauque. Les fleurs se montrent de mai à juillet elles sont très odorantes, à pétales fortement laciniés. La plupart des variétés peuvent se multiplier à partir de graines, mais le bouturage permet, dans certains cas, de reproduire plus fidèlement leurs caractères.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>floraison de longue durée. Port compact et régulier. Parfum délicat et prononcé.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous les sols, même calcaires, à exposition ensoleillée. Supporte le climat maritime.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Le bouturage s'opère de la même façon que pour l'œillet des fleuristes vivace. C'est d'ailleurs le seul mode de reproduction des variétés ne produisant pas de graines. 2) Pour celles se multipliant par semis, semez d'avril à mai en pépinière bien exposée. Repiquez en pépinière, à 10 cm et mettez en place en octobre de préférence (ou au printemps, en mars) à 25 cm d'écartement. 3) La division des touffes est possible. Elle s'opère immédiatement après la floraison ou à l'automne. Les plantes issues de la division sont repiquées en pépinière, à 15 cm de distance, en terre souple et franche et mises en place, soit au printemps, soit à l'automne suivant.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>essentiellement en bordures. Fleurs coupées (jolis bouquets, très odorants).</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>• Œillet mignardise double. Hauteur 30 cm. Race à très grosses fleurs, larges de 5 à 6 cm, à pétales peu dentelés, aux coloris très variés, blanc, rose, rouge, rouge foncé et pourpre. Certaines variétés sont particulièrement intéressantes. Leurs caractères n'étant pas fixés, elles sont multipliées uniquement de boutures. De très belles sélections permettent toutefois d'obtenir, par semis, de jolies plantes aux coloris variés • Œillet mignardise 'Sonate'. À fleurs laciniées, très doubles, florifère et précoce. • Œillet mignardise 'Simple'. À fleurs simples.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Œillet mignardise 'Sonate'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Œillet Mignardise 'Simple'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

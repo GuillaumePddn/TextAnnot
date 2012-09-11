@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Géranium x magnificum</taxon>
+    <parent type="genre">Geranium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GERANIUM X MAGNIFICUM</titre>
+        <alinea> Un des plus beaux géraniums de plate-bande, d'où son nom. D'une hauteur de 60 cm. Plante à souche épaisse et vigoureuse. Feuilles rondes à lobes larges.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>belle coloration jaune et rouge en automne. Fleurs ayant une colora- tion intense bleu violacé, à veines foncées, en juin-juillet.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>exposition ensoleillée en sol ordinaire pas trop sec.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>semis ou division des touffes au printemps. Jeunes plants disponibles dans le commerce en automne et au printemps.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>massifs, et plates-bandes.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Géranium x magnificum</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

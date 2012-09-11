@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Geranium</taxon>
+    <parent type="famille">Géraniacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GERANIUM VIVACE</titre>
+        <alinea>À ne pas confondre avec les fameuses plantes de balcons appelées vulgairement géraniums, et qui sont en fait des pélargoniums. Il existe un grand nombre de géraniums vivaces, du plus petit au plus grand, et dans des coloris très divers.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

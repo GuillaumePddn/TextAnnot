@@ -1,0 +1,3132 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+    xmlns:xsp="http://www.owl-ontologies.com/2005/08/07/xsp.owl#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+    xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
+    xmlns="http://www.owl-ontologies.com/OntologieCouleurs.owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xml:base="http://www.owl-ontologies.com/OntologieCouleurs.owl">
+  <owl:Ontology rdf:about="http://www.owl-ontologies.com/OntologieCouleurs.owl"/>
+  <owl:Class rdf:ID="Carotte">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class rdf:ID="Orange"/>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:ID="aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">carotte</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="RoseVioline">
+    <rdfs:label xml:lang="fr">rose violine</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Rose"/>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty rdf:resource="#aPourCouleurDominante"/>
+        <owl:someValuesFrom rdf:resource="#Violet"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="BlancVeineRougeFramboise">
+    <owl:equivalentClass>
+      <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+          <rdf:Description rdf:about="#BlancVeine">
+            <owl:equivalentClass>
+              <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                  <rdf:Description rdf:about="#Blanc"/>
+                  <owl:Restriction>
+                    <owl:someValuesFrom rdf:resource="#AspectMotifVeine"/>
+                    <owl:onProperty rdf:resource="#aPourAspect"/>
+                  </owl:Restriction>
+                </owl:intersectionOf>
+              </owl:Class>
+            </owl:equivalentClass>
+          </rdf:Description>
+          <owl:Restriction>
+            <owl:onProperty rdf:resource="#aPourCouleurDominante"/>
+            <owl:someValuesFrom rdf:resource="#Framboise"/>
+          </owl:Restriction>
+        </owl:intersectionOf>
+      </owl:Class>
+    </owl:equivalentClass>
+    <rdfs:label xml:lang="fr">blanc veine de rouge framboise</rdfs:label>
+  </owl:Class>
+  
+  <owl:Class rdf:ID="RougeFramboiseVeine">
+    <rdfs:comment xml:lang="fr">modif Cathy du 26/05/2012</rdfs:comment>
+    <owl:equivalentClass>
+      <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+          <rdf:Description rdf:about="#RougeVeine">
+            <owl:equivalentClass>
+              <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                  <rdf:Description rdf:about="#Rouge"/>
+                  <owl:Restriction>
+                    <owl:someValuesFrom rdf:resource="#AspectMotifVeine"/>
+                    <owl:onProperty rdf:resource="#aPourAspect"/>
+                  </owl:Restriction>
+                </owl:intersectionOf>
+              </owl:Class>
+            </owl:equivalentClass>
+          </rdf:Description>
+          <owl:Restriction>
+            <owl:onProperty rdf:resource="#aPourCouleurDominante"/>
+            <owl:someValuesFrom rdf:resource="#Framboise"/>
+          </owl:Restriction>
+        </owl:intersectionOf>
+      </owl:Class>
+    </owl:equivalentClass>
+    <rdfs:label xml:lang="fr">rouge framboise veiné</rdfs:label>
+  </owl:Class>
+  
+  <owl:Class rdf:ID="BlancVeineRoseVioline">
+    <rdfs:label xml:lang="fr">Blanc veiné rose violine</rdfs:label>
+    <owl:equivalentClass>
+      <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+          <rdf:Description rdf:about="#BlancVeine"/>
+          <owl:Restriction>
+            <owl:onProperty rdf:resource="#aPourCouleurDominante"/>
+            <owl:someValuesFrom rdf:resource="#RoseVioline"/>
+          </owl:Restriction>
+        </owl:intersectionOf>
+      </owl:Class>
+    </owl:equivalentClass>
+  </owl:Class>
+  <owl:Class rdf:ID="Garance">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class rdf:ID="Rouge"/>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">garance</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectMotifTachete">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="AspectMotif"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">tâcheté</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Mais">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class rdf:ID="Jaune"/>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">maïs</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="TerreBrulee">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="CouleurAutonomeComposee"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class rdf:ID="Marron"/>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class rdf:ID="Ocre"/>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:ID="estProcheDe"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">terre brûlée</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Anthracite">
+    <rdfs:label xml:lang="fr">anthracite</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class rdf:ID="Gris"/>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="RoseAzalee">
+    <rdfs:label xml:lang="fr">rose azalée</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="Rose"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="CouleurApproximanteJaune">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="CouleurApproximante"/>
+    </rdfs:subClassOf>
+    <owl:equivalentClass>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Jaune"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </owl:equivalentClass>
+  </owl:Class>
+  <owl:Class rdf:ID="VioletAmethyste">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="Violet"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">violet amèthyste</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="VertBronze">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="Vert"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr"
+    >vert bronze</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#Vert">
+    <rdfs:label xml:lang="fr">vert</rdfs:label>
+    <rdfs:label xml:lang="fr">verdâtre</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="CouleurChromatique"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="CouleurAutonomeSimplePrimitive"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Carmin">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Rouge"/>
+              <owl:Class rdf:about="#Violet"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">carmin</rdfs:label>
+    <rdfs:label xml:lang="fr">carminé</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Pourpre">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Rouge"/>
+              <owl:Class rdf:about="#Violet"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">pourpre</rdfs:label>
+    <rdfs:label xml:lang="fr"
+    >pourpre</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="JauneMarron">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="CouleurTertiaire"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">jaune-marron</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Smaragdin">
+    <rdfs:label xml:lang="fr">smaragdin</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Vert"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="VertAnise">
+    <rdfs:label xml:lang="fr">vert anisé</rdfs:label>
+    <rdfs:label xml:lang="fr">vert anis</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Vert"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Noisette">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Marron"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">noisette</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="CafeAuLait">
+    <rdfs:label xml:lang="fr">café au lait</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeComposee"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:ID="Cafe"/>
+              <owl:Class rdf:ID="Creme"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#estProcheDe"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="RougeCerise">
+    <rdfs:label xml:lang="fr"
+    >rouge cerise</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Rouge"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="VertCendre">
+    <rdfs:label xml:lang="fr"
+    >vert cendré</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Vert"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Viride">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Vert"/>
+              <owl:Class rdf:ID="Bleu"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">viride</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#AspectMotif">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="CaracteristiqueCouleur"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Fauve">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Marron"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">fauve</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Glauque">
+    <rdfs:label xml:lang="fr">glauque</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Vert"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="OrangeMarron">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurTertiaire"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">orange-marron</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectMotifMoucheté">
+    <rdfs:label xml:lang="fr">moucheté</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#AspectMotif"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Ocre">
+    <rdfs:label xml:lang="fr">ocre</rdfs:label>
+    <rdfs:label xml:lang="fr">ocré</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Marron"/>
+              <owl:Class rdf:about="#Jaune"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Marron"/>
+              <owl:Class rdf:about="#Rouge"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="VertJade">
+    <rdfs:subClassOf rdf:resource="#Vert"/>
+    <rdfs:label xml:lang="fr"
+    >vert jade</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="LieDeVin">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeComposee"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Rouge"/>
+              <owl:Class rdf:about="#Violet"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">lie de vin</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectSaturationTerne">
+    <rdfs:label xml:lang="fr">terne</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="AspectSaturation"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Sarcelle">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Bleu"/>
+              <owl:Class rdf:about="#Vert"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">sarcelle</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="JauneVert">
+    <rdfs:label xml:lang="fr">jaune-vert</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurTertiaire"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Violine">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Pourpre"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#estProcheDe"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Rose"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">violine</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Beige">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:ID="Blanc"/>
+              <owl:Class rdf:about="#Marron"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">beige</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectMotifVeine">
+    <rdfs:label xml:lang="fr">veiné</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#AspectMotif"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Menthe">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Vert"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">menthe</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="JauneRouge">
+    <rdfs:label xml:lang="fr">jaune-rouge</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurTertiaire"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Cuivre">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Orange"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">cuivre</rdfs:label>
+    <rdfs:label xml:lang="fr">cuivré</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PelureDOignon">
+    <rdfs:label xml:lang="fr">pelure d'oignon</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeComposee"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Rose"/>
+              <owl:Class rdf:about="#Rouge"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Ivoire">
+    <rdfs:label xml:lang="fr">ivoire</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Creme"/>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#estProcheDe"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Blanc"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Bitume">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Gris"/>
+              <owl:Class rdf:about="#Marron"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">bitume</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="CouleurApproximanteRose">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurApproximante"/>
+    </rdfs:subClassOf>
+    <owl:equivalentClass>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Rose"/>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </owl:equivalentClass>
+  </owl:Class>
+  <owl:Class rdf:ID="BlancPiquete">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Blanc"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr"
+    >blanc piqueté</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="JauneCanari">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Jaune"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr"
+    >jaune canari</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#Orange">
+    <rdfs:label xml:lang="fr">orange</rdfs:label>
+    <rdfs:label xml:lang="fr">orangé</rdfs:label>
+    <rdfs:label xml:lang="fr">orangeâtre</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurChromatique"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimplePrimitive"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#Rouge">
+    <rdfs:label xml:lang="fr">rouge</rdfs:label>
+    <rdfs:label xml:lang="fr">rougeâtre</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurChromatique"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimplePrimitive"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="OrangeRouge">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurTertiaire"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">orange-rouge</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Indigo">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Bleu"/>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">indigo</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Incarnat">
+    <rdfs:label xml:lang="fr">incarnat</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Rouge"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Topaze">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Jaune"/>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">topaze</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Malachite">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Vert"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">malachite</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="VertLuisant">
+    <rdfs:label xml:lang="fr"
+    >vert luisant</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Vert"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BlancVeine">
+    <rdfs:label xml:lang="fr"
+    >blanc veiné</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Blanc"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Mandarine">
+    <rdfs:label xml:lang="fr">mandarine</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Orange"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="CouleurLinguisitique">
+    <rdfs:label xml:lang="fr">couleurs classées linguistiquement</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="Couleur"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectMotifRaye">
+    <rdfs:subClassOf rdf:resource="#AspectMotif"/>
+    <rdfs:label xml:lang="fr">rayé</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Argent">
+    <rdfs:label xml:lang="fr">argent</rdfs:label>
+    <rdfs:label xml:lang="fr">argenté</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="BlancOrange">
+    <rdfs:label xml:lang="fr">blanc-orange</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurTertiaire"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Amethyste">
+    <rdfs:label xml:lang="fr">amethyste</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Violet"/>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="MarronRouge">
+    <rdfs:label xml:lang="fr">marron-rouge</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurTertiaire"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Cannelle">
+    <rdfs:label xml:lang="fr">cannelle</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Marron"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Zinzolin">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+    <rdfs:label xml:lang="fr">zinzolin</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Rouge"/>
+              <owl:Class rdf:about="#Violet"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Emeraude">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Vert"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">émeraude</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectClarteProfond">
+    <rdfs:label xml:lang="fr">profond</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="AspectClarte"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Chataigne">
+    <rdfs:label xml:lang="fr">châtaigne</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Gris"/>
+              <owl:Class rdf:about="#Marron"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectClarteFonce">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#AspectClarte"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">foncé</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Pervenche">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Bleu"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">pervenche</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="VertEmeraude">
+    <rdfs:label xml:lang="fr"
+    >vert émeraude</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Vert"/>
+  </owl:Class>
+  <owl:Class rdf:ID="RougePiment">
+    <rdfs:subClassOf rdf:resource="#Rouge"/>
+    <rdfs:label xml:lang="fr"
+    >rouge piment</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Aubergine">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Violet"/>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">aubergine</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="BlancCotonneux">
+    <rdfs:label xml:lang="fr"
+    >blanc cotonneux</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Blanc"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="VentreDeBiche">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeComposee"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Blanc"/>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#estProcheDe"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class rdf:ID="Roux"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">ventre de biche</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#Marron">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurChromatique"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimplePrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">marron</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="JaunePrimevere">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Jaune"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr"
+    >jaune primevère</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="TeteDeNegre">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Marron"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeComposee"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">tête de nègre</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="GrisViolet">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurTertiaire"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">gris-violet</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#AspectClarte">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CaracteristiqueCouleur"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">clarté</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#CouleurAutonomeSimpleNonPrimitive">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="CouleurAutonomeSimple"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectSaturationDoux">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#AspectSaturation"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">doux</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="VertOlive">
+    <rdfs:subClassOf rdf:resource="#Vert"/>
+    <rdfs:label xml:lang="fr"
+    >vert olive</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#CouleurChromatique">
+    <rdfs:label xml:lang="fr">couleurs classées chromatiquement</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Couleur"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Grenadine">
+    <rdfs:label xml:lang="fr">grenadine</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Rouge"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="CouleurApproximanteBlanc">
+    <owl:equivalentClass>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Blanc"/>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </owl:equivalentClass>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurApproximante"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="BlancMarron">
+    <rdfs:label xml:lang="fr">blanc-marron</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurTertiaire"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Tabac">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Marron"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">tabac</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Tomate">
+    <rdfs:label xml:lang="fr">tomate</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Rouge"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Byzantium">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Violet"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">byzantium</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Ecru">
+    <rdfs:label xml:lang="fr">écru</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Blanc"/>
+              <owl:Class rdf:about="#Jaune"/>
+              <owl:Class rdf:about="#Gris"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Bordeaux">
+    <rdfs:label xml:lang="fr">bordeaux</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Rouge"/>
+              <owl:Class rdf:about="#Violet"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="RoseMarron">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurTertiaire"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">rose-marron</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Citrouille">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Orange"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">citrouille</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="BlancCasse">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Blanc"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr"
+    >blanc cassé</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Lavande">
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#estProcheDe"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class rdf:ID="Mauve"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Bleu"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">lavande</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#Rose">
+    <rdfs:label xml:lang="fr">rose</rdfs:label>
+    <rdfs:label xml:lang="fr">rosé</rdfs:label>
+    <rdfs:label xml:lang="fr">rosâtre</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurChromatique"/>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimplePrimitive"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#CouleurTertiaire">
+    <rdfs:subClassOf rdf:resource="#CouleurLinguisitique"/>
+    <rdfs:label xml:lang="fr">couleur tertiaire</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectMotifStrie">
+    <rdfs:subClassOf rdf:resource="#AspectMotif"/>
+    <rdfs:label xml:lang="fr">strié</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Prasin">
+    <rdfs:label xml:lang="fr">prasin</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Vert"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="OrangeRose">
+    <rdfs:label xml:lang="fr">orange-rose</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Jaune">
+    <rdfs:subClassOf rdf:resource="#CouleurChromatique"/>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimplePrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">jaune</rdfs:label>
+    <rdfs:label xml:lang="fr">jaunâtre</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Parme">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Violet"/>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">parme</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="VertVeronese">
+    <rdfs:label xml:lang="fr"
+    >vert véronèse</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Vert"/>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectMotifPiquete">
+    <rdfs:label xml:lang="fr">piqueté</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#AspectMotif"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Corail">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Orange"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">corail</rdfs:label>
+    <rdfs:label xml:lang="fr"
+    >corail</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Coquelicot">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Rouge"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">coquelicot</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Flave">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Jaune"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">flave</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Cyan">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Bleu"/>
+              <owl:Class rdf:about="#Vert"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">cyan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="BlancNoir">
+    <rdfs:label xml:lang="fr">blanc-noir</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BlancGris">
+    <rdfs:label xml:lang="fr">blanc-gris</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+  </owl:Class>
+  <owl:Class rdf:ID="JauneMimosas">
+    <rdfs:label xml:lang="fr"
+    >jaune mimosa</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Jaune"/>
+  </owl:Class>
+  <owl:Class rdf:about="#CouleurApproximante">
+    <rdfs:label xml:lang="fr">couleur approximante</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurLinguisitique"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Framboise">
+    <rdfs:label xml:lang="fr">framboise</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Rouge"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="RoseBonbon">
+    <rdfs:subClassOf rdf:resource="#Rose"/>
+    <rdfs:label xml:lang="fr"
+    >rose bonbon</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="CacaDOie">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Jaune"/>
+              <owl:Class rdf:about="#Vert"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeComposee"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">caca d'oie</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="CouleurApproximanteOrange">
+    <owl:equivalentClass>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Orange"/>
+      </owl:Restriction>
+    </owl:equivalentClass>
+    <rdfs:subClassOf rdf:resource="#CouleurApproximante"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Violet">
+    <rdfs:subClassOf rdf:resource="#CouleurChromatique"/>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimplePrimitive"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">violet</rdfs:label>
+    <rdfs:label xml:lang="fr">violacé</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Glycine">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Violet"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">glycine</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="GrisRose">
+    <rdfs:label xml:lang="fr">gris-rose</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+  </owl:Class>
+  <owl:Class rdf:ID="JauneBeurre">
+    <rdfs:label xml:lang="fr"
+    >jaune beurre</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Jaune"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Or">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Jaune"/>
+              <owl:Class rdf:about="#Orange"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">or</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="VertRaye">
+    <rdfs:subClassOf rdf:resource="#Vert"/>
+    <rdfs:label xml:lang="fr"
+    >vert rayé</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="GrisMetallise">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Gris"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr"
+    >gris métallisé</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectClarteLumineux">
+    <rdfs:label xml:lang="fr">lumineux</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#AspectClarte"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Soufre">
+    <rdfs:label xml:lang="fr">soufre</rdfs:label>
+    <rdfs:label xml:lang="fr">soufré</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Jaune"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="RosePeche">
+    <rdfs:label xml:lang="fr"
+    >rose pêche</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Rose"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BleuRoi">
+    <rdfs:label xml:lang="fr"
+    >bleu roi</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Bleu"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectSaturationNeutre">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#AspectSaturation"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">neutre</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#CouleurAutonomeSimplePrimitive">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeSimple"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="RoseViolet">
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+    <rdfs:label xml:lang="fr">rose-violet</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="JauneMiel">
+    <rdfs:subClassOf rdf:resource="#Jaune"/>
+    <rdfs:label xml:lang="fr"
+    >jaune miel</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#Cafe">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Marron"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">café</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Groseille">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Rouge"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">groseille</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectBrillanceMat">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="AspectBrillance"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">mat</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Albatre">
+    <rdfs:label xml:lang="fr">albâtre</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Blanc"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Capucine">
+    <rdfs:label xml:lang="fr">capucine</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Rouge"/>
+              <owl:Class rdf:about="#Orange"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="BleuAcier">
+    <rdfs:label xml:lang="fr"
+    >bleu acier</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Bleu"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Puce">
+    <rdfs:label xml:lang="fr">puce</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Marron"/>
+              <owl:Class rdf:about="#Rouge"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="JauneBoutonOr">
+    <rdfs:label xml:lang="fr"
+    >jaune bouton d'or</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Jaune"/>
+  </owl:Class>
+  <owl:Class rdf:ID="RougeVeloute">
+    <rdfs:label xml:lang="fr"
+    >rouge velouté</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Rouge"/>
+  </owl:Class>
+  <owl:Class rdf:ID="OrangeViolet">
+    <rdfs:label xml:lang="fr">orange-violet</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+  </owl:Class>
+  <owl:Class rdf:ID="RoseLilas">
+    <rdfs:label xml:lang="fr">rose lilacé</rdfs:label>
+    <rdfs:label xml:lang="fr">rose lilas</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Rose"/>
+  </owl:Class>
+  <owl:Class rdf:ID="MarronBleu">
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+    <rdfs:label xml:lang="fr">marron-bleu</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="MarronRose">
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+    <rdfs:label xml:lang="fr">marron-rose</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="RoseVenitien">
+    <rdfs:label xml:lang="fr"
+    >rose vénitien</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Rose"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Tourterelle">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Gris"/>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">tourterelle</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Rubis">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Rouge"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">rubis</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Feu">
+    <rdfs:label xml:lang="fr">feu</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Rouge"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BlancRouge">
+    <rdfs:label xml:lang="fr">blanc-rouge</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Mastic">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Gris"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">mastic</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Ecarlate">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Rouge"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">écarlate</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="RoseNoir">
+    <rdfs:label xml:lang="fr">rose-noir</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+  </owl:Class>
+  <owl:Class rdf:ID="AileDeCorbeau">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeComposee"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:ID="Noir"/>
+              <owl:Class rdf:about="#Bleu"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">aile de corbeau</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Incarnadin">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Pourpre"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#estProcheDe"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Rose"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">incarnadin</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="RoseAurore">
+    <rdfs:label xml:lang="fr"
+    >rose aurore</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Rose"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Fraise">
+    <rdfs:label xml:lang="fr">fraise</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Rouge"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Cacao">
+    <rdfs:label xml:lang="fr">cacao</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Marron"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Noir">
+    <rdfs:subClassOf rdf:resource="#CouleurChromatique"/>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimplePrimitive"/>
+    <rdfs:label xml:lang="fr">noir</rdfs:label>
+    <rdfs:label xml:lang="fr">noirâtre</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="BlancBleu">
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+    <rdfs:label xml:lang="fr">blanc-bleu</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Leger">
+    <rdfs:label xml:lang="fr">léger</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="ModifieurDegreCouleur"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="CoquilleDOeuf">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeComposee"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Blanc"/>
+              <owl:Class rdf:about="#Rose"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#estProcheDe"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Beige"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">coquille d'oeuf</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#Blanc">
+    <rdfs:subClassOf rdf:resource="#CouleurChromatique"/>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimplePrimitive"/>
+    <rdfs:label xml:lang="fr">blanc</rdfs:label>
+    <rdfs:label xml:lang="fr">blanchâtre</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectClarteClair">
+    <rdfs:label xml:lang="fr">clair</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#AspectClarte"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BlancStrié">
+    <rdfs:subClassOf rdf:resource="#Blanc"/>
+    <rdfs:label xml:lang="fr"
+    >blanc strié</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="RougeGris">
+    <rdfs:label xml:lang="fr">rouge-gris</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+  </owl:Class>
+  <owl:Class rdf:about="#ModifieurDegreCouleur">
+    <rdfs:label xml:lang="fr">modifieur de dégré de couleur</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="MarronVert">
+    <rdfs:label xml:lang="fr">marron-vert</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BoisDeRose">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Rose"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CouleurAutonomeComposee"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">bois de rose</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#Bleu">
+    <rdfs:label xml:lang="fr">bleu</rdfs:label>
+    <rdfs:label xml:lang="fr">bleuté</rdfs:label>
+    <rdfs:label xml:lang="fr">bleuâtre</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurChromatique"/>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimplePrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Fer">
+    <rdfs:label xml:lang="fr">fer</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Gris"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Vermeil">
+    <rdfs:label xml:lang="fr">vermeil</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Rouge"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Byzantin">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class rdf:ID="Magenta"/>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#estProcheDe"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">byzantin</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectMotifUni">
+    <rdfs:label xml:lang="fr">uni</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#AspectMotif"/>
+  </owl:Class>
+  <owl:Class rdf:ID="JauneNoir">
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+    <rdfs:label xml:lang="fr">jaune-noir</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="GrisBlanc">
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+    <rdfs:label xml:lang="fr">gris-blanc</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectSaturationVif">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#AspectSaturation"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">vif</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="OrangeIndien">
+    <rdfs:subClassOf rdf:resource="#Orange"/>
+    <rdfs:label xml:lang="fr"
+    >orange indien</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#CouleurAutonomeComposee">
+    <rdfs:subClassOf rdf:resource="#CouleurLinguisitique"/>
+    <rdfs:label xml:lang="fr">couleur autonome composée</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#CouleurAutonomeSimple">
+    <rdfs:label xml:lang="fr">couleur autonome simple</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurLinguisitique"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Avocat">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Vert"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">avocat</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Cramoisi">
+    <rdfs:label xml:lang="fr">cramoisi</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Rouge"/>
+              <owl:Class rdf:about="#Violet"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Sepia">
+    <rdfs:label xml:lang="fr">sépia</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Marron"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectChaleurFroid">
+    <rdfs:label xml:lang="fr">froid</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="AspectChaleur"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#AspectChaleur">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CaracteristiqueCouleur"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr"
+    >aspect</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="BleuLavande">
+    <rdfs:subClassOf rdf:resource="#Bleu"/>
+    <rdfs:label xml:lang="fr"
+    >bleu lavande</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Chocolat">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Marron"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">chocolat</rdfs:label>
+    <rdfs:label xml:lang="fr">chocolaté</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="JauneIndien">
+    <rdfs:subClassOf rdf:resource="#Jaune"/>
+    <rdfs:label xml:lang="fr"
+    >jaune indien</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#Gris">
+    <rdfs:subClassOf rdf:resource="#CouleurChromatique"/>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimplePrimitive"/>
+    <rdfs:label xml:lang="fr">gris</rdfs:label>
+    <rdfs:label xml:lang="fr">grisé</rdfs:label>
+    <rdfs:label xml:lang="fr">grisâtre</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="JauneChamoise">
+    <rdfs:subClassOf rdf:resource="#Jaune"/>
+    <rdfs:label xml:lang="fr"
+    >jaune chamoisé</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PoilDeChameau">
+    <rdfs:label xml:lang="fr">poil de chameau</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeComposee"/>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Jaune"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#estProcheDe"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Tabac"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="BleuGris">
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+    <rdfs:label xml:lang="fr">bleu-gris</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Blet">
+    <rdfs:label xml:lang="fr">blet</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Marron"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:about="#AspectSaturation">
+    <rdfs:label xml:lang="fr">saturation</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CaracteristiqueCouleur"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="JauneNankin">
+    <rdfs:subClassOf rdf:resource="#Jaune"/>
+    <rdfs:label xml:lang="fr"
+    >jaune nankin</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="RoseChamoise">
+    <rdfs:label xml:lang="fr"
+    >rose chamoisé</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Rose"/>
+  </owl:Class>
+  <owl:Class rdf:ID="CouleurApproximanteVert">
+    <owl:equivalentClass>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Vert"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </owl:equivalentClass>
+    <rdfs:subClassOf rdf:resource="#CouleurApproximante"/>
+  </owl:Class>
+  <owl:Class rdf:ID="RoseCyclamen">
+    <rdfs:label xml:lang="fr"
+    >rose cyclamen</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Rose"/>
+  </owl:Class>
+  <owl:Class rdf:ID="VertUni">
+    <rdfs:label xml:lang="fr"
+    >vert uni</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Vert"/>
+  </owl:Class>
+  <owl:Class rdf:ID="CouleurApproximanteBleu">
+    <rdfs:subClassOf rdf:resource="#CouleurApproximante"/>
+    <owl:equivalentClass>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Bleu"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </owl:equivalentClass>
+  </owl:Class>
+  <owl:Class rdf:ID="RoseOrange">
+    <rdfs:label xml:lang="fr">rose-orange</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectChaleurChaud">
+    <rdfs:label xml:lang="fr">chaud</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#AspectChaleur"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Citron">
+    <rdfs:label xml:lang="fr">citron</rdfs:label>
+    <rdfs:label xml:lang="fr">citronné</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Jaune"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="JauneTigre">
+    <rdfs:subClassOf rdf:resource="#Jaune"/>
+    <rdfs:label xml:lang="fr"
+    >jaune tigré</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Vanille">
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Beige"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#estProcheDe"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Marron"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">vanille</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="RougeSang">
+    <rdfs:label xml:lang="fr"
+    >rouge sang</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Rouge"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Ble">
+    <rdfs:label xml:lang="fr">blé</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Jaune"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="RoseIndien">
+    <rdfs:subClassOf rdf:resource="#Rose"/>
+    <rdfs:label xml:lang="fr"
+    >rose indien</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PourpreSolferino">
+    <rdfs:label xml:lang="fr"
+    >pourpre solférino</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Pourpre"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Turquoise">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Bleu"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">turquoise</rdfs:label>
+    <rdfs:label xml:lang="fr"
+    >turquoise</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="GrisJaune">
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+    <rdfs:label xml:lang="fr">gris-jaune</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="BlancMacule">
+    <rdfs:label xml:lang="fr"
+    >blanc maculé</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Blanc"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Jade">
+    <rdfs:label xml:lang="fr">jade</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Turquoise"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#estProcheDe"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Vert"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Souris">
+    <rdfs:label xml:lang="fr">souris</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Gris"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="OrangeVert">
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+    <rdfs:label xml:lang="fr">orange-vert</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="RoseChair">
+    <rdfs:subClassOf rdf:resource="#Rose"/>
+    <rdfs:label xml:lang="fr"
+    >rose chair</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Champagne">
+    <rdfs:label xml:lang="fr">champagne</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Jaune"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BlancCireux">
+    <rdfs:subClassOf rdf:resource="#Blanc"/>
+    <rdfs:label xml:lang="fr"
+    >blanc cireux</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Ardoise">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Gris"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">ardoise</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="JauneOrange">
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+    <rdfs:label xml:lang="fr">jaune-orange</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#AspectBrillance">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#CaracteristiqueCouleur"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">brillance</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="JaunePoussin">
+    <rdfs:subClassOf rdf:resource="#Jaune"/>
+    <rdfs:label xml:lang="fr"
+    >jaune poussin</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Pistache">
+    <rdfs:label xml:lang="fr">pistache</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Vert"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BleuMarron">
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+    <rdfs:label xml:lang="fr">bleu-marron</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="FleurDePeche">
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeComposee"/>
+    <rdfs:label xml:lang="fr">fleur de pêche</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="VertFranc">
+    <rdfs:subClassOf rdf:resource="#Vert"/>
+    <rdfs:label xml:lang="fr"
+    >vert franc</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Lilas">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#estProcheDe"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="#Mauve"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">lilas</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Azur">
+    <rdfs:label xml:lang="fr">azur</rdfs:label>
+    <rdfs:label xml:lang="fr">azuré</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Bleu"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BleuIntense">
+    <rdfs:subClassOf rdf:resource="#Bleu"/>
+    <rdfs:label xml:lang="fr"
+    >bleu intense</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#Magenta">
+    <rdfs:label xml:lang="fr">magenta</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Rouge"/>
+              <owl:Class rdf:about="#Violet"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BleuNoir">
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+    <rdfs:label xml:lang="fr">bleu-noir</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Opalin">
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Vert"/>
+              <owl:Class rdf:about="#Bleu"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">opalin</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#Couleur">
+    <rdfs:label xml:lang="fr">couleur</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Bistre">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Marron"/>
+              <owl:Class rdf:about="#Gris"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">bistre</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectSaturationSoutenu">
+    <rdfs:label xml:lang="fr">soutenu</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#AspectSaturation"/>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectBrillanceBrillant">
+    <rdfs:subClassOf rdf:resource="#AspectBrillance"/>
+    <rdfs:label xml:lang="fr">brillant</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Caramel">
+    <rdfs:label xml:lang="fr">caramel</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Marron"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="CouleurApproximanteGris">
+    <owl:equivalentClass>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Gris"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </owl:equivalentClass>
+    <rdfs:subClassOf rdf:resource="#CouleurApproximante"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Denim">
+    <rdfs:label xml:lang="fr">denim</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Bleu"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Vermillon">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Rouge"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">vermillon</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="JauneAmbre">
+    <rdfs:subClassOf rdf:resource="#Jaune"/>
+    <rdfs:label xml:lang="fr"
+    >jaune ambré</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="TeteDeMaure">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Marron"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeComposee"/>
+    <rdfs:label xml:lang="fr">tête de maure</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="AigueMarine">
+    <rdfs:label xml:lang="fr">aigue-marine</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#estProcheDe"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Cyan"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="CouleurApproximanteRouge">
+    <rdfs:subClassOf rdf:resource="#CouleurApproximante"/>
+    <owl:equivalentClass>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Rouge"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </owl:equivalentClass>
+  </owl:Class>
+  <owl:Class rdf:ID="Argile">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Gris"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">argile</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Cachou">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Marron"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">cachou</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Grenat">
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Marron"/>
+              <owl:Class rdf:about="#Rouge"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">grenat</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#Mauve">
+    <rdfs:label xml:lang="fr">mauve</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Magenta"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#estProcheDe"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Rose"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Abricot">
+    <rdfs:label xml:lang="fr">abricot</rdfs:label>
+    <rdfs:label xml:lang="fr">abricoté</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Orange"/>
+              <owl:Class rdf:about="#Rose"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Creme">
+    <rdfs:label xml:lang="fr">crème</rdfs:label>
+    <rdfs:label xml:lang="fr">crémeux</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Blanc"/>
+              <owl:Class rdf:about="#Jaune"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="GrisNoir">
+    <rdfs:label xml:lang="fr">gris-noir</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+  </owl:Class>
+  <owl:Class rdf:ID="GrisOrange">
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+    <rdfs:label xml:lang="fr">gris-orange</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="BlancJaune">
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+    <rdfs:label xml:lang="fr">blanc-jaune</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="RougeMexicain">
+    <rdfs:label xml:lang="fr"
+    >rouge mexicain</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Rouge"/>
+  </owl:Class>
+  <owl:Class rdf:ID="CouleurApproximanteViolet">
+    <rdfs:subClassOf rdf:resource="#CouleurApproximante"/>
+    <owl:equivalentClass>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Violet"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </owl:equivalentClass>
+  </owl:Class>
+  <owl:Class rdf:ID="GrisMarron">
+    <rdfs:label xml:lang="fr">gris-marron</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Fuschia">
+    <rdfs:label xml:lang="fr">fuschia</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Rose"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Doux">
+    <rdfs:label xml:lang="fr">doux</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#ModifieurDegreCouleur"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BlancVert">
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+    <rdfs:label xml:lang="fr">blanc-vert</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="JaunePaille">
+    <rdfs:subClassOf rdf:resource="#Jaune"/>
+    <rdfs:label xml:lang="fr"
+    >jaune paille</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="RougeMoucheté">
+    <rdfs:subClassOf rdf:resource="#Rouge"/>
+    <rdfs:label xml:lang="fr"
+    >rouge moucheté</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Orchidee">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#estProcheDe"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Mauve"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">orchidée</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="CouleurApproximanteNoir">
+    <rdfs:subClassOf rdf:resource="#CouleurApproximante"/>
+    <owl:equivalentClass>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Noir"/>
+      </owl:Restriction>
+    </owl:equivalentClass>
+  </owl:Class>
+  <owl:Class rdf:ID="Beurre">
+    <rdfs:label xml:lang="fr">beurre</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Jaune"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BleuOutremer">
+    <rdfs:label xml:lang="fr"
+    >bleu outremer</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Bleu"/>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectClarteSombre">
+    <rdfs:label xml:lang="fr">sombre</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#AspectClarte"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Chartreuse">
+    <rdfs:label xml:lang="fr">chartreuse</rdfs:label>
+    <rdfs:label xml:lang="fr">chartreux</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Vert"/>
+              <owl:Class rdf:about="#Jaune"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BleuGentiane">
+    <rdfs:subClassOf rdf:resource="#Bleu"/>
+    <rdfs:label xml:lang="fr"
+    >bleu gentiane</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="JauneViolet">
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+    <rdfs:label xml:lang="fr">jaune-violet</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="GrisRouge">
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+    <rdfs:label xml:lang="fr">gris-rouge</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Etain">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Gris"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">étain</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="BrouDeNoix">
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeComposee"/>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Marron"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">brou de noix</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Brun">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Marron"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">brun</rdfs:label>
+    <rdfs:label xml:lang="fr">brunâtre</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#CaracteristiqueCouleur">
+    <rdfs:label xml:lang="fr">caractéristique des couleurs</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="GorgeDePigeon">
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeComposee"/>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Violet"/>
+              <owl:Class rdf:about="#Gris"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">gorge de pigeon</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectClarteEclatant">
+    <rdfs:subClassOf rdf:resource="#AspectClarte"/>
+    <rdfs:label xml:lang="fr">éclatant</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Chamois">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Jaune"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">chamois</rdfs:label>
+    <rdfs:label xml:lang="fr">chamoisé</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Amarante">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Rouge"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">amarante</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="RougeVeine">
+    <rdfs:subClassOf rdf:resource="#Rouge"/>
+    <rdfs:label xml:lang="fr">rouge veiné</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Nankin">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Jaune"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">nankin</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="JauneRose">
+    <rdfs:subClassOf rdf:resource="#CouleurTertiaire"/>
+    <rdfs:label xml:lang="fr">jaune-rose</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="CuisseDeNymphe">
+    <rdfs:label xml:lang="fr">cuisse de nymphe</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Rose"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeComposee"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BlancTranslucide">
+    <rdfs:label xml:lang="fr">blanc translucide</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Blanc"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Saumon">
+    <rdfs:label xml:lang="fr">saumon</rdfs:label>
+    <rdfs:label xml:lang="fr">saumoné</rdfs:label>
+    <rdfs:label xml:lang="fr">saumonâtre</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Rose"/>
+              <owl:Class rdf:about="#Orange"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="VertTilleul">
+    <rdfs:subClassOf rdf:resource="#Vert"/>
+    <rdfs:label xml:lang="fr">vert tilleul</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Bourgogne">
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Rouge"/>
+              <owl:Class rdf:about="#Marron"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">bourgogne</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#Roux">
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Orange"/>
+              <owl:Class rdf:about="#Rouge"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">roux</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Kaki">
+    <rdfs:label xml:lang="fr">kaki</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Vert"/>
+              <owl:Class rdf:about="#Jaune"/>
+              <owl:Class rdf:about="#Marron"/>
+            </owl:intersectionOf>
+          </owl:Class>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Acajou">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Marron"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">acajou</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="VertPomme">
+    <rdfs:subClassOf rdf:resource="#Vert"/>
+    <rdfs:label xml:lang="fr">vert pomme</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectSaturationPale">
+    <rdfs:label xml:lang="fr">pâle</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#AspectSaturation"/>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectSaturationTendre">
+    <rdfs:label xml:lang="fr">tendre</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#AspectSaturation"/>
+  </owl:Class>
+  <owl:Class rdf:ID="JauneRaye">
+    <rdfs:label xml:lang="fr">jaune rayé</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Jaune"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Jais">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Noir"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">jais</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PourpreCardinal">
+    <rdfs:subClassOf rdf:resource="#Pourpre"/>
+    <rdfs:label xml:lang="fr">pourpre cardinal</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="BlancTachete">
+    <rdfs:subClassOf rdf:resource="#Blanc"/>
+    <rdfs:label xml:lang="fr">blanc tacheté</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="FeuilleMorte">
+    <rdfs:label xml:lang="fr">feuille-morte</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Marron"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:Class>
+  <owl:Class rdf:ID="AspectSaturationIntense">
+    <rdfs:subClassOf rdf:resource="#AspectSaturation"/>
+    <rdfs:label xml:lang="fr">intense</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="CouleurApproximanteMarron">
+    <rdfs:subClassOf rdf:resource="#CouleurApproximante"/>
+    <owl:equivalentClass>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Marron"/>
+      </owl:Restriction>
+    </owl:equivalentClass>
+  </owl:Class>
+  <owl:Class rdf:ID="Absinthe">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="#Vert"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">absinthe</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="VertAcide">
+    <rdfs:subClassOf rdf:resource="#Vert"/>
+    <rdfs:label xml:lang="fr">vert acide</rdfs:label>
+    <rdfs:label xml:lang="fr">vert acidulé</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Melon">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="#aPourCouleurDominante"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="#Orange"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:label xml:lang="fr">melon</rdfs:label>
+  </owl:Class>
+  <owl:ObjectProperty rdf:ID="aPourBrillance">
+    <rdfs:range rdf:resource="#AspectBrillance"/>
+    <rdfs:subPropertyOf>
+      <owl:ObjectProperty rdf:ID="aPourCaracteristique"/>
+    </rdfs:subPropertyOf>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:ID="aPourHauteurDePort">
+    <rdfs:range rdf:resource="#PortHauteur"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="#aPourCouleurDominante">
+    <rdfs:domain rdf:resource="#Couleur"/>
+    <rdfs:range rdf:resource="#CouleurAutonomeSimplePrimitive"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="#estProcheDe">
+    <rdfs:range rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+    <rdfs:domain rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:ID="aPourSaturation">
+    <rdfs:subPropertyOf>
+      <owl:ObjectProperty rdf:about="#aPourCaracteristique"/>
+    </rdfs:subPropertyOf>
+    <rdfs:range rdf:resource="#AspectSaturation"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:ID="aPourMotif">
+    <rdfs:subPropertyOf>
+      <owl:ObjectProperty rdf:about="#aPourCaracteristique"/>
+    </rdfs:subPropertyOf>
+    <rdfs:range rdf:resource="#AspectMotif"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:ID="aPourModifieurDegre">
+    <rdfs:range rdf:resource="#ModifieurDegreCouleur"/>
+    <rdfs:domain rdf:resource="#CouleurAutonomeSimpleNonPrimitive"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="#aPourCaracteristique">
+    <rdfs:range rdf:resource="#CaracteristiqueCouleur"/>
+    <rdfs:domain rdf:resource="#Couleur"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:ID="aPourAspect">
+    <rdfs:range rdf:resource="#AspectChaleur"/>
+    <rdfs:subPropertyOf rdf:resource="#aPourCaracteristique"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:ID="aPourClarte">
+    <rdfs:subPropertyOf rdf:resource="#aPourCaracteristique"/>
+    <rdfs:range rdf:resource="#AspectClarte"/>
+  </owl:ObjectProperty>
+</rdf:RDF>
+
+<!-- Created with Protege (with OWL Plugin 3.4.7, Build 620)  http://protege.stanford.edu -->

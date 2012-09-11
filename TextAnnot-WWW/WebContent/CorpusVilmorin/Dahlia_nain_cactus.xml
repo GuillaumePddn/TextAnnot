@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="espece">Dahlia nain cactus</taxon> 
+        <parent type = "genre">Dahlia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Dahlia nain cactus</titre>
+                <alinea>
+                Ces petits dahlias de 40 à 60 cm de hauteur donnent une profusion de fleurs graciles à pétales étroits et pointus. Ils conviennent particulièrement bien pour la réalisation de massifs ou de bordures.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Dahlia nain cactus
+            </titre_photo> 
+            <fichier_photo_plante>
+                p284_Dahlia_nain_cactus.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

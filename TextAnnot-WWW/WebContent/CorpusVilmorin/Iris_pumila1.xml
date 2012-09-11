@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Iris pumila</taxon> 
+        <parent type = "genre">Iris</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Iris pumila</titre>
+                <alinea>
+                 Iris rhizomateux.    
+                Cette espèce naine, dont plusieurs variétés sont également d'origine hybride, est comme une réduction de la précédente, sa taille n'excédant guère 20 cm de hauteur. Elle est extrêmement précoce et fleurit en avril-mai. Elle offre les coloris violet foncé, bleu pâle, blanc plus ou moins teinté et jaune. Sous le nom d'iris intermédiaires, on trouve également un certain nombre de variétés résultant du croisement de l'iris des jardins et de l'iris pumila. Celles-ci sont effectivement intermédiaires en tous points par la taille et par l'époque de floraison entre ces deux espèces. Elles atteignent 40 à 60 cm de haut et fleurissent juste avant l'iris des Jardins, allongeant ainsi sensiblement la période de floraison de ces derniers et pouvant leur servir de bordure. On retrouve, dans cette race, les coloris bleu, violet, jaune, rouge et blanc.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                plantes très robustes, résistantes à la sécheresse    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                terrains pauvres et secs, même calcaires. 
+                Situation ensoleillée. l£s Iris redoutent l'excès d'humidité.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                - Ces iris se multiplient par division de rhizomes, effectuée de préférence de juillet à octobre, époque correspondant à leur période de repos. Les plantes peuvent ainsi s'établir facilement avant l'hiver. On peut, à la rigueur, planter plus tard, jusqu'en février-mars, mais la floraison de première année est alors moins bonne.
+                - Les fragments de rhizomes comportant chacun au moins une pousse sont espacés en moyenne d'une trentaine de centimètres (15 cm pour les iris pumila). Il est bon de grouper ces plants par minimum de trois à cinq de même variété.
+                - Les rhizomes doivent rester à fleur de sol, de façon que leur partie supérieure reçoive le soleil. Trop enterrés, ils sont très sensibles à la pourriture. Une fois la reprise assurée, les iris résistent aux pires sécheresses.
+                - Avant la plantation, incorporez un engrais de fond mais évitez le fumier. Chaulez en sol acide.
+                - Au bout de trois ou quatre ans, les Iris sont fréquemment trop serrés. Arrachez les touffes et refaites la plantation en utilisant les pousses qui se trouvent à l'extrémité des rhizomes.     
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                décoration de terrains pauvres, talus, etc., au soleil. Massifs en association avec lupins, pavots, plantation des bordures, rocailles et murets.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Iris pumila
+            </titre_photo> 
+            <fichier_photo_plante>
+                p312_Iris_pumila.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

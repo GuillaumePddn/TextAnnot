@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Delphinium</taxon>
+    <parent type="famille">Renonculacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PIED D'ALOUETTE</titre>
+        <alinea>Les pieds d'alouette groupent des espèces annuelles et des vivaces, ces dernières plus communément dénommées Delphinium. Elles sont toutes intéressantes par leurs (leurs éperonnées, réunies en longues grappes terminales, d'une extrême délicatesse de coloris nuancés bleu, blanc, pourpre ou rose. Ce sont des plantes justement populaires, de culture facile et d'une grande valeur décorative au jardin et, coupées, en bouquet.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

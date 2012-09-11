@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Arabis alpina Rose</taxon>
+    <parent type = "genre">Arabis</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ARABIS ALPINA ROSE</titre>
+                <alinea>
+                    Plante tapissante de 15 à 20 cm, très ramifiée. De mars à mai, fleurs nombreuses, blanches ou roses, simples ou doubles, en grappes.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    plante tapissante à floraison printanière.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous terrains, même secs et calcaires, bien ensoleillés. Supporte le climat maritime. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    1) - Semez en pépinière en mai-juin.
+                       - Après repiquage, mettez en place fin septembre-octobre à 20 cm de distance.
+                    2) On peut aussi procéder par division des touffes après la floraison. Plantez alors en pépinière et mettez en place en septembre-octobre, à 20 cm de distance.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     bordures, rocailles, murets. S'associe très bien à l'Aubrietia et à l'Alysse Corbeille d'Or qui fleurissent en même temps. Sert aussi de fond de massif pour Tulipes, Narcisses, Giroflées, etc.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Arabis alpina Rose
+            </titre_photo> 
+            <fichier_photo_plante>
+                p252_Arabis_alpina_Rose.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

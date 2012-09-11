@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Iris reticulata</taxon> 
+        <parent type = "genre">Iris</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Iris reticulata et danfordiae</titre>
+                <alinea>
+                Iris reticulata et danfordiae
+                Iris bulbeux.
+                Iris nain (hauteur :  15 cm) à feuilles érigées, filiformes et rigides. Précoce, cet iris fleurit dès février-mars. Fleurs bleu-violet, légèrement parfumées.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                très grande précocité de floraison.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 sol léger bien drainé, calcaire.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                - Plantez les bulbes en septembre-octobre, à 5 ou 6 cm de profondeur et de préférence par groupes, à 10 cm d'écartement.
+                - Après la floraison, arrosez trois fois à l'engrais liquide à un mois d'intervalle.
+                - Laissez les bulbes en place plusieurs années.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                les iris danfordiae et reticulata sont d'excellentes plantes de rocailles, talus. Ils se plantent aussi en avant dans un massif de vivaces. Culture en pot possible.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Iris danfordiae
+            </titre_photo> 
+            <fichier_photo_plante>
+                p314_Iris_danfordiae.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+        <photo_plante>
+            <titre_photo>
+                Iris reticulata 'Harmony'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p314_Iris_reticulata__Harmony_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

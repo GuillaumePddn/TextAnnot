@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Fritillaria meleagris</taxon> 
+        <parent type = "genre">Fritillaria</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Fritillaire Damier ou fritillaire "Œuf de vanneau"</titre>
+                <alinea>
+                Plante à tiges de 25 à 30 cm, portant de deux à cinq fleurs très originales en forme de clochettes et dont le dessin de couleur évoque un damier. Feuilles linéaires s'étageant le long de la tige.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 fleurs curieuses en avril-mai.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 sols tourbeux, humides, à mi-ombre. Redoute le calcaire.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                - Plantez les bulbes à l'automne à 10 ou 15 cm de profondeur et à 25 cm d'écartement.
+                - Comme pour Fritillaria imperialis, il est recommandé de laisser les bulbes en place pendant plusieurs années.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                sous-bois, rocailles, talus.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Fritillaire Damier
+            </titre_photo> 
+            <fichier_photo_plante>
+                p294_Fritillaire_Damier.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

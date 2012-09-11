@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Corylus maxima 'Purpurea'</taxon>
+    <parent type="genre">Corylus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>NOISETIER POURPRE</titre>
+        <alinea> Hauteur 3 à 4 m. Bel arbuste à port arrondi. Feuillage pourpre, très intense au printemps, un peu moins par la suite. Fruits comestibles, allongés, d'une grande finesse. Le noisetier pourpre est un des plus beaux arbustes à feuillage pourpre, utilisé souvent en contraste avec des essences à feuillage panaché (cornouiller, érable negundo). Isolé, il exige de l'espace car il est presque aussi large que haut. On en fait aussi de belles haies peu ou pas taillées. La taille se limite en général à la suppression des branches âgées. Les noisetiers s'accommodent de tous les terrains, même calcaires ; ils supportent un peu d'ombre, mais le noisetier pourpre est plus coloré en plein soleil.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Noisetier pourpre</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

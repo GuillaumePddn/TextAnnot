@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Populus x canescens 'Macrophylla'</taxon>
+    <parent type="genre">Populus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PEUPLIER BLANC DE HOLLANDE</titre>
+        <alinea> Hauteur 12 m et plus. Grand arbre à cime lâche, irrégulière. Ecorce crevassée. Feuilles de forme variable recouvertes au revers, lorsqu'elles sont jeunes, d'un duvet gris qui disparaît ensuite. Intéressant pour les sols humides, mêmes calcaires. Arbre d'alignement.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Peuplier blanc de Hollande</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

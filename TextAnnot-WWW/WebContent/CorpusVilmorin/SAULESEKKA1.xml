@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Salix udensis</taxon>
+    <parent type="genre">Salix</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SAULESEKKA</titre>
+        <alinea>Salix udensis Sekka' (Salixsetsuka) Hauteur 3 à 5 m. Les rameaux, curieuse- ment contournés et aplatis irrégulièrement à la façon des cornes d'un élan sont particulièrement décoratifs lorsqu'ils se garnissent de chatons en mars-avril, avant les feuilles. Taillez très court chaque année, à cette époque, sitôt les chatons tombés. Rameaux utilisés en art floral. Les saules, réputés pour apprécier les terrains humides, sont réservés à ces emplacements. Voir aussi au chapitre "Arbres d'ornement".</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

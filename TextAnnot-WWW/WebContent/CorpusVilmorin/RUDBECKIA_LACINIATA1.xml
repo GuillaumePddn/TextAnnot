@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Rudbeckia laciniata</taxon>
+    <parent type="genre">Rudbeckia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>RUDBECKIA LACINIATA</titre>
+        <alinea> Plante vivace à tiges peu ramifiées et feuilles découpées.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>floraison brillante et prolongée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, même secs, à exposition ensoleillée</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) - Semez en mai-juin en pépinière, repiquez en pépinière. - Mettez en place en septembre, à 40 ou 50 cm de distance. - La floraison a lieu de juin à août. - Les semis faits sous abri, en mars, fleurissent à l'automne de la même année. 2) Les rudbeckias vivaces se multiplient aussi par division de touffes au printemps (mars). Vous vous assurerez d'une bonne reprise en replantant aussitôt après la division afin de ne pas laisser souffrir les racines à l'air libre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>les rudbeckias sont parmi les meilleures espèces florales de plein été. Ils assurent la continuité des floraisons dans les massifs et plates-bandes de vivaces. Excellentes fleurs à couper.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Rudbeckia laciniata</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Rudbeckia speciosa</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

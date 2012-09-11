@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<rdf:RDF
+      xmlns="http://www.semanticweb.org/ontologies/2012/4/OntologieMaladies.owl#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+    xmlns:xsp="http://www.owl-ontologies.com/2005/08/07/xsp.owl#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+    xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xml:base="http://www.semanticweb.org/ontologies/2012/4/OntologieMaladies.owl">
+  <owl:Ontology rdf:about="http://www.semanticweb.org/ontologies/2012/4/OntologieMaladies.owl"/>
+  <owl:Class rdf:ID="Fumagine">
+    <rdfs:label xml:lang="fr">fumagine</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="MaladieCauseChampignon"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="MaladieCauseChenille">
+    <rdfs:label xml:lang="fr">maladie causée par une chenille</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="MaladieCauseInsecte"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Psylles">
+    <rdfs:label xml:lang="fr">psylles</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="MaladieCauseSternorhynque"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="MaladieCauseArachnide">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="MaladieCauseInvertebre"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">maladie causée par un arachnide</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="AraigneeRouge">
+    <rdfs:label xml:lang="fr">araignée rouge</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="MaladieCauseAcarien"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="MaladieCauseLimace">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="MaladieCauseMollusque"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">maladie causée par une limace</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Bombyx">
+    <rdfs:label xml:lang="fr">bombyx</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#MaladieCauseChenille"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Chlorose">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="MaladieCarenceFer"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="MaladieCarenceMagnesium"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="MaladieCarencePotassium"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">chlorose</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#MaladieCauseInsecte">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#MaladieCauseInvertebre"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">maladie causée par un insecte</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#MaladieCarencePotassium">
+    <rdfs:label xml:lang="fr">carence en potassium</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="MaladieCarence"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#MaladieCarenceFer">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#MaladieCarence"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">carence en fer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Maladie">
+    <rdfs:label xml:lang="fr">maladie</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Anthracnose">
+    <rdfs:label xml:lang="fr">anthracnose</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#MaladieCauseChampignon"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#MaladieCauseInvertebre">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="MaladieExogene"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">maladie causée par invertébré</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Pucerons">
+    <rdfs:label xml:lang="fr">pucerons</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#MaladieCauseSternorhynque"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#MaladieCauseSternorhynque">
+    <rdfs:label xml:lang="fr">maladie causée par un sternorhynque</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#MaladieCauseInsecte"/>
+  </owl:Class>
+  <owl:Class rdf:ID="MaladieEndogene">
+    <rdfs:label xml:lang="fr">maladie endogène</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Maladie"/>
+  </owl:Class>
+  <owl:Class rdf:about="#MaladieCauseMollusque">
+    <rdfs:subClassOf rdf:resource="#MaladieCauseInvertebre"/>
+    <rdfs:label xml:lang="fr">maladie causée par un mollusque</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Cochenilles">
+    <rdfs:subClassOf rdf:resource="#MaladieCauseSternorhynque"/>
+    <rdfs:label xml:lang="fr">cochenilles</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#MaladieCauseChampignon">
+    <rdfs:label xml:lang="fr">maladie causée par un champignon</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#MaladieCauseInvertebre"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Aleurodes">
+    <rdfs:subClassOf rdf:resource="#MaladieCauseSternorhynque"/>
+    <rdfs:label xml:lang="fr">aleurodes</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="MaladieCauseAraignée">
+    <rdfs:label xml:lang="fr">maladie causée par une araignée</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#MaladieCauseArachnide"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Chenilles">
+    <rdfs:subClassOf rdf:resource="#MaladieCauseChenille"/>
+    <rdfs:label xml:lang="fr">chenilles</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Limaces">
+    <rdfs:subClassOf rdf:resource="#MaladieCauseMollusque"/>
+    <rdfs:label xml:lang="fr">limaces</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Armillaire">
+    <rdfs:label xml:lang="fr">armillaire</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#MaladieCauseChampignon"/>
+  </owl:Class>
+  <owl:Class rdf:about="#MaladieCarenceMagnesium">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#MaladieCarence"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">carence en magnesium</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#MaladieExogene">
+    <rdfs:subClassOf rdf:resource="#Maladie"/>
+    <rdfs:label xml:lang="fr">maladie exogène</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#MaladieCarence">
+    <rdfs:subClassOf rdf:resource="#MaladieEndogene"/>
+    <rdfs:label xml:lang="fr">carence</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#MaladieCauseAcarien">
+    <rdfs:subClassOf rdf:resource="#MaladieCauseArachnide"/>
+    <rdfs:label xml:lang="fr">maladie causée par un acarien</rdfs:label>
+  </owl:Class>
+  <owl:ObjectProperty rdf:ID="attaque">
+    <rdfs:domain rdf:resource="#Maladie"/>
+    <rdfs:label xml:lang="fr">attaque</rdfs:label>
+  </owl:ObjectProperty> 
+  <owl:ObjectProperty rdf:ID="seDeveloppe">
+    <rdfs:domain rdf:resource="#Maladie"/>
+    <rdfs:label xml:lang="fr">se développe</rdfs:label>
+  </owl:ObjectProperty>
+</rdf:RDF>
+
+<!-- Created with Protege (with OWL Plugin 3.4.7, Build 620)  http://protege.stanford.edu -->

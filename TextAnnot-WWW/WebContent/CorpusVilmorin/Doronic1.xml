@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Doronicum caucasicum</taxon> 
+        <parent type = "genre">Doronicum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Doronic vivace</titre>
+                <alinea>
+                Plante très rustique, à souche épaisse, d'où les feuilles naissent directement, formant une touffe basse. Il s'en élève au printemps des tiges simples ou peu ramifiées, dressées, portant de nombreuses fleurs jaune foncé à disque jaune orange.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                floraison très précoce (mars-avril).    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 terres fraîches, légèrement ombrées.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                multiplication par éclats de touffes en été après la floraison. Plantez ces éclats en pépinière et mettez-les en place en octobre, à 40 cm de distance.
+    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+               la précocité de sa floraison la recommande pour être associée à des plantations de bulbeuses printanières (narcisses, scilles, muscaris). S'emploie également en fleurs coupées. 
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Doronicum orientale
+            </titre_photo> 
+            <fichier_photo_plante>
+                p287_Doronicum_orientale.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

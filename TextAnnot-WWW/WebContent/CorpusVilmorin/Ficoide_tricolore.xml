@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Mesembryanthemum tricolorum</taxon> 
+        <parent type = "genre">Mesembryanthemum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Ficoïde tricolore</titre>
+                <alinea>
+                Plante annuelle, naine, de 10 cm. Tige ramifiée, couchée. Feuilles opposées, charnues, cylindriques ; grandes fleurs solitaires sur de longs pédoncules, à nombreux pétales étroits, rayonnants, dont la base est blanche, l'extrémité rose violacé luisant ; le centre de la fleur formé par l'agglomération des étamines est violet foncé. Les fleurs ne s'ouvrent qu'en plein soleil, elles se ferment la nuit et les jours sombres.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 plantes résistantes à la sécheresse et de floraison brillante, aux riches coloris.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                terres légères et sablonneuses bien drainées, à exposition chaude et ensoleillée. Supportent le climat maritime.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                1) Semez en mars en terre sablonneuse, en terrine ou en godets. Repiquez en pots dans la même terre et toujours sous abri et mettez en place en mai à 20 cm d'écartement. La floraison a lieu en juin-juillet.
+                2) En région méditerranéenne, on peut semer en place dès le mois de mars et éclaircir à 10 cm de distance.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                tapis fleuris sur talus, rocailles.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

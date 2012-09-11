@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Hypericum calycinum</taxon>
+    <parent type="genre">Hypericum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MILLEPERTUIS A GRANDES FLEURS</titre>
+        <alinea>Hypericum calycinum Hauteur 30 à 40 cm. Le millepertuis à gran- des fleurs est une plante drageonnante. Les tiges, peu lignifiées, portent des feuilles ovales, coriaces, réparties de part et d'autre sur un même plan. Les grandes fleurs jaune d'or, terminales, sont garnies en leur centre d'un bouquet d'étamines très apparent. Floraison estivale prolongée. Ce millepertuis est une plante précieuse pour garnir les talus, même à mi-ombre. Au jardin, où on peut en faire des bordures, il faut savoir cependant qu'il a une propension à envahir les cultures avoisinantes.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Millepertuis à grandes fleurs</titre_photo>
+        <fichier_photo_plante>p464_Millepertuis_a_grandes_fleurs.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

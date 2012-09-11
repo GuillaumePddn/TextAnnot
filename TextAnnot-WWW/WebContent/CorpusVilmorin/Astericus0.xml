@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Asteriscus, VIVACE</taxon>
+        <parent type = "famille"> Asteraceae </parent>
+        <contenu>
+            <paragraphe>
+                <titre>ASTERISCUS</titre>
+                <alinea>
+                Plante de 20 à 30 cm de hauteur. Forme un tapis de fleurs jaune d'or de 4 cm de diamètre. Les feuilles sont oblongues, vert grisé.
+                </alinea>
+             </paragraphe>               
+             <paragraphe>
+                <titre>Attrait / Intérêt</titre>              
+                <alinea>
+                     jolie vivace à floraison estivale, idéale pour les jardins de bord de mer.
+                </alinea>
+            </paragraphe>           
+            <paragraphe>
+                <titre>Sol / Exposition</titre>
+                <alinea>
+                    perméable, frais ou modérément sec, à exposition ensoleillée.
+                </alinea>                   
+            </paragraphe>           
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                    les plants ont besoin d'une période de 6 semaines à basse température (5/8°C) pour obtenir une bonne floraison. L'astériscus apprécie des conditions de culture aérée et lumineuse. Il est idéal en bord de mer ou en situations très ensoleillées et sèches.
+                </alinea>                   
+            </paragraphe>   
+             <paragraphe>
+                <titre>Utilisation</titre>
+                <alinea>
+                    pour bacs et rocailles. A protéger du froid dans les régions à hiver rigoureux.
+                </alinea>                   
+            </paragraphe>                      
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Asteriscus maritimus
+            </titre_photo> 
+            <fichier_photo_plante>
+                p257_Asteriscus_maritimus.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">GRAMINEES ORNEMENTALES</taxon>
+    <parent type="famille">Poacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GRAMINEES ORNEMENTALES</titre>
+        <alinea>De nombreuses espèces de graminées fournissent des inflorescences en épis très ornementales, d'aspect extrêmement varié. Bien que leur nature soit très diverse en ce qui concerne la forme de ces épis comme la taille des plantes, nous croyons bon de les réunir sous cette rubrique unique car leur culture et leurs emplois sont identiques. Voici les principales</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

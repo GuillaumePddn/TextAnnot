@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lagerstroemia</taxon>
+    <parent type="genre">Lagerstroemia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LAGERSTRŒMIA</titre>
+        <alinea>Lilas d'été.
+                Comme pour toutes les plantes peu rustiques, il est préférable de l'élever sous forme d'arbuste, plus facile à protéger qu'un
+arbre pendant l'hiver.
+Conduit en arbuste, le lilas d'été peut atteindre 3 à 4 m. Le planter en isolé, en situation abritée et ensoleillée, dans un sol peu ou pas calcaire.
+Il est possible aussi, dans les régions à climat rude, de le cultiver en bac à la manière des agrumes, mais s'il manque de soleil et de chaleur pendant la belle saison, il ne fleurira guère. Le cas échéant, le tailler court au printemps. 
+        </alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lagerstrœmia</titre_photo>
+        <fichier_photo_plante>p459_Lagerstromia_nouveaux_coloris.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

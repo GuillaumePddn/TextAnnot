@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Centaurea cyanus</taxon>
+        <parent type = "genre">Centaurea</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CENTAUREE BARBEAU OU BLEUET, ANNUELLE</titre>
+                <alinea>
+                    Plante à tiges très ramifiées. Fleurs doubles à l'extrémité des rameaux, portées par de longs pédoncules. Hauteur 1 m. Floraison de mai à septembre selon l'époque du semis. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    beaux coloris bleu, blanc, rose, violet. Culture ne nécessitant que peu de soins.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous terrains ensoleillés. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    facile.
+                    1) Semez en mars-avril en pépinière et mettez en place en mai, à 30 cm d'intervalle. Floraison de juillet à septembre.
+                    2) Semez de mars à mai en place et éclaircissez à 30 cm de distance.
+                    3) Vous pouvez également semer fin septembre directement en place et éclaircir au printemps à 30 cm. La floraison, dans ce cas, est plus précoce (mai à juillet) et les fleurs sont plus grosses que celles obtenues avec les semis de printemps. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     fleurs coupées qui tiennent longtemps en vases.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Centaurée bleuet bleue
+            </titre_photo> 
+            <fichier_photo_plante>
+                p268_Centauree_bleuet_bleue.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Muguet</taxon>
+    <parent type="genre">Convallaria majalis</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MUGUET VIVACE</titre>
+        <alinea>Le muguet de mai ou muguet des bois est une petite plante de 20 cm de hauteur, vivace par un rhizome souterrain ou "griffe" s'éta-lant à l'horizontale et d'où s'élèvent deux feuilles roulées en cornet, puis ovales, laissant s'échapper en avril-mai une petite tige de 10 cm portant une grappe de jolies petites fleurs blanches, en clochettes, très odorantes.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>parfum et caractère symbolique de la floraison au 1er mai.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terres légères, enrichies de terreau de feuilles, à exposition mi-ombragée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Multiplication par division des rhizomes tous les 3 ou 4 ans entre octobre et mars. - Repiquez les "griffes" tous les 10 cm en les enterrant à peine et couvrez de terreau de feuilles, puis arrosez abondamment. 2) Le semis peut être utilisé en septembre-octobre mais la floraison n'intervient qu'après plusieurs années.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>garniture de sous-bois ou zones ombragées. Fleurs coupées. Culture en pots possible.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Muguet</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

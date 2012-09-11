@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Ornithogalum arabicum ou corymbosum</taxon>
+    <parent type="genre">Ornithogale</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ORNITHOGALUM ARABICUM OU CORYMBOSUM</titre>
+        <alinea>  En mai-juin, émerge une hampe florale de 30 à 35 cm portant une douzaine de fleurs réunies en corymbe. L'ovaire, noir et brillant, ressort vivement sur le blanc des pétales.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>originalité de la fleur. Fleur coupée de longue durée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols sablonneux, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>cette espèce, assez peu rustique dans les régions à hivers froids, doit être cultivée en situation bien abritée. - Enterrez les bulbes à l'automne, à 8/10 cm de profondeur, et à 15/20 cm d'écartement. - Protégez la plantation pendant l'hiver avec une litière de paille ou de feuilles. - Laissez les bulbes en place pendant trois ou quatre ans afin qu'ils se multiplient aisément. - Vous pouvez également planter en pots qui seront rentrés pendant l'hiver.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>rocailles, talus, fleurs coupées d'excellente tenue.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Ornithogale arabicum</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

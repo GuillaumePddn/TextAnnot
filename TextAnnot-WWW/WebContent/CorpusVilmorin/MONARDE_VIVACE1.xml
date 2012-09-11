@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Monarda didyma</taxon>
+    <parent type="genre">Monarda</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MONARDE VIVACE</titre>
+        <alinea>Plante formant une large touffe de tiges érigées de 1 m à 1,30 m de haut, portant des feuilles opposées, lancéolées, dentées. Les fleurs rouges ou roses se succèdent de juillet à septembre réunies en bouquets et accompagnées de bractées colorées, elles forment une sorte de pompon ébouriffé au sommet des tiges.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>longue durée des fleurs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols riches et frais.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez en pépinière d'avril à juin et repiquez en pépinière, à 15 cm d'écartement. - Mettez en place à l'automne en distançant les plants de 40 cm. - La multiplication peut se faire par division de touffes en mars-avril en utilisant les pousses extérieures.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>la monarde permet de constituer des groupes très spectaculaires avec des rudbeckias, héléniums, héliopsis, phlox et autres espèces vivaces à floraison estivale. Fleurs coupées de longue durée en vase.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Monarde</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

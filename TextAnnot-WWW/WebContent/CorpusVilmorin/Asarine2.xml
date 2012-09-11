@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Asarina scandens</taxon>
+    <parent type = "genre">Asarina</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ASARINA SCANDENS, ANNUELLE</titre>
+                <alinea>
+                    Plante très originale formant une véritable cascade de fleurs.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    les fleurs violettes en fonne de trompette se développent le long de tiges souples et fleurissent de juin à octobre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols légers, bien drainés, à exposition ensoleillée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    mars à mai. Semez en pépinière bien exposée et mettez en place avec un écarte-ment de 25 cm en tous sens.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     pour jardinières et suspensions.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Asarina scandens
+            </titre_photo> 
+            <fichier_photo_plante>
+                p254_Asarina_scandens.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

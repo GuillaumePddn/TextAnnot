@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Agératum 'Danube bleu'</taxon>    
+    <parent type = "espece">Ageratum houstonianum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Agératum 'Danube bleu'</titre>
+                <alinea>
+                     hybride Fl. Bleu pur, 13 cm. Le plus précoce des agératums. Port compact en boule. Très florifère.
+                </alinea>
+            </paragraphe>
+         </contenu>
+   
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

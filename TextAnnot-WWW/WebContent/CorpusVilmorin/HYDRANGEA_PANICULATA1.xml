@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Hydrangea paniculata</taxon>
+    <parent type="genre">Hydrangea</parent>
+    <contenu>
+      <paragraphe>
+        <titre>HYDRANGEA PANICULATA</titre>
+        <alinea> Hauteur 1,50 à 1,80 m. Grandes fleurs allongées (en panicules) de juillet à octobre. • 'Grandiflora' fleurs blanches puis rosées • 'Kyushu' fleurs blanc crème • 'Tardiva' fleurs blanches puis rosées en septembre et octobre • 'Unique' très grandes fleurs blanches puis roses, très abondantes.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Hydrangea paniculata 'Unique'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Kniphofia, VIVACE</taxon>
+    <parent type = "genre"> Kniphofia </parent>
+        <contenu>
+            <paragraphe>
+                <titre>KNIPHOFIA ou TRITOMA</titre>
+                <alinea>Plante à feuilles rubanées, longues, en fortes touffes d'où émergent des hampes
+                    florales cylindriques, raides, hautes de 1 m, portant un épi très serré de fleurs coniques,
+                    d'abord rouges et dressées puis jaunes et inclinées, de juin aux gelées.
+                    Le tritoma rufa, rouge orangé, n'atteint que 50 à 60 cm de hauteur, mais est plus
+                    élégant.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>élégance de la hampe florale de forme curieuse.</alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol exposition</titre>
+                <alinea>sols légers, à exposition ensoleillée. Supporte le climat maritime.</alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>la multiplication se fait surtout par éclats de jets ou œilletons qui poussent au
+                    pied de la plante. L'éclatage se fait au printemps de préférence.
+                    Cette plante n'est pas très rustique au froid sous le climat de Paris. Il faut l'entourer de
+                    paille et butter le pied avec de la terre pour écarter l'eau des pluies d'hiver qui lui serait
+                    préjudiciable.
+                    Il est possible de semer le tritoma en mai-juin. Repiquez en pots et hivernez sous
+                    châssis pour mettre en place en pleine terre, en mai de l'année suivante. </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Utilisation</titre>
+                <alinea>par l'originalité de sa silhouette et la richesse de ses coloris, le tritoma mérite
+                    d'être isolé sur pelouse. Son allure exotique lui permet de voisiner avec d'autres espèces
+                    du même genre telles que bananiers,bambous, aloès, ainsi qu'avec cactées et
+                    plantes grasses. Ses fleurs coupées peuvent être aussi utilisées en grands bouquets.</alinea>
+            </paragraphe>            
+        </contenu>
+    <photos_plante>
+
+        <photo_plante>
+            <titre_photo>
+                Kniphofia
+            </titre_photo> 
+            <fichier_photo_plante>
+                p316_Kniphofia.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+       
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">VIOLETTE ODORANTE DES 4 SAISONS</taxon>
+    <parent type="genre">Viola odorata semperflorens</parent>
+    <contenu>
+      <paragraphe>
+        <titre>VIOLETTE ODORANTE DES 4 SAISONS</titre>
+        <alinea>Vivace. Elle ne diffère pas, comme forme, de la violette odorante des bois, mais elle est plus parfumée. Elle fleurit à plusieurs époques de l'année, d'abord au printemps, parfois en été aux espositions fraîches, surtout à partir de septembre et durant tout l'hiver si elle est protégée du froid. Elle a donné naissance à de nombreuses variétés blanches, bleues, roses et rouges, simples ou doubles.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>parfum délicat. Floraison printanière.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terrains frais, à exposition modérément ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) La multiplication la plus simple est l'écla-tage des touffes, à l'automne de préférence, ou au printemps. 2) Le semis peut s'effectuer de mars à mai en pépinière. Mettez en place à l'automne, à 20 cm de distance. La floraison a lieu en mars-avril.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>décoration de sous-bois, de massifs d'arbustes, rocailles. Culture en pots ou en jardinières.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Violette odorante des quatre saisons</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

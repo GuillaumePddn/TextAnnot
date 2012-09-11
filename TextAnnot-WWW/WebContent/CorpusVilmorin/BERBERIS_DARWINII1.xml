@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Berberis darwinii</taxon>
+    <parent type="genre">Berberis</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BERBERIS DARWINII</titre>
+        <alinea> Hauteur 1 à 1,50 m. Ravissant petit arbuste dont les feuilles épineuses, d'un beau vert brillant, ressemblent à des feuilles de houx en miniature, les fleurs, en grappes pendantes, s'épanouissent en avril-mai et leur coloris jaune orangé vif crée une belle tache de couleur dans les jardins. Magnifique plante à isoler ou à placer au premier rang dans les massifs d'arbustes.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

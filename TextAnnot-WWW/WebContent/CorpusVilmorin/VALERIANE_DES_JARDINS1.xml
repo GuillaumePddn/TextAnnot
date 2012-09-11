@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">VALERIANE DES JARDINS</taxon>
+    <parent type="genre">Centranthus ruber</parent>
+    <contenu>
+      <paragraphe>
+        <titre>VALERIANE DES JARDINS</titre>
+        <alinea>Vivace. Plante robuste, à tiges peu rameuses hautes de 60 à 80 cm, terminées, de juin aux gelées, par des bouquets de fleurs très nombreuses, éperonnées, rouge pâle, aux variétés à fleurs blanches et rouge foncé.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>plante extrêmement rustique.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, même pierreux, secs, même crayeux ou calcaires, à exposition ensoleillée. Redoute l'humidité stagnante.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Semez d'avril à juin, en place ou en pépinière. Dans ce cas, mettez en place à l'automne, à 40 ou 50 cm de distance. Les semis d'avril en place peuvent commencer à fleurir la même année. 2) Il est également possible de multiplier par éclats de touffes à l'automne ou au printemps.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>très résistante à la sécheresse, la valériane est une plante idéale pour terrains pierreux, vieux murs, rocailles... Ses fleurs coupées sont de longue durée</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Valériane des jardins</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

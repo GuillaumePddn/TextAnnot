@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Aster novae-angliae</taxon>
+        <parent type = "genre">Aster</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ASTER NOVAE ANGLIAE</titre>
+                <alinea>
+                    Ce sont des plantes à souche ligneuse vigoureuse. Les tiges robustes sont garnies de longues feuilles étroites et velues. Hauteur:  100/150 cm.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    floraison s'étalant de fin août à octobre-novembre. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous sols, toutes expositions. 
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Aster novae-angliae rose
+            </titre_photo> 
+            <fichier_photo_plante>
+                p256_Aster_novae_angliae_rose.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

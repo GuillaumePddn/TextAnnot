@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cornus kousa 'Chinensis'</taxon>
+    <parent type="genre">Cornus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CORNOUILLER KOUSA CHINENSIS</titre>
+        <alinea>Hauteur 3 à 5 m. Feuilles devenant d'un beau rouge en automne. Bractées blanches puis roses. Ces deux espèces, rustiques jusqu'en région parisienne, méritent d'être  plus largement plantées. Magnifiques en sujets isolés, elles sont aussi souvent utilisées en association avec d'autres plantes de terre de bruyère azalées, érables du Japon, etc. La taille n'est pas nécessaire.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lilium speciosum</taxon>
+    <parent type="genre">Lilium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LIS SPECIOSUM</titre>
+        <alinea> Porte jusqu'à dix fleurs, grandes, bien ouvertes, très odorantes, blanc pur maculé de rouge, sur une tige de 80 cm à 1 m. La variété la plus connue est Lilium speciosum 'Rubrum' rose et carmin. Il existe aussi Lilium speciosum Album', à fleur blanc pur, et Lilium speciosum Roseum', rose ponctué de carmin. Cette espèce redoute le calcaire. La floraison a lieu en août-septembre, les bulbes se plantent en mars, à 15-20 cm de profondeur ; ils sont souvent cultivés en pots emplis progressivement, au fur et à mesure de l'allongement de la tige afin de provoquer la naissance de racines adventives sur celle-ci. En pleine terre, ils exigent un sol sableux, non calcaire, et se comportent bien également dans des massifs de terre de bruyère.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lis speciosum</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Fritillaria imperialis</taxon> 
+        <parent type = "genre">Fritillaria</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Fritillaire impériale</titre>
+                <alinea>
+                Connue sous le nom de couronne impériale, la fritillaire impériale est une plante vivace par son très gros bulbe, à végétation rapide, à floraison printanière, mais à odeur désagréable. La tige épaisse, droite, haute de 80 cm à 1,20 m, porte de nombreuses feuilles assez larges et très rapprochées, sauf dans le quart supérieur qui est nu. Cette tige se termine par un bouquet de feuilles plus petites sous lesquelles naît une couronne de grosses fleurs, pendantes, s'épanouissant de fin mars à avril. Cette plante comporte une série de variétés à fleurs simples, jaunes ou rouges. La variété rubra maxima ou maxima rouge est une des plus belles par la grandeur de ses fleurs et sa vigueur.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                plante de port majestueux et de culture très facile.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 tous sols bien drainés et perméables, à exposition de préférence ensoleillée. Redoute la fumure fraîche et l'excès d'humidité.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                 - Les bulbes se plantent à l'automne, de septembre à novembre, en pleine terre, à 40 cm d'écartement et à 20 cm de profondeur, sinon la floraison est compromise. Il est recommandé de placer les bulbes couchés, de façon à éviter, en sol humide, une accumulation d'eau entre les écailles.
+                 - Après la floraison, rabattez les tiges florales lorsqu'elles sont sèches.
+                 - les bulbes ne doivent pas être transplantés ; il ne faut, en effet, refaire les nouvelles plantations que tous les quatre ans, en août, en changeant de place.
+                 - La multiplication se fait par caïeux prélevés, en août, sur le pied mère. Ils doivent être replantés aussitôt.
+                 - Le semis, possible, n'est guère utilisé (il faut environ cinq ans pour produire un bulbe prêt à fleurir).   
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                plates-bandes, centre de corbeilles, en groupes isolés sur pelouse.
+                L'odeur du bulbe aurait la propriété d'éloigner taupes et mulots.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Fritillaire imperiale
+            </titre_photo> 
+            <fichier_photo_plante>
+                p293_Fritillaire_imperiale.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

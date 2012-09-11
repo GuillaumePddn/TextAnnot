@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Vitex agnus-castus</taxon>
+    <parent type="genre">Vitex</parent>
+    <contenu>
+      <paragraphe>
+        <titre>VITEX CADUC</titre>
+        <alinea>Hauteur 2 m. Forme arrondie. Feuilles gris vert à odeur de poivre. Floraison en panicules bleu violacé en août-septembre. • 'Albus' fleurs blanc rosé.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Vitex</titre_photo>
+        <fichier_photo_plante>p476_Vitex.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

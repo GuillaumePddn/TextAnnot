@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Tropaeolum minus 'impératrice des Indes'</taxon>    
+    <parent type = "espece">Tropaeolum minus</parent>
+        <contenu>
+            <paragraphe>
+                <titre> CAPUCINE IMPERATRICE DES INDES</titre>
+                <alinea>  
+                    Petites fleurs écarlate foncé, feuillage bronzé, n'atteint que 25 à 30 cm.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Capucine 'impératrice des Indes'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p266_Capucine__imperatrice_des_Indes_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">ARBRE A PERRUQUE</taxon>
+    <parent type="genre">Cotinus coggygria</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ARBRE A PERRUQUE</titre>
+        <alinea>• "Perruque" en été. Hauteur 2 à 3 m. Arbuste arrondi, à feuillage dense. Feuilles vertes ou pourpres, à long pétiole et à limbe presque rond, prenant de belles teintes rouges en automne. Les fleurs sont sans intérêt mais l'inflorescence se transforme ensuite et devient plumeuse, rose clair, puis argentée et persiste tout l'été. L'arbre à perruque s'emploie essentiellement en isolé, mais aussi en massif en situation ensoleillée. Il vient en toute bonne terre de jardin, mais il donne les meilleurs résultats en terrain léger. Il accepte le calcaire. Les variétés suivantes sont intéressantes • Rubrifolius Grp Feuillage pourpre au printemps puis bronzé, "perruques" roses. • 'Royal purple' La plus belle variété, avec son feuillage pourpre foncé persistant jusqu'en automne et ses "perruques" rouges. • x'Grace' Variété récente à feuilles pourpre clair, translucides, devenant rouge orangé en automne</alinea>
+      </paragraphe>
+    </contenu>
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Arbre à perruque 'Royal Purple'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

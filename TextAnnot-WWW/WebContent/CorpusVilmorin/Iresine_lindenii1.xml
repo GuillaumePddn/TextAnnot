@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Iresine lindenii</taxon> 
+        <parent type = "genre">Iresine</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Irésine lindenii</titre>
+                <alinea>
+                Iresine lindenii
+                Plante plus naine, à feuilles lancéolées, aiguës, pourpre noir. La plus rustique des espèces. La variété 'Angustifolia' est à feuilles encore plus étroites.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 richesse des couleurs du feuillage qui supporte très bien la taille.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 tous sols légers, même à mi-ombre. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                 - À partir de pieds mères conservés en serre, bouturez en février-mars les nouvelles pousses. 
+                 - Rempotez chaque bouture en godet de 6 cm, avec un amendement et gardez au chaud. 
+                 - La plantation se fait en mai, à 20/30 cm de distance, en situation éclairée et en bon terrain. Les plantes sont maintenues à la hauteur voulue par des pincements répétés. 
+                 - La culture de l'irésine exige toutefois la disposition d'une serre pour la conservation des pieds mères destinés à la production de boutures.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                mosaïculture en raison de son aptitude à supporter la taille, du port compact des plantes et des riches coloris du feuillage.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

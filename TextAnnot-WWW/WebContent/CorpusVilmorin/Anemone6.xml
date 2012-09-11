@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Anemone hupehensis</taxon>
+        <parent type = "genre">Anemone</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ANEMONE HUPEHENSIS</titre>
+                <alinea>                    
+                    Souche drageonnante de 1 m de hauteur. Les feuilles vert foncé sont découpées en folioles dentées. Les fleurs portent de grands pétales avec au centre une couronne d'étamines jaunes. 
+                </alinea>
+            </paragraphe>
+             <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    riche et plutôt frais, à exposition ensoleillée ou mi-ombragée. Paillez-les dans les régions à hiver rigoureux. En terres meubles et profondes, elles sont plus rustiques.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     en massifs. Fleurs coupées.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

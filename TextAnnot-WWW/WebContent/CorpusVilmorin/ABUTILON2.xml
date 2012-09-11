@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">ABUTILON MEGAPOTAMICUM</taxon>
+    <parent type="genre">Abutilon</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ABUTILON MEGAPOTAMICUM</titre>
+        <alinea>Abutilon megapotamicum. Hauteur 2 m. Le port est étalé ; les longs rameaux souples peuvent facilement se palisser contre un mur. I.es fleurs ont des formes de lanterne rouge et jaune pendantes. Il est un peu plus rustique que l'espèce précédente. La variété 'Variegatum' a un feuillage veiné de jaune clair.</alinea>
+      </paragraphe>
+    </contenu>
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Abutilon megapotamicum 'Variegatum'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

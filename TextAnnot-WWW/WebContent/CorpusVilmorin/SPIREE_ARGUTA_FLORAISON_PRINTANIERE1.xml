@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Spiraea x arguta</taxon>
+    <parent type="genre">Spiraea</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SPIREE ARGUTA FLORAISON PRINTANIERE</titre>
+        <alinea>Spiraea x arguta Hauteur: 1 à 1,50m. Petit arbuste gracieux à rameaux arqués, entièrement entourés en avril d'innombrables petites fleurs blanches. À utiliser en isolé ou en massifs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

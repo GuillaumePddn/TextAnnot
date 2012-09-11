@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Acer</taxon>
+    <parent type="famille">Acéracées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ÉRABLE CADUC</titre>
+        <alinea>Feuillage coloré à l'automne</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies>
+      <maladie>
+        <nom_maladie>Maladies des taches noires (rhytismose) </nom_maladie>
+        <enonce>Organe attaqué : feuilles.
+Symptômes : des croûtes noires se forment
+à la face supérieure. En cas d'attaque précoce,les feuilles tombent.
+Conseil : ramasser et détruire les feuilles mortes</enonce>
+        <fichier_photo_maladie>??</fichier_photo_maladie>
+      </maladie>
+    </maladies>
+        <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

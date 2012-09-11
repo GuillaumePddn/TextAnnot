@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Pâquerette pomponnette</taxon>
+    <parent type="genre">Pâquerette</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PÂQUERETTE À PETITES FLEURS PAQUERETTE POMPONNETTE</titre>
+        <alinea>Hauteur 15 cm. Caractérisée par des pétales tuyautés, très serrés, formant un pompon. Les fleurs sont petites, extrêmement nombreuses bien dégagées du feuillage et très élégantes. Existe en coloris blanc, rose et rouge. Le rose est particulièrement apprécié pour ses tons frais et délicats.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pâquerette Super Pomponette Medicis</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

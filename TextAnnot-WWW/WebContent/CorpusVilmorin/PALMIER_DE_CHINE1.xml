@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Trachycarpus fortunei ou Chamaerops excelsa</taxon>
+    <parent type="genre">Trachycarpus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PALMIER DE CHINE</titre>
+        <alinea>Hauteur 5 à 8 m. Stipe tenniné par un groupe de grandes feuilles palmées, les jeunes dressées, les plus anciennes retombantes. C'est le plus rustique de tous on le rencontre jusqu'en région parisienne, en situation bien abritée. Malgré cette précaution, il convient de le protéger entièrement, en hiver, du froid et de la neige.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Trachycarpus fortune!</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

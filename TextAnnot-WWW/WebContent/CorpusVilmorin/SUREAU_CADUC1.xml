@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Sambucus nigra</taxon>
+    <parent type="genre">Sambucus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SUREAU CADUC</titre>
+        <alinea>• Fleurit en juin-juillet Hauteur 4 à 5 m et plus. Le sureau commun est un grand arbuste bien connu de nos campagnes. Touffu, de port arrondi, à feuilles pennées, il porte en juin-juillet de petites fleurs odorantes groupées en inflorescences aplaties suivies de fruits noirs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>Des variétés très intéressantes en sont issues, en particulier • 'Albovariegata' panaché de blanc ; • 'Aurea' jaune d'or, un des plus beaux arbustes à feuillage doré ; • 'Laciniata' à feuilles profondément divisées ; • 'Guincho Purple' jeunes pousses pourpres au printemps verdissant en été.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>Les sureaux ont leur place en groupes ou dans les massifs ; un peu encombrants, on peut cependant les maintenir dans des dimensions raisonnables par une taille sévère au printemps. Ils acceptent tous les sols, même calcaires, et toutes les expositions, mais les variétés panachées sont plus colorées au soleil.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Sureau commun</titre_photo>
+        <fichier_photo_plante>p473_Sureau_commun.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

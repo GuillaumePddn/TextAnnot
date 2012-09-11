@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Phlox espèces vivaces</taxon>
+    <parent type="genre">Phlox</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PHLOX ESPÈCES VIVACES</titre>
+        <alinea>Il en existe plusieurs espèces, les unes naines, les autres plus élevées qui, après de nombreux croisements, ont donné naissance à toute une série de variétés actuellement cultivées sous le nom de Phlox paniculata.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

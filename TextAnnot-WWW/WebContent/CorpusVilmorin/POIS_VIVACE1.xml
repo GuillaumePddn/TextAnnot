@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lathyrus latifolius</taxon>
+    <parent type="genre">Pois vivace</parent>
+    <contenu>
+      <paragraphe>
+        <titre>POIS VIVACE</titre>
+        <alinea>Plante à tiges grimpantes, pouvant dépasser 2 m, aux grandes fleurs inodores, roses, blanches ou rouge pourpre, disposées en bouquets par six à dix sur un long pédoncule. Floraison de juin à septembre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>durée de la floraison, grande rusticité.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols fertiles, bien drainés, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- La germination des graines au printemps étant aléatoire, il est préférable de semer en pot, à raison de cinq à six graines par pot, en septembre-octobre. Les graines ainsi stratifiées pendant l'hiver germeront plus régulièrement en mars avril. - Mettez en place à l'automne sans diviser. - Afin de prolonger la floraison, supprimez les fleurs fanées pour éviter la formation des graines.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>garniture de murs, treillages, tonnelles, fleurs coupées.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pois vivace</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

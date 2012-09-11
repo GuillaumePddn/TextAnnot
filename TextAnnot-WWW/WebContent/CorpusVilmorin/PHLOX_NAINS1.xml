@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Phlox douglasii ou Phlox subulata</taxon>
+    <parent type="genre">Phlox</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PHLOX NAINS</titre>
+        <alinea>On groupe sous ce nom une série de petites plantes vivaces, rampantes ou traçantes, de 10 à 20 cm de hauteur, à floraison printanière. Les fleurs naissent au ras du feuillage et couvrent littéralement celui-ci. Parmi les phlox nains, on distingue deux espèces • Phlox douglasii Espèce tapissante de 10 cm de hauteur. Les pétales des fleurs sont arrondis. Floraison en mai-juin. • Phlox subulata Espèce tapissante de 10 à 15 cm de hauteur formant de jolis coussins abondamment fleuris. Les pétales des fleurs sont échancrés. Floraison en avril-mai.
+</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt </titre>
+		<alinea>plantes vivaces naines à floraison printanière.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, même secs, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>ces espèces se multiplient très aisément par division des touffes à l'automne, en pots drainés, hivernes sous châssis, ou au printemps, après la floraison. Dans ce dernier cas plantez à demeure, ou sous châssis, pour accélérer la reprise.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>bordures, rocailles, murets fleuris.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Phlox douglasii</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+	  <photo_plante>
+        <titre_photo>Phlox subulata</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

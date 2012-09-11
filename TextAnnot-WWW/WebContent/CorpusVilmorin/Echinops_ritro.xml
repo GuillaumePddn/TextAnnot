@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Echinops ritro</taxon> 
+        <parent type = "genre">Echinops</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Echinops ritro</titre>
+                <alinea>
+                    Plante de 70 cm à 1 m de hauteur, à port dressé, raide, aux feuilles découpées, épineuses, légèrement recouvertes d'un duvet blanchâtre, ressemblant à un beau chardon ornemental. Les tiges, ramifiées dans le haut, se terminent en juillet-août par une fleur solitaire en boule, azurée. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                aspect décoratif de la fleur en boule azurée.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 sols pauvres, arides, même calcaires, à chaude exposition.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                1) Semez en mai-juin pour mettre en place en octobre.
+                2) Multipliez par éclats de touffes en mars.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                en arrière plan des groupes d'espèces vivaces. Les fleurs sont également utilisées pour la confection de bouquets champêtres et elles entrent aussi dans la composition des bouquets secs. Pour cet usage, elles doivent être coupées avant complet épanouissement et séchées la tête en bas.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Boule azurée
+            </titre_photo> 
+            <fichier_photo_plante>
+                p288_Boule_azuree.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

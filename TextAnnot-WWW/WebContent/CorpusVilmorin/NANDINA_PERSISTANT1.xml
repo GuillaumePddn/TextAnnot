@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Nandina domestica</taxon>
+    <parent type="genre">Nandina</parent>
+    <contenu>
+      <paragraphe>
+        <titre>NANDINA PERSISTANT</titre>
+        <alinea>• Moyennement rustique Hauteur 1,20 à 1,50 m. Plante assez curieuse formée de tiges raides évoquant un bambou, portant, surtout à leur extrémité, de très grandes feuilles (20 à 30 cm et plus) composées, en général bi-pennées et dont les folioles irrégulières, ovales, aiguës, vert foncé, prennent en automne de magnifiques teintes rouges. La floraison est sans grand intérêt mais les petits fruits rouge vif sont très décoratifs. Sous climats doux, le nandina se plante en isolé ou en petits groupes, au soleil, en bonne terre de jardin légère, humifère et non calcaire. La variété 'Fire Power' à végétation basse et compacte à un feuillage persistant, abondant, bien coloré, surtout à l'automne. Excellente plante pour bacs et rocailles.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Nandina Tire Power'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

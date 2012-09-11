@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Magnolia x soulangiana</taxon>
+    <parent type="genre">Magnolia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MAGNOLIA DE SOULANGE</titre>
+        <alinea>Magnolia x soulangiana Hauteur 4 à 5 m et plus. Arbuste vigoureux mais à croissance lente, ce magnolia peut en effet atteindre, avec l'âge, les dimensions d'un arbre, à port arrondi et à branches basses étalées. Il n'en est alors que plus magnifique, avec ses grandes fleurs blanc rosé en forme de tulipes qui apparaissent en avril, avant les feuilles. La floraison se prolonge jusqu'en mai pendant que les grandes feuilles ovales, vert clair, se développent. L'une des meilleures variétés est lennei, à grandes fleurs pourpres à intérieur blanc. Les magnolias prospèrent en toute bonne terre de jardin, de préférence légère et fraîche, mais non calcaire. Il n'y a pas lieu de les tailler. Voir aussi magnolia grandiflora, au chapitre "Arbres d'ornement", que l'on peut éventuellement conduire en arbuste.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Magnolia de Soulange</titre_photo>
+        <fichier_photo_plante>p464_Magnolia_de_Soulange.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

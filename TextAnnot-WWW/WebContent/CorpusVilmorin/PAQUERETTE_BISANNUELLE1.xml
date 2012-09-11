@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Bellis perennis</taxon>
+    <parent type="genre">Pâquerette</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PAQUERETTE BISANNUELLE</titre>
+        <alinea>Plante vivace à floraison printanière, mais cultivée comme bisannuelle. Souches basses et compactes, feuilles larges en rosette ; nombreuses fleurs blanches, rosées ou purpurines, portées par des pédoncules de 10 à 15 cm de hauteur.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>plante basse à floraison printanière. Beaux coloris.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>bonnes terres franches, à exposition ensoleillée ou mi-ombragée. En fonction de leurs caractéristiques, elles ont été classées en divers groupes</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

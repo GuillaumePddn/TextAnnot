@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Spiraea thunbergii</taxon>
+    <parent type="genre">Spiraea</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SPIREE DE THUNBERG FLORAISON PRINTANIERE</titre>
+        <alinea>Spiraea thunbergii  Hauteur 0,80 à 1 m. Port dense, rameaux fins, souples. Feuilles étroites linéaires. Petites fleurs blanches le long des branches, en avril. Isolé, massifs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Spirée de Thunberg</titre_photo>
+        <fichier_photo_plante>p471_Spiree_de_Thunberg.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

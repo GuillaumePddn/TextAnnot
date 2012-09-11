@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Forsythia x intermedia</taxon>
+    <parent type="genre">Forsythia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>FORSYTHIA CADUC</titre>
+        <alinea>Fleurit en mars-avril. Du fait de leur floraison jaune précoce et éclatante, annonciatrice du printemps, les forsythias comptent parmi les arbustes les plus populaires. Hauteur 2 à 3 m. Port érigé, formant avec l'âge une touffe buissonnante largement évasée dont certains rameaux finissent par toucher le sol et s'y marcotter naturellement. Feuilles allongées, vert clair, prenant parfois en automne de belles tonalités pourpre violacé. Dès la fin de l'hiver, les fleurs s'épanouissent en abondance tout au long des rameaux, formant alors de véritables manchons.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>Les nombreuses variétés qui sont issues de cette espèce diffèrent par la forme et l'abondance des fleurs, parfois par une nuance dans la couleur. 'Lynwood'  à pétales arrondis, très florifère, très apprécié. Spectabilis' variété ancienne mais très florifère. 'Spring Glory' jaune soufre. Week End Courtalyn très florifère, jaune d'or. 
+		variétés à faible végétation : Mélée d'or (Courtaneur): jaune pâle. Hauteur : 0,80 à 1m.
+		Boucle d'or (Courtacour): fleurs très abondantes,  jaune soutenu. Hauteur : 0,80 à 1m.
+		Variétés à végétation tapissante : Marée d'or (Courtasol) très abondantes fleurs jaune pamplemousse. 
+		Tous ces forsythias sont souvent plantés en isolé ; ils forment, par leur port naturel, des touffes remarquables et majestueuses. Dans les massifs, ils sont également très admirés car leur floraison précoce n'est pas masquée par les feuilles des autres arbustes caducs. Ils y voisinent heureusement avec le prunier de Pissard, le groseillier à fleurs ou le cognassier du Japon, qui fleurissent à la même époque. Sous cette forme arbustive, ils demandent à être taillés environ à mi-hauteur chaque année juste après la floraison. On peut aussi se contenter de supprimer chaque année les branches les plus anciennes pour conserver à l'arbuste un aspect plus naturel. Les forsythias constituent éventuellement des haies fleuries, à tailler avec modération. Enfin, les rameaux coupés entre janvier et mars, fleurissent aisément à la maison. Les forsythias sont des arbustes peu exigeants qui prospèrent en toute bonne terre de jardin même calcaire, de préférence au soleil.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Forsythia x intermedia</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Forsythia Marée d'or *</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

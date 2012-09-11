@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lathyrus odoratus</taxon>
+    <parent type="genre">Pois de senteur</parent>
+    <contenu>
+      <paragraphe>
+        <titre>POIS DE SENTEUR SPENCER A GRANDE FLEUR ONDULEE</titre>
+        <alinea>Races grimpantes Hautes de 1,50 m à 2 m. Cette race présente trois à quatre grandes fleurs ondulées par tige. La gamme des coloris est d'une telle richesse (plusieurs centaines) qu'il faut bien souvent placer deux variétés côte à côte pour apprécier une faible différence de nuance. Les coloris les plus tendres sont - blanc rosé, chamois rose, rose saumoné, cerise sur fond blanc, bleu et lilas ; les plus vifs vont de l'écarlate au cerise vif en passant par l'orange. Les amateurs de tons foncés trouveront également des pourpres, marrons et cramoisis.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pois de senteur Spencer mélange</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Echium vulgare</taxon> 
+        <parent type = "genre">Echium hybride</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Echium</titre>
+                <alinea>
+                Plante de 45 cm de hauteur, à tiges ramifiées, dressées, naissant d'une rosette de feuilles allongées. Elle porte, en juillet-août, de nombreuses grappes de fleurs tubuleuses rouges ou roses virant au violacé au fur et à mesure de l'épanouissement et entremêlées de bractées foliacées.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                semez en place en avril-mai, puis éclaircissez à 25 cm.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                la vipérine est particulièrement résistante à la sécheresse et peut être utilisée pour fleurir rocailles et talus ensoleillés.
+
+                </alinea>
+            </paragraphe>
+         </contenu>
+        
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

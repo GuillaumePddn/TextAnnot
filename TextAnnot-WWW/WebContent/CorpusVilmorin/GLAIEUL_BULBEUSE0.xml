@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Gladiolus</taxon>
+    <parent type="famille">Iridaceae</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GLAÏEUL BULBEUSE</titre>
+        <alinea />
+      </paragraphe>
+    </contenu>
+	<maladies>
+        <maladie>
+            <nom_maladie>Thrips</nom_maladie>
+            <enonce>- organes attaqués : feuilles, fleurs - symptômes : elles présentent des plages argentées. Les fleurs n'arrivent pas à fleurir,
+                    les pétales portent des traînées blanc argenté. Présence d'insectes actifs orangés
+                    ou grisâtres dans les replis - conseils : ne pas conserver les bulbes des plantes aneintes, éliminer et brûler les
+                    déchets de cultures. Craint aussi la chlorose.</enonce>
+            <photos_maladie>
+                <fichier_photo_maladie>Image_glaieulM.jpeg</fichier_photo_maladie>
+            </photos_maladie>
+        </maladie>
+    </maladies>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

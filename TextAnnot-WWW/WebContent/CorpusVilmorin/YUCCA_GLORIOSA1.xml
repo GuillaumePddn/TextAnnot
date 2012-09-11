@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Yucca gloriosa</taxon>
+    <parent type="genre">Yucca</parent>
+    <contenu>
+      <paragraphe>
+        <titre>YUCCA GLORIOSA</titre>
+        <alinea>Yucca gloriosa Assez voisin, ce yucca diffère du précédent par un tronc de 1 à 2 m portant la rosette de feuilles. Celles-ci n'ont pas de filaments. La hampe florale est parfois un peu plus grande.</alinea>
+<alinea>Leur floraison typique et de longue durée,
+donne aux yuccas un aspect exotique ; ils
+sont cependant parfaitement rustiques.
+On les plante en isolé ou par petits
+groupes, éventuellement dans la rocaille
+ou sur une pelouse. Ils se plaisent en plein
+soleil dans un terrain bien drainé, même
+peu fertile.
+</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Yucca gloriosa</titre_photo>
+        <fichier_photo_plante>p476_Yucca_gloriosa.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

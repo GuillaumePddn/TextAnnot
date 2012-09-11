@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Amaranthus tricolor</taxon>
+    <parent type = "genre">Amaranthus</parent>
+        <contenu>
+            <paragraphe>
+                <titre>AMARANTE TRICOLORE</titre>
+                <alinea>ESPÈCE À FEUILLAGE
+                    Hauteur 80 cm à 1 m. Plante très décorative par son feuillage. Les feuilles, pointues, ovoïdes, sont pourpres ou cramoisies et marbrées de vert et de jaune.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    riche et vive coloration du feuillage surtout en fin d'été.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous sols, même calcaires mais ensoleillés ; supporte le climat maritime.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    - semis en avril-mai en pépinière. 
+                    - repiquage à 40-50 cm, en place. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     décoration de grands parterres ou taches de couleur par plantations en groupes.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Amarante tricolore
+            </titre_photo> 
+            <fichier_photo_plante>
+                p248_Amarante_tricolore.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

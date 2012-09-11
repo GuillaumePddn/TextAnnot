@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Pâquerette double tapis</taxon>
+    <parent type="genre">Pâquerette</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PÂQUERETTE À PETITES FLEURS PAQUERETTE DOUBLE TAPIS</titre>
+        <alinea>Hauteur - 12 cm. Race à petites fleurs bien doubles, à pétales réguliers. Très précoce, sa floraison peut commencer dès l'automne, se poursuivre en hiver si le temps est doux et s'épanouir définitivement au printemps. Coloris blanc, rose et rouge.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

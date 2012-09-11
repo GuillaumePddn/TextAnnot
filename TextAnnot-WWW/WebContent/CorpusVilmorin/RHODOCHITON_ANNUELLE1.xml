@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Rhodochiton</taxon>
+    <parent type="genre">Rhodochiton volubile</parent>
+    <contenu>
+      <paragraphe>
+        <titre>RHODOCHITON ANNUELLE</titre>
+        <alinea>Plante herbacée de serre froide munie de vrilles qui lui permettent de se fixer et de grimper aux supports. Hauteur - 2 m.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>fleurs à calice rouge pâle et à corolle rouge bourgogne, très décoratives de juillet à octobre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>ensoleillée, tous sols.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>semis de janvier à avril.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>plante grimpante, garniture estivale sur tous supports.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Rhodochiton</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

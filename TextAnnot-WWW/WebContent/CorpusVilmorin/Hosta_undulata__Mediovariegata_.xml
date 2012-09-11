@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Hosta undulata 'Mediovariegata'</taxon>    
+        <parent type = "espece">Hosta undulata</parent>
+        <contenu> 
+            <paragraphe>
+                <titre>Hosta undulata 'Mediovariegata'</titre>
+                <alinea> 
+                 Feuilles vertes panachées de blanc. Fleurs mauves.
+                 Floraison juin-juillet.   
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Hosta undulata 'Mediovariegata'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p296_Hosta_undulata__Mediovariegata_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

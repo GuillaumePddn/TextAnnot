@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Nierembergia frutescens</taxon>
+    <parent type="genre">Nierembergia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>NIEREMBERGIA ANNUELLE</titre>
+        <alinea>Plante annuelle, mais vivace en serre, de 30 à 50 cm de hauteur. Tiges et rameaux grêles rappelant le lin à grande fleur. Se couvre, de juin aux gelées, de fleurs solitaires en forme de campanule, lilas clair, bien dégagées du feuillage.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>durée de la floraison.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols sains, de préférence à mi-ombre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Semez en août-septembre en pépinière et repiquez en pots. Hivernez sous châssis et mettez en place en mai. 2) Semez en février-mars sous abri, repiquez en pots et mettez en place fin mai ou laissez fleurir en pots. Bouturage possible à l'automne ou sous abri au printemps.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>rocailles. Culture en pots. En serre, ou en appartement très clair, cette plante peut fleurir pratiquement sans interruption.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Nierembergia</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

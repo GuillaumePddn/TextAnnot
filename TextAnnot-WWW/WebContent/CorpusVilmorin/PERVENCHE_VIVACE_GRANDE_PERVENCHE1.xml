@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Vinca major</taxon>
+    <parent type="genre">Vinca</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GRANDE PERVENCHE</titre>
+        <alinea> Vivace, elle émet des tiges de deux sortes, les unes florifères, droites, dressées, de 41 cm de hauteur, les autres stériles plutôt retombantes aux feuilles ovales luisantes, vert foncé. Fleurs blanches ou bleues, de mars à juin, sur les premières. Il existe une variété à feuilles panachées.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Grande pervenche à feuilles panachées</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

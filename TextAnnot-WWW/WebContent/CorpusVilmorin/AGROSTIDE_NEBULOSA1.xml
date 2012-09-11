@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Agrostis nebulosa</taxon>
+    <parent type="genre">GRAMINEES ORNEMENTALES</parent>
+    <contenu>
+      <paragraphe>
+        <titre>AGROSTIDE NEBULOSA</titre>
+        <alinea> Plante annuelle haute de 30 à 40 cm, à inflorescences très ramifiées et d'une grande finesse portant en juin de petits épillets vert rougeâtre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>grâce et légèreté de la plante.</alinea>
+      </paragraphe>
+    </contenu>
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Agrostide</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

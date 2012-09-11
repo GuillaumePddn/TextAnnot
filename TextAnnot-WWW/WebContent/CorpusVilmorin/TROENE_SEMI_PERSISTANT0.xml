@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Ligustrum</taxon>
+    <parent type="famille">Oleaceae</parent>
+    <contenu>
+      <paragraphe>
+        <titre>TROENE SEMI PERSISTANT</titre>
+        <alinea>Semi-persistant Les troènes sont des végétaux de culture extrêmement facile, poussant dans tous les terrains, même médiocres, aussi bien à l'ombre qu'au soleil.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

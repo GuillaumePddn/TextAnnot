@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Hypericum x inodorum</taxon>
+    <parent type="genre">Hypericum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MILLEPERTUIS ARBUSTIF ELSTEAE</titre>
+        <alinea>Hypericum x inodorum 'Elstead' Hauteur 0,80 m à 1 m. Les fleurs jaunes, plu petites que celles du précédent, sont suivies d petits fruits rouges très décoratifs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

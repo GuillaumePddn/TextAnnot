@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Teucrium chamaedrys </taxon>
+    <parent type="genre">Teucrium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GERMANDREE PETIT CHENE VIVACE</titre>
+        <alinea>Plante à tige rampante, ramifiée, haute de 15 à 25 cm. Feuilles persistantes, ovales, crénelées, vert foncé, luisantes. De mai à juillet, nombreuses fleurs bleu pourpré en grappes terminales.  Attrait/Intérêt plante tapissante à feuillage persistant.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sol sec, calcaire et ensoleillé.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>multiplication par éclats au printemps, plantés à 20 cm d'écartement ou de semis faits d'avril à juin et mis en place en août.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>garniture de talus, bordures (la germandrée petit chêne supporte très bien la tonte et peut remplacer le buis).</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Germandrée</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

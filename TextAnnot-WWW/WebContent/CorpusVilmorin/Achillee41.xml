@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Achillea ptarmica 'The Pearl'</taxon>    
+    <parent type = "espece">Achilea ptarmica</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Achillea ptarmica 'The Pearl' (syn. 'Boule de Neige', la perle', 'Schneeball')</titre>
+                <alinea>inflorescences blanc, très doubles.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+   <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

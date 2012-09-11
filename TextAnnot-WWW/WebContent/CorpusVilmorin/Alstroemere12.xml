@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Alstroemeria ligtu hybrids</taxon>    
+    <parent type = "espece">Alstroemeria aurantiaca</parent>
+        <contenu>
+            <paragraphe>
+                <alinea>
+                    Les fleurs ont des tons pastel jaune, rose, orange et saumoné. Les feuilles sont également glauques, mais cendrées.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

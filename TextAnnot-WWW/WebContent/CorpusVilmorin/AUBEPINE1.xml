@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">AUBEPINE</taxon>
+    <parent type="genre">Crataegus oxyacantha</parent>
+    <contenu>
+      <paragraphe>
+        <titre>AUBEPINE</titre>
+        <alinea>• Fleurit en mai • Fruits en septembre-octobre. L'aubépine peut constituer d'excellentes haies décoratives et défensives à la fois. Plantez les jeunes sujets en quinconce sur deux lignes à une distance de 30 à 40 cm. Taillez court (20-30 cm) les premières années pour favoriser une bonne ramification dès le niveau du sol. Voir aussi au chapitre "Arbres d'ornement". Toutes les variétés, greffées au ras du sol, forment d'excellents arbustes vigoureux, de floraison remarquable, à utiliser, soit en isolé, soit dans les massifs d'arbustes.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

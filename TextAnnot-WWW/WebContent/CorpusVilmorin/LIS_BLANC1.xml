@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lilium candidum</taxon>
+    <parent type="genre">Lilium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LIS BLANC</titre>
+        <alinea> C'est le populaire lis de la Madone ou lis de la Saint-Jean. Ses tiges portent cinq à six fleurs bien ouvertes, blanc pur, très parfumées. La floraison a lieu en juin-juillet. Ce lis doit obligatoirement être planté d'août à octobre si l'on veut profiter de la floraison dès l'année suivante. Il recherche la lumière et craint l'humidité.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lis blanc</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

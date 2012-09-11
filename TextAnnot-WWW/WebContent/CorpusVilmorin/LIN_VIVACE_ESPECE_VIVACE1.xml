@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Linum perenne</taxon>
+    <parent type="genre">Linum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LIN VIVACE ESPÈCE VIVACE</titre>
+        <alinea> Espèce de 40 à 50 cm de hauteur, à tiges flexueuses, dressées, partant d'une souche grêle, ramifiées dans le haut. Fleurs bleu ciel, veinées de plus foncé dans le type, et s'épanouissant de mai à juillet.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>remarquable couleur bleue des fleurs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols légers, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez de mai à juillet en pépinière. - Repiquez en pépinière et mettez en place, à 30 cm d'écartement, en automne de préférence ou au printemps.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>effet de masse dans massifs, plates-bandes,</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lin vivace</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

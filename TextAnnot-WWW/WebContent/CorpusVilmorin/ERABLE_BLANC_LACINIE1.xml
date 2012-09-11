@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Acer saccharinum 'Laciniatum Wieri'</taxon>
+    <parent type="genre">Acer</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ERABLE BLANC LACINIE</titre>
+        <alinea>  Hauteur 10 à 15 m. Arbre élégant par son port semi-pleureur, les rameaux secondaires retombant gracieusement, et par ses feuilles à revers argenté et profondément découpées. Plus exigeant que les autres, il préfère les sols frais et profonds. À planter en isolé, sachant qu'il faut lui réserver assez d'espace.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Érable blanc lacinié et son feuillage</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

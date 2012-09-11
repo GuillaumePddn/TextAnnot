@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Centaurea moschata</taxon>
+        <parent type = "genre">Centaurea</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CENTAUREE IMPERIALE, ANNUELLE</titre>
+                <alinea>
+                    Plante vigoureuse à tige dressée, ramifiée, haute de 50 à 70 cm. Fleurs en aigrette, en capitules longuement pédoncules, violet pourpre, blanc, bleu, rose clair, lilas foncé.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    coloris frais et variés. Léger parfum très agréable. Floraison de juin à octobre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous sols, à exposition ensoleillée. Supporte le climat maritime.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    facile.
+                    1) Semez en mars-avril sous châssis pour mettre en place fin mai, à 25 cm d'intervalle.
+                    2) Semez en avril-mai en place et éclaircissez à 25 cm.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     massifs, fleurs coupées.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Centaurée impériale variée
+            </titre_photo> 
+            <fichier_photo_plante>
+                p268_Centauree_imperiale_variee.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

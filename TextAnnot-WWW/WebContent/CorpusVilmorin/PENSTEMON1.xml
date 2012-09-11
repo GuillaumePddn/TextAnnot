@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Penstemon</taxon>
+    <parent type="genre">Penstémon</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PENSTEMON</titre>
+        <alinea>Le penstémon, vivace en serre, est traité en culture comme une plante annuelle. D'une touffe ramifiée dès la base s'élèvent, l'été, des tiges raides, portant de longues grappes de fleurs tubulées, largement ouvertes en deux lèvres inégales évoquant celles du muflier, de coloris chatoyants. Floraison tout l'été.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>diversité des coloris. Floraison très prolongée. Originalité des fleurs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols légèrement acides, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Semez en mars-avril sous abri, repiquez en pépinière ou en pots et mettez en place fin mai, à 50 cm d'écartement. La floraison a lieu d'août à octobre. 2) Pour hâter la floraison, vous pouvez semer de juin à août, en pépinière à mi-ombre. Repiquez en pots, hivernez sous châssis froid et mettez en place en avril-mai, à 50 cm d'écartement. La floraison a lieu de mai à octobre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>les penstémons s'emploient en massifs, dans les associations de plantes vivaces où ils contribuent à l'échelonnement des floraisons. Fleurs coupées. Ils permettent de réaliser des bouquets de grand effet.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Penstémon hybride</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

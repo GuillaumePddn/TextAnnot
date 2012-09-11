@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Pelargonium peltatum</taxon>
+    <parent type="genre">Pelargonium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GERANIUM LIERRE</titre>
+        <alinea> Cette race aux longs et souples rameaux retombants, au feuillage petit et luisant, trouve son emploi, cultivée en pots et jardinières, dans la décoration des fenêtres, balustrades. Elle est appréciée pour sa parfaite résistance à la chaleur et à la sécheresse et sa grande flori-bondité. Les branches, palissées sur des tuteurs se prêtent aux formes les plus fantaisistes et les plus diverses.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>facilité de culture, abondance et durée de la floraison (mai aux gelées).</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>bonnes terres franches, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>actuellement, seul le bouturage permet la multiplication des géraniums lierre et on opère exactement comme pour les géraniums zonale. La multiplication par semis, lorsqu'elle se généralisera, pemiettra l'obtention de plantes indemnes de maladies à virus.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>essentiellement en jardinières, balconnières et suspensions. On peut aussi utiliser les géraniums lierre, en bordures, tapis, fond de corbeilles ; pour cela on les maintient rampants en fixant leurs branches sur le sol à l'aide de petits morceaux de bois recourbés, fichés en terre.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Géranium lierre 'Songe d'été' hybride Fl</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

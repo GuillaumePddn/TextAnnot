@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Leucojum aestivum</taxon>
+    <parent type="genre">Leucojum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>NIVEOLE D'ETE</titre>
+        <alinea> C'est l'espèce la plus courante.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>jolies petites fleurs en forme de clochettes de 2 cm, groupées par trois ou par cinq, blanches bordées de vert. Elles apparaissent en mai.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sol frais et humides, à exposition ensoleillée ou mi-ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>les bulbes sont à planter dès septembre. Laissez-les sur place pour qu'ils se multiplient. Les touffes sont à diviser après trois ans, au risque de voir un développement du feuillage au détriment des fleurs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>bordures, plates-bandes, rocailles, sous-bois, bords de pièces d'eau, pots et fleurs coupées.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Nivéole</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

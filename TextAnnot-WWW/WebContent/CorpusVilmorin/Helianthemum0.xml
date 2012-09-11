@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="genre">Helianthemum</taxon>
+        <parent type = "famille">Cistaceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre></titre>
+                <alinea>
+                    Plante à tiges rampantes dont la hauteur n'excède pas 15 cm. Feuilles étroites et grisâtres. Fleurs à cinq pétales, réunies en groupes à l'extrémité des tiges. Le type est rose mais il existe des variétés, simples, doubles, de coloris jaune, rouge, vermillon, orangé cuivré. Les fleurs durent peu de temps mais se renouvellent sans interruption de mai à septembre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 plante rampante, à floraison de longue durée.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                sols secs et pauvres, même calcaires, à exposition ensoleillée.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                 la multiplication la plus courante s'effectue par bouturage en automne sous cloche, ou au printemps avec une légère chaleur de fond. Pincez les extrémités pour favoriser la ramification. Plantation à 25 cm en tous sens.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                rocailles, murets fleuris, talus, bordures. 
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Hélianthème jaune
+            </titre_photo> 
+            <fichier_photo_plante>
+                p307_Heliantheme_jaune.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Carthamus tinctoria</taxon>
+        <parent type = "genre">Carthamus</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CARTHAMUS TINCTORIUS, ANNUELLE</titre>
+                <alinea>
+                    Plante utilisée depuis des siècles en teinturerie.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    les fleurs jaunes en forme de petit chardon s'épanouissent de juin à septembre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols légers, secs, à exposition chaude et ensoleillée. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    - Semez directement en pleine terre, à la volée, en avril mai,
+                    - Eclaircissez en plusieurs fois pour enlever les plants en surnombre.                   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     en rocailles ou massifs exposés en plein soleil. Ses fleurs s'utilisent aussi bien en bouquets frais ou secs.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Carthamus tinctoria
+            </titre_photo> 
+            <fichier_photo_plante>
+                p267_Carthamus_tinctoria.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Chrysanthemun indicum 'Exotic Spider'</taxon>    
+    <parent type = "espece">Chrysanthemun indicum</parent>
+        <contenu>
+            <paragraphe>
+                <titre> Chrysanthèmes 'Exotic Spider'</titre>
+                <alinea> 
+                   ce sont les "Tokyo" des fleuristes.
+                   Fleurs très originales par leur forme rayonnante et leurs ligules très fines et contournées. Les tiges atteignent 70 cm à 1 m. 'Exotic Spider' donne des fleurs à couper élégantes et de longue durée.
+                   Appliquez-leur la culture indiquée pour les variétés à couper à grosses fleurs, sur six à huit branches avec deux pincements.
+                   Réservez le premier bouton couronne. Coloris jaune, bronze, rose, mauve, rouge.
+                </alinea>
+            </paragraphe>
+        </contenu>
+ 
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Chrysanthèmes 'Exotic Spider'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p273_Chrysanthemes__Exotic_Spider_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

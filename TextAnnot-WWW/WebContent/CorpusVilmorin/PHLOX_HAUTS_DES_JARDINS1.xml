@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Phlox paniculata</taxon>
+    <parent type="genre">Phlox</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PHLOX HAUTS DES JARDINS</titre>
+        <alinea> Ce sont des plantes vigoureuses, rustiques, de 50 à 90 cm de hauteur selon les variétés. De port élancé, un peu divergent, elles produisent un grand nombre de tiges portant chacune un large bouquet arrondi de petites fleurs aux coloris vifs et francs - blanc, rouge vif, rouge foncé, pourpre, rose, mauve, violet et leurs intermédiaires. Il existe également des variétés à fleurs panachées, étoilées ou oculées. La floraison s'effectue de fin juin à septembre, selon les variétés.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>plantes vivaces très rustiques à floraison estivale.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols fertiles, légers et frais, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- La multiplication se fait de préférence par division des touffes, le semis n'étant guère utilisé que pour la recherche de variétés nouvelles. Cette division peut être faite soit à l'automne, soit au printemps. - On peut également procéder au bouturage Je jeunes pousses au printemps les plantes nises en pépinière en mai seront transplantes en place à l'automne suivant.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>les Phlox paniculata s'intègrent wfaitement aux massifs de plantes vivaces à loraison estivale. Ils s'utilisent également en fleurs coupées.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+            <photo_plante>
+        <titre_photo>Phlox paniculata</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

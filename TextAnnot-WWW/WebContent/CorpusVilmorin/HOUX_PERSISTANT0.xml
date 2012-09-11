@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Ilex</taxon>
+    <parent type="famille">Aquifoliacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>HOUX PERSISTANT</titre>
+        <alinea>Fruits de septembre à mars</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

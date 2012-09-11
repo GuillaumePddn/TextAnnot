@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Impatiens balsamina</taxon>
+        <parent type = "genre">Impatiens</parent>
+        <contenu>
+            <paragraphe>
+                <titre>BALSAMINE, ANNUELLE</titre>
+                <alinea>
+                    Fleurs doubles, nombreuses, de coloris très frais et très variés, allant du blanc au violet en passant par le rouge. Elles sont disposées autour des tiges charnues, ramifiées en pyramide et à l'aisselle des feuilles. Quelque peu cachées par ces dernières, elles sont mieux dégagées dans les espèces extra-doubles, naines et vigoureuses.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    floraison de juin à octobre, même en situation ombragée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols riches, bien fumés et frais, en situation ombragée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    facile. Semez : 
+                    1) En avril sous abri, repiquez sous abri et mettez en place fin mai/juin. 
+                    2) En avril-mai, en pépinière bien exposée, repiquez en pépinière au midi et mettez en place en juin à 40 cm d'écartement pour les variétés hautes et à 20-25 cm pour les variétés naines. En cours de culture, arrosez très copieusement en période de sécheresse.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     La balsamine est une des meilleures fleurs annuelles pour la décoration estivale des endroits ombragés où elle s'associe bien aux bégonias tubéreux et aux impatiens. Les variétés naines peuvent se cultiver en pot.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

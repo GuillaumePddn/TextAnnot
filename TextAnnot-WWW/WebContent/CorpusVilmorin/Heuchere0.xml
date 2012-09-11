@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Heuchera</taxon>
+        <parent type = "famille">Saxifragaceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Heuchère Vivace</titre>
+                <alinea>
+                    Plante à souche charnue, à feuillage vert foncé souvent teinté de blanc et de pourpre, d'où partent des pédoncules grêles et flexibles. En juin-juillet se forment des petites grappes lâches et gracieuses de nombreuses fleurs en clochette, dont les coloris vont du rouge cramoisi au blanc selon les variétés. Souvent dénommé "désespoir du peintre". 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                élégance de
+	la floraison extrêmement légère.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                	terres bien drainées, non argileuses, au soleil ou à mi-ombre.     
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                	multiplication par éclats de touffes à l'automne. Plantez à 40 cm en tous sens. Le semis est possible en pépinière, en mai-juin. Repiquez en pépinière et mettez en place en août.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                 rocailles, bordures, plates-bandes. Fleurs coupées.   
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Heuchère rouge
+            </titre_photo> 
+            <fichier_photo_plante>
+                p309_Heuchere_rouge.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

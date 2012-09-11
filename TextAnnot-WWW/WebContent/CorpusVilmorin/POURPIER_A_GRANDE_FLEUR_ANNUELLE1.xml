@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">portulaca grandiflora</taxon>
+    <parent type="genre">Pourpier à grande fleur</parent>
+    <contenu>
+      <paragraphe>
+        <titre>POURPIER A GRANDE FLEUR ANNUELLE</titre>
+        <alinea>Plante à feuilles cylindriques, charnues, formant des touffes très étalées de 15 à 20 cm de hauteur, qu'étoilent de grandes fleurs simples ou doubles aux brillants coloris - blanc, jaune, cuivre, rouge, écarlate, unicolores, striées ou panachées, ne s'ouvrant qu'au soleil. Floraison de juillet à septembre. Les fleurs doubles se reproduisent par le semis assez régulière- ment.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>ravissante plante naine aux riches et brillants coloris.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, même secs et arides, à exposition très ensoleillée. Supporte bien le climat maritime.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>facile 1) Semez en mars-avril, sous abri de préférence, en godets de 6 à 8 cm et plantez à demeure fin mai, à 20 cm d'écartement sans diviser. 2) Semez en avril-mai en pépinière bien exposée et repiquez lorsque les plants sont très jeunes car le Pourpier supporte mal cette opération. 3) Semez en mai sur place. Pois vivace Recouvrez à peine les graines qui sont extrêmement fines. Éclaircissez à 20 cm.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>le pourpier est l'une des plantes florales qui résistent le mieux à l'ensoleillement intense et à la sécheresse. Idéal pour talus arides, rocailles, murets fleuris, bordures. Potées fleuries.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pourpier à grandes fleurs doubles varié</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

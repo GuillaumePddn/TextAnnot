@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Allium neapolitanum</taxon>
+    <parent type = "genre">Allium</parent>
+        <contenu>
+            <paragraphe>
+                <titre>AIL BLANC</titre>
+                <alinea>
+                    Petit bulbe donnant en avril-mai une hampe florale de 30 à 40 cm portant une ombelle d'une vingtaine de grandes fleurs étoilées, blanc pur, à odeur douce. 
+                    Vivace en région méditerranéenne. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Utilisation</titre>
+                <alinea>
+                    fleurs coupées
+                </alinea>
+           </paragraphe>
+        </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Ail blanc
+            </titre_photo> 
+            <fichier_photo_plante>
+                p246_Ail_blanc.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

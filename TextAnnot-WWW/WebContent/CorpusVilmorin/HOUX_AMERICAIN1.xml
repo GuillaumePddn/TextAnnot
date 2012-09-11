@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Ilex x meservae</taxon>
+    <parent type="genre">Ilex</parent>
+    <contenu>
+      <paragraphe>
+        <titre>HOUX AMERICAIN</titre>
+        <alinea>D'introduction récente, ce sont des plantes vigoureuses, à végétation compacte, aux variétés femelles très fructifères 'Blue Angel', 'Blue Princess', 'Blue Maid', 'Chinese GirP. Variétés mâles (pollinisatrices) 'Blue Prince', 'Blue Stallion', 'Chinese Boy'. Tous ces houx sont des arbustes très décoratifs plantés en isolé, en groupes ou en haies, car ils supportent bien la taille. Ce sont par ailleurs d'excellents végétaux de sous-bois. Les rameaux persistent couverts de fruits qui tout l'hiver sont recherchés au moment de Noël. Les houx préfèrent une terre profonde et humifère mais ils acceptent néanmoins la plupart des terres de jardin peu ou pas calcaires. Ils ne craignent pas la pollution et tolèrent une ombre légère mais ils sont plus beaux en plein soleil.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Houx américain 'Golden King'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Houx américain 'Blue Princess'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Houx américain 'Blue Prince'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

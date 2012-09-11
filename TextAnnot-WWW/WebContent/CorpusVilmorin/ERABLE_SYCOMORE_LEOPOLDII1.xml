@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Acer pseudoplatanus 'Leopoldii'</taxon>
+    <parent type="genre">Acer</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ERABLE SYCOMORE LEOPOLDII</titre>
+        <alinea> Feuilles striées et pointillées de crème.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

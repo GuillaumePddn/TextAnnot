@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Deutzia x magnifica</taxon>
+    <parent type="genre">Deutzia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>DEUTZIA MAGNIFICA</titre>
+        <alinea> Fleurs doubles blanches.  'Rubra' Fleurs rouges carminé.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Deutzia_x magnifica__Rubra_</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+	</photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

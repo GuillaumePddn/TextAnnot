@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Cotoneaster</taxon>
+    <parent type="famille">Rosacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>COTONEASTER</titre>
+        <alinea>• Fleurit en mai-juin • Fruits en septembre et au delà Les cotonéasters sont des arbustes très décoratifs, quelquefois par leur port ou leur feuillage mais toujours par leurs fruits qui persistent parfois jusqu'à la floraison suivante. Il est intéressant de les classer selon leur port, dressé ou étalé qui conditionne généralement leur utilisation.
+		COTONEASTERS A PORT DRESSE PERSISTANTS OU SEMIPERSISTANTS, COTONEASTERS PERSISTANTS A PORT ETALE OU RETOMBANT, COTONEASTER A PORT ETALE ET A FEUILLAGE CADUC
+		</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

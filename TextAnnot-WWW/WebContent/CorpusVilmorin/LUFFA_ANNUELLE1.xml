@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Luffa</taxon>
+    <parent type="genre">Luffa</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LUFFA ANNUELLE</titre>
+        <alinea>Éponge végétale ou Courge Torchon  Plante grimpante, à tige de 4 à 5 m de longueur. Feuillage ornemental, abondant, vert intense ; fleurs jaunes. En septembre, fruits verts, longs de 20 à 30 cm.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>aspect ornemental du feuillage. Fruits curieux.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols frais, à exposition chaude et très ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez en mars-avril, en pots, sous abri. - Mettez en place fin mai, en terrain chaud, entretenu frais par arrosages et paillis. - Floraison à partir de juillet.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>garniture de murs et treillages, à exposition très ensoleillée. Après séchage et décortication, l'intérieur des fruits peut être utilisé en guise d'éponge.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Luffa</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

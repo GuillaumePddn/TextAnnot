@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="espece">Allium oreophyllum</taxon>
+    <parent type = "genre">Allium</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ALLIUM OREOPHYLLUM </titre>
+                <alinea>
+                     Petit bulbe. Fleurs rose carmin en ombelle de 5 à 10 cm de diamètre. 
+                     Floraison en mai-juin. Cette espèce redoute les hivers rigoureux. Il est possible de limiter l'action du froid en laissant le bulbe au sec l'hiver. Il est possible également de le pailler.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Plantation</titre>
+                <alinea>
+                    à 8/10 cm de distance à l'automne.
+                </alinea>
+           </paragraphe>
+            <paragraphe>
+                <titre>Utilisation</titre>
+                <alinea>
+                    décoration printanière des massifs, rocailles
+                </alinea>
+           </paragraphe>
+        </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Allium oreophyllum
+            </titre_photo> 
+            <fichier_photo_plante>
+                p246_Allium__oreophyllum.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

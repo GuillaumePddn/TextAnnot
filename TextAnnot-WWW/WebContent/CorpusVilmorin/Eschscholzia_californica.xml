@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="espece">Eschscholzia californica</taxon> 
+        <parent type = "genre">Eschscholzia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Eschscholzia Annuelle</titre>
+                <alinea>
+                Plante formant une large touffe, haute de 40 cm, garnie de fleurs jaunes évoquant celle du pavot, portées par un long pédoncule partant d'une rosace de feuilles très découpées. Elle comporte des variétés à fleurs simples, doubles ou plissées, dites "caniculées", blanches, blanc rosé, jaune soufre, rouge feu, orangées ou mauves.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 facilité de culture. Cycle de végétation court, d'où floraison rapide.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 terres saines, légères, sableuses, même calcaires et pauvres.
+                 Toutes expositions. Supporte bien le climat maritime.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                très facile. L'eschscholzia est une des plantes type du semis en place.
+                1) Semez clair en avril-mai, en place, en sol moyennement humide. La floraison a lieu de juillet à septembre.
+                2) Le semis peut s'effectuer en septembre, en place, dans les régions à hiver doux. La floraison a lieu, dans ce cas, en juin-juillet.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                massifs, bordures, rocailles, jardinières.
+                </alinea>
+            </paragraphe>
+         </contenu>
+      
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

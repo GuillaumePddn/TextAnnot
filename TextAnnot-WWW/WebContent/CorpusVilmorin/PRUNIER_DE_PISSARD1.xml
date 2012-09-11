@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Prunus cerasifera 'Atropurpurea' = 'Pissardii'</taxon>
+    <parent type="genre">Prunus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PRUNIER DE PISSARD</titre>
+        <alinea>  Hauteur 5 à 6 m. Beaucoup plus connu que le précédent, il s'agit de l'arbre à feuillage pourpre le plus populaire. Les fleurs simples, roses, ressortent bien sur le feuillage pourpre foncé qui reste très coloré toute l'année.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Prunier de Pissard</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

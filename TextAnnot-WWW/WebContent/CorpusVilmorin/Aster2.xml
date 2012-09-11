@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Aster amellus</taxon>
+        <parent type = "genre">Aster</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ASTER "ŒIL DE CHRIST</titre>
+                <alinea>
+                    Plante de 50 à 60 cm de hauteur, à feuilles lancéolées, finement dentées. Grandes fleurs à ligules étroites, bleu lilas à disque jaune, disposées en corymbes lâches à l'extrémité des tiges.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    floraison de fin juillet à septembre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous sols, à exposition ensoleillée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     rocailles, bordures.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Aster "Œil de Christ" mauve
+            </titre_photo> 
+            <fichier_photo_plante>
+                p255_Aster__Œil_de_Christ__mauve.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

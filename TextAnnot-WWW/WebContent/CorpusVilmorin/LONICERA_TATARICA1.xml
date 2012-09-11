@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lonicera tatarica</taxon>
+    <parent type="genre">Lonicera</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LONICERA TATARICA</titre>
+        <alinea>Lonicera tatarica Hauteur 2 à 3 m. Arbuste vigoureux à grandes feuilles ovales, vert foncé. Les variétés 'Arnold Red' et 'Hack's Red', les plus cultivées, ont des fleurs rouge pourpré, suivies de petites baies rouge clair. À utiliser dans les Syringa meyeri 'Palibin' massifs d'arbustes. Les loniceras prospèrent en toute bonne terre de jardin, même calcaire.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lonicera tatarica</titre_photo>
+        <fichier_photo_plante>p463_Lonicera_tatarica.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lysianthus</taxon>
+    <parent type="genre">Lysianthus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LlSIANTHUS ANNUELLE</titre>
+        <alinea />
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>en été, très belles fleurs aux tons pastels en forme de cloche très légère de 3 à 5 cm.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sol normal, bien drainé.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>semez sous abri à 15°C en automne ou en hiver. Ne recouvrez pas les graines de terreau, mais posez-les juste en les tassant légèrement pour une bonne germination. Arrosage soutenu pendant la croissance.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>potées fleuries, mais surtout utilisées en fleurs à couper.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lisianthus à fleurs doubles</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

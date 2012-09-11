@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Hypericum olympicum</taxon>
+    <parent type="genre">Hypericum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MILLEPERTUIS DU MONT OLYMPE</titre>
+        <alinea>Hauteur de 15 à 20 cm. Plus petit dans toutes ses parties que le précédent. Feuilles sessiles, de 1 à 3 cm de long, de couleur vert gris. Fleurs de 4 à 5 cm de diamètre, réunies par trois à cinq en bouquets terminaux, en juin-juillet.  La variété 'Citrinum', de couleur jaune pâle, est généralement préférée au type.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>plante très résistante, à feuillage persistant.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols perméables et frais, même calcaires, de préférence à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez en avril-mai, en terrine. - Repiquez en pépinière et mettez en place à l'automne ou au printemps à 40 cm d'écartement. - Le millepertuis se multiplie aussi par division des touffes au printemps.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>plantes de racailles par excellence, surtout Hypericum olympicum. Le millepertuis à grandes fleurs, au beau feuillage persistant et à la floraison estivale extrêmement brillante, est une des meilleures espèces pour fixer le sol des talus à forte pente.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Millepertuis du Mont Olympe</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

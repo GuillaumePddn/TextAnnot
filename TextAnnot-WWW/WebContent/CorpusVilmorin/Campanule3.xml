@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Campanula carpatica</taxon>
+        <parent type = "genre">Campanula</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CAMPANULE DES CARPATHES, VIVACE</titre>
+                <alinea>
+                    Espèces à tiges dressées, hautes de 30 à 50 cm. Les fleurs bleu violacé sont agglomérées en sortes de capitules. 
+                    Plante basse, de 25 à 35 cm. Tiges très ramifiées, d'abord étalées puis dressées. Fleurs bleues, dressées, en cloches évasées, portées sur des rameaux grêles, en panicules lâches, de juin à septembre. Il en existe une variété à fleurs blanches.
+                </alinea>
+           </paragraphe>
+             <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    plantes vivaces tapissantes.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    terrains sains, à exposition ensoleillée ou mi-ombragée. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    1) - Semez très clair en pépinière en mai-juin. - Mettez en place en août septembre.
+                    2) Il est également possible de procéder à la multiplication par éclats de souches au printemps.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     pour rocailles et murets fleuris.
+                     La campanule des Carpates est utilisée aussi en bordure. Elle peut être enfin plantée en guise de fond entre des rosiers buissons afin de cacher le sol sous un manteau de verdure et de fleurs.
+                 </alinea>
+             </paragraphe>
+       </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Campanule des Carpates bleue
+            </titre_photo> 
+            <fichier_photo_plante>
+                p265_Campanule_des_Carpates_bleue.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Gaura de Lindheimer</taxon>
+    <parent type="genre">Gaura Lindheimeri</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GAURA DE LINDHEIMER VIVACE</titre>
+        <alinea>Le gaura est une plante vivace, généralement cultivée comme annuelle ou bisannuelle, aux tiges grêles et flexibles de 90 cm à 1,20 m de longueur, très décorative. Fleurs blanches, légèrement rosées, disposées en longs épis et se succédant tout l'été.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>l'élégance et la légèreté des longues hampes florales, grêles et flexueuses.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terres légères, riches, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Semez en mars-avril sous abri, repiquez sous abri et mettez en place en mai. Floraison d'août à octobre. 2) La culture en bisannuelle allongeant la durée de floraison, semez en août-septembre, en pépinière bien abritée et mettez en place en avril. Floraison de juin à octobre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>le gaura est souvent planté sur fond de plantes basses pour donner du relief aux plates-bandes d'été. L'élégance et la finesse de ses fleurs permettent aussi d'alléger les bouquets auxquels il est associé.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Gaura à fleurs rose vif</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

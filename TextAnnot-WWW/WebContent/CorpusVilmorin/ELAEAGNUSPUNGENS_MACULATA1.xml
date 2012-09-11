@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Elaeagnus pungens 'Maculata' </taxon>
+    <parent type="genre">Elaeagnus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ELAEAGNUSPUNGENS MACULATA</titre>
+        <alinea>Hauteur 1 à 1,50 m. Arbuste à port plus étalé, rustique en région parisienne, à feuilles ovales, largement panachées de jaune doré vif. Très décoratif, il est souvent utilisé en isolé en situation abritée et ensoleillée, mais il est possible de le conduire en haie moyenne brillamment colorée, de 0,80 à 1 m de haut. On le plante aussi dans les massifs d'arbustes. Les elaeagnus prospèrent en toute bonne terre de jardin bien drainée.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Elaeagnus_pungens__Maculata_</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

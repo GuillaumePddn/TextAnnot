@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Fritillaria persica</taxon> 
+        <parent type = "genre">Fritillaria</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Fritillaire de Perse</titre>
+                <alinea>
+                Plante produisant de grandes tiges de 60 à 90 cm, très feuillées, portant de nombreuses fleurs campanulées, mauve violacé.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                couleur violacée peu banale des fleurs en grappes.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 tous sols, à exposition ensoleillée.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                identique à celle de Fritillaria imperialis. Plantation à 10/15 cm de profondeur.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                en association avec des fleurs jaunes, cette fritillaire est du plus bel effet.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Fritillaire de Perse
+            </titre_photo> 
+            <fichier_photo_plante>
+                p294_Fritillaire_de_Perse.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

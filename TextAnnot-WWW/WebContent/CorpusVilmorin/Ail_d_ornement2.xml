@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Allium albopilosum</taxon>
+    <parent type = "genre">Allium</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ALLIUM ALBOPILOSUM </titre>
+                <alinea>Allium albopilosum ou Allium christophii 
+                    Plante atteignant 40 à 50 cm, à feuilles rubanées, vert bleuté, duveteuses au revers. Fleurs étoilées, bleu mauve, réunies en grosse ombelle de 15 à 20 cm de  diamètre. Floraison en juin. 
+                </alinea>
+           </paragraphe>
+            <paragraphe>
+                <titre>Plantation</titre>
+                <alinea>
+                    en automne à 10/15 cm de profondeur et à 20 cm d'écartement.
+                </alinea>
+           </paragraphe>
+           <paragraphe>
+                <titre>Utilisation</titre> 
+                <alinea> 
+                    massifs de vivaces, racailles, fleurs coupées.
+                </alinea>
+            </paragraphe>
+        </contenu>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

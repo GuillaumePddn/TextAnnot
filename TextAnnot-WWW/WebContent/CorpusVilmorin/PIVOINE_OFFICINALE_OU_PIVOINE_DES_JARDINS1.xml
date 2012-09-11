@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Paeonia officinalis</taxon>
+    <parent type="genre">Paeonia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PIVOINE OFFICINALE OU PIVOINE DES JARDINS</titre>
+        <alinea> Souche charnue. Plante en touffe large de 60 cm à 1 m. Grandes fleurs simples, inodores, terminant chaque tige. Floraison en mai. Ses variétés, simples ou doubles, vont du blanc au pourpre en passant par le rose.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pivoine des jardins</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+          </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

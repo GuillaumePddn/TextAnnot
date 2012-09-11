@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Cheiranthus et Matthiola</taxon>
+    <parent type="famille">Crucifères</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GIROFLEE</titre>
+        <alinea>Si les giroflées comptent parmi les fleurs les plus recherchées, elles le doivent à de nombreuses qualités diversité des races qui permet d'obtenir des fleurs toute l'année, variété extraordinaire de coloris, beauté et parfum des fleurs, facilité de culture et d'emploi. Pour simplifier l'étude des races les plus méritantes, nous grouperons les giroflées selon leur mode de végétation en • giroflées d'été qui sont les giroflées quarantaine et les giroflées excelsior, à semer au printemps. • giroflées de Nice qui peuvent être semées, soit au printemps, soit en été. • giroflées d'hiver, à semer en mai-juin. • giroflées ravenelles, à semer également en mai-juin. Avant de traiter chacun de ces groupes, retenez ces quelques indications communes à la culture de toutes les giroflées. Dans tous les cas, semez clair, les graines étant recouvertes de 5 mm de terre fine ou de sable, arrosez modérément, aérez le plus possible. Plantes à racines pivotantes, toutes les giroflées supportent mal le repiquage. Pour éviter les échecs, exécutez celui-ci lorsque les plantes sont encore très jeunes, dès qu'elles ont développé deux feuilles en plus des cotylédons, soit environ un mois après le semis. Repiquez de préférence en godets de tourbe pour faciliter la mise en place ultérieure.</alinea>
+      </paragraphe>
+    </contenu>
+	<photos_plante>
+      <photo_plante>
+        <titre_photo>Giroflée</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

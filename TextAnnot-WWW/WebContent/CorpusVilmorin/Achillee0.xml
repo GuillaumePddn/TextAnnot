@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Achilea, VIVACE</taxon>
+        <parent type = "famille">Asteraceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ACHILLEE, Vivace</titre>
+                <alinea>On distingue plusieurs sortes d'achillées, de port et de coloris différents, mais toutes ont des fleurs gracieusement réunies en corymbe et leur floraison est durable.</alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture des achillées :</titre>
+                <alinea>semez en avril-mai sous châssis, repiquez en plein air et mettez en place en août :
+                    • à 60 cm de distance pour l'achillée eupa-toire. 
+                    • à 45 cm pour l'achillée millefeuille.
+                    • à 35 cm pour l'achillée ptarmique. Vous pouvez aussi multiplier les achillées par division de touffes à l'automne ou au printemps.</alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Utilisation :</titre>
+                <alinea> ces trois espèces, très rustiques et résistantes, s'intègrent avec bonheur aux compositions de plantes vivaces. Les fleurs de toutes les achillées se sèchent facilement pour les bouquets d'hiver.</alinea>
+            </paragraphe>
+        </contenu>
+  
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

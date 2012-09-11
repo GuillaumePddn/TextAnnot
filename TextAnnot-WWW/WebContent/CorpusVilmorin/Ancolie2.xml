@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Aquilegia vulgaris</taxon>
+    <parent type = "genre">Aquilegia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ANCOLIE DES JARDINS</titre>
+                <alinea>
+                    Tiges élevées de 80 cm à 1 m, sortant d'un feuillage élégamment découpé, vert-bleu pâle, portant en mai-juin, à leurs extrémités recourbées, des fleurs renversées, pendantes, en cornets, à éperons terminés en crochet. 
+                    L'ancolie des jardins comporte une infinité de variétés aux fleurs bicolores, aux feuilles panachées, parmi lesquelles on cultive surtout l'ancolie des jardins double variée, à cornets emboîtés, de différents coloris, et l'ancolie des jardins hybride double variée dont les fleurs globuleuses, de diverses couleurs, ont leurs cornets transformés en pétales devenus plans, et ont perdu leur éperon, ce qui donne à la fleur l'aspect d'une petite rose pleine.
+                </alinea>
+            </paragraphe>
+        </contenu>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

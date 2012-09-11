@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Milady</taxon>
+    <parent type="genre">Callistephus chinensis</parent>
+    <contenu>
+      <paragraphe>
+        <titre>REINES MARGUERITES NAINES</titre>
+        <alinea>Variétés • 'Milady' - hauteur 25 cm. Plante ramifiée, de 25 à 30 cm de large, ayant l'aspect d'un chrysanthème à potées à grosses fleurs. Grand nombre de fleurs à globes doubles, très régulières, de 10 à 12 cm de diamètre. • 'Déesse' - hauteur 20 cm. Race compacte, extrêmement décorative par son port en boule régulier. • 'Pompon' - hauteur 40 cm. Race à port dressé. Très florifère, à petites fleurs et à pétales courts, aux coloris très variés.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Reine-marguerite naine 'Déesse' variée</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Reine-marguerite 'Pompon' mélange</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Reine-marguerite 'Milady' mélange Clause</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

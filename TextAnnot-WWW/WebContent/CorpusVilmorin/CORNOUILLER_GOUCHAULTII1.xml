@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cornus alba 'Gouchaultii'</taxon>
+    <parent type="genre">Cornus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CORNOUILLER GOUCHAULTII</titre>
+        <alinea> Hauteur 2 à 2,50 m. Voisin du précédent, mais plus vigoureux. Les cornouillers à feuilles panachées sont plantés en isolé, en petits groupes ou dans les massifs d'arbustes. Ils réussissent en toute bonne terre de jardin mais leur feuillage est plus coloré au soleil. On les associe couramment aux arbustes à feuillage pourpre prunus, noisetier, berberis. Il est conseillé de les tailler très court au printemps pour provoquer le départ de branches vigoureuses qui porteront des feuilles plus grandes. On peut aussi ne tailler, chaque année, que la moitié des branches de la touffe en conservant un équilibre de l'ensemble.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

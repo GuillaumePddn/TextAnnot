@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Leontopodium alpinum</taxon> 
+        <parent type = "genre">Leontopodium</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Edelweiss</titre>
+                <alinea>
+                Bien connu des alpinistes, l'edelweiss est une plante formant des touffes étalées, haute de 10 à 20 cm, recouverte d'un duvet cotonneux d'autant plus blanc qu'elle pousse à haute altitude. Les tiges, dressées, simples, sont terminées de juin à septembre par une fleur simulant une étoile, blanc de neige.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 plante de montagne. Feuillage d'aspect duveteux.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 sol léger et sain, à exposition ensoleillée.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                semez en mars-avril, sous châssis froid. Repiquez sous châssis et mettez en place en août. Floraison au printemps suivant. En plaine, la plante prend un développement plus important qu'en haute montagne.     
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                plante idéale de rocailles, murets fleuris.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Edelweiss
+            </titre_photo> 
+            <fichier_photo_plante>
+                p289_Edelweiss.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

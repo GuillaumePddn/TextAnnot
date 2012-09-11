@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lychnis chalcedonica</taxon>
+    <parent type="genre">Lychnis</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CROIX DE MALTE OU CROIX DE JERUSALEM</titre>
+        <alinea>Touffe à tige raide, simple, sans ramification, haute de 80 cm à 1 m, garnie de feuilles de la base au sommet et terminée en juin-juillet par un bouquet de fleurs rouge éclatant, ayant la forme d'une croix de Malte.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>intensité du coloris rouge.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terres saines et fraîches, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>semez d'avril à juillet en pépinière. Repiquez en pépinière et mettez en place en automne, à 40 cm d'écartement. Éventuellement, la mise en place peut aussi se faire au printemps.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>plates-bandes, en association avec d'autres plantes vivaces. Fleurs coupées.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lychnis</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

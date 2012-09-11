@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">??</taxon>
+    <parent type="genre">Oiseau du paradis</parent>
+    <contenu>
+      <paragraphe>
+        <titre>OISEAU DU PARADIS VIVACE</titre>
+        <alinea>Plante très exotique originaire d'Afrique du Sud. Touffes de feuilles coriaces, vert bleuté, de 1,50 m de hauteur.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>fleurs très originales, rappelant une tête d'oiseau, à spathes vertes colorées de pourpre, portant des fleurs aux sépales orange et aux pétales bleus. Floraison de décembre à mai.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>ensoleillée et chaude, en sol riche et drainant.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>plante non rustique à sortir uniquement pendant la belle saison. Conserver en serre ou en véranda en hiver, en arrosant peu.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>fleurs coupées magnifiques. Culture en bac pour la véranda.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Oiseau du Paradis</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Armeria juniperifolia</taxon>
+        <parent type = "genre">Armeria</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ARMERIA JUNIPERIFOLIA</titre>
+                <alinea>
+                    ou Armeria caespitosa
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    Les feuilles sont regroupées en coussins de 5 cm de hauteur, d'où dépassent de peu de jolis pompons rose clair en avril-mai.
+                </alinea>
+            </paragraphe>
+           <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    maigre et drainant à exposition ensoleillée 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                    identique à Armeria maritima. On peut aussi multiplier facilement l'Armeria juniperifolia par éclats, en automne.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre> Utilisation </titre>
+                <alinea>
+                     rocailles, auges.
+                 </alinea>
+            </paragraphe>            
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Armeria juniperifolia
+            </titre_photo> 
+            <fichier_photo_plante>
+                p253_Armeria_juniperifolia.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Parrotia persica</taxon>
+    <parent type="genre">Parrotia persica</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PARROTIA CADUC</titre>
+        <alinea>• Feuillage automnal Hauteur 8 à 10 m. Il se pare de belles couleurs rouges en automne. Les feuilles ressemblent à celles du hêtre. Préfère les sols frais et acides. Sa forme indisciplinée le fait préférer pour les haies libres ou taillées.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Parrotia, détail de fleur de la variété 'Vanessa'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

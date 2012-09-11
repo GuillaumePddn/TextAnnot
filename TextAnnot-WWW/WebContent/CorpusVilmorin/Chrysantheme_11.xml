@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Chrysanthemum maximum 'Étoile d'Anvers'</taxon>    
+    <parent type = "espece">Chrysanthemum maximum</parent>
+        <contenu>
+            <paragraphe>
+                <titre> Marguerite 'Étoile d'Anvers'</titre>
+                <alinea> 
+                    À très grande fleur blanche.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+     <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

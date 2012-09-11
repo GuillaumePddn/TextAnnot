@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Malus</taxon>
+    <parent type="genre">Malus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>POMMIER A FLEURS CADUC</titre>
+        <alinea>Voir chapitre "Arbres d'ornement". Les pommiers à fleurs, greffés au ras du sol, prennent l'aspect d'arbustes ramifiés dès la base. Leur magnifique floraison printanière et leur fructification d'automne en font des sujets de choix à isoler ou à planter en groupes ou dans les massifs. Une taille appropriée les maintient aisément dans des dimensions raisonnables et ils peuvent ainsi entrer dans les petits jardins là où un pommier à fleurs sur tige n'aurait peut-être pas sa place.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

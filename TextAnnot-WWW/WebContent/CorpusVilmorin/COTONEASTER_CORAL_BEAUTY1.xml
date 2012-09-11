@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cotoneaster dammeri 'Coral Beauty'</taxon>
+    <parent type="genre">Cotoneaster</parent>
+    <contenu>
+      <paragraphe>
+        <titre>COTONEASTER CORAL BEAUTY</titre>
+        <alinea> Hauteur 0,60 à 1 m. Assez voisin du cotoneaster Skogholmen, il est par contre généreusement couvert de fruits en automne.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

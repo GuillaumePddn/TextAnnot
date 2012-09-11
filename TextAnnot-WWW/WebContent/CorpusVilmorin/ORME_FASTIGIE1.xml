@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Ulmus carpinifolia 'Dampieri'</taxon>
+    <parent type="genre">Ulmus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ORME FASTIGIE</titre>
+        <alinea>Hauteur 4 à 6 m. Port très érigé, formant une colonne s'élargissant avec l'âge. Feuilles vert foncé, rugueuses sur le dessus, sur des rameaux courts. À isoler sur pelouse.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

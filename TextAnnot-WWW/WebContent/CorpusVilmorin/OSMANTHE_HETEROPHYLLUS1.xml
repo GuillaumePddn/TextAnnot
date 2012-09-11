@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Osmanthus heterophyllus</taxon>
+    <parent type="genre">Osmanthus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>OSMANTHE HETEROPHYLLUS</titre>
+        <alinea> Hauteur 2 à 3 m. L'osmanthe à feuilles de houx, arbuste à port arrondi et touffu, à croissance lente, doit son nom à ses feuilles vert foncé brillant, généralement munies, d'une façon irrégulière, de quelques dents épineuses. Les petites fleurs blanches sont légèrement parfumées. • 'Tricolor' ou 'Goshiki' feuillage panaché de jaune rougissant en automne.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Osmanthe tricolore</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

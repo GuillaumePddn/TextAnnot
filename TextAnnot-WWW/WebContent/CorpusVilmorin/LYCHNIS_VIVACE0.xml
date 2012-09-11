@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Lychnis</taxon>
+    <parent type="famille">Caryophyllaceae</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LYCHNIS VIVACE</titre>
+        <alinea>Les lychnis, très voisins des coquelourdes, groupent une série de plantes dissemblables dont une des plus connue est la</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

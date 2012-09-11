@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Polystichum aculeatum</taxon> 
+        <parent type = "genre">Polystichum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Polystichum aculeatum</titre>
+                <alinea>
+                Très belle fougère à frondes pouvant atteindre 1 m de long. Port érigé. Ressemble à la fougère commune des Landes et des bois mais n'est pas envahissante.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                    aspect insolite des plantes. Cultivées uniquement pour leur feuillage et prospérant en général à l'ombr   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                    sols légers, acides, poreux, frais sans excès, en situation ombragée même à exposition nord.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                    la multiplication des fougères peut s'effectuer par semis toute l'année, mais surtout au printemps.
+                    - Répartissez bien les "spores" à la surface des terrines sur du terreau finement tamisé. Maintenez les terrines régulièrement humides.
+                    - La germination qui a lieu en général après une quinzaine de jours produit des petites membranes foliacées appelées "prothalles".
+                    - Repiquez ces derniers par petits groupes quand ils ont une ou deux ébauches foliaires.
+                    La division des touffes est parfois utilisée, mais la multiplication s'opère surtout par la séparation des rhizomes pour les espèces à souche rampante. Chez certaines espèces, les frondes émettent des bourgeons munis de petites radicelles que l'on repique comme les prothalles. Les fougères demandent à être cultivées dans un sol léger, acide, poreux, comprenant des débris végétaux :  deux parties de terre de bruyère, deux de terre franche et une partie de sable. Elles doivent être plantées en situation ombragée (sauf l'osmonde royale). Prévoyez de fréquents arrosages pendant la belle saison.                    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                    leur aptitude à pousser à l'ombre désigne tout particulièrement les fougères pour la plantation des sous-bois ou des emplacements exposés au nord. Garniture de rocailles, talus, etc.   
+                </alinea>
+            </paragraphe>
+        </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Polystichum aculeatum
+            </titre_photo> 
+            <fichier_photo_plante>
+                p293_Polystichum_aculeatum.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

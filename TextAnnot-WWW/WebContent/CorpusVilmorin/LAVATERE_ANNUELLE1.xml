@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lavatera trimestris</taxon>
+    <parent type="genre">Lavatera</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LAVATERE ANNUELLE</titre>
+        <alinea>Plante ramifiée, haute de 80 cm à 1 m dans l'espèce type ; feuilles arrondies, de couleur vert foncé, légèrement poilues. Très grandes fleurs solitaires, roses, veinées de carmin ou blanches, se succédant de juillet à septembre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>rusticité de la plante. Facilité de culture. Abondante floraison de juillet à septembre</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>toutes terres, toutes expositions.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>facile. - Semez clair en avril-mai en place. - Éclaircissez à 30 cm. - Vous pouvez aussi semer en pépinière et mettre en place en mai-juin. - Arrosez copieusement pour assurer la reprise.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>en association avec des plantes vivaces mais peut tout aussi bien constituer des massifs, plates-bandes, bordures, potées. Fleurs à couper (les boutons continuent à s'épanouir en vase).</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>• 'Mont-Blanc' variété demi-naine, 50-60 cm, à port compact, produisant de très nombreuses fleurs d'un blanc pur très lumineux. • 'Mont-Rose' mêmes caractéristiques de port et de taille que Mont-Blanc. Magnifique coloris rose. • 'Tanagra' grandes fleurs rose carmin brillant veiné de rose tendre.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lavatère 'Burgundy'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Lavatère 'Tanagra'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

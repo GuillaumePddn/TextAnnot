@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Géranium x cantabrigiense</taxon>
+    <parent type="genre">Geranium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GERANIUM X CANTABRIGIENSE</titre>
+        <alinea> géraniums de bordures et de massifs  Plante basse de 25 cm de hauteur. Touffe étalée, rhizomateuse. Feuillage persistant, teinté de rougeâtre en automne.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>fleurs rose lilacé en mai-juin.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sol ordinaire en exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>semis ou division des touffes au printemps. Jeunes plants disponibles dans le commerce en automne et au printemps.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>couvre-sol, massifs, bordures.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>• 'Biokovo'  fleurs blanc rosé.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Géranium x cantabrigiense 'Biokovo'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

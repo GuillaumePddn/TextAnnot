@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Stranvaesia davidiana</taxon>
+    <parent type="genre">Stranvaesia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>STRANVAESIA PERSISTANT</titre>
+        <alinea>•Fleurit en juin • Fruits en automne-hiver Hauteur 2 à 2,50 m. Arbuste portant des feuilles coriaces, lancéolées, de 8 à 10 cm de longueur, vert foncé, rougissant en automne. Les fleurs blanches, en petits bouquets répartis tout le long des branches, sont suivies de petits fruits rouges, pendants, particulièrement décoratifs. La variété Undulata, moins vigoureuse, a des feuilles à bords ondulés. Arbuste à planter dans les massifs, au soleil ou à mi-ombre, en terrain frais mais peu ou pas calcaire.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Stranvaesia dovidiana</titre_photo>
+        <fichier_photo_plante>p472_Stranvaesia_dovidiana.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

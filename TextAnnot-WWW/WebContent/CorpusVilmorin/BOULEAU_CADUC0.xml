@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Betula</taxon>
+    <parent type="famille">Bétulacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BOULEAU CADUC</titre>
+        <alinea>Tous sols, même pauvres Les bouleaux sont des arbres très décoratifs par leur feuillage léger, mais surtout par l'écorce blanc argenté de leur tronc.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

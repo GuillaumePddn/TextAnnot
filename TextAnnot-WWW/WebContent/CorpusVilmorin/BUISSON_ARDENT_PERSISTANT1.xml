@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">??</taxon>
+    <parent type="genre">Pyracantha</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BUISSON ARDENT PERSISTANT</titre>
+        <alinea>.Fleurit en mai-juin. Fruits en septembre et au-delà Les buissons ardents comptent parmi les essences d'ornement les plus dignes d'intérêt ; leur floraison printanière est belle, mais leur attrait essentiel réside dans leur fructification abondante et vivement colorée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>Des croisements ont permis de créer des variétés à fruits abondants, gros, ou persistant longtemps • 'Alexander Pendula' dont les fruits, moyens, passent du jaune au rouge. Contrairement aux autres variétés, son port étalé en fait une plante intéressante pour la rocaille, les murets ou les talus. • 'Golden Glow' gros fruits jaune d'or. Variété rustique. • 'Mohave' variété américaine récente vigoureuse, à gros fruits rouge clair colorés dès août. • 'Orange Glow' gros fruits rouge orangé, très abondants. • 'Soleil d'or' fruits jaune d'or, précoces. Cette liste, non exhaustive, donne une idée du choix qui existe actuellement en buissons ardents. Tous prospèrent en bonne terre de jardin, pourvu qu'elle ne soit pas trop calcaire. Certaines variétés sont interdites à la production, car trop sensibles au "feu bactérien", qui sévit dans certaines régions. D'autres variétés, récemment sélectionnées, sont résistantes à cette maladie. • Darts red Tnterrada' rouge feu, très résistant au froid. • Saphyr jaune 'Cadaune' vigoureux, jaune. • Saphyr orange 'Cadange' bonne vigueur, orange. • Saphyr rouge 'Cadrou' arbuste à port compact, fruits rouges. Les utilisations ne manquent pas pour les variétés de type érigé le buisson ardent dans sa forme naturelle, non taillé, est un sujet à isoler de tout premier ordre, avec les atouts que sont pour lui l'intensité de sa floraison et sa brillante fructification... Supportant bien la taille, le buisson ardent constitue, en outre, des haies défensives de toute beauté qu'il est recommandé d'établir avec de jeunes sujets, taillés progressivement afin de provoquer des ramifications. Il est possible également, car c'est un arbuste vigoureux, de le palisser le long d'un mur en le fixant solidement pour qu'il ne s'en détache pas sous le poids des fruits le résultat est des plus spectaculaires et de longue durée Les fruits décoratifs de pyracantha constituent en hiver une nourriture d'appoint recherchée par les oiseaux. C'est donc un arbuste à ne pas oublier si vous appréciez la compagnie des passereaux...</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pyracantha Dans Red"</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Pyracantha Saphyr jaune'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Pyracantha Saphyr orange'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Populus tremula 'Erecta'</taxon>
+    <parent type="genre">Populus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PEUPLIER TREMBLE FASTIGIE</titre>
+        <alinea>Hauteur 5 à 6 m. Petit arbre pleureur à feuilles arrondies, glabres, qui tremblent à la moindre brise. Le bois de cet arbre étant cassant, évitez-lui les situations trop exposées au vent. Les peupliers sont utilisés pour créer des rideaux de verdure protégeant du vent et masquant les vues indésirables. Dans les jardins de faible surface, ils présentent toutefois l'inconvénient de posséder un système radiculaire superficiel très envahissant qui nuit aux cultures d'alentour et qui peut comme celui des frênes, endommager allées et constructions voisines. Ils demandent aussi un sol suffisamment profond et frais. leur croissance est très rapide.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Peuplier tremble fastigié</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

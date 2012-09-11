@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Paeonia lactiflora</taxon>
+    <parent type="genre">Paeonia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PIVOINE DE CHINE</titre>
+        <alinea>Plante vivace extrêmement rustique, à racines charnues, à tiges élancées, quelquefois ramifiées, haute de 60 cm à 1 m. Les fleurs rose carné, groupées par deux à cinq par tige, s'épanouissent de mai à fin juin en exhalant un parfum délicat. Un grand nombre de variétés sont issues de cette race, dont l'amélioration a porté sur la grosseur de la fleur et sa duplicature, sa tenue en fleur coupée et sa coloration.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>Fleurs opulentes. Facilité de culture.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terrains fertiles à sous-sol frais. Exposition ensoleillée ou semi-ombragée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>effectuez la multiplication dès l'automne par éclats possédant quelques yeux au collet. Plantez à 80 cm d'écartement. La floraison ne se déclenche généralement qu'après deux ou trois ans de plantation ; les plantes deviennent ensuite chaque année de plus en plus florifères. Les pivoines peuvent rester en place pendant huit à dix ans sans nécessiter d'autres soins qu'une copieuse fertilisation annuelle au fumier bien décomposé ou au fumier déshydraté.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>en groupes, à isoler sur pelouse. En massifs, en association avec d'autres plantes vivaces fleurissant à la même époque (lupins, delphiniums). Fleurs coupées. Cueillez-les à peine ouvertes, elles s'épanouiront en vase.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+            <photo_plante>
+        <titre_photo>Pivoine de Chine</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

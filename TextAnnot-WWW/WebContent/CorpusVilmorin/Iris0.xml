@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Iris</taxon>
+        <parent type = "famille">Iridaceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Iris Vivace</titre>
+                <alinea>
+                    Plantes très populaires, originales par l'architecture de leurs fleurs, et très belles par leurs formes comme par la gamme de leurs coloris délicats, qui évoquent les orchidées tropicales.
+                    Suivant la nature de leur souche, les espèces d'iris se répartissent en iris rhizomateux et iris bulbeux.
+                </alinea>
+            </paragraphe>
+        </contenu>
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

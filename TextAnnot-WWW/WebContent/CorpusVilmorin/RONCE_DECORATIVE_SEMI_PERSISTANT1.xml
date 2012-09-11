@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Rubus tricolor</taxon>
+    <parent type="genre">Rubus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>RONCE DECORATIVE SEMI PERSISTANT</titre>
+        <alinea>• Fleurit en juillet • Assez rustique  Plante à port nettement rampant, dont les longues branches, non épineuses, traînent sur le sol où elles s'enracinent au fur et à mesure de leur développement. Les feuilles, vert foncé à revers blanc, ressemblent à celles du lierre. Elles tombent lors des hivers un peu rigoureux. Fleurs blanches assez grandes. Fruits comestibles. Le principal mérite de cette ronce est de pousser pratiquement dans n'importe quel sol, sauf trop humide, et de préférence à l'ombre c'est donc un couvre-sol idéal pour cette situation. Sa grande vigueur peut se révéler parfois un inconvénient.  Les spécialistes proposent de nombreuses autres espèces et variétés de ronces, parmi lesquelles ont peut citer • Odoratus à feuilles caduques et à grandes fleurs pourpres. • 'Betty Ashburner' excellent couvre-sol marcottant naturellement à grandes feuilles gaufrées.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Ronce 'Betty Ashburner'</titre_photo>
+        <fichier_photo_plante>p469_Ronce__Betty_Ashburner_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

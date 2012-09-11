@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Deutzia gracilis</taxon>
+    <parent type="genre">Deutzia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>DEUTZIA GRACILIS</titre>
+        <alinea> Hauteur 50 à 70 cm. Ravissant petit arbuste à végétation assez compacte, couvert en mai de grappes de petites fleurs blanches. On en fait de charmantes bordures ou de petites haies libres, mais il a aussi sa place au premier rang des massifs d'arbustes.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

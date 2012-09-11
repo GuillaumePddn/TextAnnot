@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Oeillet d'inde</taxon>
+    <parent type="famille">Astéracées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ŒILLET D'INDE ANNUELLE</titre>
+        <alinea>Plante rustique à feuilles vert foncé lancéolées, dentelées. Fleurs nombreuses, simples ou doubles, de coloris dominants jaune, orangé ou rouge plus ou moins brun ou acajou, fleurissant de juillet à octobre. Toute la plante exhale une forte odeur lorsqu'elle est froissée. Il existe un grand nombre de variétés différentes par la taille ainsi que par la constitution des fleurs et aussi par leur coloris. La forme des fleurs et leur duplicature servent de base à la classification suivante</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>chaudes couleurs. Durée de floraison remarquable. Facilité de culture.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, à exposition ensoleillée ; s'accommode de la mi-ombre et supporte le climat maritime. </alinea>
+      </paragraphe>
+    </contenu>
+	<photos_plante>
+      <photo_plante>
+        <titre_photo>Œillet d'Inde 'Miniature' varié</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

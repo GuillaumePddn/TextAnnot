@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Prunus</taxon>
+    <parent type="famille">Rosaceae</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LAURIER</titre>
+        <alinea />
+      </paragraphe>
+    </contenu>
+	 <maladies>
+        <maladie>
+            <nom_maladie>Criblure</nom_maladie>
+            <enonce>
+                - organes attaqués : feuilles
+                - symptômes : des taches circulaires désséchées au contour rouge se détachent et les feuilles sont criblées de trous réguliers. De petites taches brunes sur les tiges laissent échapper parfois de la gomme.
+                - conseils : éliminer les rameaux atteints lors
+de la taille.
+            </enonce>
+            <photos_maladie>
+                <fichier_photo_maladie>p190_Criblure.jpg</fichier_photo_maladie>
+            </photos_maladie>
+        </maladie>
+    </maladies>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Veronica filiformis</taxon>
+    <parent type="genre">Veronica</parent>
+    <contenu>
+      <paragraphe>
+        <titre>Veronica filiformis</titre>
+        <alinea>Plante tapissante. Les feuilles sont réniformes, vert franc. Les fleurs sont bleu ciel à gorge blanche.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Veronica filiformis</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

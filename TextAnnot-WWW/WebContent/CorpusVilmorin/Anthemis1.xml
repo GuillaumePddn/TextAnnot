@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Anthemis frutescens</taxon>
+    <parent type = "genre">Anthemis</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ANTHEMIS FRUTESCENS OU ARGYRANTHEMUM FRUTESCENS, ANNUELLE</titre>
+                <alinea>
+                    Plante buissonnante de 60 cm à 1 m de hauteur, à feuilles découpées. Nombreuses fleurs blanches ou jaunes, de 5 cm de diamètre, ressemblant à la Marguerite des prés. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    floraison à partir de juin et jusqu'à l'entrée de l'hiver, ou même tout l'hiver si la plante est abritée du froid.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous terrains (surtout sablonneux), toutes expositions.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    multiplication
+                    1) Par semis, en février-mars, sous abri ou en serre, repiquage en godets et mise en place en mai.
+                    2) Par boutures, en godets, sous châssis, en septembre de préférence. Plusieurs pincements permettront d'obtenir une bonne ramification.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     décoration estivale des massifs. En pots, possibilité de décoration hivernale d'une serre froide, d'une terrasse vitrée, d'une véranda, etc.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Yucca filamentosa</taxon>
+    <parent type="genre">Yucca</parent>
+    <contenu>
+      <paragraphe>
+        <titre>YUCCA FILAMENTOSA</titre>
+        <alinea>Yucca filamentosa Touffe de feuilles dressées, en fer de lance, de 30 à 50 cm de long, infléchies sur le pourtour, vert bleuté, avec de longs filaments sur les bords. Au centre s'élève une forte tige florale de 1 à 1,50 m terminée par une panicule de grandes fleurs blanches en clochettes pendantes. Les fleurs s'épanouissent successivement, en juillet-août. Après la floraison, la tige se dessèche, mais d'autres rosettes se forment à la base de la tige et fleurissent à leur tour.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Yucca filamentosa</titre_photo>
+        <fichier_photo_plante>p476_Yucca_filamentosa.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

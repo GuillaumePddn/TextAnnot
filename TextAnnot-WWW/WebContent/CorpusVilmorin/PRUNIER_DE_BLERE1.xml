@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Prunus xblireana</taxon>
+    <parent type="genre">Prunus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PRUNIER DE BLERE</titre>
+        <alinea>  Hauteur 4 à 5 m. Petit arbre à cime arrondie, à floraison précoce, très décorative. Les jolies fleurs doubles, rose tendre, odorantes, s'épanouissent en mars-avril, tandis que les feuilles, de coloris pourpre cuivré, commencent à apparaître, formant ainsi un contraste délicat.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Prunier de Bière</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

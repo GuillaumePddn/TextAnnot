@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Magnolia stellata</taxon>
+    <parent type="genre">Magnolia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MAGNOLIA ÉTOILE</titre>
+        <alinea>Magnolia stellata Hauteur: 1,50 à 2 m. Ce ravissant petit arbuste à croissance lente se couvre en mars-avril de jolies fleurs blanches, en étoiles, à pétales étroits. Arbustes d'une grande beauté, les magnolias gagnent à être plantés en sujets isolés, sur un fond de feuillage sombre afin de mettre davantage en valeur la splendeur de la floraison. Il est prudent de placer le magnolia étoile en situation abritée afin de protéger ses fleurs des gelées tardives.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Magnolia étoile</titre_photo>
+        <fichier_photo_plante>p464_Magnolia_etoile.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

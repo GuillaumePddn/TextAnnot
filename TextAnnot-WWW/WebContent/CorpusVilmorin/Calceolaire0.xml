@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Calceolaria, VIVACE</taxon>
+        <parent type = "famille"> Calceolariaceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CALCEOLAIRE, VIVACE</titre>
+                <alinea>
+                Parmi les nombreuses espèces de calcéolaires, nous n'aborderons que les calcéolaires ligneuses (ou calcéolaires de plein air) servant à la décoration de nos jardins. Les calcéolaires herbacées (ou calcéolaires de serres) sont utilisées pour le fleurissement de nos intérieurs, (cf. chapitre Jardin d'intérieur)
+                </alinea>
+             </paragraphe>               
+        </contenu>
+
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

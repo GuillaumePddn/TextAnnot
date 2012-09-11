@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Delphinium ajacis</taxon>
+    <parent type="genre">Delphinium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PIED D'ALOUETTE DES JARDINS ESPÈCES ANNUELLES</titre>
+        <alinea> Espèce différant du pied d'alouette des blés par sa tige presque toujours unique, terminée par une magnifique grappe de fleurs doubles, longue de 20 cm. Les coloris sont variés - du blanc au violet en passant par le bleu et le rose.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>plantes majestueuses aux jolis coloris pastel.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>facile. - Semez de février à avril en place et éclaircissez à 30 cm pour les pieds d'alouette des blés et à 10 cm pour les pieds d'alouette des jardins. - La floraison a lieu de juillet à septembre selon la date du semis. - Il est également possible de semer en septembre-octobre en place pour obtenir une floraison de juin à juillet.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>massifs et groupes fleuris. Fleurs coupées (surtout avec pied d'alouette 'Impérial').</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pied d'alouette des jardins</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

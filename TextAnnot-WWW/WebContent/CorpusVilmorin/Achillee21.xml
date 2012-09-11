@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Achillea millefolium 'Cerise Queen'</taxon>    
+    <parent type = "espece">Achilea millefolium</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Achillea millefolium 'Cerise Queen'</titre>
+                <alinea>inflorescences rouge carminé.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+     <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Achillée millefeuille 'Cerise Queen'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p242_Achillee_millefeuille_Cerise_Queen_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+   <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

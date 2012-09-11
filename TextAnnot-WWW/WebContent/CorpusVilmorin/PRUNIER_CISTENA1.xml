@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Prunus cistena</taxon>
+    <parent type="genre">Prunus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PRUNIER CISTENA</titre>
+        <alinea>Prunus cistena Hauteur 1 à 1,50 m. Petit arbuste à rameaux grêles, à fleurs blanches apparaissant avant les feuilles qui sont de coloris pourpre. Intéressant pour faire de petites haies, mais aussi pour valoriser une plantation de rosiers roses ou blancs, lorsqu'il est planté dans un massif de ce genre. Il doit alors être taillé pour limiter son développement.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Prunus cistena</titre_photo>
+        <fichier_photo_plante>p468_Prunus_cistena.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

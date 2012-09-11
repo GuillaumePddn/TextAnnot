@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Caesalpinia gilliesii = Poinciana</taxon>
+    <parent type="genre">Caesalpinia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CAESALPINIA CADUC</titre>
+	<alinea>Oiseau de Paradis. Fleurit en juillet-août. Peu rustique.
+Hauteur: 1,50 à 2,50m. Charmant arbuste du Midi et du littoral atlantique, dense, mais d'aspect léger grâce à ses grandes feuilles bipennées à nombreuses folioles étroites.
+Les fleurs, groupées par 30 ou 40 en panicules terminales, sont jaune vif avec un
+bouquet d'étamines rouges, très saillantes, qui justifient son nom commun d'oiseau de
+paradis. Ce bel arbuste doit être planté en isolé le long d'un mur ensoleillé, en terre
+légère, bien drainée.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Caesalpinia gilliesii</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

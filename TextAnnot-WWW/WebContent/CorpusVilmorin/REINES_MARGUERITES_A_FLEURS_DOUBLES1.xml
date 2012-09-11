@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Beauté d'Amérique</taxon>
+    <parent type="genre">Callistephus chinensis</parent>
+    <contenu>
+      <paragraphe>
+        <titre>REINES MARGUERITES A FLEURS DOUBLES</titre>
+        <alinea />
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>• Beauté d'Amérique' - hauteur 80 cm. À fleur de pivoine. Fleurs énormes, portées par de très longues tiges rigides. Parfaite pour la fleur coupée. • Princesse super géante' - hauteur 70 cm. Race à longue tige. Fleur régulière, aux pétales centraux longs et tubulés, à pétales plats sur le pourtour. • 'Plume d'autruche' - hauteur 40 cm. Élégante race hâtive. Port divergent, à fleurs très échevelées et pétales ondulés. • 'Nova' - hauteur 60 cm. Fleurs aux pétales nombreux, très finement roulés en aiguilles, de grosseur moyenne, aux coloris vifs et variés.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Reine-marguerite 'Beauté d'Amérique' variée</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Reine-marguerite 'Arc en ciel' variée</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Reine-marguerite 'Princesse super géante' variée</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Reine-marguerite 'Plume d'autruche' variée</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Reine-marguerite 'Nova' mélange Clause</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

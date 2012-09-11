@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Géranium 'Johnson's blue'</taxon>
+    <parent type="genre">Geranium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GERANIUM JOHNSON'S BLUE'</titre>
+        <alinea>Le plus populaire et le plus florifère des géraniums vivaces. Plante de 40 cm de hauteur. Feuilles découpées en lobes étroits. </alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>grandes Heurs bleu clair, à peine violacé, très abondantes, en juin-juillet.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sol ordinaire pas trop sec.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>semis ou division des touffes au printemps. Jeunes plants disponibles dans le commerce en automne et au printemps.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>massifs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Géranium Johnson's Blue'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

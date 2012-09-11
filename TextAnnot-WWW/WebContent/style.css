@@ -1,0 +1,197 @@
+
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF repeat-x left top;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #4D4D4D;
+}
+
+h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #1560BD;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 2.8em;
+}
+
+h3 {
+	font-size: 1.6em;
+}
+
+p, ul, ol {
+	margin-top: 0;
+	line-height: 240%;
+}
+
+ul, ol {
+}
+
+a {
+	text-decoration: none;
+	color: #269FF6;
+}
+
+a:hover {
+}
+
+html, body {height: 90%;}
+
+#wrap {min-height: 100%;
+	position: relative;
+   top: 40px;
+   }
+
+#main {overflow:auto;
+	padding-bottom: 150px;}  /* must be same height as the footer */
+
+#footer {position: relative;
+	margin-top: -150px; /* negative value of footer height */
+	height: 150px;
+	clear:both;} 
+
+/*Opera Fix*/
+body:before {
+	content:"";
+	height:100%;
+	float:left;
+	width:0;
+	margin-top:-32767px;/
+}
+
+
+.container {
+	width: 1000px;
+	margin: 0px auto;
+}
+
+/* Header */
+
+#header {
+	width: 940px;
+	height: 100px;
+	margin: 0px auto;
+	padding: 0px;
+}
+
+/* Logo */
+
+#logo {
+	float: left;
+	width: 288px;
+	height: 100px;
+	margin: 0;
+	padding: 0;
+	color: #FFFFFF;
+}
+
+#logo h1, #logo p {
+}
+
+#logo h1 {
+	padding: 30px 0px 0px 0px;
+	letter-spacing: -3px;
+	text-align: center;
+	text-transform: lowercase;
+	font-size: 40px;
+}
+
+#logo h1 span {
+	color: #C16C2F;
+}
+
+#logo h1 a {
+	color: #FFFFFF;
+}
+
+#logo p {
+	margin: 0;
+	padding: 0px 0 0 0px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+
+#logo p a {
+	color: #FFFFFF;
+}
+
+#logo a {
+	border: none;
+	background: none;
+	text-decoration: none;
+	color: #000000;
+}
+
+#menu a:hover, #menu .current_page_item a {
+	text-decoration: none;
+}
+
+#menu .current_page_item a {
+}
+
+/* Page */
+
+#page {
+	width: 940px;
+	margin: 0px auto;
+	padding: 30px 0px;
+}
+
+#fileload {
+  position: absolute;
+  left: 300px;
+  top: 0px;
+  width: 300px;
+  height: 50px;
+}
+
+#parambox {
+  position: absolute;
+  left: 300px;
+  top: 150px;
+  width: 300px;
+  height: 50px;
+}
+
+#explanation p{
+  font-size: 11px;	
+}
+
+/* Main navigation wrapper */
+#navwrap{margin:0 auto; padding:0;  background:url(images/nav_bg_sprite.png) top #ffffff repeat-x; background-position:0px -40px; height:20px; padding:5px 10px; border-top:2px solid #BAD3EA; }
+
+/*Navigation menu*/
+#nav{font-size:13px; padding-top:2px;}
+
+#nav a{padding:7px 10px 7px 10px; color:#7FB6E6; text-decoration:none; }
+#nav a:hover{padding:7px 10px 7px 10px; color:#666; background:url(images/nav_bg_sprite.png) repeat-x; background-position:0px -70px; text-decoration:none; border-top:2px solid #1A54E1;}
+
+/*For selected item*/
+#nav a.current{padding:7px 10px 7px 10px; color:#333; font-weight:bold; background:url(images/nav_bg_sprite.png) repeat-x; background-position:0px -70px; text-decoration:none; border-top:2px solid #1A54E1;}
+
+/*options menu itemm with icon*/
+.optionsmenu{ background:url(images/nav_bg_sprite.png) no-repeat; background-position:0px 0px; padding:0 5px 0 10px;}
+
+.floatleft{float:left;} /* for the left navigation menu */
+.floatright{float:right} /* for the right options navigation menu */
+.clear{clear:both;} /* clear all floating, left and right */
+
+
+ 

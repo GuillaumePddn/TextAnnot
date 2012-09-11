@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Phormium tenax</taxon>
+    <parent type="genre">Phormium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LIN DE NOUVELLE ZELANDE PERSISTANT</titre>
+        <alinea>• Résiste à-8/-10 Hauteur 0,5 à 1,20 m. Arbuste de climat doux de forme érigée très intéressant pour son feuillage décoratif en toutes saisons. Exposition ensoleillée et abritée, en tous sols.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>• 'Variegatum' feuillage vert, panaché de jaune • 'Purpureum' feuillage rouge pourpre • 'Bronze Baby' feuillage bronze</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lin de Nouvelle Zélande</titre_photo>
+        <fichier_photo_plante>p463_Lin_de_Nouvelle_Zelande.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

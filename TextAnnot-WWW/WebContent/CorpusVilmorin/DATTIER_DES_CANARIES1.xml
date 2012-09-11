@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Phoenix canariensis </taxon>
+    <parent type="genre">Phoenix</parent>
+    <contenu>
+      <paragraphe>
+        <titre>DATTIER DES CANARIES</titre>
+        <alinea>Hauteur 10 à 12 m et plus. Arbre majestueux portant au sommet du stipe un bouquet d'immenses feuilles pennées.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Dattier des Canaries</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

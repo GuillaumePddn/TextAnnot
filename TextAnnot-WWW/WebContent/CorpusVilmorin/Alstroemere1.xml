@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Alstroemeria aurantiaca</taxon>
+        <parent type = "famille"> Alstroemeria         </parent>
+        <contenu>
+            <paragraphe>
+                <titre>Alstroemeria aurantiaca ou Alstroemeria aurea</titre>
+                <alinea>
+                    Les fleurs sont orange clair striées de brun sur les deux tépales intérieurs. Les feuilles sont lancéolées glauques. C'est l'espèce la plus rustique.
+                </alinea>
+            </paragraphe>
+        </contenu>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

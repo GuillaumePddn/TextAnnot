@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Buddleja</taxon>
+    <parent type="famille">Loganiacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BUDDLEIA CADUC</titre>
+        <alinea>Arbre aux papillons Le buddleia est un arbuste à floraison estivale très apprécié. Ses fleurs parfumées attirent les papillons. Taillé sévèrement en fin d'hiver à 30 - 40 cm du sol, il émet de grands rameaux et de plus beaux épis de fleurs, tout en étant maintenu dans des dimensions raisonnables. Il pousse dans tous les sols, même médiocres et calcaires, en situation dégagée, ensoleillée. Il convient aussi bien à la plantation en isolé qu'en massifs.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

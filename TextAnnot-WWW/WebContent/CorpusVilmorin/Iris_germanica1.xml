@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Iris germanica</taxon> 
+    <parent type = "genre">Iris</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Iris des jardins</titre>
+                <alinea>
+                Iris rhizomateux.
+                Iris germanica hybride
+                C'est l'espèce la plus cultivée de cette famille, issue de l'ancien iris d'Allemagne à fleurs violettes. Ces dernières, qui apparaissent en mai-juin, sont portées par groupes de trois à cinq, à l'extrémité de tiges rigides naissant d'une touffe de feuilles persistantes en forme de glaive, très coriaces. Suivant les variétés, la hauteur de la hampe florale peut atteindre de 60 cm jusqu'à 1,10 m et parfois plus. Un travail de sélection considérable a permis d'obtenir de cette espèce une gamme de coloris extrêmement riche où se retrouvent pratiquement toutes les couleurs, teintant uniformément les fleurs ou se mélangeant en panachures et en nuances délicates. À la gamme des bleus et des violets qui étaient la caractéristique de l'espèce type, s'ajoutent maintenant des jaunes, des orangés, des roses et des rouges d'une richesse extraordinaire. les variétés modernes diffèrent également par leur précocité et par leur hauteur.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Iris des jardins
+            </titre_photo> 
+            <fichier_photo_plante>
+                p312_Iris_des_jardins.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

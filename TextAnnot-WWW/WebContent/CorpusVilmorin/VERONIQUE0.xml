@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Veronica</taxon>
+    <parent type="famille">Scrophulariacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>VERONIQUE</titre>
+        <alinea>vivace Plante rustique, à tiges dressées, hautes de 30 à 60 cm, terminées par un long épi de petites fleurs bleu vif, en juin-juillet.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>jolie couleur bleue. Plante rustique.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terres saines, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) - Semez d'avril à juin en pépinière. - Repiquez en place, à 30 cm de distance. - Les semis d'avril fleurissent dans l'année et les derniers, l'année suivante, de juin en août. 2) La véronique en épis se multiplie aussi par éclats.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>plante généralement utilisée en association avec d'autres espèces vivaces auxquelles elle apporte ses jolis coloris. </alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

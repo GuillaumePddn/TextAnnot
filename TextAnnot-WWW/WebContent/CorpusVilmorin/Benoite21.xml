@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Geum chiloense 'Mrs Bradshaw'</taxon>    
+    <parent type = "espece">Geum chiloense</parent>
+        <contenu>
+            <paragraphe>
+                <titre> </titre>
+                <alinea> 
+                    Plante à tiges dressées, ramifiées, hautes de 50 à 60 cm, assez grêles et portant, de fin avril à juillet-août, des fleurs semi-doubles rouge feu de 4 à 5 cm de diamètre. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    vivace, très florifère.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous terrains mais préfère les terres légères. Toutes expositions. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                    - Semez en mai-juin et repiquez les jeunes plants en pépinière à l'ombre. 
+                    - La mise en place se fait à l'automne à 30 cm d'écartement. 
+                    - Il est possible aussi de diviser les touffes.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                <alinea>
+                    en groupes dans les massifs de plantes vivaces. Très belles fleurs à couper.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Benoîte 'Mrs Bradshaw"
+            </titre_photo> 
+            <fichier_photo_plante>
+                p261_Benoite__Mrs_Bradshaw_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

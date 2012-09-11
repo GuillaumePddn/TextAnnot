@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Malope trifida</taxon>
+    <parent type="genre">Malope</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MALOPE ANNUELLE</titre>
+        <alinea>Plante en touffe, de 70 cm de hauteur, à feuilles rondes, à larges fleurs rouge foncé, semblables à celles de la mauve, joliment veinées de pourpre à la base des pétales et s'épanouissant de juillet à août.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>plante à floraison estivale, de culture très facile.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous terrains, à exposition chaude. Supporte le climat maritime. Culture très facile. - Semez en avril-mai en place et éclaircissez ensuite à 30 cm. - Arrosez copieusement pendant l'été.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>en arrière-plan des groupes de fleurs d'été, en touffes dans des massifs de plantes vivaces. Fleurs coupées.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Malope</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

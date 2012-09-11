@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Arabis alpina Rose 'Arabis des Alpes'</taxon>    
+    <parent type = "espece">Arabis alpina Rose</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Arabis des Alpes</titre>
+                <alinea>
+                    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    Compact, blanc pur, 15 cm.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+     <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

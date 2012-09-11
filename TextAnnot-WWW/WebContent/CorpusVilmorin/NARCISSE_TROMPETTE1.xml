@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Narcissus pseudo-narcissus</taxon>
+    <parent type="genre">Narcissus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>NARCISSE TROMPETTE</titre>
+        <alinea>Fleurs solitaires sur une hampe de 30 à 50 cm de hauteur, en fin mars-avril. Les fleurs sont larges, penchées, à couronne centrale longuement développée en pavillon, à bord ondulé, frangé. Elles sont souvent et improprement appelées "jonquilles". Les variétés diffèrent par la couleur des pétales extérieurs et de la trompette, ainsi que la dimension des fleurs. En raison de leur taille, ces narcisses conviennent aussi bien en massifs qu'en fleurs coupées.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Narcisse trompette</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

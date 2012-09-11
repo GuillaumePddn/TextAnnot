@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Berberis thunbergii 'Atropurpurea'</taxon>
+    <parent type="genre">Berberis</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BERBERIS POURPRE</titre>
+        <alinea> Hauteur 1 m à 1,50 m. Plus ancienne que la précédente, moins vigoureuse aussi, cette belle variété de Berberis à feuillage pourpre permet de constituer des haies moins élevées. Fleurs jaunes en mai, suivies de petits fruits rouge vif qui persistent longtemps après la chute des feuilles et ajoutent ainsi à l'intérêt de la plante.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+	<photos_plante>
+      <photo_plante>
+        <titre_photo>Berberis thunbergii 'Atropurpurea Nana'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

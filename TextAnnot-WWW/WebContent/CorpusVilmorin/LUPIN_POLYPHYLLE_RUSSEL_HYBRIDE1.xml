@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lupinus polyphyllus Russel hybride </taxon>
+    <parent type="genre">Lupinus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LUPIN POLYPHYLLE RUSSEL HYBRIDE</titre>
+        <alinea>Hauteur de 1,20 m. Cette race remarquable se distingue par ses épis plus longs et plus larges que dans le type, constitués par une multitude de fleurs serrées les unes contre les autres sur une longueur allant jusqu'à 80 cm.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>beauté des épis portés par une grande hampe florale.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, de préférence légèrement acides (pH 6). Supporte le climat maritime. Redoute le calcaire.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>les lupins supportant mal le repiquage, il est préférable de les semer en place. - Semez d'avril à juin, en poquets espacés de 40 cm et éclaircissez après la levée. La floraison aura lieu en mai-juin de l'année suivante. - Si vous ne pouvez pas semer en place, semez en godets à raison de trois graines par pot (godets de tourbe de 10 cm de préférence). Ne conservez que le plus beau plant après la levée et mettez en place, en motte, dès que possible. - Il est également possible de semer en octobre. La germination n'a lieu qu'après l'hiver mais elle est souvent plus complète, le froid ayant eu une action favorable. - La multiplication peut également se faire par éclats de touffes à l'automne. - Les pieds de lupin ne sont pas d'une longue durée (environ trois ans) et doivent être remplacés dès qu'ils commencent à dépérir.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>avec les iris, les pavots, et les pivoines, les lupins composent, en mai-juin, dans les plates-bandes de plantes vivaces, un véritable feu d'artifice de floraisons multicolores. Ils refleurissent ensuite, mais de façon moins spectaculaire, jusqu'à fin septembre si l'on prend soin de supprimer les fleurs fanées. Excellentes fleurs à couper.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lupin de Russel en mélange</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

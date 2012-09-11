@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Phacélie</taxon>
+    <parent type="famille">Hydrophyllacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PHACELIE ANNUELLE</titre>
+        <alinea>Plante velue, à feuillage découpé et fleurissant de juillet à septembre.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Pétunia grandiflora</taxon>
+    <parent type="genre">Pétunia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PETUNIA A GRANDES FLEURS</titre>
+        <alinea> Ce sont des variétés à larges corolles et, de ce fait, elles sont un peu plus sensibles à la pluie que les variétés à fleurs moyennes. Elles sont donc à recommander pour les plantations en climat chaud et sec ou en situation abritée. La beauté et la dimension de leurs fleurs vous émerveilleront. Nous citerons la série des 'Prism' remarquable par la précocité de leur floraison, leur végétation buissonnante et compacte, et sa gamme de coloris unis ou étoiles.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pétunia Prism mélange Hybride Fl</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

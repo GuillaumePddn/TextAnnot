@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Alyssum montanum</taxon>
+        <parent type = "genre">Alyssum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ALYSSUM MONTANUM, VIVACE</titre>
+                <alinea>
+                    Port étalé et tapissant de 15 cm de hauteur. Les feuilles sont étroites, coriaces, vert grisé. Les fleurs sont légèrement parfumées.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Alyssum montanum
+            </titre_photo> 
+            <fichier_photo_plante>
+                p247_Alyssum_montanum.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+   
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

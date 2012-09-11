@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Acer capillipes</taxon>
+    <parent type="genre">Acer</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ÉRABLES À ÉCORCE DÉCORATIVE</titre>
+        <alinea>Acer capillipes Acer davidii Acer griseum Acer grosse ri i Hersii Acer pennsylvanicum Acer rutinerve  Ils sont remarquables toute l'année, même en hiver, et on les plante en isolé ou intégrés dans des massifs d'arbustes. Acer davidii craint le calcaire. Le feuillage des érables prend à l'automne de riches coloris, généralement dans les jaunes et les orangés et même dans les rouges (Acer Crimson King).</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Acer griseum, écorce</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Acer rufinerve, écorce</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Eucalyptus gunnii, écorce</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

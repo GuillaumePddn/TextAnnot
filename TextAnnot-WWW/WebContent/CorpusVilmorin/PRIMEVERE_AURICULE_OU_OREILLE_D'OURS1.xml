@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Primula auricula</taxon>
+    <parent type="genre">Primula</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PRIMEVERE AURICULE OU OREILLE D'OURS</titre>
+        <alinea> Espèce un peu plus délicate que la primevère des jardins, quoique d'origine alpine, à feuilles larges et charnues, à hampes florales de 20 cm portant, de mars à mai, des bouquets de fleurs de coloris pastel. Souvent appelée oreille d'ours. Primevère auricule liégeoise, mélange de tons brun, bleu clair, violet et orange.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>elle est identique à celle de la primevère des jardins.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>bordures, rocailles.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Primevère auricule</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

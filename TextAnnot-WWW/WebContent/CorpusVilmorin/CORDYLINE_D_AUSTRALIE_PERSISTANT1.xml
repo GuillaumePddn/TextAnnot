@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cordyline australis</taxon>
+    <parent type="genre">Cordyline australis</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CORDYLINE D AUSTRALIE PERSISTANT</titre>
+        <alinea>Résiste à -8,-10°C. Hauteur 3 à 4 m. Plante de forme érigée, d'aspect très exotique, réservée aux climats doux. Les feuilles persistantes sont allongées et groupées au sommet de tiges dressées. Très résistante en sols pauvres et à la sécheresse. Réussit bien en bacs. • 'Purpurea' a des feuilles pourpre foncé. • 'Torbay Dazzler' a un feuillage panaché.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Cordyline_d_Australie__Torbay_Dazzler_</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

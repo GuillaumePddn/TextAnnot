@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Gypsophile élégant</taxon>
+    <parent type="genre">Gypsophila</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GYPSOPHILE ELEGANT ESPÈCE ANNUELLE</titre>
+        <alinea>Plante à tiges nombreuses, très ramifiées, portant un très grand nombre de fleurs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>élégance de l'abondante floraison de juillet à septembre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, même secs. Supporte le climat maritime.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>facile. - Semez d'avril à juin, en place, en lignes espacées de 40 cm. - Éclaircissez à 15 cm sur le rang.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>massifs, rocailles, talus fleuris, fleurs coupées.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>• Gypsophile élégant rose. Hauteur 50 cm, à petites fleurs roses. • Gypsophile élégant 'Roi des halles'. Hauteur 60 cm, à grandes fleurs blanc pur.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Gypsophile élégant 'Roi des Halles'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

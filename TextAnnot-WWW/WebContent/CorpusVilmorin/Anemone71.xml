@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Anemone x hybrida 'Honorine Jobert'</taxon>    
+    <parent type = "espece">Anemone x hybrida</parent>
+        <contenu>
+            <paragraphe>
+                <titre>'Honorine Jobert'</titre>
+                <alinea>
+                     C'est la variété la plus courante avec 120 cm de hauteur et de grandes fleurs simples et blanches.
+                </alinea>
+            </paragraphe>
+         </contenu>
+   
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

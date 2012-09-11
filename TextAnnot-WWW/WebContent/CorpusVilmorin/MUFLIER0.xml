@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Antirrhinum majus</taxon>
+    <parent type="famille">Scrophulariaceae</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MUFLIER</titre>
+        <alinea />
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

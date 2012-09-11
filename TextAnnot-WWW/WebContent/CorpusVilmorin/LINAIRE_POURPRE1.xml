@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Linaria purpurea</taxon>
+    <parent type="genre">Linaria</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LINAIRE POURPRE</titre>
+        <alinea>  Fleurs violet rougeâtre ou rouge pourpre, disposées en épis qui s'allongent beaucoup pendant la floraison. Il en existe une variété à fleurs blanches.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>jolies plantes herbacées à végétation rapide et à floraison abondante.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terres légères, profondes, riches en humus, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez en mars, sous châssis froid, en pépinière et mettez en place en mai, à 20 cm de distance. - Floraison de juillet à septembre. Le semis directement en place en avril-mai est possible mais la floraison n'a lieu qu'en août-septembre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>surtout plantes à bouquets, éventuellement massifs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Linaire purpurea 'Alba'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

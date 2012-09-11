@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cotoneaster franchetii</taxon>
+    <parent type="genre">Cotoneaster</parent>
+    <contenu>
+      <paragraphe>
+        <titre>COTONEASTER FRANCHETII</titre>
+        <alinea> Hauteur 1,50 à 2,50 m. Bel arbuste assez touffu, aux jeunes rameaux gracieusement arqués. Les feuilles, ovales, sont petites et leurs revers duveteux, argenté, donne à l'ensemble de la plante un coloris vert grisâtre. Elles ne tombent qu'à la suite d'hivers rigoureux. Les fleurs, rosées, sont suivies de fruits d'un rouge orangé très attrayant et qui persistent longtemps. Lorsqu'on le plante en isolé, il est préférable de ne lui faire subir qu'une taille légère et discrète. Par contre, lorsqu'il contribue à l'établissement d'une haie (emploi fréquent), il fait l'objet d'une taille régulière qui ne contrarie pas trop la fructification. Il a aussi parfaitement sa place dans les massifs d'arbustes.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Cotoneaster_franchetii</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+	</photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

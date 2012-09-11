@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Paeonia</taxon>
+    <parent type="famille">Renonculacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PIVOINE VIVACE</titre>
+        <alinea>Ce genre comprend des espèces ligneuses (pivoine en arbre - voir au chapitre "Arbustes d'ornement") et des espèces herbacées. Les pivoines de nos jardins sont issues des deux espèces herbacées suivantes</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

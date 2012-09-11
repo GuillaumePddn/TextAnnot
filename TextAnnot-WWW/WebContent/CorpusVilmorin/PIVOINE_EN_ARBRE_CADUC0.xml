@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Paeonia</taxon>
+    <parent type="famille">Ranunculaceae</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PIVOINE EN ARBRE CADUC</titre>
+        <alinea>• Fleurit en mai • Assez rustique  Malgré leurs dimensions modestes (hauteur 1 à 1,50 m) et leur croissance très lente, les pivoines en arbre comptent parmi les plus beaux arbustes d'ornement. Elles doivent le grand intérêt qu'elles suscitent à la richesse de leur floraison. Les variétés de pivoine en arbre actuellement cultivées, sont issues de Paeonia suffruticosa et de Paeonia lutea. Elles forment des touffes de grosses tiges assez raides, peu ramifiées, portant de belles feuilles composées, profondément découpées, d'une belle teinte vert bleuté. Les fleurs, voisines de celles des pivoines de Chine, sont énormes, jusqu'à 20 cm de diamètre, dans de très beaux coloris.</alinea>
+      </paragraphe>
+    </contenu>
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pivoine en arbre</titre_photo>
+        <fichier_photo_plante>p468_Pivoine_en_arbre.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

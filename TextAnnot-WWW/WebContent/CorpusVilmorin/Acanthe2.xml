@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Acanthus spinosus</taxon>
+    <parent type = "genre">Acanthus </parent>
+        <contenu>
+            <paragraphe>
+                <titre>ACANTHE À FEUILLES ÉTROITES</titre>
+                <alinea>Cette espèce diffère par ses feuilles vert sombre, découpées en segments plus étroits et aux dents épineuses. Les nervures principales sont marquées de blanc. Les fleurs sont rose pâle avec des bractées pourpres.</alinea>
+            </paragraphe>
+        </contenu>
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Acanthe à feuilles étroites
+            </titre_photo> 
+            <fichier_photo_plante>
+                p242_Acanthe_a_ feuilles_etroites.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

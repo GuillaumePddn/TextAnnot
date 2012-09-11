@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Pyrèthre parthenium</taxon>
+    <parent type="genre">Pyrethrum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PYRETHRE PARTHENIUM</titre>
+        <alinea>Cette espèce a donné naissance à deux races, distinctes par leur port et leur emploi - les pyrèthres à feuillage doré, décoratifs par ce dernier, et la matricaire blanche double ou camomille double, cultivée pour ses fleurs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Muflier</taxon>
+    <parent type="genre">Antirrhinum majus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MUFLIER</titre>
+        <alinea>Gueule de loup Plante rustique, vivace, mais cultivée comme annuelle ou bisannuelle. Elle est très populaire sous le nom de "Gueule de loup" à cause de la forme irrégulière de sa corolle qui évoque un mufle. Tiges ramifiées, buissonnantes. Fleurs en grappes terminales, d'abord serrées puis allongées au fur et à mesure de l'épanouissement qui s'échelonne successivement de bas en haut. Ces fleurs présentent tous les coloris, sauf le bleu et ses dérivés, en tons généralement très vifs et lumineux, allant du blanc et du jaune clair jusqu'au pourpre foncé en passant par l'écarlate. Cette espèce qui a été très travaillée par les spécialistes de l'hybridation nous offre maintenant deux types de fleurs de morphologie très différente une fleur irrégulière, habituelle à l'espèce, et une fleur presque régulière, dite fleur de penstémon. La seconde existe sous la forme simple, mais aussi sous la forme double. Le type fleur de penstémon donne une allure très différente à l'inflorescence qui paraît plus colorée par sa position relevée et par le fait que, largement ouverte, elle tient caché l'envers de la corolle, toujours plus pâle. De nombreux hybrides Fl caractérisés par de grandes qualités de régularité de végétation, de précocité et de floribondité complètent une gamme déjà très riche. Nous nous en tiendrons aux mufliers de pleine terre. Les mufliers de serre, à forcer, constituent une catégorie très particulière. Ils ne sont cultivés que par les spécialistes horticoles en raison de la complexité de leur culture.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>très belle plante à massif, aux coloris nombreux et brillants. Certaines variétés produisent d'excellentes fleurs à couper.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols légers, bien drainés, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>deux possibilités de semis 1) Semez en mars-avril en pépinière. Repiquez en pépinière et mettez en place en mai. La floraison a lieu d'août à octobre. 2) Semez de juin à août, en pépinière. Hivernez en pépinière bien exposée et mettez en place en avril-mai. La floraison a lieu de juin à septembre. À la mise en place, les plants sont écartés de 25 à 40 cm selon les races. Remarque importante - lors du semis ne recouvrez pas les graines, car la levée demande de la lumière.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>les variétés hautes conviennent surtout à la production de fleurs coupées mais elles constituent aussi des massifs majestueux lorsque les plantes disposent d'un espace suffisant Les races demi-naines, utilisables aussi en fleurs coupées, conviennent particulièrement bien aux massifs et bordures, ainsi que les races naines. Pour profiter d'une floraison prolongée en arrière-saison, choisissez de préférence les variétés tolérantes à la rouille.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>Parmi les très nombreuses variétés actuellement commercialisées, nous en avons sélectionné quelques-unes que nous classons d'après leur taille. Race de grande taille • 'Maximum' à fleur géante. Hauteur - 90 cm. • Grand loup' varié. Hauteur - 90 cm. Race demi-naine •'Majestic' à fleur géante. Hauteur- 45 cm. Race à port bien régulier. Coloris variés et brillants. • 'Goupil' varié. Végétation compacte. Hauteur - 50 cm. Race naine • "Tom Pouce' varié. Très nain, hauteur 20 cm. Forme de très beaux tapis fleuris.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Muflier</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

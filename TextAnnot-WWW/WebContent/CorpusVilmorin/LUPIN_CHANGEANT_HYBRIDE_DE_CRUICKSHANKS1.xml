@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lupinus mutabilis</taxon>
+    <parent type="genre">Lupinus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LUPIN CHANGEANT HYBRIDE DE CRUICKSHANKS</titre>
+        <alinea>Très vigoureux, atteignant 1,50 m de hau- teur ; fleurs en épis longs de 30 à 40 cm, s'épanouissant de juillet à octobre. Fleurs odorantes, bleues, présentant dans le haut, sur le pli du pétale supérieur, une couleur blanche ou jaune rosé passant au violet, au fur et à mesure de l'épanouissement.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lupin changeant hybride de Cruickshanks</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

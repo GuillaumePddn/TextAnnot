@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Anthemis tinctoria</taxon>
+        <parent type = "genre">Anthemis</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CAMOMILLE DES TEINTURIERS, VIVACE</titre>
+                <alinea>
+                    Hauteur 60 cm. Jolies fleurs simples de couleur jaune d'or bien positionnées au dessus du feuillage, de juin à septembre.
+                </alinea>
+            </paragraphe>
+        </contenu>
+            
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Camomille des teinturiers
+            </titre_photo> 
+            <fichier_photo_plante>
+                p252_Camomille_des_teinturiers.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

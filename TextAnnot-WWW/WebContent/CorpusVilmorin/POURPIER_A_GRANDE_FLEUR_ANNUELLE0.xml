@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Pourpier à grande fleur</taxon>
+    <parent type="famille">Portulacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>POURPIER A GRANDE FLEUR ANNUELLE</titre>
+        <alinea />
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

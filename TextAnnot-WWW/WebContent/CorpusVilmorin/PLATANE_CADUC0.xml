@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Platanus</taxon>
+    <parent type="famille">Platanacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PLATANE CADUC</titre>
+        <alinea>• Croissance rapide</alinea>
+      </paragraphe>
+    </contenu>
+	<maladies>
+      <maladie>
+        <nom_maladie>Tigre du platane </nom_maladie>
+        <enonce>Organe attaqué : feuilles.
+Symptômes : elles se décolorent par larges plages. Les faces inférieures sont maculées de taches
+noires d'excréments. Présence de larves noires ou
+d'adultes translucides.
+Traitement :
+Pucerons des rosiers, arbustes.</enonce>
+        <fichier_photo_maladie>??</fichier_photo_maladie>
+      </maladie>
+    </maladies>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Potentilla</taxon>
+    <parent type="famille">Rosaceae</parent>
+    <contenu>
+      <paragraphe>
+        <titre>POTENTILLE CADUC</titre>
+        <alinea>• Fleurit de mai-juin à août-septembre Les potentilles sont de ravissants petits arbustes touffus et ramifiés, à petites feuilles pennées, souvent argentées, à floraison prolongée.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

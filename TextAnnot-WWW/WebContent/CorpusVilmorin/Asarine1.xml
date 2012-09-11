@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Asarina procumbens</taxon>
+    <parent type = "genre">Asarina</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ASARINA PROCUMBENS, VIVACE</titre>
+                <alinea>
+                    Cette plante tapissante de 15 à 20 cm de hauteur est une cousine des mufliers. Ses pousses rampantes s'allongent jusqu'à 1 m.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    Les feuilles velues sont vert sombre et l'orme de jolis tapis de feuillage. La floraison a lieu de juin à septembre. Les fleurs sont jaune clair et bilabiées (formées de deux lobes).
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sol non calcaire pas trop sec, bien drainé ; à mi-ombre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    semez en mars dans des terrines, sous abri ou effectuez des boutures de tête en été.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     Pour rocailles, murets et jardinières.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Asarina procumbens
+            </titre_photo> 
+            <fichier_photo_plante>
+                p254_Asarina_procumbens.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

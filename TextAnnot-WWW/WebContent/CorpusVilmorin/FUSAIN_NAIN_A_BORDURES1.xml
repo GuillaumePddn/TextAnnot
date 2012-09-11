@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Euonymus japonicus 'Microphyllus'</taxon>
+    <parent type="genre">Euonymus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>FUSAIN NAIN A BORDURES</titre>
+        <alinea> Fusain à très petit feuillage, rappelant le Buis à bordures et utilisé de la même façon. Les fusains rampants sont essentiellement employés comme couvre-sol mais ils ont également leur place en isolé dans la rocaille. Palissés, ils garnissent aisément un petit muret ou un treillage.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+	<photos_plante>
+      <photo_plante>
+        <titre_photo>Fusain__Microphyllus_</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

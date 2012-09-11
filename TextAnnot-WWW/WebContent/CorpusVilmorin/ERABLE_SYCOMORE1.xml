@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Acer pseudoplatanus</taxon>
+    <parent type="genre">Acer</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ERABLE SYCOMORE</titre>
+        <alinea> Hauteur 12 à 15 m. Arbre plus vigoureux que le précédent, à cime ovale arrondie. Son écorce se détache par plaques. Feuilles vert sombre, à 5 lobes arrondis, moins incisés que chez l'érable plane. Arbre d'ombrage, il est aussi utilisé comme arbre d'alignement. Comme l'érable plane, il est peu exigeant sur la nature du sol. Ses variétés sont moins vigoureuses. En voici quelques-unes</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

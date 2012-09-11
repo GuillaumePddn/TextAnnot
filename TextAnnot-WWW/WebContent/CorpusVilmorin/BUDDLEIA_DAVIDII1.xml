@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Buddleja davidii</taxon>
+    <parent type="genre">Buddleja</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BUDDLEIA DAVIDII</titre>
+        <alinea>Fleurit de juillet à septembre Hauteur 3 à 4 m. Arbuste vigoureux à port arrondi, très divergent lorsqu'il n'est pas taillé, à longues feuilles vert foncé. Les petites fleurs, parfumées, sont groupées en longs épis terminaux très denses qui peuvent atteindre 40 à 50 cm.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>Il en existe de nombreuses variétés • 'Black Knight' violet très foncé. • 'Charming' rose. • 'Empire blue' bleu foncé. • 'Nanho Blue' bleu foncé. 1,5 à 2 m. • 'Nanho Purple' pourpre. 1,5 à 2 m. • 'Pink Delight' rose vif. • 'Royal red' rouge cardinal. • 'White Profusion' blanc, etc.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+        <photos_plante>
+      <photo_plante>
+        <titre_photo>Buddleia davidii 'Empire Blue'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Buddleia davidii 'Pink Delight'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+</photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

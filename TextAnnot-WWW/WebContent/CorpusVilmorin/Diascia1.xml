@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Diascia barbarea</taxon> 
+        <parent type = "genre">Diascia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Diascia barbarea</titre>
+                <alinea>
+                Plante souple, retombante, très florifère d'une hauteur de 20 cm. Floraison rose de juin à octobre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                culture simple. Fleur très décorative.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                ensoleillée, supporte la sécheresse.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                semis de février à avril sous abri, puis repiquage et mise en place en juin.
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                pour rocailles, bordures et jardinières.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

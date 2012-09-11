@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Chionanthus virginicus</taxon>
+    <parent type="genre">Chionanthus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CHIONANTHUS CADUC</titre>
+        <alinea>Arbre de neige. Fleurit en mai-juin. Fruits en septembre-octobre. Hauteur 3 à 4 m. Bel arbuste à grandes feuilles ovales vert foncé à port un peu raide, mais couvert en mai-juin de nombreuses fleurs blanches, légèrement parfumées, en grappes pendantes. Leurs pétales sont si fins qu'on dirait des franges, ce qui a valu à cette espèce son autre nom d'arbre à franges. Fruits presque noirs en automne. L'arbre de neige est une plante magnifique qui mérite d'être isolée, mais qui peut aussi rehausser un massif d'arbustes.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Arbre_de_neige</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

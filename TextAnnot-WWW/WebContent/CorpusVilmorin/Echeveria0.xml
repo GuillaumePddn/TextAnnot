@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="genre">Echeveria</taxon>
+        <parent type = "famille">Crassulaceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Echeveria</titre>
+                <alinea>
+
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Echeveria
+            </titre_photo> 
+            <fichier_photo_plante>
+                p288_Echeveria.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

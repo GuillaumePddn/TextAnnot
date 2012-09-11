@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Buis</taxon>
+    <parent type="genre">Buxus sempervirens</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BUIS PERSISTANT</titre>
+        <alinea>Végétation lente. Hauteur 3 à 4 m et plus. Du fait de sa croissance très lente, on le connaît surtout comme un arbuste mais, si on lui en laisse le temps et... l'opportunité, c'est-à-dire s'il n'est pas taillé, il peut devenir un véritable petit arbre. Beau feuillage vert foncé, petites feuilles arrondies un peu en coquille. Il supporte parfaitement la taille.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>Ce buis est sans doute mieux connu encore au travers de ses variétés • 'Elegans' variété à feuillage panaché de blanc crème. • 'Pyramidalis' avec sa végétation compacte, et ses petites feuilles plus étroites, c'est celui que vous admirez dans les parcs et les jardins, taillé en cône, en boule, ou dans les formes les plus fantaisistes formes géométriques, animaux, etc. Sa végétation lente permet aux sujets de conserver la forme qui leur a été imposée. Seul l'if peut concurrencer le buis sur ce point. • 'Rotundifolia' les feuilles sont plus rondes, utilisé pour créer des haies compactes, solides et durables, d'une hauteur moyenne. • 'Suffruticosa' est le célèbre buis à bordures, à petites feuilles, qui constitue le décor de fond des jardins du château de Villandry. Il était en effet, à l'époque des jardins "à la française", très utilisé, non seulement pour créer des motifs décoratifs, mais aussi pour délimiter les carrés du potager ou les massifs de fleurs. Quelle que soit l'espèce ou la variété, le buis est très accommodant, acceptant tous les sols, même calcaires et secs, ne craignant pas la pollution et supportant l'ombre.</alinea>
+      </paragraphe>
+    </contenu>
+    
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Buis 'Elegans'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Buis taillés en différentes formes</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

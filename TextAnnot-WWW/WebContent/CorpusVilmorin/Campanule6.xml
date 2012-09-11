@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Campanula pyramidalis</taxon>
+        <parent type = "genre">Campanula</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CAMPANULE PYRAMIDALE, VIVACE</titre>
+                <alinea>
+                    Espèces à tiges dressées, hautes de 30 à 50 cm. Les fleurs bleu violacé sont agglomérées en sortes de capitules. 
+                    Tiges droites, dressées, pouvant atteindre 2 m. Elles portent, de la base au sommet, de grandes fleurs bleu clair ou blanches, disposées en longs épis.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    excellente plante vivace de grande taille à floraison prolongée de juillet à septembre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    terrains secs, même caillouteux, à exposition chaude.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    - Semez d'avril à juin en pépinière.
+                    - Repiquez en pépinière.
+                    - Mettez en place à l'automne à 50 cm de distance. Les campanules pyramidales peuvent également se cultiver en pots.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     massifs de plantes vivaces. Fleurs coupées.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Campanule pyramidale
+            </titre_photo> 
+            <fichier_photo_plante>
+                p265_Campanule_pyramidale.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

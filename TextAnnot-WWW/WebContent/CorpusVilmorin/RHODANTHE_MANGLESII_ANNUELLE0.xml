@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Helipterum manglesii</taxon>
+    <parent type="famille"> Astéracées </parent>
+    <contenu>
+      <paragraphe>
+        <titre>RHODANTHE MANGLESII ANNUELLE</titre>
+        <alinea>Hauteur de 25 à 30 cm. Plante à rameaux grêles, dressés. Feuilles oblongues, vert-bleu, embrassantes. Fleurs en capitules, penchées, puis dressées au moment de l'épanouissement, à pétales roses ou blancs entourant un disque jaune, de mai jusqu'en août-septembre.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

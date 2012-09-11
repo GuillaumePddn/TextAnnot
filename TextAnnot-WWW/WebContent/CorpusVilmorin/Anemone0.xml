@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Anemone</taxon>
+        <parent type = "famille">Ranunculaceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ANEMONE BULBEUSE (PATTE) OU VIVACE </titre>
+                <alinea>
+                Ce genre comprend diverses espèces qui se différencient par leur mode de végétation, leur port, leur floraison et leur utilisation.
+                </alinea>
+             </paragraphe>               
+        </contenu>
+   
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

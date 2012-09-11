@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Deutzia</taxon>
+    <parent type="famille">Saxifragacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>DEUTZIA CADUC</titre>
+        <alinea>Fleurit en mai-juin. Il est assez difficile de classer botaniquement les espèces de deutzias, abondamment hybri-dées depuis un siècle. Dans un souci de simplification pratique, nous les avons regroupées, ci-après, en fonction de leur vigueur.
+		DEUTZIAS NAINS OU DE VEGETATION MOYENNE, DEUTZIAS DE FORTE VEGETATION</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

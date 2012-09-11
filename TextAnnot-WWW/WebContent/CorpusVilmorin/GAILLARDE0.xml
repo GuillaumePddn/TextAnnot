@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Gaillardia</taxon>
+    <parent type="famille">Astéracées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GAILLARDE</titre>
+        <alinea>La gaillarde est une plante très décorative par ses magnifiques fleurs s'épanouissant sans arrêt de juin aux gelées. Elle comporte des espèces annuelles et des vivaces.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

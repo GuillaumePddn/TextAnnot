@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Allium aflatunense</taxon>
+    <parent type = "genre">Allium</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ALLIUM AFLATUNENSE </titre>
+                <alinea>
+                    C'est l'une des meilleures espèces, en particulier pour la fleur coupée. Les fleurs sont regroupées en ombelles très compactes. Le feuillage est en forme de ruban bleuté. Les fleurs sont violet pourpré et apparaissent en mai-juin au sommet des tiges florales de 1 m de hauteur. 
+                    Plantez au minimum trois à cinq bulbes pour garantir leur effet. 
+                </alinea>
+            </paragraphe>
+        </contenu>
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Allium aflatunense
+            </titre_photo> 
+            <fichier_photo_plante>
+                p246_Allium_aflatunense.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

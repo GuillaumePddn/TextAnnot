@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Eranthis hyemalis</taxon> 
+        <parent type = "genre">Eranthis</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Eranthis hyemalis Vivace</titre>
+                <alinea>
+                Helleborine ou Hellébore jaune
+                Plante à rhizome en forme de grains bruns, de forme irrégulière et dont le diamètre n'excède pas 2 cm. La plante n'a qu'une dizaine de centimètres de hauteur. Les fleurs sont d'un très beau jaune d'or.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 floraison abondante et très précoce en plein hiver (février).
+                 Intérêt du coloris jaune d'or.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                tous sols, à exposition mi-ombragée en été. Redoute les transplantations continuelles. C'est une plante à laisser en place plusieurs années consécutives.     
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                 plantez les rhizomes à l'automne à deux ou trois centimètres de profondeur et recouvrez-les de terre fine. Il arrive que les rhizomes soient desséchés au moment de la plantation. Pour en assurer la bonne reprise, faites-les tremper 24 heures dans l'eau pour les faire gonfler.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                taches fleuries dans les rocailles et massifs d'arbustes en sous-bois.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Helléborine
+            </titre_photo> 
+            <fichier_photo_plante>
+                p289_Helleborine.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

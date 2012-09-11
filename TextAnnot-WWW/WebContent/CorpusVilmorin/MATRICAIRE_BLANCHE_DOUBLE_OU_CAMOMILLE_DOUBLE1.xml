@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Pyrethrum parthenium ou Tanacetum parthenium</taxon>
+    <parent type="genre">Pyrethrum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MATRICAIRE BLANCHE DOUBLE OU CAMOMILLE DOUBLE</titre>
+        <alinea> Plante haute de 40 cm, se couvrant de juin à octobre de petites marguerites à disque jaune semblables à celles de la camomille officinale.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>durée et abondance de la floraison.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>toutes terres, à bonne exposition.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>garniture estivale du jardin. Plates bandes, potées, jardinières.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

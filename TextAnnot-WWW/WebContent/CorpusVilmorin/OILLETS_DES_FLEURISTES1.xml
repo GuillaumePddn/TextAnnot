@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Dianthus caryophyllus </taxon>
+    <parent type="genre">Dianthus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ŒILLETS DES FLEURISTES</titre>
+        <alinea>Plantes de 50 à 70 cm, à souche ligneuse, ramifiée dès la base. Feuillage vert-bleu, gris argenté. Fleurs généralement doubles, odorantes, de tous coloris sauf le bleu.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>fleurs à couper de longue durée. Parfum délicat.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, même calcaires, à exposition ensoleillée. Les œillets redoutent les sols trop acides.</alinea>
+      </paragraphe>
+	  <paragraphe>
+        <titre>Culture</titre>
+        <alinea>trois modes de multiplication sont possibles 
+1) Semis - semez d'avril à mai en pépinière bien exposée. Ne recouvrez pas les graines car la levée demande de la lumière. -
+Repiquez en pépinière, à 10 cm de distance
+et mettez en place en octobre de préférence (ou en mars), à 30 cm
+d'écartement.
+La floraison a lieu de fin mai aux gelées selon les variétés.
+ 2) Bouturage - c'est le seul moyen de multiplication pour certaines races.
+- En septembre, bouturez les jeunes pousses qui se développent le long de la tige, sous châssis ou sous cloche, en terre sableuse.
+Arrosez légèrement,les boutures d'œillet étant très sensibles à
+l'excès d'humidité qui provoque la pourriture.
+Aérez très peu, ombrez par journées
+chaudes. L'enracinement se fait en quatre ou cinq semaines.
+- Rempotez en terre légère, placez les pots sous châssis froid, abritez l'hiver de paillassons pour mettre en place en avril.
+Préférez les terres calcaires pour le développement des boutures.
+3) Marcottage - moins difficile à réussir que le bouturage, il peut être effectué par couchage, en juillet-août, lorsque les
+rameaux sont assez "aoûtés".</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

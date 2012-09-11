@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Hypericum androsaemum</taxon>
+    <parent type="genre">Hypericum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MILLEPERTUIS ALBURY PURPLE</titre>
+        <alinea>Hypericum androsaemum 'Albury Purple' Hauteur 0,80 m. Feuillage semi-persistan pourpre puis vert pourpré. Floraison jaune de juin à septembre, suivie de fruits rouges puis noirs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

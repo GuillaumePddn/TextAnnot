@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Perovskia atriplicifolia</taxon>
+    <parent type="genre">Perovskia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PEROVSKIA A FEUILLES D'ARROCHE</titre>
+        <alinea>Perovskia atriplicifolia Hauteur 1 m à 1,50 m. Arbuste d'aspect vert bleuté composé de branches grêles, dressées, peu ramifiées, à feuilles ovales, irrégulièrement dentées. Celles-ci ont une odeur de sauge lorsqu'on les froisse. En fin d'été, les branches se tenninent par de grandes panicules légères de petites fleurs bleu lilacé clair. Plante à associer à d'autres arbustes de coloris similaires lavande, caryopteris, ou à feuillage argenté olivier de bohème, etc. et parmi lesquels un althaea rose ou un groupe de rosiers polyanthas roses apportera une tonalité plus douce. Le perovskia aime les sols bien drainés, supporte la sécheresse et préfère surtout les expositions ensoleillées. Taillez au ras du sol chaque année et pincez ensuite à 10 ou 15 cm pour provoquer l'émission de nouvelles branches. 'Blue Spire' fleurs bleu violacé.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Perovskia à feuilles d'arroche</titre_photo>
+        <fichier_photo_plante>p467_Perovskia_a_feuilles_d_arroche.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

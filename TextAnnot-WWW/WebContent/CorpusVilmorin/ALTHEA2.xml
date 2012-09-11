@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">ALTHEA A FLEURS DOUBLES</taxon>
+    <parent type="genre">Hibiscus syriacus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ALTHEA A FLEURS DOUBLES</titre>
+        <alinea>Leur épanouissement peut être compromis par un temps trop humide. • 'Jeanne d'Arc' blanc pur. • 'Leopoldii' rose pâle et rouge. • 'Duc de Brabant' rouge foncé. • White Chiffon® 'Notwoodtwo'. • Lavender Chiffon® 'Notwoodone'.</alinea>
+      </paragraphe>
+    </contenu>
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Althéa Lavender Chiffon'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

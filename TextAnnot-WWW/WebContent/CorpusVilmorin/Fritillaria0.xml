@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Fritillaria</taxon>
+        <parent type = "famille">Liliaceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Fritillaire Bulbeuse</titre>
+                <alinea>
+                    Le genre fritillaire comprend un grand nombre d'espèces vivaces à floraison printanière. Beaucoup sont des plantes de collection mais certaines sont cultivées dans nos jardins.
+                </alinea>
+            </paragraphe>
+        </contenu>
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

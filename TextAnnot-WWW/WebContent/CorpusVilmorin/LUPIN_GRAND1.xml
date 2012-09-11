@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lupinus hirsutus</taxon>
+    <parent type="genre">Lupinus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LUPIN GRAND</titre>
+        <alinea> Hauteur de 50 cm, plante velue, peu ramifiée. Variétés blanches, roses et bleues.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>fleurs regroupées en longs épis aux jolis coloris pastel.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>bonne terre franche siliceuse. Toutes expositions. Redoute le calcaire.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>facile. Semez en place de fin avril (floraison en juin) à début juin (floraison septembre-octobre). Eclaircissez à 25/30 cm et arrosez peu, sauf par temps très sec. Il faut noter que les lupins supportent très mal la transplantation. Ils doivent par conséquent toujours être semés en place.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>massifs, plates bandes.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

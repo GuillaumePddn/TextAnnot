@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Anemone tomentosa</taxon>
+    <parent type = "genre">Anemone</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ANEMONE TOMENTOSA</titre>
+                <alinea>
+                    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / Exposition</titre>
+                <alinea>
+                    riche et plutôt frais, à exposition ensoleillée ou mi-ombragée. Paillez-les dans les régions à hiver rigoureux. En terres meubles et profondes, elles sont plus rustiques.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Utilisation</titre>
+                <alinea>
+                    en massifs. Fleurs coupées.
+                </alinea>
+            </paragraphe>
+         </contenu>
+
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

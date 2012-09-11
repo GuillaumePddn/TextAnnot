@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Arabis caucasica</taxon>
+    <parent type = "genre">Arabis</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CORBEILLE D'ARGENT</titre>
+                <alinea>
+                    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    La croissance en forme de coussin de 20 cm de hauteur sur 50 cm de large est rapide. Le feuillage est légèrement denté. Les fleurs blanches disposées en grappes sont nombreuses au printemps. Un léger rabattage, en fin de floraison, favorise une végétation bien compacte.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Corbeille d'argent
+            </titre_photo> 
+            <fichier_photo_plante>
+                p252_Corbeille_d_argent.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

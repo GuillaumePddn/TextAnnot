@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Anemone coronaria 'simple de Caen'</taxon>    
+    <parent type = "espece">Anemone coronaria</parent>
+        <contenu>
+            <paragraphe>
+                <titre></titre>
+                <alinea>
+                     Plante vigoureuse portant sur de gros et longs pédoncules des fleurs simples, grandes, aux coloris brillants. Se cultive en mélange ou en coloris séparés. Des hybrides Fl, récemment créés, produisent des fleurs qui peuvent atteindre 10 cm de diamètre.
+                </alinea>
+            </paragraphe>
+         </contenu>
+   
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

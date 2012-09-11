@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Populus</taxon>
+    <parent type="famille">Salicacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PEUPLIER CADUC</titre>
+        <alinea>•Croissance rapide •Sols légers</alinea>
+      </paragraphe>
+    </contenu>
+	<maladies>
+      <maladie>
+        <nom_maladie> Cloque dorée</nom_maladie>
+        <enonce>Organe attaqué : feuilles.
+Symptômes : des excroissances jaune d'or
+en dessous et duveteuses au dessus se forment
+sur les feuilles.
+Conseil : affection spectaculaire mais sans
+risque pour l'arbre
+</enonce>
+        <fichier_photo_maladie>??</fichier_photo_maladie>
+      </maladie>
+    </maladies>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

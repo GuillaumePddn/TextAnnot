@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Reseda odorata</taxon>
+<parent type="famille">Résédacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>RESEDA ODORANT ANNUELLE</titre>
+              <alinea>Cultivé comme plante annuelle, le réséda odorant présente une tige ramifiée de 25 à 40 cm de haut, à rameaux étalés, puis dressés, terminés de juin à octobre par des grappes coniques de fleurs petites, jaune verdâtre, très odorantes.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>parfum subtil et délicat.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, même calcaires, à exposition ensoleillée. Supporte le climat maritime.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Semez en mars-avril, sous abri, en pépinière et mettez en place en mai, à 30 cm d'écartement. Floraison de juin à octobre. 2) Semez d'avril à juin en place. Éclaircissez à 30 cm de distance. Floraison de fin juin à octobre selon la date du semis. Dans les deux cas, vous pouvez aussi semer en pots et laisser les plantes y fleurir.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>c'est lorsque vous le cultivez en pots ou que vous l'utilisez en fleurs coupées que vous appréciez le mieux le délicat parfum qui constitue le mérite essentiel de cette plante.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Réséda odorant</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

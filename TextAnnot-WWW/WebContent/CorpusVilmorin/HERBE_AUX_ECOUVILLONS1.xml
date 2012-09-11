@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Pennisetum</taxon>
+    <parent type="genre">GRAMINEES ORNEMENTALES</parent>
+    <contenu>
+      <paragraphe>
+        <titre>HERBE AUX ECOUVILLONS</titre>
+        <alinea> Hauteur  90 cm. Vivace mais cultivé comme annuel ; gros épi cylindrique, allongé, auquel ses longues soies très fines donnent un aspect plumeux et vaporeux. Celles-ci, sont blanchâtres à la base et se teintent de rosé à leur extrémité.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Herbe aux écouvillons</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

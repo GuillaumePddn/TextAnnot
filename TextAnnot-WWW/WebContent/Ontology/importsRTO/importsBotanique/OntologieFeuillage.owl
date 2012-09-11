@@ -1,0 +1,990 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.owl-ontologies.com/OntologieFeuillage.owl#"
+     xml:base="http://www.owl-ontologies.com/OntologieFeuillage.owl"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+     xmlns:xsp="http://www.owl-ontologies.com/2005/08/07/xsp.owl#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://www.owl-ontologies.com/OntologieFeuillage.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#aPourAspectFeuille -->
+
+    <owl:ObjectProperty rdf:about="#aPourAspectFeuille">
+        <rdfs:range rdf:resource="#AspectFeuille"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#aPourDimensionFeuille -->
+
+    <owl:ObjectProperty rdf:about="#aPourDimensionFeuille">
+        <rdfs:range rdf:resource="#DimensionFeuille"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#aPourDispositionFeuille -->
+
+    <owl:ObjectProperty rdf:about="#aPourDispositionFeuille">
+        <rdfs:range rdf:resource="#DispositionFeuille"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#aPourFormeFeuille -->
+
+    <owl:ObjectProperty rdf:about="#aPourFormeFeuille">
+        <rdfs:range rdf:resource="#FormeFeuille"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#aPourPersistanceFeuille -->
+
+    <owl:ObjectProperty rdf:about="#aPourPersistanceFeuille">
+        <rdfs:range rdf:resource="#PersistanceFeuille"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#aPourStructureFeuille -->
+
+    <owl:ObjectProperty rdf:about="#aPourStructureFeuille">
+        <rdfs:range rdf:resource="#StructureFeuille"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#AspectCharnu -->
+
+    <owl:Class rdf:about="#AspectCharnu">
+        <rdfs:label xml:lang="fr">aspect charnu</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille charnue</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#AspectFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#AspectCireux -->
+
+    <owl:Class rdf:about="#AspectCireux">
+        <rdfs:label xml:lang="fr">aspect cireux</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille cireuse</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#AspectFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">aspect des feuilles des plantes grasses</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#AspectCoriace -->
+
+    <owl:Class rdf:about="#AspectCoriace">
+        <rdfs:label xml:lang="fr">aspect coriace</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille coriace</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#AspectFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#AspectFeuille -->
+
+    <owl:Class rdf:about="#AspectFeuille">
+        <rdfs:label xml:lang="fr">aspect</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#CaracteristiqueFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#AspectRigide -->
+
+    <owl:Class rdf:about="#AspectRigide">
+        <rdfs:label xml:lang="fr">aspect rigide</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille rigide</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#AspectFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#AspectRugueux -->
+
+    <owl:Class rdf:about="#AspectRugueux">
+        <rdfs:label xml:lang="fr">aspect rugueux</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille rugueuse</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#AspectFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#AspectVelu -->
+
+    <owl:Class rdf:about="#AspectVelu">
+        <rdfs:label xml:lang="fr">aspect poilu</rdfs:label>
+        <rdfs:label xml:lang="fr">aspect pubescent</rdfs:label>
+        <rdfs:label xml:lang="fr">aspect velu</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille poilue</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille pubescente</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille velue</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#AspectFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#CaracteristiqueFeuille -->
+
+    <owl:Class rdf:about="#CaracteristiqueFeuille">
+        <rdfs:label xml:lang="fr">caractéristique de la feuille</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#CompositionBasePennee -->
+
+    <owl:Class rdf:about="#CompositionBasePennee">
+        <rdfs:label xml:lang="fr">composition à base pennée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#StructureFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pourvu ou constituée de foliole</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#CompositionBipennee -->
+
+    <owl:Class rdf:about="#CompositionBipennee">
+        <rdfs:label xml:lang="fr">composition bipennée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#CompositionBasePennee"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qualifie une feuille dont le limbe des pennes primaires est lui même penné</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#CompositionImpairpennee -->
+
+    <owl:Class rdf:about="#CompositionImpairpennee">
+        <rdfs:label xml:lang="fr">composition impairpennée</rdfs:label>
+        <rdfs:label xml:lang="fr">composition imparipennée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#CompositionBasePennee"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">si le nombre de folioles est impair</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#CompositionPairpennee -->
+
+    <owl:Class rdf:about="#CompositionPairpennee">
+        <rdfs:label xml:lang="fr">composition pairpennée</rdfs:label>
+        <rdfs:label xml:lang="fr">composition paripennée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#CompositionBasePennee"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">si le nombre de folioles est pair</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#CompositionPennee -->
+
+    <owl:Class rdf:about="#CompositionPennee">
+        <rdfs:label xml:lang="fr">composition pennée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#CompositionBasePennee"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">les folioles sont disposées comme les barbes d&#39;une plume</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#CompositionTripennee -->
+
+    <owl:Class rdf:about="#CompositionTripennee">
+        <rdfs:label xml:lang="fr">composition tripennée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#CompositionBasePennee"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Se dit des feuilles dont le pétiole commun porte latéralement des pétioles secondaires, qui, à leur tour, en produisent d&#39;autres sur les côtés desquels les folioles sont implantées</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#DimensionCourte -->
+
+    <owl:Class rdf:about="#DimensionCourte">
+        <rdfs:label xml:lang="fr">dimension courte</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille courte</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#DimensionFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#DimensionEpaisse -->
+
+    <owl:Class rdf:about="#DimensionEpaisse">
+        <rdfs:label xml:lang="fr">dimension épaisse</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille épaisse</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#DimensionFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#DimensionEtroite -->
+
+    <owl:Class rdf:about="#DimensionEtroite">
+        <rdfs:label xml:lang="fr">dimension étroite</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille étroite</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#DimensionFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#DimensionFeuille -->
+
+    <owl:Class rdf:about="#DimensionFeuille">
+        <rdfs:label xml:lang="fr">dimension</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#CaracteristiqueFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#DimensionGrande -->
+
+    <owl:Class rdf:about="#DimensionGrande">
+        <rdfs:label xml:lang="fr">dimension grande</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille grande</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#DimensionFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#DimensionLongue -->
+
+    <owl:Class rdf:about="#DimensionLongue">
+        <rdfs:label xml:lang="fr">dimension longue</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille longue</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#DimensionFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#DimensionPetite -->
+
+    <owl:Class rdf:about="#DimensionPetite">
+        <rdfs:label xml:lang="fr">dimension petite</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille petite</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#DimensionFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#DimensionPlate -->
+
+    <owl:Class rdf:about="#DimensionPlate">
+        <rdfs:label xml:lang="fr">dimension plate</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille plate</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#DimensionFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#DispositionAlterne -->
+
+    <owl:Class rdf:about="#DispositionAlterne">
+        <rdfs:label xml:lang="fr">disposition alterne</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#DispositionFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#DispositionBasale -->
+
+    <owl:Class rdf:about="#DispositionBasale">
+        <rdfs:label xml:lang="fr">disposition basale</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#DispositionFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#DispositionEnRosette -->
+
+    <owl:Class rdf:about="#DispositionEnRosette">
+        <rdfs:label xml:lang="fr">disposition en rosette</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#DispositionFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feuilles étalées en cercle au niveau du collet</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#DispositionFeuille -->
+
+    <owl:Class rdf:about="#DispositionFeuille">
+        <rdfs:label xml:lang="fr">disposition feuille</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#CaracteristiqueFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#DispositionOpposee -->
+
+    <owl:Class rdf:about="#DispositionOpposee">
+        <rdfs:label xml:lang="fr">Disposition opposée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#DispositionFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#DispositionSimple -->
+
+    <owl:Class rdf:about="#DispositionSimple">
+        <rdfs:label xml:lang="fr">disposition simple</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#DispositionFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#DispositionVerticille -->
+
+    <owl:Class rdf:about="#DispositionVerticille">
+        <rdfs:label xml:lang="fr">disposition verticillée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#DispositionFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">feuille insérée au même niveau par groupe, en cercle autour d&#39;un axe</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeAciculaire -->
+
+    <owl:Class rdf:about="#FormeAciculaire">
+        <rdfs:label xml:lang="fr">feuille aciculaire</rdfs:label>
+        <rdfs:label xml:lang="fr">forme aciculaire</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En forme d&#39;aiguille, mince et pointue</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeAcuminee -->
+
+    <owl:Class rdf:about="#FormeAcuminee">
+        <rdfs:label xml:lang="fr">feuille acuminée</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille pointue</rdfs:label>
+        <rdfs:label xml:lang="fr">forme acuminée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme pointue</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terminaison en fine pointe</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeAllongee -->
+
+    <owl:Class rdf:about="#FormeAllongee">
+        <rdfs:label xml:lang="fr">feuille allongée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme allongée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeBilobee -->
+
+    <owl:Class rdf:about="#FormeBilobee">
+        <rdfs:label xml:lang="fr">feuille bilobée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme bilobée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeLobee"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">feuille divisée en 2 lobes</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeCordee -->
+
+    <owl:Class rdf:about="#FormeCordee">
+        <rdfs:label xml:lang="fr">feuille cordée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme cordée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeCordiforme"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En forme de cœur, avec la pointe côté apex</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeCordiforme -->
+
+    <owl:Class rdf:about="#FormeCordiforme">
+        <rdfs:label xml:lang="fr">feuille cordiforme</rdfs:label>
+        <rdfs:label xml:lang="fr">forme cordiforme</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en forme de coeur</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeCuneee -->
+
+    <owl:Class rdf:about="#FormeCuneee">
+        <rdfs:label xml:lang="fr">feuille cunéée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme cunéée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Base du limbe en forme de coin</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeDeltoide -->
+
+    <owl:Class rdf:about="#FormeDeltoide">
+        <rdfs:label xml:lang="fr">feuille deltoïde</rdfs:label>
+        <rdfs:label xml:lang="fr">forme deltoïde</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triangulaire, le pétiole étant attaché à un côté</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeDentelee -->
+
+    <owl:Class rdf:about="#FormeDentelee">
+        <rdfs:label xml:lang="fr">feuille dentelée</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille dentée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme dentelée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme dentée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeElliptique -->
+
+    <owl:Class rdf:about="#FormeElliptique">
+        <rdfs:label xml:lang="fr">feuille elliptique</rdfs:label>
+        <rdfs:label xml:lang="fr">forme elliptique</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">De forme ovale, et de largeur quasiment égale côté apex et côté pétiole</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeEnCime -->
+
+    <owl:Class rdf:about="#FormeEnCime">
+        <rdfs:label xml:lang="fr">feuille en cime</rdfs:label>
+        <rdfs:label xml:lang="fr">forme en cime</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeEngainante -->
+
+    <owl:Class rdf:about="#FormeEngainante">
+        <rdfs:label xml:lang="fr">feuille engainante</rdfs:label>
+        <rdfs:label xml:lang="fr">forme engainante</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeEnsiforme -->
+
+    <owl:Class rdf:about="#FormeEnsiforme">
+        <rdfs:label xml:lang="fr">feuille ensiforme</rdfs:label>
+        <rdfs:label xml:lang="fr">forme ensiforme</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Longue et pointue, en forme d&#39;épée</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeFalquee -->
+
+    <owl:Class rdf:about="#FormeFalquee">
+        <rdfs:label xml:lang="fr">feuille falciforme</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille falquée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme falciforme</rdfs:label>
+        <rdfs:label xml:lang="fr">forme falquée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En forme de faux</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeFeuille -->
+
+    <owl:Class rdf:about="#FormeFeuille">
+        <rdfs:label xml:lang="fr">forme de feuille</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#CaracteristiqueFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeFlabellee -->
+
+    <owl:Class rdf:about="#FormeFlabellee">
+        <rdfs:label xml:lang="fr">feuille en éventail</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille flabellée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme en éventail</rdfs:label>
+        <rdfs:label xml:lang="fr">forme flabellée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Semi-circulaire, en forme d&#39;éventail</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeGaufree -->
+
+    <owl:Class rdf:about="#FormeGaufree">
+        <rdfs:label xml:lang="fr">feuille gaufrée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme gaufrée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeLanceolee -->
+
+    <owl:Class rdf:about="#FormeLanceolee">
+        <rdfs:label xml:lang="fr">feuille lancéolée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme lancéolée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En forme de fer de lance et plus large côté pétiole que côté apex</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeLineaire -->
+
+    <owl:Class rdf:about="#FormeLineaire">
+        <rdfs:label xml:lang="fr">feuille linéaire</rdfs:label>
+        <rdfs:label xml:lang="fr">forme linéaire</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment xml:lang="fr">Longue et très étroite</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeLobee -->
+
+    <owl:Class rdf:about="#FormeLobee">
+        <rdfs:label xml:lang="fr">feuille lobée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme lobée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment xml:lang="fr">forme arrondie d&#39;une partie de la feuille</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeMultifide -->
+
+    <owl:Class rdf:about="#FormeMultifide">
+        <rdfs:label xml:lang="fr">feuille en lanières</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille multifide</rdfs:label>
+        <rdfs:label xml:lang="fr">forme en lanières</rdfs:label>
+        <rdfs:label xml:lang="fr">forme multifide</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Divisée en lanières</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeObcordee -->
+
+    <owl:Class rdf:about="#FormeObcordee">
+        <rdfs:label xml:lang="fr">feuille obcordée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme obcordée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeCordiforme"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En forme de cœur, avec la pointe côté pétiole</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeOblanceolee -->
+
+    <owl:Class rdf:about="#FormeOblanceolee">
+        <rdfs:label xml:lang="fr">feuille oblancéolée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme oblancéolée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En forme de fer de lance et plus large côté apex que côté pétiole</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeOblongue -->
+
+    <owl:Class rdf:about="#FormeOblongue">
+        <rdfs:label xml:lang="fr">feuille oblongue</rdfs:label>
+        <rdfs:label xml:lang="fr">forme oblongue</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment xml:lang="fr">Forme allongée, aux bords sensiblement parallèles et aux coins arrondis</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeObovale -->
+
+    <owl:Class rdf:about="#FormeObovale">
+        <rdfs:label xml:lang="fr">feuille obovale</rdfs:label>
+        <rdfs:label xml:lang="fr">forme obovale</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">De forme ovale comme un œuf, avec partie étroite côté pétiole</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeObtuse -->
+
+    <owl:Class rdf:about="#FormeObtuse">
+        <rdfs:label xml:lang="fr">feuille obtuse</rdfs:label>
+        <rdfs:label xml:lang="fr">forme obtuse</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment xml:lang="fr">Apex du limbe arrondi</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeOndulee -->
+
+    <owl:Class rdf:about="#FormeOndulee">
+        <rdfs:label xml:lang="fr">feuille ondulée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme ondulée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeOrbiculaire -->
+
+    <owl:Class rdf:about="#FormeOrbiculaire">
+        <rdfs:label xml:lang="fr">feuille arrondie</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille orbiculaire</rdfs:label>
+        <rdfs:label xml:lang="fr">forme arrondie</rdfs:label>
+        <rdfs:label xml:lang="fr">forme orbiculaire</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">De forme arrondie</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeOvale -->
+
+    <owl:Class rdf:about="#FormeOvale">
+        <rdfs:label xml:lang="fr">feuille ovale</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille ovoïde</rdfs:label>
+        <rdfs:label xml:lang="fr">forme ovale</rdfs:label>
+        <rdfs:label xml:lang="fr">forme ovoïde</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">De forme ovale comme un œuf, avec partie étroite côté apex</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormePalmee -->
+
+    <owl:Class rdf:about="#FormePalmee">
+        <rdfs:label xml:lang="fr">feuille digitée</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille palmée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme digitée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme palmée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Divisée en lobes disposés comme les doigts de la main</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormePeltee -->
+
+    <owl:Class rdf:about="#FormePeltee">
+        <rdfs:label xml:lang="fr">feuille peltée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme peltée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">De forme arrondie, avec le pétiole attaché au milieu du limbe, le limbe entourant le pétiole</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormePennatifide -->
+
+    <owl:Class rdf:about="#FormePennatifide">
+        <rdfs:label xml:lang="fr">feuille pennatifide</rdfs:label>
+        <rdfs:label xml:lang="fr">forme pennatifide</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Profondément divisée en lobes, mais les divisions ne vont pas jusqu&#39;à la nervure médiane</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormePerfoliee -->
+
+    <owl:Class rdf:about="#FormePerfoliee">
+        <rdfs:label xml:lang="fr">feuille perfoliée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme perfoliée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Limbe semblant transpercé par la tige</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormePlumeuse -->
+
+    <owl:Class rdf:about="#FormePlumeuse">
+        <rdfs:label xml:lang="fr">feuille plumeuse</rdfs:label>
+        <rdfs:label xml:lang="fr">forme plumeuse</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeReniforme -->
+
+    <owl:Class rdf:about="#FormeReniforme">
+        <rdfs:label xml:lang="fr">feuille réniforme</rdfs:label>
+        <rdfs:label xml:lang="fr">forme réniforme</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment xml:lang="fr">Arrondie et en forme de rein</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeRhomboidale -->
+
+    <owl:Class rdf:about="#FormeRhomboidale">
+        <rdfs:label xml:lang="fr">feuille rhomboïdale</rdfs:label>
+        <rdfs:label xml:lang="fr">forme rhomboïdale</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En forme de losange</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeRubannée -->
+
+    <owl:Class rdf:about="#FormeRubannée">
+        <rdfs:label xml:lang="fr">feuille rubannée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme rubannée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeSagittee -->
+
+    <owl:Class rdf:about="#FormeSagittee">
+        <rdfs:label xml:lang="fr">feuille hastée</rdfs:label>
+        <rdfs:label xml:lang="fr">feuille sagittée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme hastée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme sagittée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En forme de fer de lance</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeSpatulee -->
+
+    <owl:Class rdf:about="#FormeSpatulee">
+        <rdfs:label xml:lang="fr">feuille spatulée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme spatulée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En forme de spatule, le limbe se transformant progressivement en pétiole</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeSquamiforme -->
+
+    <owl:Class rdf:about="#FormeSquamiforme">
+        <rdfs:label xml:lang="fr">feuille squamiforme</rdfs:label>
+        <rdfs:label xml:lang="fr">forme squamiforme</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en forme d&#39;écaille</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeSubulee -->
+
+    <owl:Class rdf:about="#FormeSubulee">
+        <rdfs:label xml:lang="fr">feuille subulée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme subulée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En forme d&#39;alêne</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeTrilobee -->
+
+    <owl:Class rdf:about="#FormeTrilobee">
+        <rdfs:label xml:lang="fr">feuille trilobée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme trilobée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeLobee"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">feuille divisée en 3 lobes</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#FormeTronquee -->
+
+    <owl:Class rdf:about="#FormeTronquee">
+        <rdfs:label xml:lang="fr">feuille tronquée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme tronquée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:comment xml:lang="fr">Apex du limbe semblant coupé</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#Pedalee -->
+
+    <owl:Class rdf:about="#Pedalee">
+        <rdfs:label xml:lang="fr">pédalée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormePalmee"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Palmée, avec les lobes latéraux unis à la base</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#PersistanceCaduque -->
+
+    <owl:Class rdf:about="#PersistanceCaduque">
+        <rdfs:label xml:lang="fr">feuille caduque</rdfs:label>
+        <rdfs:label xml:lang="fr">persistance caduque</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#PersistanceFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#PersistanceFeuille -->
+
+    <owl:Class rdf:about="#PersistanceFeuille">
+        <rdfs:label xml:lang="fr">persistance</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#CaracteristiqueFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#PersistancePersistante -->
+
+    <owl:Class rdf:about="#PersistancePersistante">
+        <rdfs:label xml:lang="fr">feuille persistante</rdfs:label>
+        <rdfs:label xml:lang="fr">persistance</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#PersistanceFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#PersistanceSemiPersistante -->
+
+    <owl:Class rdf:about="#PersistanceSemiPersistante">
+        <rdfs:label xml:lang="fr">feuille semi-persistante</rdfs:label>
+        <rdfs:label xml:lang="fr">persistance semi-persistante</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#PersistanceFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#StructureAristee -->
+
+    <owl:Class rdf:about="#StructureAristee">
+        <rdfs:label xml:lang="fr">structure aristée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#StructureFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pourvue d&#39;une arête</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#StructureFeuille -->
+
+    <owl:Class rdf:about="#StructureFeuille">
+        <rdfs:label xml:lang="fr">structure</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#CaracteristiqueFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#StructureNervuree -->
+
+    <owl:Class rdf:about="#StructureNervuree">
+        <rdfs:label xml:lang="fr">structure nervurée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#StructureFeuille"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#StructureSessile -->
+
+    <owl:Class rdf:about="#StructureSessile">
+        <rdfs:label xml:lang="fr">séssile</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#StructureFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">feuille dépourvue de pétiole</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#StructureTrifoliee -->
+
+    <owl:Class rdf:about="#StructureTrifoliee">
+        <rdfs:label xml:lang="fr">feuille trifoliée</rdfs:label>
+        <rdfs:label xml:lang="fr">forme trifoliée</rdfs:label>
+        <rdfs:label xml:lang="fr">structure trifoliée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#FormeFeuille"/>
+        <rdfs:subClassOf rdf:resource="#StructureFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Divisée en trois folioles</rdfs:comment>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en forme de trèfle</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.owl-ontologies.com/OntologieFeuillage.owl#StructureUnifoliee -->
+
+    <owl:Class rdf:about="#StructureUnifoliee">
+        <rdfs:label xml:lang="fr">structure unifoliée</rdfs:label>
+        <rdfs:subClassOf rdf:resource="#StructureFeuille"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">une seule foliole par feuille</rdfs:comment>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.2.3.1824) http://owlapi.sourceforge.net -->
+

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Canna, VIVACE</taxon>
+    <parent type = "famille"> Cannaceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CANNA OU BALISIER, VIVACE A RHIZOME </titre>
+                <alinea>
+                    Les cannas cultivés actuellement sont issus d'hybridations de plusieurs espèces. La souche est un rhizome souterrain. Les feuilles larges, très grandes, ovales, aiguës, engainantes, vertes ou pourpres, bronzées, ou même striées, enveloppent une tige haute de 60 cm à 1,50 m. Les fleurs apparaissent au sommet, de juillet à octobre, en magnifiques panaches.
+                    Les coloris, très vifs et très variés, s'étendent du blanc crème au rose et au rouge. 11 en existe un choix considérable.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    leur feuillage vert, pourpre ou strié, est un élément de décoration essentiel qu'accentuent une croissance rapide et une floraison renouvelée. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols riches, fumés abondamment, humifères, perméables, à exposition chaude et ensoleillée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    - Les rhizomes que vous vous procurerez dans le commerce ou provenant de votre culture précédente doivent être mis "en végétation" de février à avril, sous abri (15 à 20°C), en pots ou dans une caissette que vous placerez à l'intérieur. Enterrez légèrement les rhizomes dans du terreau ou de la tourbe humide. Quelques bassinages favoriseront la sortie des tiges. La mise en place a lieu en mai lorsque les gelées ne sont plus à craindre, à 50 ou 60 cm d'écartement, en prenant soin de conserver la motte de terre autour des racines. Quand les plantes sont reprises et que de nouvelles feuilles apparaissent, leur appliquer un bon paillis.
+                    - Pendant leur végétation, les cannas réclament de copieux arrosages journaliers au pied. Quelques arrosages à l'engrais liquide leur seront très favorables.
+                    - Vers la fin de l'automne, lorsque les gelées sont à redouter, il faut rabattre les plantes à 10 cm du pied, les arracher et les rentrer avec toute leur motte ressuyée. Les placer en serre, sous les tablettes, ou dans tout local sain, clair et à température constante (8 à 10°C).
+                    - Avant la mise en culture suivante, les rhizomes pourront être divisés à condition de laisser au moins deux yeux sur chacun des fragments.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     du fait de leur ampleur, les cannas sont surtout utilisés pour donner du relief aux plates-bandes fleuries. On peut également en faire des groupes pittoresques en les isolant sur fond de pelouse. Leur allure évoquant la végétation tropicale, ils peuvent être harmonieusement associés à des plantes de même caractère : bananiers, bambous, etc. 
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Canna à feuillage pourpre
+            </titre_photo> 
+            <fichier_photo_plante>
+                p265_Canna_a_feuillage_pourpre.jpg
+            </fichier_photo_plante>
+       </photo_plante>
+       <photo_plante>
+             <titre_photo>
+                Canna à feuillage strié
+             </titre_photo> 
+            <fichier_photo_plante>
+                p266_Canna_a_feuillage_strie.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+        <photo_plante>
+            <titre_photo>
+                Canna nain
+            </titre_photo> 
+            <fichier_photo_plante>
+                p266_Canna_nain.jpg
+            </fichier_photo_plante>
+       </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

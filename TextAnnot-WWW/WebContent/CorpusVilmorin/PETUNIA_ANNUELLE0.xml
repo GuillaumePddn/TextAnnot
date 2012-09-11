@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Pétunia</taxon>
+    <parent type="famille">Solanacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PETUNIA ANNUELLE</titre>
+        <alinea>On comprend sous ce nom toute une série de races et de variétés très diverses issues de croisements et de sélections judicieuses. Ce sont des plantes vivaces, cultivées comme annuelles, de 25 à 60 cm de hauteur, herbacées, ramifiées, souvent visqueuses, offrant de mai à octobre des fleurs en entonnoir, simples ou doubles, purpurines, rouges, roses, violettes ou blanches, unicolores ou panachées. Cette espèce est l'une de celles qui a été la plus exploitée par les sélectionneurs pour l'obtention d'hybrides Fl. Le nombre des variétés de pétunias est maintenant considérable et s'accroît chaque année. Ces hybrides se caractérisent par leur régularité de végétation, leur vigueur, leur floribondité et souvent par des qualités nouvelles telles que la résistance à la pluie.  Attrait/Intérêt plante basse de premier plan pour la décoration estivale en raison de sa floribondité et de sa durée de floraison.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, même secs, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>Elles se classent en fonction de la dimension et de la duplicature des fleurs.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

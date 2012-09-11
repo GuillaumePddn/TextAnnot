@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Pauciflora = Calycina</taxon>
+    <parent type="genre">Brunfelsia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BRUNFELSIA PAUCIFLORA</titre>
+        <alinea> Arbuste de climat doux à port buissonnant arrondi de 2 mètres de hauteur. Le feuillage est constitué de feuilles ovales et pointues, coriaces, vert brillant. Les fleurs changent de couleur avec le temps violettes à l'origine, elles passent du bleu au blanc avant de faner. L'arbuste porte donc ces trois couleurs en permanence, avec des fleurs de la forme des impatiens, se renouvelant sans cesse. Le brunfelsia apprécie des sols fertiles, frais et bien drainés. L'exposition est ensoleillée ou mi-ombragée. Il résiste à des températures négatives de -2 à -3°C si elles sont exceptionnelles. À utiliser isolés, en haies libres ou en massifs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Brunfelsia</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

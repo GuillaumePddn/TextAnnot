@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">AUCUBA DU JAPON</taxon>
+    <parent type="genre">Aucuba japonica</parent>
+    <contenu>
+      <paragraphe>
+        <titre>AUCUBA DU JAPON</titre>
+        <alinea>• Fruits en automne/hiver. Hauteur 1,50 à 2,50 m. L'aucuba du Japon est un très bel arbuste, de forme arrondie, aux grandes feuilles panachées, ovales, épaisses, luisantes, les fleurs mâles et les fleurs femelles, sans intérêt, sont portées par des sujets différents. Les fruits, par contre, qui rougissent en fin d'automne, constituent un élément décoratif incontestable. Les deux variétés panachées sont justement des formes femelles.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>AUCUBA PANACHES</titre>
+        <alinea>• Aucuba Japonica 'Variegata' Feuilles panachées de jaune. • Aucuba Japonica 'Crotonifolia' Variété plus récente, à feuilles beaucoup plus richement panachées. I^s aucubas du Japon à feuilles panachées sont d'autant plus utilisés dans nos jardins qu'ils ne redoutent pas la pollution. Ils prospèrent en toute bonne terre de jardin profonde et fraîche, et supportent même le calcaire sans excès. Ils se plaisent aussi bien à l'ombre qu'au soleil où ils sont plus colorés, ne redoutant que les situations brûlantes. Ils méritent d'être utilisés en isolé, mais peuvent participer à la constitution de haies ou de massifs. La taille des sujets isolés n'est pas nécessaire, si ce n'est pour supprimer une branche superflue ou maintenir la plante à</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Fruits de l'aucuba du Japon 'Crotonifolia'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

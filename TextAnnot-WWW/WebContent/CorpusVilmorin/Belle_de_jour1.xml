@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Convolvulus tricolor</taxon>
+        <parent type = "genre">Convolvulus</parent>
+        <contenu>
+                <paragraphe>
+                    <titre>BELLE DE JOUR, ANNUELLE</titre>
+                    <alinea>
+                        Haute de 35 cm, cette plante à tiges rameuses, étalées, dressées à leur extrémité, a des fleurs en entonnoir évasé, semblables à celles du Volubilis. Il en existe des variétés à fleurs unicolores, d'autres à fleurs panachées (un coloris sur les bords, le centre blanc et le fond de la gorge jaune). On trouve les tons bleu, violet, rose, rouge et blanc. Les fleurs se referment la nuit.
+                    </alinea>
+                </paragraphe>               
+                <paragraphe>
+                    <titre>Attrait / Intérêt</titre>              
+                    <alinea>
+                        plante très rustique, fleurissant bien sans soins particuliers de juillet à septembre.
+                    </alinea>
+                </paragraphe>           
+                <paragraphe>
+                    <titre>Sol / Exposition</titre>
+                    <alinea>
+                        tous terrains ensoleillés. Résiste bien au climat maritime.
+                    </alinea>                   
+                </paragraphe>           
+                <paragraphe>
+                    <titre>Culture</titre>
+                    <alinea>
+                        très facile.
+                        - Semez directement en place, d'avril à mai, à raison de 4 à 5 graines tous les 30 cm.
+                        - Arrosez pour faciliter la levée et laissez en touffes.
+                        - Cette plante ne demande ensuite aucun soin particulier mais ne supporte pas le repiquage.
+                    </alinea>                   
+                </paragraphe>   
+                <paragraphe>
+                    <titre>Utilisation</titre>
+                    <alinea>
+                        pour bordures, massifs bas mais également racailles, plattes-bandes, pots et jardinières.
+                    </alinea>                   
+                </paragraphe>                      
+            </contenu>
+            
+            <photos_plante>
+                <photo_plante>
+                    <titre_photo>
+                        Belle de jour
+                    </titre_photo> 
+                    <fichier_photo_plante>
+                        p261_Belle_de_jour.jpg
+                    </fichier_photo_plante>
+                </photo_plante>
+            </photos_plante>
+            
+            <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

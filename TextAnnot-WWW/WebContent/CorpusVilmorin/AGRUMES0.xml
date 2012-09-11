@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Citrus</taxon>
+    <parent type="famille">Rutacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>AGRUMES</titre>
+        <alinea>Peu rustiques. Sous cette appellation, on désigne diverses espèces bien connues</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>Ils sont tous à feuillage persistant, avec des feuilles d'un beau vert, à pétiole ailé, des fleurs blanches, parfumées et des fruits décoratifs, parfois comestibles. Les fleurs s'épanouissent généralement alors que les fruits de l'année précédente sont encore sur l'arbre. Les agrumes ne sont vraiment rustiques (sauf hivers exceptionnels !) que dans les endroits les plus chauds de la Côte d'Azur, où ils prospèrent dans des terrains non calcaires, plutôt légers et de consistance moyenne, grâce à des arrosages copieux et une fumure appropriée. En dehors de ces zones privilégiées, les agrumes doivent être considérés comme des plantes d'orangerie, terme créé pour eux et généralisé ensuite pour toutes les plantes non rustiques conservées de la même façon en hiver. Ils sont donc cultivés dans de grands bacs bien drainés et remplis d'un mélange de 2/3 de terre franche non calcaire et 1/3 de terreau. Ils passent la belle saison, depuis la fin des gelées de printemps jusqu'à l'automne, dans le jardin, en situation chaude et ensoleillée. Ils sont rentrés courant octobre en "orangerie", c'est-à-dire dans un local frais, mais où il ne gèle pas (+ 6 à 8°C), et très clair. Ils y seront peu arrosés.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies>
+        <maladie>
+            <nom_maladie>Cochenilles</nom_maladie>
+            <enonce> Organes attaqués : feuilles, rameaux. Symptômes : ils sont envahis de boucliers brunâtres parfois prolongés d'un amas blanc cannelé ou en forme de "coquille de moule". Traitement : Traitement d'hiver, et fin d'hiver (préventivement)</enonce>
+            <photos_maladie>
+                <fichier_photo_maladie>??</fichier_photo_maladie>
+            </photos_maladie>
+        </maladie>
+		<maladie>
+            <nom_maladie>Commose parasitaire</nom_maladie>
+            <enonce> Organe attaqué : troncs Symptômes : dépérissement général de l'arbre, jaunissement des feuilles, développement d'un chancre gommeux à la base du tronc. Traitement : Traitement des conifères, arbustes.
+</enonce>
+            <photos_maladie>
+                <fichier_photo_maladie>??</fichier_photo_maladie>
+            </photos_maladie>
+        </maladie>
+    </maladies>
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Joli scène d'agrumes</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

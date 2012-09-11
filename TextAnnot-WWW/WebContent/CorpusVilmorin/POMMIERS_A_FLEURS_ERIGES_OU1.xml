@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Malus 'Van Eseltine'</taxon>
+    <parent type="genre">Malus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>POMMIERS A FLEURS ERIGES OU SEMI-ERIGES</titre>
+        <alinea>Malus 'Van Eseltine' Port érigé, fleurs semi-doubles d'un rose plus ou moins foncé selon le stade de l'épanouissement, formant des bouquets en camaïeu. Fruits rouges et jaunes.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pommier à fleurs 'Van Eseltine'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

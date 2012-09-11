@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Zinnia elegans</taxon>
+    <parent type="genre">Zinnia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ZINNIA ELEGANT</titre>
+        <alinea>Plante à tiges rigides, dressées, ramifiées, portant de larges feuilles opposées, engainantes, ovales, pointues, formant une touffe de 70 cm de hauteur et plus dans les races élevées. Ces tiges sont terminées par des capitules solitaires, généralement très doubles, composés de nombreux pétales (ligules) étroitement imbriqués en une inflorescence plus ou moins bombée. Coloris nombreux blanc, jaune, orange, rose, rouge, lilas, violet, que l'on retrouve pratiquement dans toutes les races. Ces dernières sont très nombreuses et diffèrent par la hauteur des plantes, la taille et la forme des fleurs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>richesse des coloris. Durée de la floraison</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols riches bien drainés, exposition ensoleillée. Races et variétés Races hautes • Zinnia élégant double. 50 cm. C'est la race la plus anciennement cultivée. Capitules moyens, très bombés, de 6 cm de diamètre environ. • Zinnia à fleur de Scabieuse. 80 cm. Capitu- les de forme originale composés d'une collerette extérieure de pétales plats entourant un cœur très proéminent fait de pétales finement noyautés, formant un "nid d'abeille". • Zinnia à fleur de Dahlia. 90 cm. Race de forte végétation, à fleurs géantes, en capitules de 12 à f 5 cm de diamètre, faits de pétales plats régulièrement imbriqués en dôme homogène. Elle comprend les variétés antérieurement groupées sous le nom de Zinnia géant de Californie. Races naines • Zinnia Diablotin varié. Fleurs de taille et colons analogues à celles du zinnia élégant mais portées par une plante compacte ne dépassant pas 30 cm de haut. • Zinnia Lilliput varié. 30 cm. Très nombreux petits capitules hémisphériques de 3 à 4 cm de diamètre, excellents pour la confection de petits bouquets.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Races et variétés Races hautes</titre>
+        <alinea>• Zinnia élégant double. 50 cm. C'est la race la plus anciennement cultivée. Capitules moyens, très bombés, de 6 cm de diamètre environ. • Zinnia à fleur de Scabieuse. 80 cm. Capitu- les de forme originale composés d'une collerette extérieure de pétales plats entourant un cœur très proéminent fait de pétales finement noyautés, formant un "nid d'abeille". • Zinnia à fleur de Dahlia. 90 cm. Race de forte végétation, à fleurs géantes, en capitules de 12 à f 5 cm de diamètre, faits de pétales plats régulièrement imbriqués en dôme homogène. Elle comprend les variétés antérieurement groupées sous le nom de Zinnia géant de Californie.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Races et variétés Races naines</titre>
+        <alinea>• Zinnia Diablotin varié. Fleurs de taille et colons analogues à celles du zinnia élégant mais portées par une plante compacte ne dépassant pas 30 cm de haut. • Zinnia Lilliput varié. 30 cm. Très nombreux petits capitules hémisphériques de 3 à 4 cm de diamètre, excellents pour la confection de petits bouquets.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Zinnia à fleur de scabieuse</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Zinnia à fleur de Dahlia</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Zinnia Diablotin varié</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Zinnia Lilliput varié</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

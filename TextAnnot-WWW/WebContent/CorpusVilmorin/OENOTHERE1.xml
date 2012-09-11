@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Oenothera</taxon>
+    <parent type="genre">Oenothere</parent>
+    <contenu>
+      <paragraphe>
+        <titre>OENOTHERE</titre>
+        <alinea>Plante annuelle, bisannuelle ou vivace selon les espèces. Tiges rameuses, étalées à la base, puis dressées et portant à leur extrémité de longues grappes de fleurs larges, à quatre pétales et aux coloris clairs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>très grande rusticité.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols bien drainés, en situation aérée et ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>semez les espèces annuelles 1) en septembre, en place ou en pépinière. Éclaircissez le semis en place à 30 cm. Repiquez le semis fait en pépinière et plantez en mars, à 50 cm de distance 2) en mars-avril, en pépinière et plantez en mai, ou encore, semez en place en avril et éclaircissez à 25 cm de distance. Multipliez les espèces vivaces par division de touffes au printemps ou à l'automne ou par des boutures de racines en mars.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>les œnothères sont utilisées dans les massifs de plantes vivaces mais surtout pour la garniture des talus ensoleillés. Elles sont également employées dans la confection de bouquets, leurs boutons continuant à s'épanouir en vase.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>• Oenothère élégante. Oenothera speciosa. Plante vivace, haute de 50 cm. Fleur déga- geant une odeur douce, de 8 cm de largeur, blanche devenant blanc rosé en "passant". • Oenothère du Missouri. Oenothera missoii riensis (= Oenothera macrocarpa). Plante vivace, haute de 40 cm. Très grandes fleurs jaune d'or dépassant 10 cm de diamètre, s'épanouissant du soir au matin et remplacées chaque jour dans l'inflorescence. Floraison juillet-septembre.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Oenothera macrocarpa</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Oenothère élégante</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

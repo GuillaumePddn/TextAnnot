@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Asclepias tuberosa</taxon>
+    <parent type = "genre">Asclepias</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ASCLEPIADE TUBEREUSE</titre>
+                <alinea>
+                    Plante à souche tubéreuse, à tiges pubescentes, haute de 60 cm. Les feuilles sont ovales, lancéolées. Les fleurs rouge orangé, disposées en ombelles unilatérales, s'épanouissent de juillet à septembre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    très joli coloris lumineux.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols sablonneux et tourbeux, peu ou pas du tout calcaires.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    la multiplication se fait :
+                    1) Par semis, en pépinière, en avril-mai ; repiquage en pépinière où les plants sont laissés un an, avant la mise en place au printemps suivant à 40 ou 50 cm d'écartement.
+                    2) Par division de souches au printemps. 
+                    Cette asclépiade est peu rustique et la souche doit être protégée par une litière de feuilles sèches en hiver.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                      plates-bandes de plantes vivaces. Fleurs coupées éventuellement.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Asclépiade tubéreus
+            </titre_photo> 
+            <fichier_photo_plante>
+                p255_Asclepiade_tubereuse.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">AMELANCHIER</taxon>
+    <parent type="genre">Amelanchier canadensis</parent>
+    <contenu>
+      <paragraphe>
+        <titre>AMELANCHIER</titre>
+        <alinea>• Fleurit en avril • Fruits en juin. Hauteur 3 à 4 m. Arbuste vigoureux à port dressé. Couleur du feuillage cuivré clair au départ de la végétation, alors que les fleurs blanches, en grappes pendantes, s'épanouissent. Les fruits, rouge foncé, mûrissent en juin et font le régal des oiseaux. Le feuillage prend de belles teintes rouge-orangé en automne. Arbuste intéressant par son abondante floraison blanche. À planter en petits groupes ou dans des massifs, en toute bonne terre de jardin peu ou pas calcaire.</alinea>
+      </paragraphe>
+    </contenu>
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Amélanchier</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

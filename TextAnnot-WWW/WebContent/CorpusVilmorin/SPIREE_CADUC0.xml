@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Spiraea</taxon>
+    <parent type="famille">Rosaceae</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SPIREE CADUC</titre>
+        <alinea>Floraison printanière • Fleurs blanches en avril-mai. Floraison estivale • Fleurs roses ou rouges de juillet à septembre Les spirées à floraison printanière sont taillées aussitôt après la floraison en supprimant quelques branches âgées pour ne pas compromettre l'élégance du port naturel. Les spirées à floraison estivale sont taillées en mars, parfois très court comme S. x bumalda. Les spirées prospèrent dans tous les sols ; c'est aussi l'une des raisons pour lesquelles elles sont abondamment présentes dans nos jardins.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

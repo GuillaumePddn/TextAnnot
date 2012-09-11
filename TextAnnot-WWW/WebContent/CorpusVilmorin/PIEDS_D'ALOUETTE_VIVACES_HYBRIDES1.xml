@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Delphinium hybride</taxon>
+    <parent type="genre">Delphinium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PIEDS D'ALOUETTE VIVACES HYBRIDES</titre>
+        <alinea> Résultat de croisements multiples effectués entre les différentes espèces ou races botaniques et horticoles déjà cultivées, ces pieds d'alouette, dénommés Delphinium, sont nettement plus vigoureux, plus florifères et possèdent surtout des fleurs beaucoup plus grandes, de coloris plus variés que les anciennes espèces vivaces. Une obtention récente surclasse maintenant toutes les autres races - Delphinium Pacific', à fleurs géantes, semi-doubles ou doubles, disposées en longs épis de 1 m à 1,20 m de long sur des tiges nombreuses, hautes de 1,50 à 1,80 m. Coloris extrêmement variés - blanc, bleu, violet et même rose avec toute la gamme des intermédiaires et les associations de blanc, bleu et violet sur la même fleur. Floraison principale en juin, remontante jusqu'en septembre si les hampes florales sont coupées à ras de terre au fur et à mesure de leur défloraison. Ayez soin d'entretenir la végétation par des arrosages réguliers, additionnés deux fois par mois d'engrais fleurs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>beauté des hampes florales majestueuses.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols profonds, frais et fertiles, riches en humus, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>les pieds d'alouette de Chine se sèment de juin à août, mettez-les en place en novembre ou au printemps pour une floraison de juillet à octobre l'année suivante. Pour les pieds d'alouette vivaces hybrides - 1) Semez d'avril à juillet en pépinière, repiquez en pépinière et mettez en place à l'automne ou au printemps suivant, à 50 ou 60 cm d'écartement. La floraison a lieu l'année suivante, de juin à septembre-octobre, selon les races et variétés. 2) Semées en février sous châssis pour mise en place en mai-juin, la plupart des races donnent une floraison la même année, de fin août à octobre. 3) La multiplication peut se faire par division des touffes, de préférence au printemps. Utilisation les pieds d'alouette sont du plus grand effet dans des massifs de plantes vivaces, mais ils sont aussi très remarquables en "isolé". En fleurs coupées, ils permettent de constituer de superbes bouquets.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Delphinium 'Pacific'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Delphinium de Chine</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

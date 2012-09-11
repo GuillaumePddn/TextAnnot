@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="espece">Dahlia à fleurs de camélia</taxon> 
+        <parent type = "genre">Dahlia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Dahlia à fleurs de camélia</titre>
+                <alinea>
+                Race très florifère, aux capitules légers et réguliers en forme de fleur de camélia.
+                Hauteur : 0,80 m à 1 m. Ces dahlias sont des variétés moins doubles que celles des dahlias décoratifs.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Dahlia à fleurs de camélia
+            </titre_photo> 
+            <fichier_photo_plante>
+                p283_Dahlia_a_fleurs_de_camelia.jpeg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Pyrethrum parthenium 'Aureum' ou Tanacetum parthenium 'Aureum'</taxon>
+    <parent type="genre">Pyrethrum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PYRETHRE A FEUILLAGE DORE</titre>
+        <alinea> Plantes en touffes compactes, de 10 à 25 cm, feuillage dense plus ou moins découpé, d'un beau jaune d'or. Fleurs simples, blanches, sans intérêt.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>couleur du feuillage.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>toutes terres, à bonne exposition.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>bien que vivace, le pyrèthre à feuillage doré est ordinairement traité en plante annuelle ou bisannuelle. 1 ) Semez de février à avril, sous abri - repiquez sous abri et mettez en place en avril-mai. 2) Semez de juillet à septembre, en pépinière, repiquez en pépinière ou en pots. Mettez en place en automne ou, mieux, hivernez sous châssis froid et mettez en place en avril-mai. Supprimez les tiges florales dès leur apparition.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>grâce à sa végétation compacte, le pyrèthre doré convient particulièrement à la réalisation de bordures et c'est une plante idéale pour la mosaïculture.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pyrèthre à feuillage doré</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

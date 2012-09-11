@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Macleaya cordata</taxon>
+    <parent type="genre">Macleaya</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MACLEAYA CORDATA</titre>
+        <alinea> Plante vivace, à très fortes tiges, dressées, atteignant de 3 à 6 m, portant de larges feuilles vert-bleu, blanchâtres en dessous, élégamment découpées. Les fleurs petites, blanc rosé, groupées en longue panicule pyramidale à l'extrémité des tiges, s'épanouissent de juin à août et sont suivies par des fruits pendants, en forme de silique, également décoratifs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Macleaya cordata</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

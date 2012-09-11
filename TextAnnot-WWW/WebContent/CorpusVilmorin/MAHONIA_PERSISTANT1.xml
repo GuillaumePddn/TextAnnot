@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Mahonia aquifolium</taxon>
+    <parent type="genre">Mahonia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MAHONIA PERSISTANT</titre>
+        <alinea>■ Fleurit en mars-avril • Fruits en septembre-octobre Hauteur 1 m environ. Le mahonia à feuilles de houx est un petit arbuste peu ramifié, à feuilles composées pennées, à folioles coriaces, épineuses, vert foncé teinté de rouge en automne et en hiver, souvent groupées en haut des tiges. Fleurs en grappes compactes à l'extrémité des rameaux, jaune doré, très ornementales, suivies de fruits noirs. La variété 'Apollo' est plus compacte (1 m), plus florifère et possède des fleurs plus foncées.  Peu exigeant sur la qualité du sol et supportant bien une ombre assez épaisse, ce mahonia a sa place aussi bien en sous-bois qu'en massifs. Drageonnant, il est aussi intéressant pour les talus et les berges de rivière. Du fait qu'il se dégarnit, il est conseillé de le tailler périodiquement assez court.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Mahonia 'Apollo'</titre_photo>
+        <fichier_photo_plante>p464_Mahonia__Apollo_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

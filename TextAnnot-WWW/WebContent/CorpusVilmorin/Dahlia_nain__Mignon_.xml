@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+<description>
+    <taxon type="variete">Dahlia nain 'Mignon'</taxon>    
+    <parent type = "espece">Dahlia nain</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Dahlia très compact nain 'Mignon'</titre>
+                <alinea> 
+                    À fleurs simples, hauteur 30 cm.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+     <classeVilmorin type= "fleur"/>
+</description>
+</fiche>

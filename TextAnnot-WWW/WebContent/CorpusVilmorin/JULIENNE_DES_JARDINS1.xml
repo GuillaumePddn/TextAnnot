@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Hesperis matronalis</taxon>
+    <parent type="genre">Hesperis</parent>
+    <contenu>
+      <paragraphe>
+        <titre>JULIENNE DES JARDINS</titre>
+        <alinea>Hesperis matronalis. Espèce vivace. Plante légèrement velue, ramifiée, haute de 60 à 80 cm. Fleurs en grappes terminales, odorantes, violettes ou blanches, qui s'épanouissent de mai à fin juillet. On en cultive des variétés à fleurs doubles et une variété plus naine, blanc pur, de 50 cm de hauteur.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>facilité de culture. Fleurs odorantes le soir.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, toutes expo- sitions mais préfère la fraîcheur et les terres profondes.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Les variétés à fleurs simples se reproduisent de préférence par semis, d'avril à juillet, en pépinière ; mise en place en septembre, ou en mars suivant, à 40 cm de distance. On peut aussi les multiplier par éclats de touffes en septembre. - Les variétés à fleurs doubles ne donnent pas de graines et se multiplient par division des touffes en août-septembre, ou de boutures de pousses après la floraison. Les juliennes des jardins réussissent sans aucun soin et supportent la transplantation en toutes saisons, même pendant la floraison.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>massifs de vivaces.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Julienne des jardins</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

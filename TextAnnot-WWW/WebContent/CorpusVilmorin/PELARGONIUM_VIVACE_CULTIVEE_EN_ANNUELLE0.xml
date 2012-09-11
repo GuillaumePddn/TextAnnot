@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Pelargonium</taxon>
+    <parent type="famille">Géraniacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PELARGONIUM VIVACE CULTIVEE EN ANNUELLE</titre>
+       <alinea> Ce nom collectif désigne des plantes
+diverses bien connues pour leur emploi
+constant dans la décoration des parterres,
+des fenêtres et balcons, sous les noms
+communs de Géraniums - ce sont les pélargoniums
+zona-le, et leurs nombreux hybrides.
+Géraniums lierre - ce sont les
+pélargoniums peltatum, à feuilles de
+lierre.
+Pélargoniums à grandes fleurs - ce sont
+les pélargoniums grandiflorum ou pelargonium des fleuristes.
+		</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

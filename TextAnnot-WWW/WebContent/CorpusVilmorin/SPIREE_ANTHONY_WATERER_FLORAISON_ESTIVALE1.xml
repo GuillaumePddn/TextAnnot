@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Spiraea x bumalda</taxon>
+    <parent type="genre">Spiraea</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SPIREE ANTHONY WATERER FLORAISON ESTIVALE</titre>
+        <alinea>Spiraea x bumalda 'Anthony Waterer' Hauteur 60 à 80 cm. Petite touffe compacte de rameaux grêles terminés en juin-juillet par des corymbes aplatis de fleurs rose carminé. Si les fleurs fanées sont aussitôt coupées, une nouvelle floraison, plus légère, a lieu en fin d'été. Permet de réaliser bordures ou haies basses ; à tailler court en mars.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

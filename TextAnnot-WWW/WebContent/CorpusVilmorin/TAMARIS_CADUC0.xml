@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Tamarix</taxon>
+    <parent type="famille">Tamaricaceae</parent>
+    <contenu>
+      <paragraphe>
+        <titre>TAMARIS CADUC</titre>
+        <alinea>• Fleurit en avril-mai ou août-septembre Les tamaris sont de grands arbustes ou de petits arbres aux rameaux fins, au port souple et arrondi. Les feuilles, très petites, rappellent celles de certains genévriers, ks fleurs, dans les tons roses, sont également minuscules mais elles sont groupées en petites grappes tellement nombreuses le long des branches que celles-ci s'inclinent sous leur poids. L'ensemble est d'une grande légèreté et donne à ce arbuste un aspect vaporeux, irréel, original, e d'une grande beauté. La floraison a lieu, soit sur les rameaux dt l'année précédente tamaris de printemps soit sur ceux de l'année tamaris d'été.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

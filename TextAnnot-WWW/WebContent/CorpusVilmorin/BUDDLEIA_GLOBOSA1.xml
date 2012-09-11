@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Buddleja globosa</taxon>
+    <parent type="genre">Buddleja</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BUDDLEIA GLOBOSA</titre>
+        <alinea>Mérite d'être cité également. Un peu moins vigoureux, à feuillage presque persistant, il n'est rustique que dans le Midi et sur le littoral atlantique où il donne à profusion, en mai, des fleurs orangées, regroupées en petites inflorescences globuleuses. Retaillez-lelégèrement. Arbuste à isoler.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+        <photo_plante>
+        <titre_photo>Buddleia globosa</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Allium karataviense</taxon>
+    <parent type = "genre">Allium</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ALLIUM KARATAVIENSE</titre>
+                <alinea>
+                     Fleurs blanc rosé légèrement gris en mai pour ce petit allium de 20 cm. La variété 'Ivory Queen' avec ses fleurs ivoire est appréciée en petits massifs, plates-bandes et rocailles.
+               </alinea>
+           </paragraphe>
+        </contenu>
+        
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

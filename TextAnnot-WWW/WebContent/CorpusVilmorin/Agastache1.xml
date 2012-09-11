@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Agastache anisata</taxon>
+        <parent type = "genre">Agastache</parent>
+        <contenu>
+            <paragraphe>
+                <titre>AGASTACHE FOENICULUM</titre>
+                <alinea>
+                    Plante haute de 80 cm à 1 m, en forme de touffe dressée et stable, portant des feuilles lancéolées dentées de couleur vert grisâtre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    floraison de juillet à septembre. Fleurs en épis denses, mauve violacé. Les feuilles froissées et surtout les épis floraux dégagent une odeur de menthe, parfois mêlée d'anis, très agréable.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols sains, bien drainés et assez riches. Situation ensoleillée. Il leur faut une fraîcheur suffisante à l'approche de la floraison.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                   facile. Multiplication par éclats de touffe, au printemps de préférence.
+                   - Semis en pépinière à mi-ombre d'avril à juin.
+                   - Plantation à 30/35 cm de distance en automne ou au printemps après hivernage en pots sous châssis.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     en plate-bande ou massifs hauts, en association avec des mufliers, des cosmos ou des soucis. Son odeur agrémentera aussi vos bouquets.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Agastache foeniculum à fleurs bleues
+            </titre_photo> 
+            <fichier_photo_plante>
+                p245_Agastache_foeniculum_a_fleurs_bleues.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

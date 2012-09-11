@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Euonymus fortunei</taxon>
+    <parent type="genre">Euonymus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>FUSAIN FORTUNEI</titre>
+        <alinea> Petit arbuste rampant dont les rameaux peuvent atteindre plusieurs mètres. À petites feuilles ovales. 11 se décline en différentes variétés • Blondy® (interbolwi) hauteur et diamètre 30 à 50 cm. Feuilles allongées vertes, large- ent maculées de jaune.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>• 'Emerald gaiety' végétation vigoureuse, feuillage vert bleuté panaché de blanc. • 'Emerald'n gold' petit arbuste à végétation plutôt compacte, à feuilles panachées de jaune (50 à 60 cm). • 'Coloratus' hauteur 0,30 à 0,40 m. Forme étalée. Feuillage devenant pourpre en automne. Bon couvre-sol. • 'Dart's Blanket' est une amélioration de 'Coloratus'. • 'Harlequin' hauteur 0,20 à 0,30 m. Très tapissant. Feuillage vert bleuté tacheté de blanc crème. Bon couvre-sol. • 'Emerald sunspot' hauteur 30 à 40 cm, diamètre 60 cm, feuillage vert foncé bleuté, irrégulièrement panaché de jaune clair.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

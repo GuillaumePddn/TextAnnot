@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Asclepias syriaca</taxon>
+    <parent type = "genre">Asclepias</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ASCLEPIADE A LA OUATE</titre>
+                <alinea>
+                    Asclepias syriaca ou Asclepias cornutii
+                    Grande plante dont la souche, extrêmement traçante, développe des tiges de 1 m à 1,50 m. Feuilles amples, ovales, très tomenteuses en dessous. Les fleurs roses, réunies en ombelles terminales, sont suivies de fruits curieux. Ses graines sont munies d'abondantes aigrettes soyeuses d'où la plante tire son nom "d'herbe à la ouate".      
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    fruits de forme originale, recourbés par rapport au pédoncule et ressemblant à un oiseau (on dit aussi "Herbe aux perruches"). 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous terrains, toutes expositions.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    identique à Asclepias incarnata.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     plante surtout cultivée pour ses fruits curieux oui ressemblent à des perruches et qui sont généralement conservés en les suspendant par leur pédoncule au rebord d'un verre plein d'eau. Il faut prendre soin de les cueillir avant complète maturité sinon ils s'ouvrent et les graines à aigrettes se dispersent.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Asclépiade à la ouate
+            </titre_photo> 
+            <fichier_photo_plante>
+                p254_Asclepiade_a_la_ouate.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+        <photo_plante>
+            <titre_photo>
+               Fruits de l'Asclépiade à la ouate
+            </titre_photo> 
+            <fichier_photo_plante>
+                p255_Fruits_de_l_Asclepiade_a_la_ouate.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Macleaya microcarpa</taxon>
+    <parent type="genre">Macleaya</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MACLEAYA MICROCARPA</titre>
+        <alinea> Tiges dressées de 2 à 3 m aux feuilles lobées vert grisé, blanchâtres au revers. Les fleurs sont petites et regroupées en panicules lâches.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>plante très pittoresque par sa grande taille et la légèreté de ses panicules composées d'innombrables petites fleurs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terres franches argilo-siliceuses. Situation ensoleillée, abritée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>multiplication par éclats de drageons d'octobre à mars. Espacez les plants à un mètre au moins.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>en groupes, sur une grande pelouse ou dans un massif d'arbustes com- posant un jardin paysager (tenir compte du grand développement de la plante).</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

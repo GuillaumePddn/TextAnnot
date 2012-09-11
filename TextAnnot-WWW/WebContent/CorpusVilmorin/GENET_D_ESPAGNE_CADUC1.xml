@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Spartium junceum</taxon>
+    <parent type="genre">Spartium junceum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GENET D ESPAGNE CADUC</titre>
+        <alinea>.Fleurit de juin à septembre. Assez rustique. Hauteur: 1,50 à 2,50m. Arbuste vigoureux, voisin du genêt à balais, mais plus érigé. Touffe composée de rameaux bien droits, fins, verts, semblables à du jonc, et quasiment sans feuilles, lesquelles sont d'ailleurs très petites. Dès le mois de mai dans le Midi et en juin-juillet en région parisienne, il se couvre de fleurs papilionacées jaunes, très parfumées. La floraison se prolonge souvent jusqu'en septembre mais n'a plus la même ampleur. Le genêt d'Espagne forme de beaux sujets à isoler et des groupes opulents. Comme il supporte la pollution, on en rencontre le long des routes. Il accepte la plupart des sols, même médiocres, calcaires ou secs, bien drainés, mais il aime les situations ensoleillées et abritées. Le genêt d'Espagne préfère les climats doux ; cependant, il résiste au froid dans la majeure partie de la France. Les fortes gelées détruisent la partie aérienne, mais il repart généralement de la souche. De toute façon, une taille assez courte, qu'il supporte bien au printemps, lui évite de se dégarnir de la base. Comme les autres genêts, il est de reprise difficile et doit être planté en motte.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Genet_d_Espagne</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

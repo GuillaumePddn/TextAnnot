@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cotoneaster dammeri 'Radicans'</taxon>
+    <parent type="genre">Cotoneaster</parent>
+    <contenu>
+      <paragraphe>
+        <titre>COTONEASTER RADICANS</titre>
+        <alinea> Hauteur 20 à 25 cm. Arbuste rampant, à petites feuilles ovales et à fruits rouges corail. Excellent couvre-sol.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

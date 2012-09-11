@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Kerria japonica</taxon>
+    <parent type="genre">Kerria</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CORETE A FLEURS SIMPLES</titre>
+        <alinea>• 'Golden Guinea' grandes fleurs simples très décoratives. 
+                • 'Picta' feuillage panaché de blanc crème.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Corète du Japon 'Golden Guinea'</titre_photo>
+        <fichier_photo_plante>p459_Corete_du_Japon__Golden_Guinea_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

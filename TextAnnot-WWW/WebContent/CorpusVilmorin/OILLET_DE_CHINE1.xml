@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Dianthus sinensis</taxon>
+    <parent type="genre">Dianthus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ŒILLET DE CHINE</titre>
+        <alinea>Plante annuelle, à tige ramifiée, de 20 à 30 cm de hauteur; fleurs nombreuses, solitaires, inodores, à pétales frangés de tous les coloris sauf le jaune et le bleu, striés, maculés ou cerclés de blanc au pourpre noir en passant par le violet. La floraison se prolonge, abondante, de l'été à l'automne.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>Variété de coloris. Floraison abondante et de longue durée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, même calcaires, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Semez en mars sous châssis et mettez en place en juin, à 20 cm d'écartement, pour une floraison en août. 2) Semez en avril-mai en place, puis éclaircissez à 20 cm. Floraison août-septembre. 3) Semez en août en pépinière, repiquez en pépinière bien exposée, au pied d'un mur pour abriter des gelées ou, mieux, hivernez sous châssis froid ou en serre froide et mettez en place en mars-avril. Floraison de mai à août. Distance de plantation - 25 cm.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>massifs, bordures, rocailles, murets fleuris. Culture en pots très intéressante.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>• 'Impérial' double varié. Hauteur 30 cm ; grandes fleurs très doubles à bords frangés.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Œillet de Chine 'Impérial'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

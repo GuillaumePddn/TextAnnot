@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Zantedeschia rehmanni</taxon>
+    <parent type="genre">Arum, Calla</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ARUM ROSE</titre>
+        <alinea>Haute de 30 à 40 cm, cette espèce est à feuillage caduc. Les feuilles, lancéolées, sont parfois parsemées de points blanc argenté. Les spathes sont rose lilacé et apparaissent d'avril à juin.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>aspect décoratif du feuillage et de la floraison.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>endroits humides, bords des eaux, à exposition chaude et ensoleillée. Le zantedeschia redoute les hivers rigoureux.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>plante amphibie, poussant le pied dans l'eau ou en terre, mais alors demandant de fréquents arrosages pendant sa période de végétation. On peut laisser la plante sécher après sa floraison, la déplanter pour la conserver dans un local frais et sec et la replanter au printemps. On peut aussi la rentrer à l'abri des gelées et continuer les arrosages pour l'avoir en végétation en hiver. Le zantedeschia se force très facilement. Pour obtenir des fleurs dès décembre, rempotez-le en août-septembre, mettez-le sous abri et rentrez-le ensuite en serre ou en appartement bien éclairé où il fleurira. Les arums se multiplient facilement par la séparation, au printemps, des petits tubercules se développant sur la souche.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>aussi décoratif par son feuillage que par sa floraison, le zantedeschia affectionne particulièrement les endroits humides et le bord des eaux, à exposition chaude et ensoleillée. Vous pouvez aussi le cultiver en pots.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Helichrysum bracteatum</taxon> 
+        <parent type = "genre">Helichrysum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Immortelle à bractées</titre>
+                <alinea>
+                Helichrysum bracteatum
+                Tiges raides, ramifiées de 0,90 m à 1,20 m de hauteur. Fleurs solitaires, terminales, longuement pédonculées, en forme de coupe évasée, simples ou doubles, coloris allant du blanc au violet en passant par le jaune et le rouge. Cette espèce comporte aussi des races naines de 30 à 40 cm de haut seulement. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 durée de la floraison. Fleurs séchées.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                tous sols, à exposition chaude et ensoleillée.     
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                1) Semez en mars-avril au chaud, repiquez sous abri puis plantez en pleine terre en mai, à 30/35 cm d'écartement. Floraison de juillet à octobre.
+                2) Semez en avril-mai en place. Éclaircissez à 30/35 cm d'écartement. Floraison d'août à octobre.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                fleurs séchées pour bouquets d'hiver. Les capitules doivent être cueillis avant complet épanouissement et suspendus la tête en bas, après avoir été réunis en bouquets, dans un endroit obscur et bien ventilé. Les tiges, débarrassées de leurs feuilles, sont ensuite emballées à l'abri de la poussière en attendant leur utilisation.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Immortelle à bractées
+            </titre_photo> 
+            <fichier_photo_plante>
+                p310_Immortelle_a_bractees.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

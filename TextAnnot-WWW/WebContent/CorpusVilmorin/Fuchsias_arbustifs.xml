@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Fuchsias arbustifs</taxon> 
+        <parent type = "genre">Fuchsia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Fuchsias arbustifs</titre>
+                <alinea>
+                Ce sont les variétés du Fuchsia magellanica, originaire d'Amérique du Sud.
+                • Fuchsia 'Riccartonii'. Fleurs tubuleuses à calice rouge et corolle violette.
+                • Fuchsia magellanica Gracilis. Fleurs de même coloris mais plus allongées.
+                Ces deux arbustes à végétation très rapide atteignent 70 cm de hauteur dans la région parisienne mais peuvent dépasser 1,50 m en climat doux (Bretagne). Demi-rustiques, ils doivent être rabattus près du sol en automne et couverts de paille ou de feuilles mortes, dans les régions à hiver rude. Lorsqu'elle a gelé, la souche reconstitue une nouvelle touffe au printemps suivant.
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                extrêmement florifères, les fuchsias arbustifs s'intègrent parfaitement aux massifs de plantes vivaces et d'arbustes et conviennent particulièrement aux jardins de caractère rustique, mi-ombragés.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Fuchsia magellanica Gracilis
+            </titre_photo> 
+            <fichier_photo_plante>
+                p295_Fuchsia_magellanica_Gracilis.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+        <photo_plante>
+            <titre_photo>
+                Fuchsia 'Riccartonii'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p295_Fuchsia__Riccartonii_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

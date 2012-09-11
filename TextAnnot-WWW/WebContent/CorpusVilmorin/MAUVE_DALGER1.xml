@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Malva sylvestris</taxon>
+    <parent type="genre">Malva</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MAUVE D'ALGER ESPÈCE ANNUELLE</titre>
+        <alinea> Plante de la région méditerranéenne, à tige rameuse, pyramidale, de 1 m de hauteur; fleurs groupées par cinq ou huit, rosées, veinées de pourpre, apparaissant de juillet à septembre.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Mauve d'Alger</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Impatiens</taxon>
+        <parent type = "famille">Balsaminaceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Impatiens cultivée en annuelle</titre>
+                <alinea>
+                Vivace en serre, cultivée comme annuelle.
+                Plante à tige épaisse et charnue, ramifiée, buissonnante, haute de 40 à 50 cm. Fleurs larges de 3 à 4 cm, munies d'un long éperon, réunies au sommet de pédoncules grêles, de juillet aux gelées. Coloris très frais : rouge carmin, rouge violacé, rose cuivré, etc, suivant les variétés.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 aptitude à fleurir à mi-ombre ou à exposition nord. Longue durée de floraison.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                sols frais, à exposition mi-ombragée. Certaines variétés nouvelles supportent néanmoins le soleil. L'évolution des différentes espèces permet de disposer aujourd'hui de nombreuses variétés offrant une gamme de coloris étalée ainsi que des fleurs bicolores, simples ou demi-doubles et doubles. Le feuillage est plus ou moins ample, vert ou bronzé. Les unes sont fixées par la sélection mais un important progrès a été réalisé avec l'obtention des hybrides Fl. Ils sont remarquables par leur petite taille, l'homogénéité de leur végétation et l'abondance de leur floraison, même aux expositions habituellement considérées comme trop ensoleillées pour les impatiens.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                - Semez en mars-avril au chaud, en terrine ou mini-serre, à température proche de 20°C. Employez de préférence un terreau de semis et ne couvrez pas les graines qui ont besoin de lumière pour germer. Maintenez la surface du sol humide par des bassinages réguliers pour assurer la levée.
+                - Repiquez séparément les jeunes plants en godets et placez-les sous châssis légèrement ombrés.
+                - Ne mettez en place que vers la fin mai ou au début juin, à 30 cm d'écartement, en sol léger suffisamment humide et bien travaillé.
+                - En cours de culture, faites attention aux excès d'engrais qui peuvent provoquer un développement exagéré du feuillage au détriment de la floraison.
+                - Il est également possible de multiplier les impatiens par bouturage mais c'est le semis qui est le plus employé.     
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                les impatiens sont, avec les bégonias tubéreux, les meilleures plantes pour fleurir, de juin jusqu'aux gelées, les endroits mi-ombragés ou exposés au nord. Elles se prêtent également très bien au décor des fenêtres et balcons. Empotées à la fin de l'été, et les tiges étant raccourcies à quelques centimètres de longueur, elles fleurissent à nouveau pendant tout l'hiver lorsqu'elles sont rentrées en appartement. 
+                Variétés : 
+                • Impatiens 'Madras' hybride Fl. Hauteur : 20 cm. Plante compacte, ramifiée, très florifère. Coloris variés.
+                • Impatiens 'Tiara' hybride Fl. Hauteur : 30 cm. Plante plus développée que les variétés classiques, très florifère.
+                • Impatiens 'Soho' F2 variée. Fleur compacte, tapissante, très florifère. Hauteur : 25 cm.    
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+              Impatiens 'Soho'  
+            </titre_photo> 
+            <fichier_photo_plante>
+                p310_Impatiens_Soho__.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+        <photo_plante>
+            <titre_photo>
+             Impatiens 'Tiara'   
+            </titre_photo> 
+            <fichier_photo_plante>
+                p310_Impatiens_Tiara__.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+        <photo_plante>
+            <titre_photo>
+             Impatiens 'Madras'   
+            </titre_photo> 
+            <fichier_photo_plante>
+                p310_Impatiens_Madras__.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

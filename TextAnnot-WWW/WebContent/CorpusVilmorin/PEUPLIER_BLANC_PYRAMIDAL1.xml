@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Populus alba 'Pyramidalis' ou Populus alba 'Bolleana' </taxon>
+    <parent type="genre">Populus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PEUPLIER BLANC PYRAMIDAL</titre>
+        <alinea>Hauteur 10 à 12 m et plus. Bel arbre à port fusiforme, à écorce blanche puis grise. Ses feuilles, lorsque le vent les agite, laissent voir, soit leur revers blanc laineux, soit l'autre face vert foncé, ce qui crée un effet décoratif original. Arbre très utilisé en alignement.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Peuplier blanc pyramidal</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

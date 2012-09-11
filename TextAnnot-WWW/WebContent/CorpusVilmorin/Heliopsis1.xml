@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Heliopsis scabra</taxon> 
+        <parent type = "genre">Heliopsis</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Héliopside Vivace</titre>
+                <alinea>
+                Plante rustique, de 1 m de hauteur, à tiges lisses se ramifiant vers le sommet, à feuillage rude. Les fleurs, simples ou doubles, jaune d'or, en forme de soleil, à disque central conique proéminent, apparaissent de juillet à septembre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 floraison de fin d'été.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                sols profonds et substantiels, à exposition ensoleillée.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                multiplication par éclats de touffes à l'automne ou, mieux, au printemps. Plantez à 50 cm d'écartement. Arrosez copieusement en été.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                identique à celle de l'hélénium :  massifs de vivaces, en association notamment avec des Asters.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

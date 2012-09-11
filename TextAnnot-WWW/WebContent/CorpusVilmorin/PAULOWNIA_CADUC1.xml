@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Paulownia tomentosa</taxon>
+    <parent type="genre">Paulownia tomentosa</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PAULOWNIA CADUC</titre>
+        <alinea>Le paulownia est un très bel arbre d'ornement de 8 à 12 m, à cime arrondie, irrégulière avec l'âge. Ses grandes feuilles opposées rappellent celles du catalpa, mais elles sont groupées par 2 et non par 3- Rustique, il peut néanmoins souffrir des hivers dans les régions à climat rude, les jeunes pousses et les boutons à fleurs risquant d'être détruits. En effet, ceux-ci sont formés dès l'automne alors que la floraison intervient en mai, juste avant l'apparition des feuilles. Les grandes fleurs violettes, en grappes dressées, sont malheureusement éphémères. Le paulownia aime les terres fertiles, profondes et fraîches, mais surtout bien drainées car il redoute l'humidité stagnante. De développement rapide, il constitue un arbre d'ombrage excellent. Il est aussi utilisé en alignement dans les villes car il résiste bien à la pollution.  Si vous aimez les curiosités, plantez un jeune sujet que vous rabattrez tous les ans. Vous obtiendrez des tiges de 2,50 à 3 m qui porteront des feuilles de 50 cm et plus de largeur !</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Paulownia</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Datura stramonium</taxon> 
+        <parent type = "genre">Datura</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Stramoine d'Egypte</titre>
+                <alinea>
+                Plante de 50 cm à 1,50 m de hauteur, à tige dressée. Les fleurs en entonnoirde 5 à 10 cm de diamètre apparaissent à l'aisselle des feuilles supérieures. Elles s'épanouissent de juillet à octobre. Les fleurs, fétides, sont blanc crème à pourprées. Les feuilles alternes sont dentées de manière irrégulière, longuement pétiolées, ovales ou elliptiques. Les fruits sont épineux. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 port majestueux de la plante.
+                 Originalité de la fleur.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                  terres riches, à chaude exposition.  
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                  semez en mars-avril sous abri et mettez en place fin mai, à 45 cm d'écartement. Arrosez copieusement pendant l'été.  
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                en groupes sur pelouse ou en avant des massifs d'arbustes; sert aussi à donner du relief aux massifs. Peut se cultiver en grands pots ou en bacs. 
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Datura
+            </titre_photo> 
+            <fichier_photo_plante>
+                p285_Datura.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

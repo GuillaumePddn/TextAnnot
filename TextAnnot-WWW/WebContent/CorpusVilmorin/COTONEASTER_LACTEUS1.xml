@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cotoneaster lacteus</taxon>
+    <parent type="genre">Cotoneaster</parent>
+    <contenu>
+      <paragraphe>
+        <titre>COTONEASTER LACTEUS</titre>
+        <alinea> Hauteur 2 à 3 m. Très belle espèce vigoureuse à port arrondi, étalé. Grandes feuilles ovales, persistantes, vert foncé dessus, à revers blanchâtre. Petits fruits nombreux, en groupes, d'un beau rouge intense, persistant tout l'hiver. Magnifique en sujet isolé, surtout en hiver grâce à sa fructification éclatante, le cotoneaster lacteus peut aussi bien être conduit en haies que planté dans les massifs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Cotoneaster_lacteus</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+	</photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

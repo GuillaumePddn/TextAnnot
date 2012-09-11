@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Vinca minor</taxon>
+    <parent type="genre">Vinca</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PETITE PERVENCHE</titre>
+        <alinea> Vivace aussi, elle émet de nombreuses tiges stériles et rampantes et des tiges florifères, hautes de 20 cm. Fleurs simples ou doubles, variant du blanc et du bleu au violet en passant par le rouge.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>plante tapissante pour endroits ombragés</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols frais, légers, à exposition ombragée ou mi-ombragée, même au nord. Redoute les terres compactes trop humides.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>facile. - la multiplication s'effectue par séparation des tiges stériles à l'automne ou au printemps. - Replantez-les à 30 cm d'écartement pour la petite pervenche et à 40 cm pour la grande.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>rocailles, talus. Les pervenches, grandes et petites, sont parmi les meilleures plantes "couvre-sol" pour les sous-bois et endroits ombragés.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Petite pervenche</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

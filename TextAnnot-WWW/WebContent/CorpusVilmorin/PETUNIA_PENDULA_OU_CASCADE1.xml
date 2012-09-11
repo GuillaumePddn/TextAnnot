@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Pétunia pendula ou cascade</taxon>
+    <parent type="genre">Pétunia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PETUNIA PENDULA OU CASCADE</titre>
+        <alinea>Ce sont des pétunias à longues tiges retombantes, recommandés pour jardinières et balcons, très florifères, à très grandes fleurs. Le type surfinia à très longues tiges offre une floraison très abondante.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>le semis de pétunia demande quelques soins en raison surtout de la finesse des graines. Le "lit de semences" doit être particulièrement adapté et nous vous conseillons d'utiliser du terreau de semis. - Semez en février-mars sous abri chaud. N'enterrez pas les graines mais affermissez-les à la surface du sol avec une planchette. - Arrosez par pulvérisation et recouvrez le semis d'une vitre jusqu'à la germination. Vous la retirerez ensuite pour "durcir" les jeunes plants et éviter la "fonte" du semis. - Repiquez une première fois sous abri, en pépinière, dans un terreau léger puis une seconde fois, en pépinière ou en pots, et mettez en place en mai, à 30 cm d'écartement. Chaque repiquage sera précédé d'un arrosage de façon à prélever des plants avec une petite motte de terre. - Il est possible de semer en avril sous châssis froid ou en pépinière à bonne exposition. Repiquez de même et plantez en juin. La floraison s'étend de juillet aux gelées.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>les pétunias font partie des plantes de base de toutes les décorations estivales - massifs, bordures, potées, jardinières, rocailles (où ils permettent d'assurer la continuité des floraisons après les premières fleurs du printemps). Les variétés 'Cascade' sont plus particulièrement recommandées pour les balcons.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pétunia pendula</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Pétunia double rose veiné</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

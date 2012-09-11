@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Mimulus</taxon>
+    <parent type="genre">Mimulus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MIMULUS VIVACE</titre>
+        <alinea>Plante vivace cultivée comme annuelle ou bisannuelle, atteignant 30 cm de hauteur, très ramifiée, à tiges et feuilles tachées de pourpre; fleurs en entonnoir diversement colorées, du blanc au rouge en passant par le jaune, pointillées ou tachetées de foncé. Elles apparaissent de juillet à septembre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>plante très basse, à fleurs nombreuses aux coloris curieux.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>bonnes terres humeuses, à exposition mi-ombragée de préférence.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Semez d'août à octobre en terrine et repiquez en pépinière ou en pots. Hivernez sous châssis et mettez en place en avril, à 30 cm d'écartement. 2) Semez en mars-avril sous abri chaud, repiquez en pépinière ou en pots, et mettez en place en mai ou laissez en pots. Semé à cette époque, le mimulus fleurit l'année même du semis. Ne couvrez les graines que très légèrement.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>bordures, jardinières, pots.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Mimulus</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

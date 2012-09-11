@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="espece">Dahlia nain à fleurs simples</taxon> 
+        <parent type = "genre">Dahlia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Dahlia nain à fleurs simples</titre>
+                <alinea>
+                Fleurs à un seul rang de pétales plats et larges, longuement pédonculées, surmontant franchement un feuillage assez compact. Les variétés de cette espèce ne dépassent pas 50 cm de hauteur et sont utilisées pour la composition de grands ensembles décoratifs ainsi que pour la confection de bouquets très élégants.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Dahlia nain à fleurs simples
+            </titre_photo> 
+            <fichier_photo_plante>
+                p284_Dahlia_nain_a_fleurs_simples.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

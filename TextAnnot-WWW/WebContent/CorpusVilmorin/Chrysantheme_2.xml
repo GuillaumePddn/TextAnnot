@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Chrysanthemum nipponicum</taxon>    
+    <parent type = "genre">Chrysanthemum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>MARGUERITE DU JAPON</titre>
+                <alinea>ou Nip-ponanthemum
+                Plante de 70 cm de hauteur, aux tiges épaisses, ligneuses et dressées portant des feuilles coriaces et dentelées. Les fleurs sont blanches et apparaissent en automne.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                    - Semez en février-mars sur couche, en terrine ou en mini serre à l'intérieur.
+                    - Mettez en place en avril-mai, à 40 ou 50 cm de distance.
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                les marguerites du Japon permettent de réaliser de très beaux massifs d'arrière-saison. 11 est aussi possible d'en faire des potées fleuries.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Marguerite du Japon
+            </titre_photo> 
+            <fichier_photo_plante>
+                p271_Marguerite_du_Japon.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

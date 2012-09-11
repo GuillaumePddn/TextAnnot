@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre"></taxon>
+        <parent type = "famille"></parent>
+        <contenu>
+            <paragraphe>
+                <titre>ACROCLINIUM, ANNUELLE</titre>
+                <alinea>De la tige ramifiée s'élèvent des rameaux grêles mais fermes, garnis de petites feuilles et terminés par une inflorescence assez large formée d'écaillés légères, roses ou blanches, semblable aux inflorescences d'immortelles.</alinea>
+            </paragraphe>
+             <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>production de fleurs séchées.</alinea>
+            </paragraphe>
+             <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>sols pauvres, bien drainés, ensoleillés.</alinea>
+            </paragraphe>
+             <paragraphe>
+               <titre>Culture</titre>
+                <alinea>facile.
+                    - Semez directement en place en avril-mai et éclaircissez à 25/30 cm de distance. Vous pouvez également semer en mars sous abri (16°C).
+                    - Repiquez en pépinière avant la mise en place en mai.</alinea>
+            </paragraphe>
+             <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>bouquets secs d'hiver.</alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Acroclinium
+            </titre_photo> 
+            <fichier_photo_plante>
+                p244_Acroclinium.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

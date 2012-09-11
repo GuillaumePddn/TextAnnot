@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cytisus x racemosus</taxon>
+    <parent type="genre">Cytisus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GENET RACEMOSUS</titre>
+        <alinea> Ce petit genêt peu rustique forme un buisson arrondi très ramifié allant jusqu'à 1 mètre de hauteur. Les feuilles persistantes sont composées de trois folioles couvertes de poils argentés. D'avril à juillet, il produit en abondance, à l'extrémité des rameaux souples et arqués, des grappes de nombreuses fleurs papilionacées, jaune vif, délicieusement odorantes. Il résiste à-8/-10°C.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Genet_racemosus</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+	</photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

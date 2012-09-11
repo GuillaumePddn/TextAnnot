@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Achilea filipenclulina</taxon>    
+    <parent type = "genre">Achilea</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ACHILLÉE EUPATOIRE</titre>
+                <alinea>Plante vigoureuse et rustique de 1 m à 1,20 m de hauteur. Le feuillage est profondément lobé, vert grisé, très aromatique.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>de juin à septembre, belles fleurs d'un coloris jaune d'or éclatant, groupées en corymbe.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol exposition</titre>
+                <alinea>terres légères et fraîches, fumées l'année précédente, à exposition
+                    ensoleillée</alinea>
+            </paragraphe>
+         </contenu>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

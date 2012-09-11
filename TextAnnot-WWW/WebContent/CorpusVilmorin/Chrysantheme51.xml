@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Chrysanthemum carinatum 'CECILIA'</taxon>    
+    <parent type = "espece">Chrysanthemum spectabile</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Chrysanthème à carène Cachemire varié </titre>
+                <alinea> 
+                    Hauteur 60 cm. Race vigoureuse, à port dressé divergent. Les tiges, solides, portent des fleurs nettement plus grandes que celles du type, blanches à disque jaune pâle et centre jaune vif, d'épanouissement précoce.
+                </alinea>
+            </paragraphe>
+       </contenu>
+ 
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Chrysanthème spectabile 'Cecilia'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p271_Chrysantheme_spectabile__Cecilia_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lilium martagon</taxon>
+    <parent type="genre">Lilium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LIS MARTAGON</titre>
+        <alinea> Espèce spontanée dans certaines régions montagneuses françaises. Fleurs en grappes, par quatre à dix, pendantes sur une tige de 70 cm à 1 m de haut. Elles apparaissent en mai-juin, sont rouge violacé et pointées de carmin à l'intérieur. Ce lis très rustique se plante à l'automne, à 15 cm de profondeur en terre franche, légère, à exposition demi ombragée.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lis martagon</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

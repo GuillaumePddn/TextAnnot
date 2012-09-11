@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Fuchsias non rustiques</taxon> 
+        <parent type = "genre">Fuchsia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Fuchsias non rustiques</titre>
+                <alinea>
+                Ces fuchsias doivent être hivernes à l'abri du froid. Il en existe de très nombreuses variétés, à fleurs simples ou à fleurs doubles, les unes à port dressé, les autres à végétation retombante. 
+                Coloris dominants :  blanc, rose, rouge, violet. 
+
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                plantes permettant une décoration de longue durée d'endroits ombragés. Fleurs pendantes du plus bel effet.     
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 tous sols bien drainés, légers, riches en humus, à mi-ombre. Redoutent le plein soleil.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                on peut multiplier les fuchsias par semis, mais la méthode la plus courante et la plus pratique est le bouturage, qui assure, seul, la pérennité des variétés. 
+                - En février-mars, bouturez en serre ou sous châssis, en pot, dans du sable, les jeunes pousses qui se développent sur les vieux pieds rentrés depuis l'automne précédent lorsque celles-ci ont plus de 8 cm ; 18 à 20°C sont nécessaires comme température minimum.
+                - Privez d'air pour faciliter la reprise.
+                - Rempotez les boutures enracinées en godets de 6 cm, dans un mélange d'un tiers de terre franche et de deux tiers de terreau.
+                - Faites par la suite un deuxième rempotage en godets de 9 cm, pincez l'extrémité de chaque plant pour le faire se ramifier et placez un tuteur. Ces jeunes sujets peuvent être plantés en mai, en tous terrains plus ou moins ombrés ; ils fleuriront à partir de juin-juillet.
+                - Rempotez en pots de 12 à 14 cm ceux destinés à être cultivés en pots, lorsque leurs racines garniront la paroi des godets.
+                - Après la première gelée, dans les régions froides, arrachez les fuchsias cultivés en pleine terre, coupez au sécateur les extrémités des rameaux et racines en ne conservant que les plus grosses branches sur une longueur de 5 à 8 cm et en supprimant les petits rameaux. Les racines sont raccourcies suffisamment pour pouvoir être rempotées dans des pots de 9 à 10 cm, avec la même composition de terre que celle des boutures.
+                - Rentrez ces potées sous châssis froid, en cave ou sous les tablettes d'une serre froide, n'arrosez que si la terre se dessèche trop, ne chauffez pas ; une température comprise entre 0 et 5°C est suffisante. Par temps de forte gelée, couvrez le châssis de feuilles ou de paillassons, mais découvrez aussitôt les grands froids passés. Le soleil suffira en février-mars pour faire repartir la végétation.
+                - À défaut d'installation, les fuchsias peuvent être enfouis au pied d'un mur, sous 30 cm de tourbe, le tout étant recouvert de feuilles ou d'un paillasson. Déterrez les plantes'Nymphe' Fuchsia en mars pour les mettre en végétation.
+                - Pour former les fuchsias sur un petit tronc, ne pincez pas la bouture et pourvoyez la plante d'un tuteur sur lequel la tige sera attachée au fur et à mesure de son allongement Supprimez successivement toutes les pousses latérales qui se développent sur celle-ci dès qu'elles atteignent 10 cm de longueur. Lorsque lahauteurvoulue pour le tronc est atteinte, pincez le sommet afin de provoquer la naissance de quatre ou cinq rameaux qui formeront la "tête" de l'arbuste.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                les fuchsias sont parmi les meilleures espèces pour la décoration des endroits ombragés où ils s'associent heureusement avec d'autres plantes ayant les mêmes exigences d'exposition : bégonias tubéreux, impatiens, etc. Avec les mêmes espèces, ils font merveille pour fleurir les balcons orientés au nord. Cultivés en pots, ils fleurissent abondamment toute l'année en serre ou même dans la maison, à condition d'être bien éclairés. Les variétés retombantes conviennent pour la culture en suspensions. 
+                Variétés de Fuchsia dressés à fleurs simples : 
+                Parmi les très nombreuses variétés de Fuchsias, citons : 
+                • 'Beacon' : sépales rouges et corolle violette.
+                • 'Carmen blue' : sépales blanc rosé et corolle lavande. Variété remarquable par son colori rare.
+                • 'Koralle' : fleurs tubulées rouges.
+                • 'Nymphe' : sépales blancs et corolle orange. Port légèrement retombant. Très florifère.
+                Variétés de fuchsia dressés à fleurs demi-doubles et doubles : 
+                • 'Annabel' : fleurs demi-doubles, blanc légèrement rosé.
+                • 'Winston Churchill' : fleurs doubles, sépales rouges, corolle bleu violet.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Fuchsia 'Annabel'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p295_Fuchsia__Annabel_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+        <photo_plante>
+            <titre_photo>
+                Fuchsia 'Nymphe'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p294_Fuchsia__Nymphe_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+        <photo_plante>
+            <titre_photo>
+                Fuchsia 'Koralle'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p294_Fuchsia__Koralle_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+        <photo_plante>
+            <titre_photo>
+                Fuchsia 'Winston Churchill'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p295_Fuchsia__Winston_Churchill_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="espece">Eccremocarpus scaber</taxon> 
+        <parent type = "genre">Eccremocarpus</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Eccremocarpe Vivace</titre>
+                <alinea>
+                Plante vivace, cultivée comme annuelle ou bisannuelle, à tige ligneuse, grimpante, anguleuse, ramifiée, pouvant atteindre jusqu'à 5 m de hauteur. Feuillage élégamment découpé, prolongé en vrille. 
+                S'épanouissant de juin à octobre, les fleurs rouge orangé, tubuleuses, ventrues, retombent en grappes abondantes comme des guirlandes.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                plante grimpante à développement rapide.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                tous sols, à exposition chaude.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                - Semez en mars à l'abri.
+                - Repiquez en godets.
+                - Mettez en place en mai.
+                - On peut aussi semer en août, en pots à hiverner sous châssis, pour mettre en place en avril.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                cette plante est utilisée comme le dolique pour garnir treillages et vieux murs, à exposition chaude.
+                </alinea>
+            </paragraphe>
+         </contenu>
+     <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

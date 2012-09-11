@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Pelargonium zonale</taxon>
+    <parent type="genre">Pelargonium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GERANIUM ZONALE</titre>
+        <alinea> Encore appelé "géranium droit", par opposition au géranium lierre qui est retombant, le géranium zonale, vivace en serre ou dans les régions méditerranéennes, est normalement cultivé comme plante annuelle. Tige charnue, feuilles vertes plus ou moins zonées. Fleurs simples, semi-doubles ou doubles dans les coloris blanc, rose, saumon, orangé, mauve et rouge. Les tons jaunes et bleus n'existent pas.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>plante de culture facile, à floraison de très longue durée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols bien drainés, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Multiplication par bouturage (méthode traditionnelle pour les variétés ne se multipliant pas par semis). À la fin de l'été; - Entre le 15 août et le 20 septembre, prélevez les boutures sur les pieds-mères spécialement plantés à cet effet, en terrain maigre et peu arrosé, afin d'obtenir des boutures bien lignifiées, plus résistantes à la pourriture. - Les boutures de 8 à 10 cm sont débarrassées des stipules et de leurs feuilles de base, puis placées, à raison de trois à quatre par godet de 8 cm dans un châssis ou tout autre local pouvant être ombré et chauffé à 18/20°C. - Au mois d'octobre, les boutures sont rentrées en serre froide ou local très clair et maintenues pendant tout l'hiver à une température optima de 6 à 9°C (maximum 12°C, minimum 4°C). Arrosez au minimum, juste pour empêcher le flétrissement. - En mars une autre série de boutures peut être faite à cette époque, les pieds-mères ayant été rentrés comme les boutures d'été et maintenus dans les mêmes conditions. À cette époque, la reprise des boutures, mises en godets sous abri chaud, est excellente. Pincez ensuite pour aider la ramification, rempotez et mettez en place fin mai. - Pour la culture en pots des plantes adultes, préparez un mélange de ; - 7/5 de terre franche siliceuse. -1/3 de terreau de couche très décomposé. - Pour les boutures, le mélange terreux suivant convient bien ; - 2/6 de terre franche siliceuse. - 3/6 de terreau de feuilles. -1/6 de terre de bruyère. - Un peu de sable. Les géraniums résistent bien à la chaleur ; ils sont très vigoureux et florifères aux expositions chaudes, si l'on a soin de les arroser et de leur appliquer régulièrement pendant la floraison un engrais spécifique, type engrais géranium. 2) Multiplication par semis. Elle est appelée à prendre de plus en plus d'importance en raison du nombre croissant de variétés pouvant se multiplier de cette façon et aussi parce qu'elle permet d'obtenir économiquement un grand nombre de plants. La réussite du semis est liée à un éclairement aussi intense que possible des jeunes plants, très avides de lumière, et à la régularité de végétation de ceux-ci. Tout "à-coup" provoqué par la sécheresse, les baisses de température, etc., retarde la floraison. - Semez en serre ou très près d'une fenêtre dans la maison, du 10 au 25 février, à température de 20 à 22°C. - Placez individuellement les graines en godets de tourbe agglomérée de 6 cm, emplis d'un mélange, par tiers, de terre, terreau et tourbe. Les semences doivent être enterrées à 1 cm de profondeur. - Maintenez une humidité permanente, sans excès. La germination s'effectue en trois à cinq jours. - Rempotez successivement en pots de 9, puis de 12 cm qui seront maintenus en serre (15°C) et sous châssis jusqu'à la plantation, fin mai, en pleine terre à 30 cm d'écartement. - Lorsque la reprise est assurée, après le premier rempotage, arrosez deux fois par mois à l'engrais soluble, type engrais géranium, et continuez en cours de culture pour assurer une floraison continue. Si la culture a été bien conduite, la floraison commence seize à dix-huit semaines après le semis.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>1 ) Les géraniums multipliés par bouturage sont utilisés pour la décoration des massifs de pleine terre, la garniture de jardinières, de pots. 2) Les géraniums de semis sont essentiellement des géraniums à massifs. Faites-en un parterre fin mai, la floraison sera assurée jusqu'aux gelées.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>Elles sont très nombreuses et en constante évolution. Les hybrides Fl se multipliant par semis ont permis l'obtention de nouvelles variétés beaucoup plus précoces, mieux ramifiées, exemptes de maladies à virus et très florifères. Leur feuillage est plus ou moins zone et les fleurs présentent des coloris nouveaux, quelquefois à "œil". Parmi ces nouveaux hybrides nous citerons lustre' et 'Éclat'.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Géranium zonale 'Lustre' Cerise</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Géranium zonale 'Eclat Blanc hyb. F2</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Les pélargoniums offrent des floraisons pleines</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Erythronium</taxon>
+        <parent type = "famille">Liliaceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Erythronium Bulbeuse</titre>
+                <alinea>
+                 Dent de chien
+                 Plante vigoureuse d'environ 30 cm de hauteur, à feuillage vert brillant. Les tiges portent chacune cinq à six fleurs étoilées, jaune foncé. La floraison débute en avril.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait / Intérêt</titre>
+                <alinea>
+                fleurs graciles en avril-mai.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / Exposition</titre>
+                <alinea>
+                sols frais, riches en humus, à exposition nord ou à mi-ombre.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                 plantez les bulbes à l'automne à 15-18 cm de profondeur et de préférence par groupes en respectant l'écartement de 10 à 15 cm entre les bulbes. Vous obtiendrez les meilleurs résultats en laissant les plantes en place car elles supportent mal la transplantation.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Utilisation</titre>
+                <alinea>
+                 taches de couleurs en bordure de massifs de vivaces, rocailles.   
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Dent de chien
+            </titre_photo> 
+            <fichier_photo_plante>
+                p290_Dent_de_chien.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

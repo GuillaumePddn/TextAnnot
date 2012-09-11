@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Anemone tomentosa 'Robustissima'</taxon>    
+    <parent type = "espece">Anemone tomentosa</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ANEMONE TOMENTOSA 'ROBUSTISSIMA'</titre>
+                <alinea>
+                     Cette variété de 1 mètre de hauteur est ancienne et reconnue comme la plus rustique des anémones du Japon. Elle est également très florifère et sa végétation vigoureuse est intéressante. Les fleurs sont blanc rosé, à revers rose plus soutenu en août et septembre.
+                </alinea>
+             </paragraphe>               
+            <paragraphe>
+                <titre> Utilisation</titre>
+                <alinea>
+                        en massifs ombragés, plates-bandes. Fleurs coupées.
+                </alinea>
+            </paragraphe>
+         </contenu>
+     <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Anémone tomentosa 'Robustissima'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p251_Anémone_tomentosa__Robustissima_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+   
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

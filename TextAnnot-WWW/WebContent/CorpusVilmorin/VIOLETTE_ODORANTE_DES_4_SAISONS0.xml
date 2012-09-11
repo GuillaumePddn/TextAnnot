@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Viola odorata semperflorens</taxon>
+    <parent type="famille">Violacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>VIOLETTE ODORANTE DES 4 SAISONS</titre>
+        <alinea />
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

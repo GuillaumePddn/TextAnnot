@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Elaeagnus angustifolia</taxon>
+    <parent type="genre">Elaeagnus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>OLIVIER DE BOHEME CADUC</titre>
+        <alinea>• Feuillage décoratif Hauteur 3 à 5 m. Arbuste vigoureux ou petit arbre épineux à port tortueux, décoratif par ses feuilles allongées comme celles du saule, vert argenté, surtout au revers. Fleurs sans intérêt, mais odorantes, suivies de petits fruits comestibles. Parfaitement rustique, ne redoutant que les sols humides, l'olivier de Bohème est utilisé dans les massifs, parfois en isolé, mais aussi pour réaliser des haies ou des brise-vent, surtout en bord de mer.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Olivier de Bohème</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

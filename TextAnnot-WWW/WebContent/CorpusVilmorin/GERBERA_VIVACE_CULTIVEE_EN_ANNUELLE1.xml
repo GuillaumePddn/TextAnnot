@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Gerbera jamesonii </taxon>
+    <parent type="genre">Gerbera</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GERBERA VIVACE CULTIVÉE EN ANNUELLE</titre>
+        <alinea>Plante velue, à grandes feuilles en rosette, d'où s'élèvent de longs pédoncules de 50 à 60 cm de haut, nus et rigides, que terminent tout l'été de grandes fleurs, larges de 8 à 10 cm, solitaires, élégantes, en forme de marguerite, écarlate orangé dans le type. Ont été obtenues des variétés aux tons blanc, rose, rouge, jaune.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>élégance et beauté des fleurs à l'aspect satiné.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sol léger, enrichi par des apports de fumier décomposé, à exposition chaude et ensoleillée. Supporte le climat maritime.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>assez délicate. Les gerberas sont des plantes méridionales. Peu rustiques sous le climat parisien, ils peuvent cependant, plantés le long d'un mur exposé au sud et couverts de feuilles, passer l'hiver dans cette zone. - Semez sous abri en mars-avril. - Repiquez sous châssis. - Plantez en plein terre ou en pot à partir de la fin mai. La floraison se produira de fin juin à septembre. Dans le Midi, le semis peut être fait dès l'automne. La floraison aura lieu à partir de mai. La multiplication s'obtient également par division de touffes, mais les rejets séparés périssent facilement.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>fleurs coupées (ne cueillez que des capitules parfaitement épanouis, sinon ils ont tendance à se refermer). Massifs dans le Midi avec les variétés naines.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Gerbera</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Betula pendula 'Tristis'</taxon>
+    <parent type="genre">Betula</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BOULEAU PLEUREUR</titre>
+        <alinea> Hauteur 12 m et plus. Arbre vigoureux dont la flèche s'élève assez haut, tandis que les branches secondaires retombent le long du tronc. Port très élégant, arbre à isoler.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

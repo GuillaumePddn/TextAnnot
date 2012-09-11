@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Helichrysum petiolare</taxon>
+    <parent type="genre">Helichrysum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GNAPHALIUM VIVACE CULTIVÉE EN ANNUELLE</titre>
+        <alinea />
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>plante retombante intéressante pour son feuillage gris argenté. Les feuilles sont arrondies et recouvertes d'un discret duvet blanc.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>ensoleillée en sol bien drainé.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>on trouvera cette plante essentiellement sous forme de plants. La floraison, de la fin de l'été à l'automne, est insignifiante. Arrosage modéré tout au long de l'été.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>balconnières, suspensions avec des bidens, des pélargoniums, des impatiens.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Gnaphalium</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

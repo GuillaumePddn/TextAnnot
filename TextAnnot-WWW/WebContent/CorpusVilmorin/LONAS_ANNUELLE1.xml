@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lonas annua</taxon>
+    <parent type="genre">Lonas annua</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LONAS ANNUELLE</titre>
+        <alinea />
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>jolie fleur méconnue donnant un grand nombre de petites fleurs en globe, jaune d'or.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sol normal à exposition ensoleillée, abritée du vent.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>semez en pleine terre d'avril à mai. Pour une floraison un peu plus précoce, semez en pépinière sous abri en avril.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>elle éclairera de sa luminosité vos massifs bas, rocailles et bordures, mais également vos potées et jardinières. À associer aux alysses annuelles, dimorphotécas et eschscholtzias.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lonas</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

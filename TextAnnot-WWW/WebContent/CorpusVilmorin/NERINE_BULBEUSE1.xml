@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Nerine bowdenii</taxon>
+    <parent type="genre">Nerine</parent>
+    <contenu>
+      <paragraphe>
+        <titre>NERINE BULBEUSE</titre>
+        <alinea>Cette espèce est la seule rustique du genre et c'est la plus belle. Chaque tige, pouvant atteindre 50 cm de hauteur, porte huit ou douze fleurs réunies en ombelle. La floraison a lieu en septembre. Les feuilles, étroites et rubanées, n'apparaissent en général qu'après la floraison.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>des fleurs très spectaculaires à pétales étroits et rubanés, légèrement ondulés et recourbés.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>bonnes terres, bien drainées, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>plantez les bulbes en avril à 10 cm de profondeur. Il est préférable de les laisserplusieurs années en place en les protégeant des grands froids par une litière de feuilles ou de paille. Tous les quatre ou cinq ans, arrachez les bulbes, divisez-les et replantez-les immédiatement.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>surtout fleurs coupées, de très longue durée.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Nérin</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Viburnum nudum</taxon>
+    <parent type="genre">Viburnum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>VIORNE PINK BEAUTY</titre>
+        <alinea>Viburnum nudum 'Pink Beauty' Hauteur 1,50 m. Végétation érigée, feuillage vert foncé brillant caduc à semi-persistant. \JS feuilles deviennent pourpres à l'automne. Les fleurs blanches s'épanouissent en mai et sont suivies à l'automne de beaux fruits roses et violacés.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Viorne 'Pink Beauty'</titre_photo>
+        <fichier_photo_plante>p475_Viorne__Pink_Beauty_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

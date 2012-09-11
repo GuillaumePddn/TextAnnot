@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Anemone x hybrida</taxon>
+        <parent type = "genre">Anemone</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ANEMONE DU JAPON</titre>
+                <alinea>
+                    Souche drageonnante de 1 m de hauteur en situation favorable. Le feuillage et les fleurs ont les mêmes caractéristiques que Anémone hupehensis. La floraison a lieu en septembre-octobre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / Exposition</titre>
+                <alinea>
+                    riche et plutôt frais, à exposition ensoleillée ou mi-ombragée. Paillez-les dans les régions à hiver rigoureux. En terres meubles et profondes, elles sont plus rustiques.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Utilisation</titre>
+                <alinea>
+                    en massifs. Fleurs coupées.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Anémone du Japon
+            </titre_photo> 
+            <fichier_photo_plante>
+                p251_Anemone_du_Japon.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

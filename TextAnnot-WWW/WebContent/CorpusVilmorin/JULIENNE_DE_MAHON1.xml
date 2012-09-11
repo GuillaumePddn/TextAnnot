@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Malcolmia maritima</taxon>
+    <parent type="genre">Hesperis</parent>
+    <contenu>
+      <paragraphe>
+        <titre>JULIENNE DE MAHON</titre>
+        <alinea>Malcolmia maritima. Espèce annuelle. Plante rustique, à tiges ramifiées, rampantes, atteignant 20 à 25 cm de hauteur. Les fleurs en grappes lâches, terminales, roses, rouges, blanches ou jaunes selon les variétés, apparaissent nombreuses de juillet à septembre, suivant l'époque du semis.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>abondante floraison dans des délais très courts.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, toutes expositions de préférence ensoleillées. Supporte le climat maritime.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>facile. - Semez de mars à juillet directement en place et éclaircissez à 15 cm. - Floraison 3 mois après le semis.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>massifs, bordures, rocailles, jardinières.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Julienne de Mahon</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

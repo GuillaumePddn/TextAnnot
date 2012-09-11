@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Physocarpus opulifolius</taxon>
+    <parent type="genre">Physocarpus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PHYSOCARPUS DIABOLO</titre>
+        <alinea>Physocarpus opulifolius Diabolo Hauteur: l m à 1,50m Feuillage pourpre foncé jusqu'en été. Fleurs blanches en juin-juillet, succédant à des boutons rouge foncé.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Physocarpus Diabolo</titre_photo>
+        <fichier_photo_plante>p467_Physocarpus_Diabolo.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

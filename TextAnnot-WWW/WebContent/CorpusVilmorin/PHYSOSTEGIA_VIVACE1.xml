@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Physostegia virginiana</taxon>
+    <parent type="genre">Physostegia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PHYSOSTEGIA</titre>
+        <alinea>Plante à tiges dressées formant une large touffe de 80 cm à 1 m de hauteur et garnies de feuilles oblongues, pointues, finement dentées. De juillet à septembre, longs épis de fleurs rose lilacé, très régulièrement insérés sur la hampe suivant quatre rangées, donnant à l'inflorescence la forme d'une pyramide à quatre angles. Elles présentent la curieuse particularité de ne pas reprendre immédiatement leur position initiale lorsqu'une pression du doigt les a déplacées.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>excellente plante vivace pour les sols humides et le bord des eaux.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols frais, à exposition ensoleillée ou mi-ombragée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- La multiplication s'effectue surtout par division des touffes à l'automne ou au printemps. - Le semis en mai-juin est possible. - Arrosez abondamment l'été en sol sec.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>massifs, taches de couleurs en sols frais et humides. Décoration du bord des eaux. Fleurs coupées de très bonne tenue.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Physostegia blanc</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

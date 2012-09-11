@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">VERVEINE AUBLETIA</taxon>
+    <parent type="genre">Verbena</parent>
+    <contenu>
+      <paragraphe>
+        <titre>VERVEINE AUBLETIA</titre>
+        <alinea>Annuelle, hauteur 20 cm, à tiges dressées ou couchées. Les fleurs en épis allongés, rose cramoisi, apparaissent de juillet à octobre. Excellente plante tapissante pour massifs et bordures.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>floraison très soutenue. Plante tapissante.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>Particularité de culture la germination des graines de verveine est délicate. Elle est favorisée par un séjour au froid de la graine. Placez donc votre sachet étanche de graines dans votre réfrigérateur pendant une quinzaine de jours avant d'effectuer le semis. N'oubliez pas de bien recouvrir les graines car la germination se fait à l'obscurité. 1) Semez en mars sous abri chaud, repiquez sous abri chaud et plantez à demeure en mai, à 25 cm d'écartement. La floraison a lieu de juin à octobre. 2) Semez en avril en pépinière sous châssis froid et mettez en place en juin, à 25 cm en tous sens. La floraison a lieu de fin juillet à octobre. Les verveines demandent des arrosages copieux en cours de végétation.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>les verveines comptent parmi les plus belles fleurs d'été. Elles constituent d'excellentes plantes de bordures, tapis fleuris et massifs. La verveine rugueuse, de même emploi, supporte très bien la sécheresse et les terrains calcaires.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Verveine aubletia</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

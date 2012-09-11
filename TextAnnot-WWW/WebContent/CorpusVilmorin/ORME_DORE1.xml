@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Ulmus carpinifolia 'Dampieri Aurea'</taxon>
+    <parent type="genre">Ulmus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ORME DORE</titre>
+        <alinea>Hauteur 4 à 6 m. Variété issue de la suivante, avec l'avantage sur celle-ci d'un beau feuillage doré. A isoler, en situation dégagée.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

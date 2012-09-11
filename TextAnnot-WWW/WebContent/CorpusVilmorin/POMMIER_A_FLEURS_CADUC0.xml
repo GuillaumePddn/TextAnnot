@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Malus</taxon>
+    <parent type="famille">Rosacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>POMMIER A FLEURS CADUC</titre>
+        <alinea>• Fleurit entre avril et juin • Fruits de septembre à décembre Elevés sur tige, les pommiers à fleurs sont de petits arbres (3 à 5 m) tout à fait indiqués pour les jardins petits ou moyens. Leur floraison printanière est spectaculaire et leur fructification, pour de nombreuses variétés, ajoute un élément décoratif indiscutable. Ils sont peu exigeants sur la qualité du sol, appréciant même un peu de calcaire. Ils sont généralement utilisés en isolé ou en petits groupes.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

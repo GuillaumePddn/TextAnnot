@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Pelargonium regale ou Pelargonium domesticum </taxon>
+    <parent type="genre">Pelargonium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PELARGONIUM A GRANDE FLEUR OU PELARGONIUM DES FLEURISTES</titre>
+        <alinea>C'est un pelargonium cultivé en pots pour la décoration des intérieurs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pelargonium des fleuristes</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

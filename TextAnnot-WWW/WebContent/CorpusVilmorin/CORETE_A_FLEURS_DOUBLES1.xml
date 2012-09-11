@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Kerria japonica</taxon>
+    <parent type="genre">Kerria</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CORETE A FLEURS DOUBLES</titre>
+        <alinea>Kerria japonica 'Pleniflora' Le plus connu. Hauteur 2 m environ. Petits pompons jaunes, très abondants. Très drageonnant, il se présente sous la fonne d'un ensemble dense de branches vertes, érigées, partant du sol et peu ramifiées, Les feuilles sont à nervures très apparentes, comme plissées, et d'un joli vert. La floraison succède généralement à celle du forsythia, mais elle est parfois plus précoce ou, au contraire, très prolongée, selon les conditions climatiques du printemps. Le corête du Japon a peu d'exigences quant au sol mais craint les expositions brûlantes, préférant une ombre légère. Très beau en isolé, il a aussi sa place dans les massifs, et peut éventuellement être palissé contre un mur au nord. La taille, après la floraison, a pour objet d'aérer la touffe. Elle se limite à la suppression des ramilles qui se dessèchent et des branches trop âgées.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Corète du Japon à fleurs doubles</titre_photo>
+        <fichier_photo_plante>p459_Corete_du_Japon_a_fleurs_doubles.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

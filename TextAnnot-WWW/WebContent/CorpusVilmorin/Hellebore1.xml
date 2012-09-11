@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Helleborus niger</taxon> 
+        <parent type = "genre">Helleborus</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Hellébore ou eose de Noël</titre>
+                <alinea>
+                Plante rustique, à souche fibreuse. Feuilles persistantes, vert foncé, dentées au sommet. Hampes florales de 20 à 30 cm, terminées par deux ou trois fleurs souvent penchées, de 5 à 6 cm de diamètre, blanc pâle lavé de rose, en forme d'églantine, apparaissant de décembre à mars. 11 existe une race hybride, issue de croisements entre plusieurs espèces, possédant plusieurs coloris : blanc, blanc rosé, rose teinté gris, vert clair et vert plus foncé. Elle est d'un bel effet en fleur coupée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 c'est l'une des rares fleurs à couper s'épanouissant en plein hiver au jardin.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 sols frais, à exposition semi-ombragée ou ombragée.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                multiplication par division de touffes au printemps ou à l'automne. Le semis permet d'obtenir en une année un plant vigoureux, mais il est assez difficile à réussir en raison de la très courte durée ger-minative des graines. Il doit avoir lieu dès la récolte de celles-ci, en août-septembre. La levée s'effectue avant l'hiver mais les plantes ne prennent de l'ampleur qu'au printemps.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                fleurs coupées. Plates-bandes, bordures, rocailles. L'hellébore peut être cultivée en pots. Elle se force alors très facilement en serre.
+                </alinea>
+            </paragraphe>
+         </contenu>
+        
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Tropaeolum minus 'Pirouette'</taxon>    
+    <parent type = "espece">Tropaeolum minus</parent>
+        <contenu>
+            <paragraphe>
+                <titre> CAPUCINE PIROUETTE</titre>
+                <alinea>  
+                    Race au port compact, très florifère, caractérisée par de grandes fleurs sans éperon, largement ouvertes vers le ciel et nettement au-dessus du feuillage vert clair. Cette particularité donne à la floraison un effet décoratif supérieur à celle de toutes les autres capucines naines.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+     <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Althaea rosea</taxon>
+    <parent type="genre">Althaea</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ROSE TREMIERE ROSEA ESPÈCE VIVACE</titre>
+        <alinea>  Communément appelée rose à bâton, cette plante a donné naissance à une grande série de variétés d'aspects divers aussi bien en taille qu'en couleurs. Leur caractéristique générale est d'émettre une longue tige très raide de 2 à 3 m de hauteur. Les fleurs s'épanouissent de juillet à septembre et paraissent appliquées sur celle-ci comme des pompons. La culture a amélioré ces plantes en leur donnant une duplicature plus ou moins poussée. Les variétés à fleurs semi-doubles, doubles ou pleines sont les plus recherchées. Les variétés doubles anglaises et écossaises se différencient des variétés françaises par leurs pétales extérieurs formant une collerette abondante. Les coloris varient du blanc au jaune et du rose au rouge sombre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>plante très rustique, à port érigé.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols profonds et sains, à exposition ensoleillée. Supporte le climat maritime.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) - Semez de mai à juillet en pépinière. - Repiquez en pépinière à 15 ou 20 cm quand les plantes ont quatre feuilles. - Mettez en place avec la motte en automne de préférence ou au printemps. Une mise en jauge est recommandée car elle permet la formation de chevelu et augmente ainsi les chances de reprise. 2) La division des pieds permet de reproduire fidèlement les belles variétés. Elle se fait à l'automne mais surtout au printemps. L'éclat qui doit être prélevé avec un fragment de collet est planté en terre saine pour éviter la pourriture. 3) Le bouturage est également possible à l'automne ou au printemps. Les boutures sont des rameaux herbacés se développant sur les souches ; elles sont mises en pots bien drainés placés sous châssis. La plantation se fait à 50 cm d'écartement.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>en groupes, cette plante permet de donner du relief aux compositions de plantes vivaces. Sert aussi à masquer une clôture, un mur lorsqu'elle est plantée en ligne. Fleurs coupées.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Rose trémière vivace à fleurs doubles variée</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Rose trémière annuelle 'Pastorale'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

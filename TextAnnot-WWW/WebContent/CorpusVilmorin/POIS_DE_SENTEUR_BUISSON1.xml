@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lathyrus odoratus</taxon>
+    <parent type="genre">Pois de senteur</parent>
+    <contenu>
+      <paragraphe>
+        <titre>POIS DE SENTEUR BUISSON</titre>
+        <alinea>Races demi-naines De 50 à 70 cm de hauteur  Ne demande pas de tuteurage et couvre le sol pour composer des massifs très florifères. Ses longues hampes florales conviennent aussi très bien pour la fleur à couper.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pois de senteur Buisson varié</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

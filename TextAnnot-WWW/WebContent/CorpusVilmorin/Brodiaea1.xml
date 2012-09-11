@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Brodiaea laxa</taxon>
+        <parent type = "genre">Brodiaea</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ADONE, ANNUELLE</titre>
+                <alinea>
+                    Plante à feuilles étroites et rubanées. Fleurs en forme d'étoile, groupées au sommet de tiges dressées de 40 à 50 cm.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    floraison printanière d'avril à juin.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols sains, frais, en situation ensoleillée, abritée. Redoute les hivers très rigoureux.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    plantez les bulbes de septembre à décembre, à 6 ou 8 cm de profondeur et à 15cm d'écartement. Dans les régions à hivers rigoureux, couvrir le sol de paille ou de feuilles mortes. Il est préférable de laisser les bulbes en place pendant plusieurs années. Ils formeront de très belles touffes.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     massifs, plates-bandes, rocailles. Fleurs coupées. Culture en pot possible.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

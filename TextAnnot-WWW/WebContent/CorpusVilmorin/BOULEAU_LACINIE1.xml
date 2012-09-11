@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Betula pendula 'Dalecarlica'</taxon>
+    <parent type="genre">Betula</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BOULEAU LACINIE</titre>
+        <alinea> Hauteur 8 à 10 m. Arbre élancé aux ramilles secondaires retombantes ; son port élégant est d'aspect très léger, grâce à ses feuilles finement découpées. A isoler.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

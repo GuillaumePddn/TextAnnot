@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">MAÏS ORNEMENTAL</taxon>
+    <parent type="genre">Zea mays</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MAÏS ORNEMENTAL ANNUELLE</titre>
+        <alinea>Des variétés de maïs au feuillage décoratif ou aux épis diversement colorés ont leur place parmi les plantes ornementales. Hautes de 1,20 m à 1,50 m en moyenne, elles ont une végétation identique à celle des maïs potagers.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>aspect décoratif du feuillage. Coloration originale des épis.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>toutes terres, à exposition chaude et ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez en place, en mai-juin, en poquets espacés de 40 cm. - Placez trois graines par trou et ne laissez ensuite que la plantule la plus vigoureuse. - Vous pouvez aussi semer en avril en pots placés sous abri ou à exposition très chaude et mettre en place en mai.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>les maïs décoratifs peuvent constituer des groupes très pittoresques sur pelouse. Ils peuvent aussi combler des vides dans les massifs d'arbustes durant les premières années de plantation. Les épis aux grains colorés, après avoir été dépouillés des spathes qui les entourent (celles-ci pouvant être déployées en forme de corolle) entrent dans la composition de bouquets secs d'hiver.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Maïs</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

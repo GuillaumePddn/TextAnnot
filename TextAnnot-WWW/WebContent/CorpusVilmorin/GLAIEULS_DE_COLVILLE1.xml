@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Gladiolus colvillei </taxon>
+    <parent type="genre">Gladiolus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GLAÏEULS DE COLVILLE</titre>
+        <alinea>Glaïeuls à planter à l'automne. Espèce hâtive, haute de 70 cm. Dans le type, la fleur large et bien ouverte est violette et grise avec de jolies taches jaunes sur les pétales inférieurs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>floraison printanière.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols sains, à exposition chaude et ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>les glaïeuls de Colville ne peuvent se planter en pleine terre que dans le Midi ou dans les régions à hivers très doux et à condition d'être protégés contre le gel. - Plantez en octobre-novembre à 10 cm de profondeur et à 10 cm de distance, en lignes ou en groupes. - Les bulbes peuvent être arrachés après la floraison ou laissés en place. - Ces glaïeuls peuvent aussi être plantés en pots ou en caissettes et hivernes à l'abri du gel.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>fleurs coupées.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Glaïeul de Colville blanc à macule jaune clair</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Glaïeul de Colville rose tendre à gorge plus claire</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

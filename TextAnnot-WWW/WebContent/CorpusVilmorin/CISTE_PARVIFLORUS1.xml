@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Cistus parviflorus</taxon>
+    <parent type="genre">Cistus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CISTE PARVIFLORUS</titre>
+        <alinea> Hauteur 0,60 à 1 m. Feuilles grisâtres. Fleurs roses.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

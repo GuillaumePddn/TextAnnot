@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Gilia tricolor</taxon>
+    <parent type="genre">Gilia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GILIA TRICOLORE ANNUELLE</titre>
+        <alinea>Plante de 40 cm de haut formant des touffes étalées, très ramifiées. Fleurs légèrement odorantes, à pétales d'un mauve plus intense sur le bord et à gorge pourpre, réunies en cymes au sommet des rameaux ; elles s'épanouissent de mai à août suivant la date du semis. Il en existe des variétés à fleurs roses, bleues, et blanches, ainsi que des variétés naines, de 25 cm de hauteur.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez en mars-avril en place, éclaircissez à 15 cm. - Floraison en juillet-août.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>peut constituer de très jolies bordures mais sa floraison est un peu brève pour cet usage et c'est lorsqu'il est cultivé en pot qu'il est le mieux apprécié.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Gilia tricolore</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

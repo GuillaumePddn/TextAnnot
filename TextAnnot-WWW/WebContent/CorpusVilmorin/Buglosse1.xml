@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Anchusa italica</taxon>
+    <parent type = "genre">Anchusa</parent>
+        <contenu>
+            <paragraphe>
+                <titre>BUGLOSSE D'ITALIE</titre>
+                <alinea>
+                 ou Anchusa azurea
+                 Plante bisannuelle formant de fortes touffes pyramidales de 1 m à 1,50 m, à longues tiges ramifiées. Fleurs en cymes allongées, d'un beau bleu, assez semblables à celle des myosotis, mais beaucoup plus grandes. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    fleurs d'un très beau bleu s'épanouissant de mai à août.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                   terres fraîches et profondes sans excès d'humidité. Très rustique, pousse même sur les talus calcaires.  
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    semez en juin et mettez en place à l'automne, à 50 cm de distance. Protégez de l'hiver par une couverture de feuilles sèches ou de paille, à enlever dans les premiers beaux jours.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     en groupes sur gazon et dans les plates-bandes, sur les talus et dans les endroits secs. Les fleurs coupées se tiennent très bien dans l'eau, et leurs longues tiges se prêtent bien à la garniture des grands vases.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Buglosse d'Italie
+            </titre_photo> 
+            <fichier_photo_plante>
+                p263_Buglosse_d_Italie.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

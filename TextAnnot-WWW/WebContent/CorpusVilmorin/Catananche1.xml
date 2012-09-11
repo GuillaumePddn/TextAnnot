@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Catananche caerulea</taxon>
+        <parent type = "genre">Catananche</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CATANANCHE, VIVACE</titre>
+                <alinea>
+                    Cette plante, connue aussi sous le nom de "cupidone", est indigène dans les régions méditerranéennes. Ses feuilles étroites, disposées en rosette, sont d'un vert gris. Ses longues tiges grêles et ramifiées portent, à leur extrémité, des fleurs en capitules bleu clair à centre pourpre. La hauteur de la plante fleurie est de 60 à 70 cm. Il en existe une variété blanche.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    plante prospérant en sol sec et calcaire.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols légers, même secs et calcaires, à exposition ensoleillée. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    les touffes dépérissant assez rapidement, il est préférable de la cultiver comme une plante bisannuelle.
+                    - Le semis s'effectue en pépinière en juillet.
+                    - La mise en place peut être faite dès l'automne après un repiquage en pépinière. La floraison se produit de juin à août.
+                    - Des plantes issues d'un semis fait sous châssis en mars peuvent fleurir dès l'automne suivant.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     bien que sa floraison soit d'assez courte durée, la catananche peut être utilisée pour la décoration des lieux secs et ensoleillés. Ses fleurs ont la particularité de se fermer l'après-midi.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+     <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

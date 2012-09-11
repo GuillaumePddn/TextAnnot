@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Fuchsia magellanica Riccartonii</taxon>
+    <parent type="genre">Fuchsia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>FUCHSIA RICCARTONM</titre>
+        <alinea> Hauteur 1 à 1,50 m et plus. Ravissant petit arbuste à floraison prolongée se plaisant à mi-ombre. Rameaux érigés, fins, souples, à feuilles ovales. Fleurs allongées très nombreuses, pendantes longs sépales rouges, étroits, découvrant à peine, à l'épanouissement, des pétales violet  pourpré d'où sortent de longues étamines rouges. Ce fuchsia est parfaitement rustique dans l'Ouest où il constitue, avec le temps, de belles touffes. Dans les régions plus froides comme e bassin parisien, les branches gèlent en hiver et doivent être coupées au ras du sol. Une épaisse couche (20 à 30 cm) de feuilles mortes, de paille ou  de tourbe protège la souche qui repousse au printemps. Il prospère en toute bonne terre de jardin et sa floraison abondante et de longue durée en fait une plante de choix à isoler ou à inclure, soit dans la rocaille, soit dans une plate-bande de plantes vivaces.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Allium</taxon>
+        <parent type = "famille">Liliaceae</parent>
+    <contenu>
+        <paragraphe>
+            <titre>AIL D'ORNEMENT, BULBEUSE</titre>
+            <alinea>
+                Plusieurs espèces d'ail font partie des plantes ornementales. Elles diffèrent par leur taille, leur feuillage, la forme et la couleur de leurs fleurs. Rustiques, elles poussent facilement.
+            </alinea>
+        </paragraphe>
+        <paragraphe>
+            <titre>Attrait / Intérêt</titre>
+            <alinea>
+                effet décoratif de leurs curieuses inflorescences.
+            </alinea>
+        </paragraphe>
+         <paragraphe>
+            <titre>Sol / Exposition </titre>
+            <alinea>
+                sols bien drainés, à exposition ensoleillée.
+            </alinea>
+        </paragraphe>
+        <paragraphe>
+            <titre> Culture  </titre>
+            <alinea>
+                la plantation des aulx s'effectue de septembre à décembre en recouvrant les bulbes de trois à quatre fois leur hauteur. Ces plantes sont considérées comme des vivaces et il est recommandé de les laisser en place pendant plusieurs années pour profiter pleinement de leur floraison. Les plantes les plus hautes seront tuteurées, surtout en situation ventée. Après la floraison, coupez les ombelles fanées en laissant les tiges. Celles-ci se dessécheront progressivement et seront supprimées à l'automne.
+            </alinea>
+        </paragraphe>
+   </contenu>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

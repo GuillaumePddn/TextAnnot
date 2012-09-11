@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Aquilegia coerulea 'Météore'</taxon>    
+    <parent type = "espece">Aquilegia coerulea</parent>
+        <contenu>
+            <paragraphe>
+                <titre>'Météore'</titre>
+                <alinea>
+                     Hauteur 80 cm, à fleur géante variée. La grandeur de ses éperons divergents, qui atteignent souvent 10 cm de longueur donne une grande légèreté aux fleurs. Gamme de coloris très étendue : bleu, blanc, jaune, rose, cramoisi, écarlate.
+                </alinea>
+            </paragraphe>
+         </contenu>
+   
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

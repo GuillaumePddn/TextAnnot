@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Ornithogale</taxon>
+    <parent type="famille">Liliacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ORNITHOGALE BULBEUSE</titre>
+        <alinea>Plante vivace, bulbeuse, à feuillage linéaire charnu ; fleurs blanches, portées sur une hampe rigide et dressée, réunies à l'extrémité en grappes allongées. Parmi la centaine d'espèces de ce genre nous citerons</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

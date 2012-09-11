@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Anemone hupehensis 'September Charm'</taxon>    
+    <parent type = "espece">Anemone hupehensis</parent>
+        <contenu>
+            <paragraphe>
+                <titre>'September Charm'</titre>
+                <alinea>
+                     La variété 'September Charm' est la plus courante : les fleurs sont rose tendre. Variété très florifère.
+                </alinea>
+            </paragraphe>
+         </contenu>
+     <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Anémone 'September Charm'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p251_Anemone__September_Charm_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+   
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

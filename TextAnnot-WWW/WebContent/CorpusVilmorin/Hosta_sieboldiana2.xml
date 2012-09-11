@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Hosta sieboldiana</taxon> 
+        <parent type = "genre">Hosta</parent>
+        <contenu>
+            <paragraphe>
+                <titre>G</titre>
+                <alinea>
+                Plante rustique, en touffes de 30 à 50 cm, à feuillage décoratif. Fleurs bleues ou blanches portées par des tiges de 25 à 50 cm selon les variétés.
+                À feuilles gaufrées et bleutées. Fleurs blanches en clochettes.
+                Floraison en juillet.</alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                plante prospérant bien à l'ombre, à feuillage souvent élégamment panaché et à floraison de longue durée (juin à août).    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 terres légères, fraîches, à mi ombre ou à l'ombre. Prospère bien en terre de bruyère.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                 facile.
+                 - La multiplication se fait par divisions de touffes, en mars-avril. 
+                 Plantation à 40 cm d'écartement. Les couleurs des feuillages panachés sont plus vives et plus marquées lorsque les plantes sont cultivées à l'ombre.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                bordures à mi-ombre, massifs de sous-bois, rocailles humides, touffes sur les gazons. Culture en pots ou en bacs possible.
+                </alinea>
+            </paragraphe>
+         </contenu>
+        <photos_plante>
+            <photo_plante>
+                <titre_photo>
+                    Hosta sieboldiana
+                </titre_photo> 
+                <fichier_photo_plante>
+                    p296_Hosta_sieboldiana.jpg
+                </fichier_photo_plante>
+            </photo_plante>
+        </photos_plante>
+        
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

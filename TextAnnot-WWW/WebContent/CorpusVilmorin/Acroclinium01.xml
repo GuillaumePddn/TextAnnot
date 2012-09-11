@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete"></taxon>    
+    <parent type = "espece"></parent>
+        <contenu>
+            <paragraphe>
+                <titre>Acroclinium double à fleur géante varié</titre>
+                <alinea>Hauteur 50 cm, coloris blanc, rose et rouge.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+   <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

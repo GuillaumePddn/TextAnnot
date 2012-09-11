@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Plumbago larpentae ou Ceratostigma plumbaginoïdes</taxon>
+    <parent type="genre">Plumbago</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PLUMBAGO VIVACE</titre>
+        <alinea>Plante de 25 à 30 cm de hauteur, aux tiges couchées, puis dressées, en touffes. Fleurs tubuleuses, bleu cobalt passant au violet, de septembre aux gelées.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>Excellente plante couvre-sol à floraison automnale.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terres légèrement argileuses, à exposition chaude et ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>multiplication par division de touffes au printemps. Dans le Nord de la France, il est bon de le protéger l'hiver avec des feuilles sèches.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>plante tapissante pour talus, rocailles, surtout en climat chaud. Culture en pots possible.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Plumbago</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

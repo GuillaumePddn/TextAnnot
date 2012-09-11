@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Ranunculus asiaticus</taxon>
+   <parent type="famille">Renonculacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>RENONCULE DES JARDINS BULBEUSE</titre>
+        <alinea>Les renoncules n'ont pas de bulbe proprement dit mais un rhizome charnu et divisé, fascicule, appelé "griffe". Fleurs de forme régulière allant du blanc au brun par le jaune, l'orange et le rouge, quel- quefois bordées irrégulièrement, flammées ou striées, portées par des tiges simples, dressées, parfois ramifiées, de 20 à 30 cm de hauteur.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.owl-ontologies.com/OntologiePorts.owl#"
+    xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+    xmlns:xsp="http://www.owl-ontologies.com/2005/08/07/xsp.owl#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+    xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xml:base="http://www.owl-ontologies.com/OntologiePorts.owl">
+  <owl:Ontology rdf:about="http://www.owl-ontologies.com/OntologiePorts.owl"/>
+  <owl:Class rdf:ID="PortErige">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="PortHauteurHaut"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">erigé</rdfs:label>
+    <rdfs:label xml:lang="fr">érigé</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PortHauteurBas">
+    <rdfs:label xml:lang="fr">port vers le bas</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="PortHauteur"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="PortAmple">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="PortLargeur"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">ample</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PortOvale">
+    <rdfs:label xml:lang="fr">ovale</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="PortFormeGeometrique"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="PortEtale">
+    <rdfs:label xml:lang="fr"
+    >étalé</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PortLargeur"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="PortRampant">
+    <rdfs:subClassOf rdf:resource="#PortHauteurBas"/>
+    <rdfs:label xml:lang="fr">rampant</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#PortHauteur">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="Port"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr"
+    >hauteur du port</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#PortFormeGeometrique">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="PortForme"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="PortLarge">
+    <rdfs:label xml:lang="fr">large</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PortLargeur"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="PortSpherique">
+    <rdfs:label xml:lang="fr">sphérique</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#PortFormeGeometrique"/>
+  </owl:Class>
+  <owl:Class rdf:ID="PortTouffu">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="PortDensite"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">touffe</rdfs:label>
+    <rdfs:label xml:lang="fr">touffu</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PortCompact">
+    <rdfs:label xml:lang="fr">compact</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PortDensite"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="PortRamifie">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PortLargeur"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">ramifié</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PortEvase">
+    <rdfs:label xml:lang="fr">évasé</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PortLargeur"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="PortFormeObjet">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PortForme"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="PortAllonge">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PortHauteurHaut"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr"
+    >allongé</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PortElance">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PortHauteurHaut"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr"
+    >élancé</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PortCouronne">
+    <rdfs:subClassOf rdf:resource="#PortFormeObjet"/>
+    <rdfs:label xml:lang="fr">couronne</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PortRetombant">
+    <rdfs:subClassOf rdf:resource="#PortHauteurBas"/>
+    <rdfs:label xml:lang="fr"
+    >retombant</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PortArque">
+    <rdfs:label xml:lang="fr">arqué</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#PortFormeGeometrique"/>
+  </owl:Class>
+  <owl:Class rdf:ID="PortDresse">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PortHauteurHaut"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr">dressé</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PortBoule">
+    <rdfs:label xml:lang="fr">boule</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#PortFormeGeometrique"/>
+  </owl:Class>
+  <owl:Class rdf:ID="PortGrimpant">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PortHauteurHaut"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr"
+    >grimpant</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#PortHauteurHaut">
+    <rdfs:subClassOf rdf:resource="#PortHauteur"/>
+    <rdfs:label xml:lang="fr">port vers le haut</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#PortLargeur">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Port"/>
+    </rdfs:subClassOf>
+    <rdfs:label xml:lang="fr"
+    >largeur du port</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PortCylindrique">
+    <rdfs:label xml:lang="fr">cylindrique</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#PortFormeGeometrique"/>
+  </owl:Class>
+  <owl:Class rdf:ID="PortSpirale">
+    <rdfs:subClassOf rdf:resource="#PortFormeGeometrique"/>
+    <rdfs:label xml:lang="fr">spirale</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PortColonnaire">
+    <rdfs:subClassOf rdf:resource="#PortFormeObjet"/>
+    <rdfs:label xml:lang="fr">colonnaire</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PortPyramidal">
+    <rdfs:subClassOf rdf:resource="#PortFormeGeometrique"/>
+    <rdfs:label xml:lang="fr">pyramidal</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PortEventail">
+    <rdfs:subClassOf rdf:resource="#PortFormeObjet"/>
+    <rdfs:label xml:lang="fr">éventail</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#PortDensite">
+    <rdfs:label xml:lang="fr"
+    >densité de port</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Port"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#PortForme">
+    <rdfs:label xml:lang="fr"
+    >forme du port</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Port"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="PortBuissonnant">
+    <rdfs:label xml:lang="fr">buisson</rdfs:label>
+    <rdfs:label xml:lang="fr">buissonnant</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#PortDensite"/>
+  </owl:Class>
+  <owl:Class rdf:ID="PortDense">
+    <rdfs:label xml:lang="fr">dense</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#PortDensite"/>
+  </owl:Class>
+  <owl:Class rdf:ID="PortMontant">
+    <rdfs:label xml:lang="fr">montant</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#PortHauteurHaut"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Port">
+    <rdfs:label xml:lang="fr">port</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PortArrondi">
+    <rdfs:subClassOf rdf:resource="#PortFormeGeometrique"/>
+    <rdfs:label xml:lang="fr">arrondi</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PortConique">
+    <rdfs:subClassOf rdf:resource="#PortFormeGeometrique"/>
+    <rdfs:label xml:lang="fr">conique</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PortCouvreSol">
+    <rdfs:subClassOf rdf:resource="#PortHauteurBas"/>
+    <rdfs:label xml:lang="fr">couvre-sol</rdfs:label>
+  </owl:Class>
+  <owl:ObjectProperty rdf:ID="aPourLargeurDePort">
+    <rdfs:range rdf:resource="#PortLargeur"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:ID="aPourFormeDePort">
+    <rdfs:range rdf:resource="#PortForme"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:ID="aPourHauteurDePort">
+    <rdfs:range rdf:resource="#PortHauteur"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:ID="aPourDensiteDePort">
+    <rdfs:range rdf:resource="#PortDensite"/>
+  </owl:ObjectProperty>
+</rdf:RDF>
+
+<!-- Created with Protege (with OWL Plugin 3.4.4, Build 579)  http://protege.stanford.edu -->

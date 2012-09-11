@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lilium longiflorum </taxon>
+    <parent type="genre">Lilium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LIS LONGIFLORUM</titre>
+        <alinea>Haut de 60 à 90 cm, il donne en juin-juillet trois fleurs et plus, en tube allongé, horizontales, très odorantes. C'est le très beau lis en cornet des fleuristes. Bien que non rustique et ne faisant pas partie des lis de jardin, il méritait d'être mentionné.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lis longiflorum</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

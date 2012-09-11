@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Pois de senteur</taxon>
+    <parent type="famille">Légumineuses</parent>
+    <contenu>
+      <paragraphe>
+        <titre>POIS DE SENTEUR ANNUELLE</titre>
+        <alinea>Plante grimpante, demi-naine ou naine, rustique, aux grandes fleurs odorantes en fonne de papillon, réunies par deux à six à l'extrémité d'un long pédoncule raide et mince et s'épanouissant de juin-juillet à août. Il en existe plusieurs races aux tons purs ou légèrement dégradés et qui ont la douceur, l'intensité et la fraîcheur des plus telles orchidées, du blanc pur au violet en passant par le saumon et le rouge.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Acer negundo</taxon>
+    <parent type="genre">Acer</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ERABLE NEGUNDO</titre>
+        <alinea> Hauteur 6 à 8 m. Arbre vigoureux et de crois- sance rapide, à rameaux verts et cassants, à feuilles composées de 5 à 7 folioles. Les variétés panachées, vigoureuses (4 à 5 m), sont plus largement répandues.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

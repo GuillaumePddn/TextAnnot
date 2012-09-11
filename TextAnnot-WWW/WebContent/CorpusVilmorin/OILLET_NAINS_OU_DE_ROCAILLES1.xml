@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Dianthus deltoïdes ou alpina</taxon>
+    <parent type="genre">Dianthus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ŒILLET NAINS OU DE ROCAILLES</titre>
+        <alinea> Ce sont des espèces montagnardes de petite taille.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>très grande floribondité. Végétation tapissante.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, même secs et calcaires, à exposition ensoleillée. Supportent le climat maritime.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1 ) Pour les espèces vivaces, semez en pépinière en mai-juin, repiquez en pépinière ou en pots et mettez en place en octobre, à 20 cm d'écartement, ou laissez fleurir en pots. Floraison de mai à juillet l'année suivante. 2) Les variétés annuelles se cultivent comme les œillets des fleuristes annuels avec des dates de semis correspondant à la période de floraison désirée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>ces petits œillets servent essentiellement à la décoration de rocailles, talus, murets fleuris bien ensoleillés.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Œillet nain deltoïde</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Œillet nain des Alpes</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Adonis aestivalis</taxon>
+        <parent type = "genre">Adonis</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ADONIDE D'ETE, ANNUELLE</titre>
+                <alinea>SYN. GOUTTE DE SANG
+                    Plante buissonnante de 30 à 50 cm, aux feuilles très découpées, élégantes.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    en mai-juin, fleurs rouge sang intense marquées d'une tache noire à la base des pétales.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    terres fertiles, saines. Exposition ensoleillée ou mi-ombragée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    facile. Semez directement en place.
+                    1) En mars-avril pour floraison en juin-juillet. 
+                    2) En septembre pour floraison en mai-juin. Ce dernier semis donne des plantes plus développées et florifères. 
+                    Dans les 2 cas, éclaircissez à 15-20 cm.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     pour bordures et rocailles.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Adonide d'été
+            </titre_photo> 
+            <fichier_photo_plante>
+                p244_Adonide_d_ete.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

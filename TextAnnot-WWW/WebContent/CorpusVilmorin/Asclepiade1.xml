@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Asclepias incarnata</taxon>
+    <parent type = "genre">Asclepias</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ASCLEPIAS INCARNATA</titre>
+                <alinea>
+                    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    touffe évasée de plus d'un mètre de hauteur. Les feuilles lancéolées sont glauques, les fleurs étoilées sont roses, rouges ou blanches, disposées en cyme de juin à août. Elles dégagent un agréable parfum de vanille.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    humifère en milieu marécageux.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    le semis peut s'effectuer en avril-mai, en pépinière, avec mise en place en juillet-août à 50 cm en tous sens mais, le plus souvent, la multiplication s'effectue par division de touffes au printemps.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     plate-bande, bord de pièce d'eau.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Asclepias incarnata
+            </titre_photo> 
+            <fichier_photo_plante>
+                p254_Asciepias_incarnata.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Ceanothus impressus 'Puget Blue'</taxon>
+    <parent type="genre">Ceanothus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CEANOTHE PUGETBLUE</titre>
+        <alinea> Hauteur 0,80 à 1 m. Port compact. Petites feuilles vert foncé. Fleurs bleu foncé en petits bouquets, en mai.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+	<photos_plante>
+      <photo_plante>
+        <titre_photo>Céanothe__Puget_Blue_</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

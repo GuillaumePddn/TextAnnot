@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Kolkwitzia amabilis</taxon>
+    <parent type="genre">Kolkwitzia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>KOLKWITZIA CADUC</titre>
+        <alinea>• Fleurit en mai-juin Hauteur 1,50 à 2,50 m. Il s'agit là de l'un des plus beaux arbustes d'ornement, hélas trop méconnu. Avec ses branches souplement arquées qui lui donnent un port buissonnant et arrondi, le kolkwitzia est magnifique lorsqu'il se couvre d'une multitude de fleurs roses à gorge jaune. Voisines de celles du weigelia, ces fleurs sont en fonne de clochettes évasées, terminées par cinq lobes largement ouverts. Les variétés 'Pink Cloud' et 'Rosea' ont des fleurs un peu plus colorées.  Le kolkwitzia est un arbuste de culture facile, acceptant toute terre de jardin même calcaire, de préférence en plein soleil. Sa beauté justifie son emploi en isolé. La taille, effectuée juste après la floraison, consiste à aérer la touffe en supprimant les branches les plus anciennes sans nuire au port de l'arbuste.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Kolkwitzia</titre_photo>
+        <fichier_photo_plante>p459_Kolkwitzia.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

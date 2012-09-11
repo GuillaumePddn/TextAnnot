@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Symphoricarpos albus</taxon>
+    <parent type="genre">Symphoricarpos</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SYMPHORINE CADUC</titre>
+        <alinea>• Fruits en automne-hiver  Hauteur 1,20 à 1,50 m. La symphorine blanche est un petit arbuste très drageonnant, à rameaux fins, peu ramifiés, portant des feuilles ovales. Les fleurs, en petits glomé-rules, sont sans intérêt mais sont suivies de fruits blancs de 1 cm de diamètre environ, que l'on découvre à la chute des feuilles et qui persistent tout l'hiver. Des variétés, issues d'autres espèces, sont également cultivées.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>• 'Hancock' Excellent couvre-sol en situation ombragée ; branches étalées et fruits à la fois rouges et blancs. • 'Magic Berry' 0,80 à 1 m, à port souple, à fruits rose carminé très abondants. • 'Mother of Pearl' 1,50 à 1,80 m, est chargé en automne de fruits blanc rosé, qui font ployer les branches. • 'White Hedge' 1,20 à 1,50 m, a un port érigé qui lui permet de constituer naturellement une haie compacte. Petits fruits blancs.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>Les symphorines concourent, avec d'autres espèces, à la création de massifs d'arbustes, même sous un couvert assez dense. On en fait aussi des haies sommairement taillées. Elles acceptent tous les sols mais préfèrent les terrains frais.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Symphorine 'Hancock'</titre_photo>
+        <fichier_photo_plante>p473_Symphorine__Hancock_.jpg</fichier_photo_plante>
+      </photo_plante>
+       <photo_plante>
+        <titre_photo>Symphorine 'Mother of Pearl'</titre_photo>
+        <fichier_photo_plante>p473_Symphorine__Mother_of_Pearl_.jpg</fichier_photo_plante>
+      </photo_plante>
+   </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

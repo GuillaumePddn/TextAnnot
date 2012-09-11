@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lavandula stoechas</taxon>
+    <parent type="genre">Lavandula</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LAVANDE PAPILLON</titre>
+        <alinea>Lavandula stoechas 'Pedunculata' Hauteur 50 à 60 cm. Feuillage gris vert. Floraison en épis violets très originaux, car surmontés de longues bractées, d'avril à juin.  La lavande, en dehors de son emploi industriel pour le parfum, est très décorative dans une rocaille ou dans une plate-bande de plantes vivaces. On peut aussi en faire de jolies bordures. Elle prospère en toute terre de jardin, de préférence calcaire, caillouteuse et sèche. Taillez à la fin de la floraison, à la cisaille, juste au-dessus de la touffe de feuilles.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lavande papillon</titre_photo>
+        <fichier_photo_plante>p462_Lavande_papillon.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

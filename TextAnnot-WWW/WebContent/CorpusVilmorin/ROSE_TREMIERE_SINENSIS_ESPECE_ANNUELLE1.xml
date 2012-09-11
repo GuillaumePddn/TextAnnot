@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Althaea sinensis </taxon>
+    <parent type="genre">Althaea</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ROSE TREMIERE SINENSIS ESPÈCE ANNUELLE</titre>
+        <alinea>Cette espèce est moins haute que la précédente, (1 m à 1,50 m), à fleurs moins grandes et généralement moins doubles.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>identique à la rose trémière vivace. Floraison de juillet à septembre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) - Semez en mars-avril sous abri et mettez en place en mai, à 50 cm d'écartement. - La floraison a lieu de juillet à septembre. 2) Cette espèce peut également être cultivée comme une plante bisannuelle pour avancer la floraison. Semez alors de juillet à août. Repiquez en pépinière et mettez en place en mars, à 50 cm d'écartement. La floraison a lieu de juin à août.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>en massifs, en lignes, en groupes. Peut être plantée dans des massifs de vivaces pour combler un vide passager.</alinea>
+      </paragraphe>
+    </contenu>
+        <photos_plante>
+      <photo_plante>
+        <titre_photo>Rose trémière annuelle Simple noire</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

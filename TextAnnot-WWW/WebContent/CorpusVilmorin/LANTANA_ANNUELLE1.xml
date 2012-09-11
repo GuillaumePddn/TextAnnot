@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lantana</taxon>
+    <parent type="genre">Lantana</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LANTANA ANNUELLE</titre>
+        <alinea>Verbénacées  Plante annuelle, vivace en serre, atteignant 30 à 60 cm dans l'année mais qui, conservée en serre, s'élève en buisson jusqu'à 1,50 m. Tige ligneuse, ramifiée et dressée. Feuilles rudes, ovales, dentelées. Fleurs nombreuses, réunies en capitules arrondis dépassant les feuilles. Dans l'espèce type, Lantana camara, les fleurs ont jaune pâle, passant au jaune doré, puis à l'orangé au fur et à mesure que la floraison s'avance. Ont été obtenues, à partir de cette espèce, des variétés cultivées sous le nom de lantanas hybrides qui offrent les coloris blanc pur, rose, lilas, rouge, avec toutes les teintes intermédiaires. Tous ces coloris, sauf le blanc, se nuancent de teintes chamoisées vers la fin de la floraison.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>excellente plante à massifs et corbeilles. Floraison juillet à octobre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols secs, même calcaires, en situation ensoleillée très chaude. Supporte le climat maritime.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Semez en février-mars, en pots ou terrines, sous abri chauffé ; repiquez quand le plant est muni de quatre feuilles, en godets aérez graduellement et mettez en place fin mai, à 40 cm d'écartement. Floraison de juillet à octobre. 2) Hivernez les pieds mères en pots placés en serre tempérée. Bouturez en serre à multiplication en mars-avril. Repiquez en godets sous abri chaud, puis sous châssis froid, sans enterrer, pour provoquer une floraison rapide. Pincez pour faire ramifier. Plantez en mai, à 40 cm environ.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>plantation de fond des massifs et corbeilles. Réussit très bien dans le Midi de la France. Cultivé en pots, il fleurit tout l'hiver en serre tempérée ou dans tout local très clair, modérément chauffé. Enfin, il peut être élevé sur tige comme les fuchsias et les héliotropes.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lantana camara</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Lantana hybride</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

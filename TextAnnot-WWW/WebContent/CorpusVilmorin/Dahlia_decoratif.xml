@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="espece">Dahlia décoratifs</taxon> 
+    <parent type = "genre">Dahlia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>G</titre>
+                <alinea>
+                Fleurs doubles, à pétales larges et plats se recourbant extérieurement, à l'encontre des dahlias cactus. Elles sont bien supportées par des pédoncules rigides.
+                Hauteur:   1 m à 1,40 m.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Dahlia décoratif
+            </titre_photo> 
+            <fichier_photo_plante>
+                p283_Dahlia_decoratif.jpeg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

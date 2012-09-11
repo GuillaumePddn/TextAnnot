@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Colutea arborescens</taxon>
+    <parent type="genre">Colutea arborescens</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BAGUENAUDIER CADUC</titre>
+        <alinea>Fleurit en juin. Fruits de juillet à octobre. Hauteur 2 à 3 m. Arbuste à port arrondi, à feuilles composées pennées, vert clair. Les fleurs jaunes, en grappes, apparaissent sur les pousses de l'année, en juin, puis en juillet août, mais elles sont alors plus rares. Elles sont suivies de fruits curieux en forme de vésicule: vertes, puis bronzées, qui éclatent lorsqu'on les presse entre les doigts. Arbuste intéressant pour les endroits secs et pierreux, calcaires de préférence et ensoleillés. Il permet de garnir les talus ou de réaliser des couverts à gibier. Formé en tige, c'est un arbuste très décoratif.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Baguenaudier</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

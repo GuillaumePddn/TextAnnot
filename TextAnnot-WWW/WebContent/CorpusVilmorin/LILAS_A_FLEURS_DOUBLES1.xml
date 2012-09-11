@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Syringa</taxon>
+    <parent type="genre">Syringa vulgaris</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LILAS A FLEURS DOUBLES</titre>
+        <alinea>Les lilas sont souvent plantés en isolé ou en groupes, mais aussi, étant donné leur grande vigueur, sous forme de rideaux de verdure. Ils entrent également dans la composition de massifs d'arbustes. Ils prospèrent en toute bonne terre de jardin, même calcaire, et supportent une ombre légère. La végétation est quasiment terminée en fin de floraison ; la taille se limite à lasuppression des fleurs fanées. La cueillette des bouquets peut faire office de taille si on répartit de manière équitable les coupes. De toute façon, au boutde 10 ou 15 ans, si l'arbuste est par trop dégarni de la base, il est possible de "rabattre" très court en hiver, sur de grosses branches on ne supprime ensuite que la floraison du printemps suivant. En dehors du lilas commun, d'autres espèces et variétés sont proposées par les pépiniéristes et présentent un grand intérêt</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>
+• 'Belle de Nancy' rose satiné. 
+• 'Condorcet' bleu foncé. 
+• 'Katherine Havemeyer' bleu et mauve. 
+• 'Madame Lemoine' blanc. 
+• 'Mrs Edward Harding' rouge carminé et rose, etc.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lilas 'Belle de Nancy'</titre_photo>
+        <fichier_photo_plante>p462_Lilas__Belle_de_Nancy_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

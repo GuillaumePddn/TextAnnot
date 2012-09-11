@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Musa ensete</taxon>
+    <parent type="genre">Musa</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BANANIER D ABYSSINIE</titre>
+        <alinea>Musa ensete = Ensete ventricosum. Plante susceptible d'atteindre 4 à 5 m de hauteur en plein air. Le tronc est formé par les gaines des feuilles qui, gardant un port dressé, peuvent atteindre 3 à 4 m de long et 70 à 80 cm La variété Montbeliardii présente des pétiole: pourpre foncé ; le revers des feuilles est rougeâtre.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Bananier d'Abyssinie</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Liatris spicata</taxon>
+    <parent type="genre">Liatris</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LIATRIS VIVACE</titre>
+        <alinea>Plante à souche tubéreuse formant une touffe de tiges raides, de 60 à 80 cm de hauteur, densément garnies de feuilles très étroites et allongées, vert foncé. À partir de fin juin, elles se terminent par des épis serrés, composés de petits capitules rose violacé qui ont la particularité de s'épanouir successivement du haut vers le bas. La suppression des inflorescences "passées" stimule la floraison jusqu'en automne.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>floraison estivale prolongée. Originalité de l'épanouissement "descendant" des fleurs le long des épis. Sol/ Exposition sols argilo-siliceux frais, à exposition ensoleillée ou mi-ombragée, aux bords des eaux si le drainage est suffisant.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Multiplication par division de touffes, en mars-avril de préférence (peut également se faire à l'automne). - Replantez les éclats à 40 ou 50 cm de distance. Arrosez abondamment pendant les périodes sèches. - Pendant l'hiver, aucune partie aérienne de la plante ne subsiste. Il est utile de diviser les touffes tous les trois ou quatre ans.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>en plates-bandes, en massifs, en association avec d'autres plantes vivaces. Floraison des bords des ruisseaux. Fleurs coupées de très bonne tenue.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Liatris</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

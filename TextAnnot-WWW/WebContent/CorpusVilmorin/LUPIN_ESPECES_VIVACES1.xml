@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lupinus polyphyllus</taxon>
+    <parent type="genre">Lupinus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LUPIN ESPÈCES VIVACES</titre>
+        <alinea>L'espèce type - Lupinus polyphyllus (Lupin polyphylle) formant d'amples touffes de 1 m à 1,30 m, couvertes d'épis de 50 cm de long, dans les coloris carmin, lavande, rose, bleu et blanc, a donné naissance à la race Lupin polyphylle de Russel hvbride, de loin la plus cultivée.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

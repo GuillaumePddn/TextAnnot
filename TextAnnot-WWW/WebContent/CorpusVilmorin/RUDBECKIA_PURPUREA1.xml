@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Rudbeckia purpurea</taxon>
+    <parent type="genre">Rudbeckia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>RUDBECKIA PURPUREA</titre>
+        <alinea> ou Echinacea purpurea Plante rustique, de 70 cm à 1 m de hauteur, à tiges ramifiées dans le haut. Feuilles rugueuses, dentées. Grandes fleurs ressemblant à certains soleils, rouge foncé à centre globuleux. Floraison de juillet à octobre.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Rudbeckia purpurea</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

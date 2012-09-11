@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Amaryllis, BULBEUSE-VIVACE</taxon>
+        <parent type = "famille"> Amaryllidaceae </parent>
+        <contenu>
+            <paragraphe>
+                <titre>AMARYLLIS</titre>
+                <alinea>
+                Une seule espèce appartient à ce genre. Il s'agit de l'Amaryllis belladonna. Les amaryllis cultivés en pots à l'intérieur sont, en fait, des hippeastrum.
+                </alinea>
+             </paragraphe>               
+        </contenu>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

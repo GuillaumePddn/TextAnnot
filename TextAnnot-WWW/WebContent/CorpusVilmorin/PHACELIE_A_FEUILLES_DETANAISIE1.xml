@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Phacelia tanacetifolia</taxon>
+    <parent type="genre">Phacélie</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PHACELIE A FEUILLES DETANAISIE</titre>
+        <alinea> Plante de 40 à 60 cm de hauteur, à fleurs bleu clair, légèrement grisâtres, groupées en longues grappes roulées en dehors et se redressant en s'allongeant à mesure que la floraison s'effectue.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>semez clair en place en avril, la phacélie ne supportant pas la transplantation.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>le port trapu de la Phacelia campanularia la destine tout spécialement à la plantation en pots qui permet d'admirer de près le bleu splendide des fleurs. Le Phacelia tanacetifolia, de moindre intérêt ornemental, est surtout cultivé en tant que plante mellifère car il est très apprécié des abeilles.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Phacélie à feuilles de Tanaisie</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

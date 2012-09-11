@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Syringa vulgaris</taxon>
+    <parent type="genre">Syringa</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LILAS COMMUN</titre>
+        <alinea>Syringa vulgaris Hauteur 3 à 5 m. Arbuste vigoureux, comptant parmi les plus populaires, en raison de sa floraison abondante et délicieusement parfumée. Feuilles vert clair en fonne de cœur, fleurs en grappes à l'extrémité des rameaux. Leur coloris est souvent difficile à définir, surtout dans certaines tonalités, car il varie du début à la fin de l'épanouissement. Depuis longtemps, il a été créé plusieurs centaines de variétés de lilas ; quelques-unes pammi les premières obtentions sont encore commercialisées.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

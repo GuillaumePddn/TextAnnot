@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Betula pendula 'Youngii'</taxon>
+    <parent type="genre">Betula</parent>
+    <contenu>
+      <paragraphe>
+        <titre>BOULEAU PLEUREUR DE YOUNG</titre>
+        <alinea>Sa hauteur est celle de la tige sur laquelle il a été greffé. En effet, à l'inverse du précédent, cet arbre n'a pas de flèche toutes les branches "pleurent" le long du tronc, et il est nécessaire, au départ, de les guider pour les écarter plus ou moins si on veut dégager une sorte de tonnelle naturelle au pied de l'arbre. Comme le précédent, ce bouleau pleureur doit être isolé, par exemple près du "coin repos" ou au bord d'une pièce d'eau.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Bouleau pleureur de Young</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

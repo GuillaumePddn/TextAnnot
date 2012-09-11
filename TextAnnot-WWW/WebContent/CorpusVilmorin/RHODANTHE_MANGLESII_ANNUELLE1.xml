@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Rhodanthe Manglesii 'Maculata'</taxon>
+    <parent type="genre">Helipterum manglesii</parent>
+    <contenu>
+      <paragraphe>
+        <titre>RHODANTHE MANGLESII ANNUELLE</titre>
+        <alinea>La variété Rhodanthe Manglesii 'Maculata', de 50 cm de hauteur, de coloris plus marqué, présente un anneau rose vif entourant un disque jaune.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>production de fleurs séchées.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, même pauvres, mais bien drainés, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Semez en mars sous abri, en terre de bruyère, repiquez également en terre de bruyère ou en terreau de feuilles bien consommé, et mettez en place en mai, à 20 cm d'écartement ou laissez fleurir en pots. 2) Semez en avril-mai sur place, en terre légère ou en terre de bruyère sableuse et humeuse et éclaircissez à 20 cm. Arrosez fréquemment en été.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>le rhodanthe est surtout utilisé de la même manière que les immortelles, pour la confection de bouquets secs. Coupez les fleurs destinées à être séchées avant leur complet épanouissement et suspendez-les, la tête en bas, dans un endroit frais et aéré.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Rhodante manglesii</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

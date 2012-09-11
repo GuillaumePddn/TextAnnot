@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Gazania Splendens</taxon>
+    <parent type="genre">Gazania</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GAZANIA VIVACE</titre>
+        <alinea>Plante vivace sous le climat méditerranéen, à cultiver comme annuelle dans la plupart des autres régions. A tige ramifiée, étalée, haute de 20 cm. Feuilles vert foncé à revers blanchâtre ; fleur solitaire en capitule radié, variant du jaune clair à l'orangé, la base des ligules étant maculée de blanc et auréolée de noir. Des travaux d'hybridation et de sélection ont permis l'obtention de variétés aux tons brun, rouge, rose pourpre, etc.  Attrait/Intérêt gamme de couleurs chaudes et attractives. Larges fleurs ayant le maximum d'éclat en plein soleil. Durée de la floraison.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>pour tous sols, même secs et calcaires, à exposition chaude et très ensoleillée. Supporte le climat maritime.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Semez en pépinière en août, repiquez en godets bien drainés, en terre sableuse et humifère et hivernez sous châssis froid mais protégé du gel. 2) Semez en février, sous abri ou en serre, repiquez sous châssis. Dans les deux cas, plantez seulement lorsque tout risque de gel est écarté. On peut aussi bouturer en juillet-août, à l'étouffée, dans du sable et hiverner comme ci-dessus.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>groupes fleuris, bordures, rocailles. tes meilleurs résultats sont obtenus à exposition chaude et très ensoleillée. Les fleurs de gazania ne s'ouvrent qu'en plein soleil. Files ont la particularité de se refermer la nuit.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>• Dynastar Hybride Fl, mélange de coloris très lumineux, 25 cm.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Gazania</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

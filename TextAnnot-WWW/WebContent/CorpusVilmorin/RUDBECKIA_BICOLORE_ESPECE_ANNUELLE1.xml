@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Rudbeckia Bicolore</taxon>
+    <parent type="genre">Rudbeckia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>RUDBECKIA BICOLORE ESPÈCE ANNUELLE</titre>
+        <alinea>Plante haute de 30 à 60 cm, très ramifiée. Fleurs à deux ou trois rangs de ligules jaune d'or, à base brune, disque brun terne.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>floraison abondante de juillet à octobre. Espèce de bonne tenue, bien régulière.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Semez en mars-avril sous châssis et mettez en place en mai, à 50 cm de distance. 2) La culture en plante bisannuelle, avec semis d'automne permet d'obtenir des fleurs plus grandes et plus précoces semez en septembre, repiquez en pépinière à chaude exposition et mettez en place au printemps, à 50 cm d'écartement.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>excellentes plantes à massifs. Fleurs coupées.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>• Rudbeckia 'Marmelade'. Jaune orangé à centre noir. Hauteur 45 cm • Rudbeckia 'Spotlight'. Pour pots et jardinières. Hauteur 25 cm.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Rudbeckia 'Marmelade'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Rudbeckia 'Spotlight'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

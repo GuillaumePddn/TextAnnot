@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Papaver alpinum</taxon>
+    <parent type="genre">Pavot</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PAVOT DES ALPES ESPÈCES VIVACES</titre>
+        <alinea> Espèce rappelant la précédente, mais de toute petite taille, aux teintes pastel variées. Pour rocailles.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Ageratum houstonianum</taxon>
+        <parent type = "genre">Ageratum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>AGERATUM DU MEXIQUE, ANNUELLE </titre>
+                <alinea>
+                    Plante basse à tiges très rameuses dès la base. Feuilles duveteuses. Fleurs réunies en corym-be, presque en boule, formant des pompons pelucheux. Le coloris bleu domine mais il existe des variétés à fleurs roses ou blanches. 
+                </alinea>
+            </paragraphe>
+             <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    plante à massif par excellence en raison de l'abondance et de la durée de sa floraison.
+                    Très beaux coloris bleus. 
+                </alinea>
+            </paragraphe>
+             <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols frais en situation ensoleillée.
+                </alinea>
+            </paragraphe>
+             <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                assez facile. Multiplication par semis. 
+                1) En février-mars au chaud ; repiquez et mettez en place en mai à 25/30 cm de distance.
+                2) En avril en pépinière bien exposée.
+                Repiquez en pépinière et mettez en place en juin à 25/30 cm de distance.
+                </alinea>
+            </paragraphe>
+             <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     plates-bandes, massifs et bordures.
+                     Les agératums s'associent particulièrement bien avec d'autres plantes annuelles à floraison estivale telles que : œillets d'Inde, sauges à fleurs rouges, bégonias de semis, etc.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Agératum
+            </titre_photo> 
+            <fichier_photo_plante>
+                p245_Ageratum.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

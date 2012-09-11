@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Hydrangea aspera ssp. sargentiana</taxon>
+    <parent type="genre">Hydrangea</parent>
+    <contenu>
+      <paragraphe>
+        <titre>HYDRANGEA SARGENTIANA</titre>
+        <alinea> Hauteur 2 à 3 m. Grand arbuste à longues feuilles caduques. Grandes inflorescences plates violettes et blanches de juillet à octobre.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Hydrangea aspera ssp. sargentiana</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

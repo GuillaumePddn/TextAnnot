@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Dianthus barbatus</taxon>
+    <parent type="genre">Dianthus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ŒILLET DE POETE</titre>
+        <alinea> Vivace mais cultivé comme bisannuel, il présente des tiges ramifiées atteignant 30 à 40 cm de hauteur, à feuilles larges, à fleurs petites, réunies en grand nombre en corymbes arrondis, formant un bouquet parfait. Elles sont simples ou doubles, unicolores, maculées, panachées, de coloris allant du blanc au pourpre noir en passant par le rouge et le violet.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>la variété des coloris. Très bonne tenue de la fleur.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols bien drainés, calcaires. Toutes expositions. Supporte le climat maritime.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez d'avril à juin en pépinière bien exposée. - Repiquez en pépinière à 10 cm de distance et mettez en place à l'automne de préférence, ou au printemps. Distance de plantation - 30 cm. -Les variétés naines s'élèvent parfaitement en pots.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>taches de couleurs dans des massifs, rocailles, bordures, jardinières. Fleurs coupées.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>Œillets de poète simples • 'Messager' varié très précoce, hauteur 50 cm. • 'Electron' varié oculé, à fleur géante, hauteur 60 cm. • 'Hirondelle' varié tient très bien en vase, hauteur 50 cm. Œillets de poète doubles • 'Double' varié hauteur 60 cm. Un peu plus tardif que l'œillet de Poète simple. • 'Pationata' hau</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Œillet de poète 'Hirondelle' varié</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Œillet de poète 'Pationata'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

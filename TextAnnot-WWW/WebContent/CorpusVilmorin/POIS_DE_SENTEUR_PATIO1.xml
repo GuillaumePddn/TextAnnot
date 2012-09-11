@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lathyrus odoratus</taxon>
+    <parent type="genre">Pois de senteur</parent>
+    <contenu>
+      <paragraphe>
+        <titre>POIS DE SENTEUR PATIO</titre>
+        <alinea>races naines 25 cm de hauteur. Race très naine, à port compact. Abondantes fleurs ondulées offrant une très riche palette de coloris. 11 existe aussi de nombreuses races de Pois de senteur adaptées à la culture forcée sous serre pour la production de fleurs coupées, mais elles ne présentent pas d'intérêt pour l'amateur.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>fleurs délicatement parfumées aux jolis coloris pastel.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>facile. Plusieurs possibilités vous sont offertes. 1 ) Semez en place, de février à avril, en lignes espacées de 40 cm ou en poquets de cinq à six graines tous les 25 cm. Floraison de fin juin à août, suivant date de semis. 2) Semez en septembre, de la même manière, mais seulement dans les régions où les rigueurs excessives de l'hiver ne sont pas à craindre (le pois de senteur ainsi semé ne supporte pas les températures inférieures à -8 ou -10°C). 3) Semez en octobre, à raison de cinq à six graines par pot de 8 cm. Les pots seront hiver-nés sous châssis éventuellement. Mettez en place en avril. La floraison a lieu aussi en juin si vous avez pris soin de protéger les plantes du gel.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>grâce à l'extrême diversité de ses coloris et au parfum délicat de ses fleurs, le pois de senteur est surtout cultivé pour la production de fleurs à couper. Il est nécessaire de cueillir les fleurs très fréquemment afin d'éviter la formation de graines si l'on veut prolonger la floraison. Les variétés naines ou demi-naines peuvent être cultivées en bordures ou tapis fleuris, mais c'est en pots que vous apprécierez le mieux leurs qualités car leur durée d'épanouissement est relativement courte.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

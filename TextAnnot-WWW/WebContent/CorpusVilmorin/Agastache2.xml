@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">AGASTACHE BARBERI</taxon>
+        <parent type = "genre">Agastache</parent>
+        <contenu>
+            <paragraphe>
+                <titre>AGASTACHE BARBERI</titre>
+                <alinea>
+                    Vivace buissonnant à feuillage aromatique. Hauteur : 60 cm, épis de 30 cm de long.
+                </alinea>
+            </paragraphe>
+            
+        </contenu>
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

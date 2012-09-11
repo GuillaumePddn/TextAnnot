@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Pâquerette à grandes fleurs</taxon>
+    <parent type="genre">Pâquerette</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PÂQUERETTE À GRANDES FLEURS</titre>
+        <alinea>Race à larges fleurs, de 5 cm de diamètre, excellente pour massifs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

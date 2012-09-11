@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Heliotropium peruvianum</taxon> 
+    <parent type = "genre">Heliotropium</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Héliotrope du Pérou</titre>
+                <alinea>
+                Plante annuelle, vivace en serre. Les tiges qui deviennent ligneuses atteignent de 30 à 60 cm. Les fleurs, réunies en ombelles, sont d'un bleu plus ou moins foncé et s'épanouissent sans arrêt de juillet à octobre. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 parfum pénétrant, couleur bleue.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                tous sols sains, à exposition ensoleillée. Supporte le climat maritime.
+    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                - Semez en mars-avril au chaud, repiquez en godets au chaud.
+                - Mettez en place en mai-juin, à 30 cm d'intervalle. La germination de l'héliotrope est parfois capricieuse.
+                - Le bouturage de pieds mères, hivernes en serre tempérée, est possible au printemps mais difficilement réalisable par l'amateur.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                l'héliotrope s'emploie dans les massifs où il apporte une note bleu foncé faisant ressortir le coloris des autres plantes. Placez-le à proximité de la maison pour bénéficier du remarquable parfum.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+  
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

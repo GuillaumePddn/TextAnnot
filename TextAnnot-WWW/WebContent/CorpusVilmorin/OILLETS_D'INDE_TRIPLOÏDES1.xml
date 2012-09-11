@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">ŒILLETS D'INDE TRIPLOÏDES</taxon>
+    <parent type="genre">Tagetes patula</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ŒILLETS D'INDE TRIPLOÏDES</titre>
+        <alinea>Avec l'arrivée des nouveaux hybrides Fl, récemment créés, on assiste à une révolution qui bouleverse la hiérarchie des espèces chez l'œillet d'Inde. De port extrêmement régulier, hauts de 30 à 35 cm, à très grosses fleurs, ces hybrides se caractérisent par une floraison très abondante et une remontée à fleurs permanente pendant tout l'été car ils ne produisent pas de graines. Ils concurrencent et surpassent les roses d'Inde naines.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) Œillets d'Inde non hybrides. Culture facile. - Semez en mars-avril sous châssis froid. - Repiquez de même et mettez en place en mai, à 20 cm d'écartement pour les variétés naines, et à 30/35 cm pour les variétés hautes. - Vous pouvez également semer en avril-mai en pépinière bien exposée pour mettre en place en juin. Arrosez copieusement lors de la transplantation pour assurer la reprise. - En cours de végétation, supprimez les fleurs fanées pour assurer la continuité de la floraison. 2) Œillets d'Inde hybrides Ils sont un peu plus exigeants en température au moment du semis et à l'état de jeunes plants. - Pour obtenir les meilleurs résultats, le semis doit s'effectuer à 18/20°C. Après la levée, la température avoisinera les 15°C ; la suite de la culture est exactement la même que celle des autres œillets d'Inde. - En cours de végétation, supprimez les fleurs fanées pour assurer la continuité de la floraison.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>les œillets d'Inde sont parmi les meilleures fleurs d'été pour la plantation de massifs et de groupes fleuris.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Œillet d'Inde Légende varié</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

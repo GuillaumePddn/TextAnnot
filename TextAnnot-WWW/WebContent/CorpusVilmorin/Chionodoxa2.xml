@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Chionodoxa luciliae</taxon>
+        <parent type = "genre">Chionodoxa</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CHIONODOXA LUCILIAE, BULBEUSE</titre>
+                <alinea>
+                    Petite plante de 15 cm de hauteur présentant quelque analogie avec la scille de Sibérie. Fleurs en épis de cinq à dix fleurs bleu outremer pâlissant jusqu'au blanc pur au centre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    très rustique. Petite taille. Floraison précoce. Joli coloris bleu.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    terres légères, perméables, de préférence ensoleillées. Supporte la mi-ombre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    plantez les petits bulbes de septembre à novembre à environ 5 cm de profondeur et à 10 ou 12 cm d'écartement. Vous avez intérêt à laisser les bulbes en place pendant plusieurs années : il se formera des touffes du plus brillant effet. Le chionodoxa peut aussi se forcer en appartement comme les crocus.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     sous-bois, bordures de massifs d'arbustes. Excellente plante de rocaille.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Chionodoxa luciliae
+            </titre_photo> 
+            <fichier_photo_plante>
+                p269_Chionodoxa_luciliae.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

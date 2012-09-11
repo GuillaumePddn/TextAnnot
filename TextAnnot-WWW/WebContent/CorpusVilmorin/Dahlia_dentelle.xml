@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="espece">Dahlia dentelle</taxon> 
+        <parent type = "genre">Dahlia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Dahlia cactus</titre>
+                <alinea>
+                Race à fleurs doubles, mais non en boule. Les pétales sont longs, enroulés sur eux-mêmes et pointus à l'extrémité. Ils sont rayonnants ou légèrement relevés ou bien très incurvés, la fleur prenant alors l'aspect de certains chrysanthèmes. 
+                Hauteur : 1 m à 1,40 m. 
+                Par suite de diverses hybridations, il a été obtenu des variétés semi-cactus, intermédiaires entre les deux catégories précédentes. Une forme à fleurs finement découpées en forme de frange (fimbriées) est appelée "dahlia dentelle".
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Dahlia cactus
+            </titre_photo> 
+            <fichier_photo_plante>
+                p283_Dahlia_cactus.jpeg
+            </fichier_photo_plante>
+        </photo_plante>
+        <photo_plante>
+            <titre_photo>
+                Dahlia dentelle
+            </titre_photo> 
+            <fichier_photo_plante>
+                p283_Dahlia_dentelle.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

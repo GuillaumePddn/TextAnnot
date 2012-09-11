@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Philadelphus</taxon>
+    <parent type="famille">Saxifragaceae</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SERINGAT CADUC</titre>
+        <alinea>• Fleurit en fin mai-juin Le seringat est un arbuste à port souple, à branches peu ramifiées garnies de feuilles ovales, à fleurs réunies en grappes, blanches, parfois marquées d'une tache rose peu visible. À part l'espèce coronarius, les seringats actuellement disponibles dans le commerce sont des variétés hybrides</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

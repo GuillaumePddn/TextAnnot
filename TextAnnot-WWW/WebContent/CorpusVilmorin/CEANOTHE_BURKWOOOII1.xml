@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Ceanothus x burkwoodii</taxon>
+    <parent type="genre">Ceanothus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CEANOTHE BURKWOOOII</titre>
+        <alinea> Hauteur 1,50 à 2 m. Petites feuilles brillantes, vert foncé. Fleurs bleu lilas en petites panicules, de juillet à septembre.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

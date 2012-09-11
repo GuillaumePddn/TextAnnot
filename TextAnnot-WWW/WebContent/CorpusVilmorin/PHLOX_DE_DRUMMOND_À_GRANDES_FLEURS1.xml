@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Phlox de Drummond à grandes fleurs</taxon>
+    <parent type="genre">Phlox</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PHLOX DE DRUMMOND À GRANDES FLEURS</titre>
+        <alinea>Haute de 35 à 40 cm, cette race se distingue par l'étendue de sa gamme de coloris qui varient du blanc au violet en passant par différents roses, cramoisi et vermillon. En opposition avec ces tons brillants, on trouve également des nuances très délicates telles que rose cramoisi, jaune isabelle, couleur chair. De plus, certaines variétés présentent, au cœur de la fleur, une étoile plus foncée, une étoile plus claire, ou un œil blanc ; enfin on peut même trouver cette double combinaison sur la même fleur, si bien que la diversité des coloris s'étend à l'infini.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Phlox de Drummond à grandes fleurs</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

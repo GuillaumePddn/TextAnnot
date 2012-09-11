@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Brugmansia</taxon>
+    <parent type="genre">Datura</parent>
+    <contenu>
+      <paragraphe>
+        <titre>DATURA SEMI PERSISTANT</titre>
+        <alinea>• Fleurit de mai à octobre. Hauteur 1,20 à 1,50 m. Plante de climat doux résistant à -4°c environ. Arbuste érigé aux grandes feuilles semi-persistantes à caduc. Les fleurs en forme de longues trompettes pendantes apparaissent de mai à octobre. Très bel effet en bac. Nous pouvons citer les espèces suivantes • Brugmansia aurea fleurs jaunes • Brugmansia sanguinea fleurs jaune d'or bordées de rouge • Brugmansia candida fleurs blanches 11 existe aussi des variétés saumon ou à fleurs doubles.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Datura</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

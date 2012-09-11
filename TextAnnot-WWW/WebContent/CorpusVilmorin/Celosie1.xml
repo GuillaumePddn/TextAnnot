@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Celosia argentea</taxon>
+        <parent type = "genre">Celosia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CELOSIE, ANNUELLE</titre>
+                <alinea>
+                    Plante formant de fortes touffes d'où émergent des tiges dressées, terminées par un panache plumeux composé d'une multitude de petites fleurs du plus brillant effet dans les coloris cramoisi, feu, jaune d'or, pourpre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    la richesse des coloris et aspect original de la floraison.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols sains, riches en humus, à exposition ensoleillée. Redoute le calcaire. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    - Semez en mars-avril sous abri,
+                    - Repiquez à 10 cm d'écartement
+                    - Mettez en place fin mai à bonne exposition, à 25 cm d'écartement pour Celosia Fon-tana naine et à 35 cm pour Celosia Pampas Plume.
+                    - arrosez copieusement au pied pendant les chaleurs.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     massifs et plates-bandes. Également potées fleuries pour la variété naine.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Chrysanthemum pacificum</taxon>    
+    <parent type = "genre">Chrysanthemum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>CHRYSANTHEMUM PACIFICUM ou AJANIA PACIFICA, VIVACE</titre>
+                <alinea>
+                Petit arbuste de 30 cm de hauteur. Le feuillage vert et persistant est bordé de blanc argenté. Les fleurs sont groupées en pompons jaunes. La floraison est automnale d'octobre à novembre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                en massifs ou en potées fleuries. Il craint les fortes gelées et l'excès d'humidité.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Chrysanthemum pacificum
+            </titre_photo> 
+            <fichier_photo_plante>
+                p271_Chrysanthemum_pacificum.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

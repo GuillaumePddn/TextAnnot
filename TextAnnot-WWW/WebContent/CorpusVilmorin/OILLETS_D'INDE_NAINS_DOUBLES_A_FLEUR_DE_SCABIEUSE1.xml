@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Légende</taxon>
+    <parent type="genre">Tagetes patula</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ŒILLETS D'INDE NAINS DOUBLES A FLEUR DE SCABIEUSE</titre>
+        <alinea>Hauteur - 20 à 30 cm, fleur le plus souvent unicolore ou parfois bicolore, comprenant une collerette extérieure de larges pétales, frisés et tuyautés, comme ceux des fleurs de scabieuse. Le cœur peut être de couleur identique ou différente de la couronne périphérique. Cette race comprend de nombreuses variétés de taille basse et de végétation compacte, propres à constituer des bordures.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>• 'Légende' - cette race surclasse toutes les variétés d'oeillets d'Inde classiques par sa vigueur et par la grandeur de ses fleurs, très doubles, qui couvrent littéralement le feuillage tout au long de la belle saison. Hauteur - 25 à 30 cm.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

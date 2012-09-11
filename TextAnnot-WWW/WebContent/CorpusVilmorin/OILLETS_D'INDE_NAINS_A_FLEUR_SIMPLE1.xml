@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Légion d'honneur</taxon>
+    <parent type="genre">Tagetes patula</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ŒILLETS D'INDE NAINS A FLEUR SIMPLE</titre>
+        <alinea>Hauteur - 20 à 30 cm. Les capitules sont composés d'une seule rangée de pétales plats entourant le cœur occupé par de nombreuses étamines.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>• 'Légion d'honneur'. 25 cm, jaune d'or et pourpre • 'Miniature' varié. Hauteur - 20 à 30 cm. Fleurs simples allant du jaune clair à l'orange foncé.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

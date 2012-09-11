@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Ulmus glabra 'Horizontalis'</taxon>
+    <parent type="genre">Ulmus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ORME PLEUREUR</titre>
+        <alinea>Hauteur 4 à 6 m. Les branches se développent, d'abord horizontalement puis s'arquent gracieusement vers le sol ; c'est donc un excellent arbre d'ombrage à planter dans le « coin repos » du jardin. Les ormes sont malheureusement sujets à une très grave maladie, la "graphiose de l'orme", affection actuellement sans remède. Des variétés résistantes apparaissent sur le marché.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Orme pleureur</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

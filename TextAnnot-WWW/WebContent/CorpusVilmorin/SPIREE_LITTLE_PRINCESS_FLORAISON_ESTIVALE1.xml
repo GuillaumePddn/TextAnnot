@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Spiraea japonica</taxon>
+    <parent type="genre">Spiraea</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SPIREE LITTLE PRINCESS FLORAISON ESTIVALE</titre>
+        <alinea>Spiraea japonica 'Little Princess' Hauteur 20 à 30 cm. Petite touffe dense se couvrant en été de fleurs rose clair. Convient tout spécialement pour la rocaille.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Spirée 'Little Princess</titre_photo>
+        <fichier_photo_plante>p472_Spiree__Little_Princess_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

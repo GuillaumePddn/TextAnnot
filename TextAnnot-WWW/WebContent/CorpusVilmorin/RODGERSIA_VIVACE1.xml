@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Rodgersia</taxon>
+    <parent type="genre">Rodgersia aesculifolia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>RODGERSIA VIVACE</titre>
+        <alinea>Genre comprenant plusieurs espèces rustiques, rhizomateuses, dont les hampes florales sont de 80 cm à 1,80 m de hauteur. Les feuilles de Rodgersia aesculifolia sont analogues à celles du marronnier d'Inde.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>ampleur du feuillage. Élégance de la floraison.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols frais, siliceux, à mi-ombre en situation abritée. Redoute les sols calcaires.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>la multiplication se fait par division des rhizomes en mars-avril. Plantez de préférence en terre riche en matière organique bien décomposée et arrosez abondamment pendant la période de végétation.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>bordures de grands massifs de vivaces. En isolé, à mi-ombre.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Rodgersia</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

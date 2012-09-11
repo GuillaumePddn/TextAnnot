@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Setaria macrochaeta</taxon>
+    <parent type="genre">GRAMINEES ORNEMENTALES</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SETAIRE A GROSSE BARBE</titre>
+        <alinea> Hauteur 1 m. Annuel. Gros épi dense, hérissi de barbes assez longues, formant comme ur goupillon, de couleur vert clair.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>beaucoup d'espèces possèdent de; graines plumeuses, très menues, qui s'emmêlent entre elles et sont assez difficiles à séparer. - Semez de préférence celles-ci en terrine ou caissette, en avril, sous châssis, dans un mélange par tiers de terreau, sable et tourbe - Répartissez les graines le plus régulièrement possible et couvrez-les de 5 mm de mélange terreux. - Après la germination, qui est rapide, repiquez en pépinière et plantez en mai, en rangs espacés de 50 cm à 1 m, suivant la taille des espèces en cause. La distance sur la ligne, entre les plantes, doit être environ égale à la moitié de la hauteur qu'elles atteindront. - Semez les espèces à grosses graines non plumeuses en place ou, mieux, en pépinière fin avril et, dans ce dernier cas, plantez en mai, comme ci-dessus.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>certaines espèces à port pittoresque et à développement assez important peuvent trouver place parmi les bordures d'arbustes et de fleurs vivaces ou être plantées en isolé sur pelouse (Pennisetum, Setaria). Toutefois, la destination principale des inflorescences de ces graminées est le séchage en vue de l'utilisation en bouquets secs, seules ou en association avec les acrocliniums, colo- quintes, boules azurées, immortelles, lunaires, maïs, physalis, statices et autres fleurs convenant à cet usage. Dans ce cas, la cueillette doit être faite lorsque les épis sont complètement développés mais avant que les petites fleurs qui les constituent ne s'ouvrent complètement ; coupez lorsque les premières de celles-ci (généralement celles de la base des épis) laissent sortir leurs étamines. Réunissez les tiges par petites bottes, sans les serrer, et entourez-les d'un cornet de papier pour les protéger de la poussière. Suspendez chaque botte tête en bas dans un local bien aéré, si possible obscur, jusqu'à complète dessiccation. Conservez ensuite en cartons jusqu'à l'utilisation.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Setaria macrochaeta</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

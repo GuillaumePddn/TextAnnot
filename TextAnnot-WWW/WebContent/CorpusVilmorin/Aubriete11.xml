@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Aubrieta x cultorum 'Manon'</taxon>    
+    <parent type = "espece">Aubrieta x cultorum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Aubrieta x cultorum 'Manon' </titre>
+                <alinea> 
+                    à grande fleur, varié. Les coloris comprennent la gamme des bleus et violets, et des tons roses et rouges.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

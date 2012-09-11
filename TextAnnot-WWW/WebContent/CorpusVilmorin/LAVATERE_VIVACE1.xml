@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">LAVATERE VIVACE</taxon>
+    <parent type="genre">Lavatera</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LAVATERE VIVACE</titre>
+        <alinea>Ce sont des arbustes (hauteur 120 cm à 200 cm) mais ils figurent souvent dans les catalogues de plantes vivaces. Buisson ramifié à feuillage vert foncé.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>jolies fleurs en coupe à pétales échancrés, de juin à octobre.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>ensoleillée, en sol ordinaire.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>bouturez de juin à août. Jeunes plants disponibles dans le commerce en automne et au printemps.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>très intéressants pour structurer les massifs car ils bénéficient d'une floraison infatigable.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variétés</titre>
+        <alinea>• 'Barnsley' - fleurs blanc rosé. • Burgundy® 'Catbri' - fleurs rougeâtres (bourgogne). • Tce Cool' _ fleurs blanches. • Rosea - fleurs rose foncé.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lavatère 'Ice Cool'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Feijoa sellowiana</taxon>
+    <parent type="genre">Feijoa</parent>
+    <contenu>
+      <paragraphe>
+        <titre>FEIJOA PERSISTANT</titre>
+        <alinea>Fleurit en juin-juillet
+Peu rustique
+Voir aussi à "Arbres fruitiers". 
+Hauteur : 3 à 4 m. Arbuste à feuilles assez grandes, ovales, vert foncé luisant à revers argenté. Belles fleurs rouges en été. Dans le Midi seulement, le feijoa produit ses fruits, entre septembre et novembre : fruits parfumés et comestibles.
+Belle espèce, malheureusement peu rustique ; on peut cependant en risquer la plantation en situation chaude en région parisienne. Le feijoa se contente de toute bonne terre de jardin pas trop calcaire, mais exige beaucoup de soleil.
+</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Humulus japonicus</taxon> 
+        <parent type = "genre">Humulus</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Houblon du Japon Annuelle</titre>
+                <alinea>
+                Plante grimpante, rustique, à feuillage ornemental élégamment découpé, atteignant cinq à six mètres de haut. La variété panachée, tout aussi vigoureuse et rustique, est plus décorative, les feuilles étant colorées de blanc, de vert et de crème.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 aspect décoratif du feuillage. Rapidité de végétation.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 toutes terres calcaires ou argilo-siliceuses à sous-sol frais. Exposition ensoleillée.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                - Semez de mars à mai, en place ou en pépinière, en pleine terre.
+                - Mettez en place quand les plants sont assez développés, à 60 cm d'écartement.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                	garniture de treillages,
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Houblon du Japon
+            </titre_photo> 
+            <fichier_photo_plante>
+                p309_Houblon_du_Japon
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="variete">Mesembryanthemum  criniflorum 'Tapis magique'</taxon>    
+        <parent type = "espece">Mesembryanthemum  criniflorum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Mesembryanthemum  tricolorum 'Tapis magique' </titre>
+                <alinea> 
+                    Ficoïde 'Tapis magique' est la plus cultivée de l'espèce Ficoïde criniflorum.
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

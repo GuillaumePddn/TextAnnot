@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Armeria maritima</taxon>
+        <parent type = "genre">Armeria</parent>
+        <contenu>
+            <paragraphe>
+                <titre>GAZON D'ESPAGNE</titre>
+                <alinea>
+                    Plante gazonnante, en boule, d'un vert intense. Hampes florales de 10 à 15 cm de hauteur portant de petites fleurs roses, de mai à juin-juillet. Il en existe des variétés à fleur rouge, pourpre et blanche.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    plante tapissante très rustique.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous sols légers et sains, à exposition ensoleillée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    - semez d'avril à juin en pépinière, en terre de bruyère sableuse.
+                    - repiquez en pépinière et mettez en place en automne de préférence, ou au printemps, à 10 ou 15 cm de distance, en terre siliceuse, un peu fraîche, bien aérée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     la végétation compacte du gazon d'Espagne en fait une très bonne plante tapissante pour "l'engazonnement" des dallages et rocailles, ainsi que pour la décoration des murets fleuris.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Gazon d'Espagne
+            </titre_photo> 
+            <fichier_photo_plante>
+                p253_Gazon_d_Espagne.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

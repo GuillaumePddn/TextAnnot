@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Euonymus japonicus</taxon>
+    <parent type="genre">Euonymus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>FUSAIN DU JAPON</titre>
+        <alinea>Hauteur 2 à 3 m. Arbuste touffu, belles feuilles brillantes, ovales, vert foncé. Cette espèce est encore plus connue à travers ses variétés à feuillage panaché, soit de blanc ('Albomarginatus', 'Président Gauthier') soit de jaune ('Aureomarginatus', 'Duc d'Anjou'). Parfois cultivés en isole, les fusains du Japon panachés, supportant aisément la taille, sont le plus souvent utilisés pour constituer des haies. A peine rustiques en région parisienne, ils sont plus largement plantés dans l'Ouest. Ils résistent bien à la pollution mais sont sujets au blanc (Oïdium) et parfois attaqués par une cochenille qui peut causer leur dépérissement. Ils prospèrent en toute bonne terre de jardin fertile et humifère, au soleil ou à mi-ombre.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Fusain du Japon "Aureomarginatus"</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

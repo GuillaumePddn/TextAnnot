@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Daphne mezereum</taxon>
+    <parent type="genre">Daphne</parent>
+    <contenu>
+      <paragraphe>
+        <titre>DAPHNE MEZEREUM</titre>
+        <alinea> Hauteur 0,50 m à 1 m. Le bois joli ou bois gentil se présente sous forme de rameaux dressés, peu ou pas ramifiés, garnis, fin février-mars, sur une partie de leur longueur, de manchons de fleurs rose lilacé délicieusement parfumées. Parfois, les fleurs s'épanouissent dès le début de l'hiver. Les feuilles, vert clair, se développent ensuite, surtout à l'extrémité des branches.  es fruits, d'un beau rouge vif comme des groseilles, sont extrêmement toxiques et, pour cette raison, il est recommandé de ne pas planter de bois joli là où il y a de jeunes enfants. Le bois joli prospère en toute bonne terre de jardin siliceuse et humifère, mais il ne craint ni le calcaire ni la sécheresse. Sa floraison parfumée et hivernale le désigne pour être à proximité de la maison. De reprise difficile, il est préférable de le planter en motte.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

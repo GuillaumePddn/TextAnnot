@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="espece">Dahlia nain à fleurs doubles</taxon> 
+        <parent type = "genre">Dahlia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Dahlia nain à fleurs doubles</titre>
+                <alinea>
+                Plantes compactes de 50 à 60 cm de hauteur. Les fleurs, généralement moyennes ou petites, ressemblent à celles des dahlias mini décoratifs mais elles sont portées par des tiges plus courtes. Les nombreuses variétés de dahlias nains à fleurs doubles sont appréciées pour former de grandes masses unicolores dans les plates-bandes et massifs.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Dahlia nain à fleurs doubles
+            </titre_photo> 
+            <fichier_photo_plante>
+                p284_Dahlia_nain_a_fleurs_doubles.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

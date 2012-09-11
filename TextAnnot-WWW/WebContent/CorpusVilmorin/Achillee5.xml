@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Achillea tomentosa</taxon>
+    <parent type = "genre">Achillea</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ACHILLEA TOMENTOSA</titre>
+                <alinea>Plante à port étalé. Le feuillage est très découpé à lobes fins et velus, vert grisé. Les fleurs sont des petites ombelles jaune d'or.</alinea>
+            </paragraphe>        
+        </contenu>
+
+      <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Achillée tomentosa
+            </titre_photo> 
+            <fichier_photo_plante>
+                p243_Achillee_tomentosa.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+   
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

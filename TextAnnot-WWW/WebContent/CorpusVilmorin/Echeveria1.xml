@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Echeveria glauca major</taxon> 
+        <parent type = "genre">Echeveria</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Echeveria Vivace</titre>
+                <alinea>
+                Plante non rustique à feuilles charnues, vert-bleu, pruineuses, disposées en rosette pouvant atteindre 30 cm de diamètre et simulant un artichaut.
+                Les fleurs en grappes, recourbées en crosse, apparaissent sur des hampes nues de 20 à 25 cm émergeant de la rosette de feuilles. De forme curieuse, en forme de clochette, elles sont de couleur jaune orangé et la floraison s'étale de mai-juin à octobre-novembre.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                 beau feuillage vert-bleuté à l'aspect cireux. Durée de la floraison originale.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                  sols légers, et sableux, à exposition ensoleillée.  
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                 bien que cette plante non rustique se cultive en pot, ce n'est pas une plante d'appartement et c'est pourquoi nous la décrivons dans ce chapitre.
+                 - La multiplication se fait en mars-avril par bouturage en pot, sous châssis froid, de rejets qui poussent au pied de la plante mère hiver-née à l'abri du gel.
+                 - Laissez sécher la bouture à l'air pendant deux jours.
+                 - Plantez-la ensuite en terre légère et sableuse. L'enracinement est rapide et dès avril-mai, mettez votre plante à l'extérieur en situation ensoleillée, en la laissant dans son pot.
+                 - La floraison a lieu normalement en été mais peut ne pas se produire la première année. Arrosez généreusement.
+                 - En fin d'automne, hivernez la plante dans un local hors gel et bien éclairé où la température reste basse (5 à 8°C) et n'arrosez alors qu'avec parcimonie.
+                 - Au printemps suivant, en avril, rempotez dans le mélange précité et replacez votre échévéria à l'extérieur.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                cette plante sert au décor de balcons, murets, cours, terrasses, etc. pendant la belle saison. De nombreuses variétés naines d'échévéria que nous n'avons pas citées ici sont utilisées en mosaïculture.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

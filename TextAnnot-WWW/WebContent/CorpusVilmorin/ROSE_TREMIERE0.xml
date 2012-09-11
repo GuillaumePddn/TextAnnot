@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Althaea</taxon>
+    <parent type="famille">Malvacées</parent>
+    <contenu>
+      <paragraphe>
+		<titre>ROSE TREMIERE</titre>
+        <alinea>Nous décrirons deux espèces principales assez identiques par leur port et leur floraison mais se différenciant par leur cycle végétatif.</alinea>      
+		</paragraphe>
+		<maladies>
+      <maladie>
+        <nom_maladie>Rouille</nom_maladie>
+        <enonce>rganes attaqués : feuilles - symptômes : de petites taches saillantes d'un gris violacé devenant brun se forment - Traitement :  Maladies rosiers, arbustes et fleurs  </enonce>
+        <fichier_photo_maladie>ImageRoseTM.jpg</fichier_photo_maladie>
+      </maladie>
+    </maladies>
+    </contenu>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Papaver glaucum</taxon>
+    <parent type="genre">Pavot</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PAVOT TULIPE ESPÈCES ANNUELLES</titre>
+        <alinea>Rouge brillant à 4 macules noires, fleur en coupe, 50 cm.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>facile. - Semez de février à avril, en place de préférence, ou en pots et mettez en place sans diviser car les pavots annuels ne supportent pas le repiquage, - Eclaircissez à 20 cm d'écartement.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>très belles fleurs de grand diamètre aux jolis coloris.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, même secs, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>ils s'intègrent parfaitement dans les massifs rustiques mais leur floraison extrêmement brillante est de courte durée et il faut prévoir d'autres plantes pour les remplacer en cours de saison.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pavot tulipe 'Lady Bird'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

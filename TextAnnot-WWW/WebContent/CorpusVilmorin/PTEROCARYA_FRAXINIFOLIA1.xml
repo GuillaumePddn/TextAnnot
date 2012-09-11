@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Pterocarya caucasia = Pterocarya fraxinifolia</taxon>
+    <parent type="genre">Pterocarya</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PTEROCARYA CAUCASIA = PTEROCARYA FRAXINIFOLIA</titre>
+        <alinea> Hauteur 15 m et plus. Ses deux noms spécifiques nous renseignent, d'une part sur son origine, d'autre part, sur l'aspect de ses feuilles, composées pennées, qui ressemblent à celles du frêne, tout en étant plus grandes, et lui donnent un aspect exotique. Le pterocarya est un grand arbre, de croissance rapide, à cime arrondie, au tronc vite ramifié. Il porte en été des chatons de fleurs mâles et de longs chatons pendant de fleurs femelles qui sont suivis de fruits curieusement ailés persistant longtemps sur l'arbre. Il supporte mal les élagages. Le pterocarya se plaît dans les terrains frais même humides, ne redoutant que l'humidité stagnante. Il est, de ce fait, très employé au bord des rivières, ou pour assainir des terres trop humides.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pterocarya</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbre" />
+  </description>
+</fiche>
+

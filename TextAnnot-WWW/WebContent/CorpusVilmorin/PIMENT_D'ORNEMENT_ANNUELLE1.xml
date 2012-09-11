@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Capsicum annuum</taxon>
+    <parent type="genre">Piment d'ornement</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PIMENT D'ORNEMENT ANNUELLE</titre>
+        <alinea>Plante non rustique, de hauteur variable Proches parentes des variétés potagères, certaines races de piment sont cultivées poui l'ornement. Surtout élevées en pots pour le décor de la maison, elles ont cependant leui emploi pour orner, à la fin de l'été, terrasse; et balcons.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>fruits dressés très décoratifs par leur forme originale, leurs couleurs vives et leur longue persistance sur la plante.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terres riches en humus, à exposition chaude et ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez en mars, en serre et repiquez de même en caissettes dans un mélange de 2/3 de terreau, 1/3 de tourbe, plus un peu de sable. - Empotez en pots de 12 cm dans un mélange composé de moitié terreau, moitié terre de jardin. Les pots sont enterrés tout l'été au soleil jusqu'à leur rentrée à l'intérieur.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>"potées" pour le décor des balcons et terrasses, ainsi que pour celui de la maison (voir au chapitre "Le jardin d'intérieur"). Au sud de la Loire, utilisation possible en décoration de massifs pendant l'été.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Piment d'ornement</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

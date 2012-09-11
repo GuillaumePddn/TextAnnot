@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Alyssum maritimum</taxon>
+        <parent type = "genre">Alyssum</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ALYSSE ODORANT, ANNUELLE</titre>
+                <alinea>Alyssum maritimum ou Lobularia maritima
+                    Plante naine à végétation très rapide et tapissante.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    pour sa durée de floraison et son parfum très doux.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    sols sains, ensoleillés. Supporte le climat maritime.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    facile.
+                    1) Semez d'avril à juillet en place et éclaircissez en laissant 20 cm entre les pieds. Floraison de juillet à novembre.
+                    2) En climat doux, semez en septembre en pépinière bien abritée à l'abri des gelées et mettez en place en mars-avril. La floraison a lieu de mai à juillet.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     bordures, rocailles, jardinières. Plante mellifère.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Alysse 
+            </titre_photo> 
+            <fichier_photo_plante>
+                p247_Alysse.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

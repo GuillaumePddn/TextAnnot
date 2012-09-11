@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Hibiscus syriacus</taxon>
+    <parent type="famille">Malvacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ALTHEA</titre>
+        <alinea>Caduc. Fleurit de juillet à septembre. Hauteur 2 à 3 m en végétation libre. L'althaea est un des plus beaux arbustes à floraison estivale. Peu exigeant sur la nature du sol, l'althaea à fleurs doubles supporte même le calcaire. On le rencontre partout, dans les jardins ou dans les parcs. En situation ensoleillée et surtout lors des étés chauds, il fleurit abondamment et longuement. Comme il produit ses fleurs sur les pousses de l'année, la taille sévère qu'il subit au printemps ne contrarie pas cette floraison. On peut ainsi le conduire en haie, mais aussi en pyramide ou en boule sur une petite tige de 1 m à 1,20 m. Ses feuilles, qui apparaissent tardivement, sont lobées et dentées. Ses fleurs sont simples, semi-doubles ou doubles, assez grandes, semblables à celles de la rose trémière.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Allium giganteum</taxon>
+    <parent type = "genre">Allium</parent>
+        <contenu>
+            <paragraphe>
+                <titre>AIL GEANT </titre>
+                <alinea>
+                    Feuilles rubanées, larges et bleutées restant au ras du sol. En juin, s'épanouit une énorme fleur en boule, violet intense, portée par une tige de 1,20 m à 1,50 m.
+                    Gros bulbes à planter à 25 ou 30 cm de distance. 
+               </alinea>
+           </paragraphe>
+           <paragraphe>
+                <titre>Utilisation</titre> 
+                <alinea> 
+                    en isolé ou en groupe dans un massif. Fleurs coupées.
+                </alinea>
+            </paragraphe>
+        </contenu>
+        
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

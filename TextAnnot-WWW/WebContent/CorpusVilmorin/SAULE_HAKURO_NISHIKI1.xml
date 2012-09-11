@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Salix integro</taxon>
+    <parent type="genre">Salix</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SAULE HAKURO NISHIKI</titre>
+        <alinea>Salix integro 'Hakuro-Nishiki' = 'Albomaculata'  Hauteur 2 m. Nouvelles pousses très intéres- santes car rose crevette et crème au printemps. L'arbuste est vert et blanc en été.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Saule 'Hakuro Nishiki</titre_photo>
+        <fichier_photo_plante>p469_Saule__Hakuro_Nishiki_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

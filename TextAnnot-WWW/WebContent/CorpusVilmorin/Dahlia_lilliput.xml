@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="espece">Dahlia lilliput</taxon> 
+        <parent type = "genre">Dahlia</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Dahlia lilliput ou pompon</titre>
+                <alinea>
+                Fleurs à pétales tuyautés, petites, de 4 à 6 cm de diamètre, en pompon, d'une régularité de forme remarquable.
+                Extrêmement florifères. 
+                Hauteur 1 m à 1,20 m. Ces dahlias sont très utilisés pour la fleur coupée.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Dahlia lilliput ou pompon
+            </titre_photo> 
+            <fichier_photo_plante>
+                p283_Dahlia_pompon.jpeg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

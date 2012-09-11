@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Acidanthera murielae</taxon>    
+    <parent type = "genre">Acidanthera</parent>
+        <contenu>
+            <paragraphe>
+                <titre>GLAÏEUL D'ABYSSINIE (syn. bicolor)</titre>
+                <alinea>Rappelle le glaïeul par son port et son feuillage. Les fleurs sont réunies au sommet de tiges rigides.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>fleurs blanc pur à gorge tachée de pourpre, au parfum très délicat, de la fin de l'été au début d'automne.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>sol sablonneux, bien drainé à exposition ensoleillée abritée du vent.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>elle est identique à celle du glaïeul. Plantation à partir de mai, tous les 10 cm, à 10 ou 15 cm de profondeur.
+                    L'acidanthera n'est pas rustique, les bulbes sont arrachés avant les gelées pour être conservés pendant l'hiver au sec.
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>arrière ou milieu de massifs, fleurs à couper.</alinea>
+            </paragraphe>
+         </contenu>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

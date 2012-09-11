@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Clerodendrum trichotomum</taxon>
+    <parent type="genre">Clerodendrum</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CLERODENDRON TRICHOTOMUM</titre>
+        <alinea> Hauteur 3 à 4 m. Arbuste vigoureux, dressé. Les feuilles, froissées, ont une odeur désagréable. Les fleurs, groupées, blanches, agréablement parfumées, sont suivies de très jolis petits fruits bleus, semblables à des perles de porcelaine, entourés du calice persistant de la fleur et qui devient rouge. Cette fructification extraordinaire constitue le principal intérêt du clérodendron planté dans les massifs d'arbustes en situation chaude et ensoleillée et en terrains profonds et frais. La taille n'intervient que pour limiter son développement.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Clérodendron_trichotomum</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+          </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

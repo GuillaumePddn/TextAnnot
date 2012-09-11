@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Prunus laurocerasus</taxon>
+    <parent type="genre">Prunus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LAURIER CERISE</titre>
+        <alinea>Prunus laurocerasus Hauteur jusqu'à 4 ou 5 m en sujet non taillé. Appelé aussi laurier-palme ou laurier-amande, surtout dans le Midi, c'est un arbuste vigoureux, à port arrondi, à branches robustes. Les feuilles sont larges, vert foncé brillant. Les fleurs blanches, en petites grappes dressées sont sans grand intérêt, de même que les fruits (de petites "cerises" rouges puis noires) qui leur succèdent. Il a donné naissance à de nombreuses variétés, dont</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Variété</titre>
+        <alinea>• 'Caucasica' de port érigé, c'est certaine- ment la variété la plus utilisée pour constituer des haies ou des rideaux de verdure dans les jardins et les parcs. Arbuste assez rustique, susceptible d'être endommagé par les grands froids, mais qui repart bien de la souche le cas échéant. • 'Herbergii' port érigé, pour haies moyennes. Bonne rusticité. • 'Otto Luyken' hauteur 1 à 1,20 m. Feuilles dressées, étroites. Convient comme couvre-sol ou pour haies basses. Très rustique. Végétation dense, étalée. • 'Rotundifolia' proche du précédent, ce laurier-cerise a un port plus trapu et des feuilles larges, d'un vert plus clair. Rusticité plus faible. • 'Zabeliana' hauteur 1,50 m environ. Arbuste très étalé, atteignant facilement 2 ou 3 m et plus de diamètre. Très rustique. Sujet à isoler.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Laurier cerise 'Otto Luyken'</titre_photo>
+        <fichier_photo_plante>p460_Laurier_cerise__Otto_Luyken_.jpg</fichier_photo_plante>
+      </photo_plante>
+      <photo_plante>
+        <titre_photo>Laurier cerise 'Herbergii'</titre_photo>
+        <fichier_photo_plante>p460_Laurier_cerise__Herbergii_.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

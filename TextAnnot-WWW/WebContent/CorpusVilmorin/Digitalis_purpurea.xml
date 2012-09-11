@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Digitalis purpurea</taxon> 
+    <parent type = "genre">Digitalis</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Digitalz commune vivace</titre>
+                <alinea>
+                Plante à grandes feuilles ovales, à tige généralement simple, haute de 1,20 m, portant une longue grappe de fleurs en cloches pendantes, serrées, pourpres ponctuées de brun à l'intérieur. Elles apparaissent de juin à août. La race Gloxiniiflora se distingue par l'ampleur de son inflorescence, ses fleurs plus nombreuses, plus ouvertes et plus variées de coloris que le type.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                beauté des hampes florales.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                sols acides, même secs.
+                Exposition ensoleillée ou mi-ombragée.
+                Redoute les sols calcaires.     
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                - Semez d'avril à mai-juin, en pépinière.
+                - Repiquez en pépinière. 
+                - Mettez en place en octobre-novembre ou en mars à 50 cm d'écartement.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                plates-bandes, massifs. Fleurs coupées.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Digitale commune
+            </titre_photo> 
+            <fichier_photo_plante>
+                p286_Digitale_commune.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+     <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

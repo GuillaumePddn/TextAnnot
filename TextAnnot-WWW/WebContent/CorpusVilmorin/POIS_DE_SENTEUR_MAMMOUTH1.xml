@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lathyrus odoratus</taxon>
+    <parent type="genre">Pois de senteur</parent>
+    <contenu>
+      <paragraphe>
+        <titre>POIS DE SENTEUR MAMMOUTH</titre>
+        <alinea>Races grimpantes Hautes de 1,50 m à 2 m. Nouvelle race à fleur géante, à très longue tige portant cinq ou six grosses fleurs dans les coloris cramoisi, bleu, lavande, rose, écarlate et blanc.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

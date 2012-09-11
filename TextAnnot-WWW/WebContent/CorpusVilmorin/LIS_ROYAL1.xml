@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lilium regale</taxon>
+    <parent type="genre">Lilium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LIS ROYAL</titre>
+        <alinea>Fleurs très odorantes en trompette, roses à l'extérieur, à lobes blanc pur et gorge jaune, groupées par quatre à huit sur une tige de 70 à 90 cm. C'est une espèce rustique, prospérant en bonne terre de jardin, à exposition ensoleillée. Les jeunes pousses étant sensibles au froid au printemps, couvrir le sol de mousse pour retarder la végétation.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Lis royal</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

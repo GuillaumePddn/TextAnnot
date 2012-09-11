@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Ipomoea tricolor</taxon> 
+        <parent type = "genre">Ipomoea</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Ipomée à grande fleur bleue très hâtive</titre>
+                <alinea>
+                Ipomoea tricolor ou Ipomoea rubro-coerulea
+                Plante à grand développement, haute de 3 à 5 m, à floraison très abondante et précoce. Les fleurs ont de larges corolles bleu d'azur devenant légèrement rougeâtres. C'est la meilleure espèce annuelle pour la décoration des tonnelles et murs exposés au Midi.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait intérêt</titre>
+                <alinea>
+                croissance très rapide Floraison spectaculaire surtout pour l'Ipomée à grande fleur bleue très hâtive.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / exposition</titre>
+                <alinea>
+                 tous sols à exposition ensoleillée.   
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                - Semez en pleine terre de fin avril à juin lorsque le sol est suffisamment réchauffé. 
+                - Arrosez copieusement pendant l'été et supprimez les fleurs fanées pour prolonger la floraison.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>            
+                <titre>Utilisation</titre>
+                <alinea>
+                garnitures de treillages, tonnelles, balcons.
+                </alinea>
+            </paragraphe>
+         </contenu>
+    
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Ipomée à grande fleur bleue
+            </titre_photo> 
+            <fichier_photo_plante>
+                p311_Ipomee_a_grande_fleur_bleue.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

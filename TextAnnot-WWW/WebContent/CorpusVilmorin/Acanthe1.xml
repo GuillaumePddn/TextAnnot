@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+    <taxon type="espece">Acanthus mollis</taxon>
+    <parent type = "genre">Acanthus </parent>
+        <contenu>
+            <paragraphe>
+                <titre>ACANTHE À LARGES FEUILLES </titre>
+                <alinea>Hauteur 1 m à 1,50 m, feuilles atteignant 50 cm, profondément découpées ; fleurs blanches généralement marquées de veines pourpres. Les bractées sont violettes.</alinea>
+            </paragraphe>
+        </contenu>
+    <photos_plante>
+
+        <photo_plante>
+            <titre_photo>
+                Acanthe à larges feuilles
+            </titre_photo> 
+            <fichier_photo_plante>
+                p242_Acanthe_a_larges_feuille.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

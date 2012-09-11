@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Nerium</taxon>
+    <parent type="famille">Apocynaceae</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LAURIER ROSE</titre>
+        <alinea>• Fleurit en juin-octobre • Peu rustique Hauteur 3 à 4 m et plus. Le laurier rose est une des plantes typiques du Midi de la France. Arbuste vigoureux, touffu, à port dressé et arrondi. Feuilles de texture ferme, allongées, pointues. Fleurs en forme de pervenche, groupées en bouquets terminaux, pendant toute la belle saison. C'est un arbuste d'une grande beauté dont il existe de très nombreuses variétés, à fleurs simples ou doubles, dans de merveilleux coloris vifs ou pastels.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

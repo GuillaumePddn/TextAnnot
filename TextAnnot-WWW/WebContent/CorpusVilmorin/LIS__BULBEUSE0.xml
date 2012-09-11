@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="genre">Lilium</taxon>
+    <parent type="famille">Liliacées</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LIS  BULBEUSE</titre>
+        <alinea />
+      </paragraphe>
+    </contenu>
+	        <maladies>
+        <maladie>
+            <nom_maladie>Criocère du lis</nom_maladie>
+            <enonce>- organes attaqués : feuilles, tiges - symptômes : elles sont dévorées par une larve noirâtre ou par un insecte rouge vif
+                qui s'enfonce dans le sol après avoir commis ses dégâts. - Traitement : Insecticide polyvalent.
+            </enonce>
+            <photos_maladie>
+                <fichier_photo_maladie>p181_Criocere_du_lis.jpg</fichier_photo_maladie>
+            </photos_maladie>
+        </maladie>
+    </maladies>
+
+
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

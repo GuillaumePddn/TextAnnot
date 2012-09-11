@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">ARBOUSIER</taxon>
+    <parent type="genre">Arbutus unedo</parent>
+    <contenu>
+      <paragraphe>
+        <titre>ARBOUSIER</titre>
+        <alinea>Arbre aux fraises.  Voir chapitre "Arbres d'ornement". Etant donné sa vigueur moyenne, l'arbousier peut être conduit en arbuste ramifié dès la base. À planter en isolé où dans les massifs d'arbustes.</alinea>
+      </paragraphe>
+    </contenu>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

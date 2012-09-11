@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Physalis</taxon>
+    <parent type="genre">Physalis</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PHYSALIS VIVACE</titre>
+        <alinea>Coqueret du Pérou ou Amour en cage  Plante à souche traçante. Tige dressée, peu ramifiée, de 60 à 80 cm de hauteur, ornementale par ses fruits. Ceux-ci, qui ont la taille et l'aspect d'une cerise rouge cocciné, sont complètement enfermés à l'intérieur de leurs calices parcheminés, rouge vif, gonflés comme des lampions vénitiens, qui s'étagent tout au long des tiges. Cette disposition curieuse fait donner à la plante le nom d' "amour en cage".</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>fructification curieuse, colorée, très décorative, en forme de lanterne.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols calcaires et pierreux, à exposition ensoleillée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez en mars sous abri et repiquez de même, en pépinière. - Mettez en place fin mai, à 50 cm d'écartement. - Il est également possible d'assurer la multiplication par division des touffes en mars-avril. Replantez aussitôt.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>bouquets secs. Couvrez les tiges dès que les "lanternes" commencent à se colorer et suspendez-les la tête en bas dans un local frais et aéré pour les faire sécher. Retirez les feuilles sèches et employez ensuite les rameaux pour la confection de bouquets d'hiver. Le fruit est délicieux et peut être consommé une fois mûr à l'automne.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Physalis</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Rhus typhina</taxon>
+    <parent type="genre">Rhus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>SUMAC DE VIRGINIE CADUC</titre>
+        <alinea>• Fruits en automne-hiver Hauteur 3 à 4 m et plus. Grand arbuste ou petit arbre à grosses branches tortueuses et peu ramifiées. Les grandes feuilles, composées pennées, prennent en automne de beaux coloris dans les tonalités orangées et rouges. Les sujets femelles - les sexes étant séparés - ont des fleurs en inflorescences terminales massives, en gros fuseaux, qui deviennent rouge amarante et veloutées d'écarlate au moment de la fructification. Ces gros fuseaux persistent tout l'hiver après la chute des feuilles et donnent à la plante un aspect insolite. La variété 'Laciniata', très répandue, est encore plus belle avec son feuillage finement découpé comme une fronde de fougère et prenant en automne des coloris encore plus éclatants. Arbuste à planter en isolé, en situation ensoleillée, dans n'importe quel sol, même calcaire, mais pas trop humide. Convient aussi pour les massifs d'arbustes. Son aptitude à drageonner et sa résistance à la sécheresse en font une plante tout indiquée pour les talus.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Sumac de Virginie lacinié</titre_photo>
+        <fichier_photo_plante>p472_Sumac_de_Virginie_lacinie.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

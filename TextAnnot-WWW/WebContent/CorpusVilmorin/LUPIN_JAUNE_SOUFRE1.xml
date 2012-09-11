@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Lupinus luteus</taxon>
+    <parent type="genre">Lupinus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>LUPIN JAUNE SOUFRE</titre>
+        <alinea> Passant du jaune soufre au jaune orangé. Fleurs odorantes. Hauteur de 50 cm.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

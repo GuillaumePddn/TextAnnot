@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Deutzia gracilis 'Nikko' (ou crenata)</taxon>
+    <parent type="genre">Deutzia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>DEUTZIA NIKKO</titre>
+        <alinea> Hauteur 30 cm. Petites fleurs simples blanches. Port étalé. Intéressant en bacs.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

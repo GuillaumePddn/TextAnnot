@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Gaillardia aristata ou Gaillardia grandiflora</taxon>
+    <parent type="genre">Gaillardia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>GAILLARDE À GRANDE FLEUR ESPÈCE VIVACE</titre>
+        <alinea> Cette race vivace, haute de 30 à 80 cm, n'offre pas une aussi grande variété de coloris que l'espèce précédente ceux-ci sont en outre plus clairs, mais les fleurs simples, énormes, sont supportées par de très longues tiges rigides.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>durée de la floraison (fin mai à octobre), tons chauds.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>terrains secs, calcaires, très ensoleillés.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Semez en mai-juin en pépinière, repiquez en pépinière. - Mettez en place au printemps suivant, à 40 cm d'écartement. - Divisez les pieds au printemps et repiquez les éclats, en pépinière, pour mettre en place au printemps suivant.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>massifs de plantes vivaces, grandes rocailles sèches. Fleurs coupées de longue durée en vase.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Gaillarde à grandes fleurs</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Coronilla emerus</taxon>
+    <parent type="genre">Coronille</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CORONILLE CADUC</titre>
+        <alinea>• Fleurit de mai à l'automne Hauteur 1,50 à 2 m. Arbuste à port léger portant des feuilles composées, vert-gris bleuté. Floraison jaune prolongée, abondante en mai-juin, clairsemée ensuite. Fruits en gousses pendantes. La coronille se plaît en toute bonne terre de jardin bien drainée, même calcaire. À planter en haie libre ou dans les massifs d'arbustes, en situation abritée et ensoleillée.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Coronille_des_jardins</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

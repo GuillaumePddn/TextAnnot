@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Ceanothus x pallidus</taxon>
+    <parent type="genre">Ceanothus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>CEANOTHE PALLIDUS</titre>
+        <alinea>Ceanothus x pallidus Hybride voisin, à port plus compact • 'Marie Simon' rose tendre. • 'Perle rose' rose vif, etc.  Les céanothes caducs se plaisent en terrain sain, peu ou pas calcaire, en situation ensoleillée et abritée surtout sous les climats un peu froids. Il est prudent de leur assurer une protection de feuilles mortes ou de paille en hiver et ils demandent à être taillés assez court au printemps. On les plante en petits groupes ou en bordure de massifs, par exemple en association avec des millepertuis et des potentilles. Ils sont d'autant plus appréciés que les floraisons bleues ne sont pas abondantes au jardin en fin d'été.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

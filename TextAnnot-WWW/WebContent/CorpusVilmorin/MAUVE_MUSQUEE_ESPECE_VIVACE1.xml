@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Malva moschata</taxon>
+    <parent type="genre">Malva</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MAUVE MUSQUEE ESPÈCE VIVACE</titre>
+        <alinea>Malva moschata Plante de 60 cm de hauteur, à feuilles profondément découpées, à fleurs rose tendre légèrement odorantes, de juin en août.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>plantes très rustiques, de culture facile.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>tous sols, même pauvres.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>1) - La mauve d'Alger se sème en place ou en pépinière en avril-mai. - Éclaircissez ou repiquez, à 30/40 cm d'écartement. 2) - La mauve musquée se sème en août-septembre. - Repiquée à 40 cm d'écartement, elle fleurit l'année suivante.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>voisine de la malope, la mauve est utilisée de la même façon.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Mauve musquée</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

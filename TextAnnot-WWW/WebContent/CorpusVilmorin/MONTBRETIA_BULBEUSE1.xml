@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Montbretia crocosmiiflora ou Crocosmia crocosmiiflora</taxon>
+    <parent type="genre">Montbretia ou Crocosmia</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MONTBRETIA BULBEUSE</titre>
+        <alinea>Plante vivace bulbeuse. Les feuilles, nombreuses, rappellent celles du glaïeul mais sont plus étroites. La hampe florale, haute de 60 cm, ramifiée, porte quatre à cinq épis de fleurs nombreuses, larges de 3 à 5 cm, bien ouvertes. La floraison se prolonge de juin aux gelées. Les variétés sont nombreuses dans des coloris variant du rouge vermillon au jaune d'or. Certaines, dites montbrétias à grandes fleurs, présentent des fleurs plus grandes mais elles sont moins florifères.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>hampes florales gracieuses et légères.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>sols légers, sablonneux, bien drainés, à exposition mi-ombragée.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>- Plantez de février à avril, à 6/10 cm de profondeur, en plaçant ensemble cinq à six bulbes distants de 4 à 5 cm, afin de former des touffes que l'on espace de 50 à 80 cm. - Arrosez copieusement au moment des chaleurs. - Dans le Midi et dans les régions à hiver doux, les montbrétias peuvent être laissés en place pendant l'hiver. Ailleurs, les bulbes, arrachés en novembre, se conservent bien, étalés dans un lieu sec comme les glaïeuls.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>les touffes de montbrétias s'associent parfaitement aux scènes de plantes vivaces. Fleurs coupées d'excellente tenue.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Montbrétia</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

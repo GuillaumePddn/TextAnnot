@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Delphinium consolida</taxon>
+    <parent type="genre">Delphinium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PIED D'ALOUETTE DES BLES ESPÈCES ANNUELLES</titre>
+        <alinea>Plante ramifiée, à feuillage finement découpé en lanières et d'aspect très léger. Tous les rameaux sont terminés par des grappes lâches de fleurs doubles aux coloris très variés - blanc pur, bleu, rose, lilas, carmin. Hauteur - 1 m. La variété pied d'alouette des blés 'Impérial', vigoureuse, à hampes solides est la plus cultivée. Hauteur - 1 m à 1 m 30. Il existe aussi des variétés naines.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Pied d'alouette des blés 'Impérial'</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

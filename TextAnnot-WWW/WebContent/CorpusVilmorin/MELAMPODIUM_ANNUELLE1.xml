@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Melampodium paludosum</taxon>
+    <parent type="genre">Melampodium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MELAMPODIUM ANNUELLE</titre>
+        <alinea>Petit buisson d'une hauteur de 50 cm. Feuilles larges d'où émergent des fleurs très décoratives de couleur jaune d'or de mai à juillet.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Attrait / Intérêt</titre>
+        <alinea>plante originale et très décorative.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Sol / Exposition</titre>
+        <alinea>ensoleillée. Tous sols.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Culture</titre>
+        <alinea>semis sous abri au printemps suivi d'un repiquage et d'une mise en place en mai.</alinea>
+      </paragraphe>
+      <paragraphe>
+        <titre>Utilisation</titre>
+        <alinea>sa petite taille le destine à l'avant des massifs ou à la réalisation de bordures.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Mélampodium</titre_photo>
+        <fichier_photo_plante>??</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

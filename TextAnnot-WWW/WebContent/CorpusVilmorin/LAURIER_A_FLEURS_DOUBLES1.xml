@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Nerium oleander</taxon>
+    <parent type="genre">Nerium</parent>
+    <contenu>
+      <paragraphe>
+        <titre>À FLEURS DOUBLES</titre>
+        <alinea>• Géant des Batailles' rouge foncé. • luteum Plénum' jaune. • 'Mme Allen' rose. • 'Professeur Granel' rouge orangé. • 'Rosée du Ventoux' rose magenta. • 'Sœur Agnès' blanc, etc.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Laurier rose à fleurs doubles, jaunes</titre_photo>
+        <fichier_photo_plante>p460_Laurier_rose_a_fleurs_doubles,_jaunes.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

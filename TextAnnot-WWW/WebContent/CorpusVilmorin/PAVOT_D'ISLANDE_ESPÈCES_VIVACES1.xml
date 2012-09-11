@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Papaver nudicaule</taxon>
+    <parent type="genre">Pavot</parent>
+    <contenu>
+      <paragraphe>
+        <titre>PAVOT D'ISLANDE ESPÈCES VIVACES</titre>
+        <alinea> Plante formant une rosette de feuilles peu rigides, divisées, vert-bleu d'où naissent, de fin mai à juillet, des pédoncules nus et poilus de 30 à 40 cm de long, terminés chacun par une large corolle blanche, rouge orange ou rose saumoné. Ces fleurs aux pétales diaphanes sont très élégantes et s'épanouissent bien envase.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante />
+    <classeVilmorin type="fleur" />
+  </description>
+</fiche>
+

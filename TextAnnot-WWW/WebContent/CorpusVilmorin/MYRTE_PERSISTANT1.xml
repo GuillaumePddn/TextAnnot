@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+  <description>
+    <taxon type="espece">Myrtus communis</taxon>
+    <parent type="genre">Myrtus</parent>
+    <contenu>
+      <paragraphe>
+        <titre>MYRTE PERSISTANT</titre>
+        <alinea>• Fleurit en mai-juillet • Peu rustique Hauteur 2 à 3 m. Arbuste dense, très ramifié, à petites feuilles d'un beau vert brillant, au parfum aromatique lorsqu'on les froisse. De mai à juillet, très abondantes fleurs blanches de 2 cm de diamètre, parfumées, présentant en leur centre un beau bouquet d étamines. Arbustes spécifiques des régions méditerranéennes, les myrtes sont utilisés en groupes, dans les massifs, ou en haies libres, même en bord de mer.</alinea>
+      </paragraphe>
+    </contenu>
+    <maladies />
+    <photos_plante>
+      <photo_plante>
+        <titre_photo>Myrte</titre_photo>
+        <fichier_photo_plante>p465_Myrte.jpg</fichier_photo_plante>
+      </photo_plante>
+    </photos_plante>
+    <classeVilmorin type="arbuste" />
+  </description>
+</fiche>
+

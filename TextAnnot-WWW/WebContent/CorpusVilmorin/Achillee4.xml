@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Achillea ptarmica</taxon>
+    <parent type = "genre">Achillea</parent>
+        <contenu>
+            <paragraphe>
+                <titre>ACHILLÉE PTARMIQUE À FLEURS DOUBLES</titre>
+                <alinea>Fleurs doubles, blanc pur, très abondantes de juin à août. Tige de 80 cm. Feuilles entières, lancéolées, dentées.                    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait / Intérêt :</titre>
+                <alinea>  blancheur et abondance de la floraison.                  
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / Exposition :</titre>
+                <alinea>   terres fraîches et même humides à exposition ensoleillée.                
+                </alinea>
+            </paragraphe>        
+        </contenu>
+
+      <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Achillée ptarmique 'The Pearl'
+            </titre_photo> 
+            <fichier_photo_plante>
+                p243_Achillee_ptarmique__The Pearl_.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+    
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

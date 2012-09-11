@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="genre">Erigeron</taxon>
+        <parent type = "famille">Asteraceae</parent>
+        <contenu>
+            <paragraphe>
+                <titre>Erigéron vivace</titre>
+                <alinea>
+                Plante très rustique, à tiges dressées, peu feuillées. Fleurs orangées pour l'espèce aurantiacus, roses pour l'espèce glaucus ou bleues avec un disque jaune pour les formes hybrides, légèrement odorantes. Elles apparaissent de mai à septembre sur des pédoncules rigides.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Attrait / Intérêt</titre>
+                <alinea>
+                floraison estivale prolongée.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Sol / Exposition</titre>
+                <alinea>
+                 terres fraîches, à exposition ensoleillée.   
+                </alinea>
+            </paragraphe>
+             <paragraphe>
+                <titre>Culture</titre>
+                <alinea>
+                multiplication d'éclats à l'automne ou au printemps, ou de semis faits en juin. Les plants sont repiqués en pépinière et mis en place en mars, à 30 ou 40 cm de distance.    
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+                <titre>Utilisation</titre>
+                <alinea>
+                bordures de massifs de plantesvivaces, plates-bandes. Fleurs à couper    
+                </alinea>
+            </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Erigeron orange
+            </titre_photo> 
+            <fichier_photo_plante>
+                p289_Erigeron_orange.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+        <photo_plante>
+            <titre_photo>
+                Erigeron hybride
+            </titre_photo> 
+            <fichier_photo_plante>
+                p290_Erigeron_hybride.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+    </description>
+</fiche>

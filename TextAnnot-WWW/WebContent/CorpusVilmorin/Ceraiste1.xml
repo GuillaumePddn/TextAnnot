@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="plante_TextViz.xsd">
+    <description>
+        <taxon type="espece">Cerastium tomentosum</taxon>
+        <parent type = "genre">Cerastium</parent>
+        <contenu>
+            <paragraphe>
+                <titre>OREILLE DE SOURIS, VIVACE</titre>
+                <alinea>
+                    Plante herbacée, tapissante et retombante, de 15 à 20 cm, à feuilles ovales lancéolées, revêtues de poils soyeux et argentés leur donnant un aspect laineux. Fleurs d'un blanc pur transparent, réunies en grappes paniculées, en mai-juin.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Attrait / Intérêt</titre>
+                <alinea>
+                    une excellente plante couvre-sol, décorative par son feuillage et sa floraison.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Sol / Exposition</titre>
+                <alinea>
+                    tous sols même secs et calcaires, à exposition ensoleillée. 
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Culture</titre>
+                <alinea>
+                    extrêmement facile.
+                    - Semez en mai-juin, en pépinière, en terre légère et à mi-ombre,
+                    - Repiquez en pépinière bien exposée à l'automne et mettez en place au printemps suivant à 20 cm d'écartement. On peut aussi replanter des éclats de touffes au printemps. Le cerastium supporte très bien la taille. Il est souvent nécessaire de limiter son développement en coupant à la bêche ou à la cisaille le bord des touffes qui ont tendance à trop s'étaler.
+                </alinea>
+            </paragraphe>
+            <paragraphe>
+               <titre>Utilisation</titre>
+                 <alinea>
+                     rocailles, bordures, talus, murets. Associé à des aubrietias, le cerastium est du plus brillant effet.
+                 </alinea>
+             </paragraphe>
+        </contenu>
+
+    <photos_plante>
+        <photo_plante>
+            <titre_photo>
+                Ado
+            </titre_photo> 
+            <fichier_photo_plante>
+                p244_Ado.jpg
+            </fichier_photo_plante>
+        </photo_plante>
+    </photos_plante>
+ 
+    <classeVilmorin type= "fleur"/>
+        </description>
+</fiche>

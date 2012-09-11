@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  créé le ?? -->
+<!--  modifié le 1 décembre 2011 -->
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="fiche">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="description">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="taxon">
+                <xsd:complexType>
+                  <xsd:simpleContent>
+                    <xsd:extension base="xsd:string">
+                      <xsd:attribute name="type" type="typeTaxon" use="required"/>
+                    </xsd:extension>
+                  </xsd:simpleContent>
+                </xsd:complexType>
+              </xsd:element>
+              <xsd:element name="parent">
+                <xsd:complexType>
+                  <xsd:simpleContent>
+                    <xsd:extension base="xsd:string">
+                      <xsd:attribute name="type" type="typeParent" use="required"/>
+                    </xsd:extension>
+                  </xsd:simpleContent>
+                </xsd:complexType>
+              </xsd:element>
+              <xsd:element name="contenu">
+                <xsd:complexType>
+                  <xsd:sequence>
+                    <xsd:element maxOccurs="unbounded" name="paragraphe">
+                      <xsd:complexType>
+                        <xsd:sequence>
+                          <xsd:element minOccurs="0" name="titre" nillable="false" type="xsd:string"/>
+                          <xsd:element name="alinea" nillable="false" type="xsd:string"/>
+                        </xsd:sequence>
+                      </xsd:complexType>
+                    </xsd:element>
+                  </xsd:sequence>
+                </xsd:complexType>
+              </xsd:element>
+              <xsd:element minOccurs="0" name="maladies">
+                <xsd:complexType>
+                  <xsd:sequence>
+                    <xsd:element maxOccurs="unbounded" name="maladie">
+                      <xsd:complexType>
+                        <xsd:sequence>
+                          <xsd:element name="nom_maladie" nillable="false" type="xsd:string"
+                            maxOccurs="1"/>
+                          <xsd:element name="enonce" nillable="false" type="xsd:string"/>
+                          <xsd:element maxOccurs="1" minOccurs="0" name="photos_maladie">
+                            <xsd:complexType>
+                              <xsd:sequence>
+                                <xsd:element maxOccurs="unbounded" name="fichier_photo_maladie"
+                                  type="xsd:string"/>
+                              </xsd:sequence>
+                            </xsd:complexType>
+                          </xsd:element>
+                        </xsd:sequence>
+                      </xsd:complexType>
+                    </xsd:element>
+                  </xsd:sequence>
+                </xsd:complexType>
+              </xsd:element>
+              <xsd:element maxOccurs="1" minOccurs="0" name="photos_plante">
+                <xsd:complexType>
+                  <xsd:sequence>
+                    <xsd:element maxOccurs="unbounded" name="photo_plante">
+                      <xsd:complexType>
+                        <xsd:sequence>
+                          <xsd:element name="titre_photo" nillable="false" type="xsd:string"
+                            maxOccurs="1"/>
+                          <xsd:element name="fichier_photo_plante" type="xsd:string"/>
+                        </xsd:sequence>
+                      </xsd:complexType>
+                    </xsd:element>
+                  </xsd:sequence>
+                </xsd:complexType>
+              </xsd:element>
+              <xsd:element name="classeVilmorin">
+                <xsd:complexType>
+                  <xsd:simpleContent>
+                    <xsd:extension base="xsd:string">
+                      <xsd:attribute name="type" type="typeClasseVilmorin" use="required"/>
+                    </xsd:extension>
+                  </xsd:simpleContent>
+                </xsd:complexType>
+              </xsd:element>
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:simpleType name="typeTaxon">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="genre"/>
+      <xsd:enumeration value="espece"/>
+      <xsd:enumeration value="variete"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="typeParent">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="famille"/>
+      <xsd:enumeration value="genre"/>
+      <xsd:enumeration value="espece"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="typeClasseVilmorin">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="arbre"/>
+      <xsd:enumeration value="fleur"/>
+      <xsd:enumeration value="arbuste"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+</xsd:schema>
