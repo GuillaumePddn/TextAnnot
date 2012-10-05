@@ -70,7 +70,7 @@ else loginDisp="Login";
 <I>TextViz</I> a été élaboré dans le cadre du projet <A HREF="http://www.irit.fr/dynamo/"><IMG src="images/logo_dynamo.png" height="30px"></A></TD>
 </TR>
 </TABLE>
-<Font size="1">Version 1.3.1 (24 Aôut 2012)</Font>
+<Font size="1">Version 1.3.2 (5 octobre 2012)</Font>
 </CENTER>
 </div>
 

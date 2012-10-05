@@ -316,6 +316,7 @@ public class ObirProject {
 		//return property.getNamespace().equals(getOWLModel().getNamespaceManager().getDefaultNamespace()) ;
 		String [] forbiddenPrefixes = {"http://www.w3.org/", "http://protege.stanford.edu", "http://swrl.stanford.edu"};
 		String propertyNameSpace = property.getNamespace();
+		if(propertyNameSpace==null) return false;
 		for(String prefix : forbiddenPrefixes){
 			if(propertyNameSpace.startsWith(prefix)) return false;
 		}
