@@ -36,7 +36,7 @@ public class ThemaStream extends HttpServlet {
 	 * Parameters used to add relations to the result or not
 	 * Change manually this value if you want to modify the behaviour of the Web Service
 	 */
-	private static final boolean RELATIONS_ENABLED=false;
+	private static boolean RELATIONS_ENABLED=false;
        
     /**
      * @see HttpServlet#HttpServlet()
@@ -78,6 +78,10 @@ public class ThemaStream extends HttpServlet {
 		try {
 			PrintWriter out = response.getWriter();
 			String text=request.getParameter("text");
+			String rel=request.getParameter("rels");
+			if(rel != null) {
+				if(rel.equals("on")) RELATIONS_ENABLED=true;
+			}
 			System.err.println(text);
 			if(text==null){ //TODO:verificare lettura dei files
 				String sourceFile=request.getParameter("file");
