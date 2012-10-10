@@ -174,7 +174,14 @@ public class ThemaStream extends HttpServlet {
 				String cleanTO=term_offset.replace('[', ' ');
 				cleanTO=cleanTO.replace(']', ' ');
 				cleanTO=cleanTO.trim();
-				Integer posFromTV= new Integer(cleanTO);
+				Integer posFromTV;
+				try{
+					posFromTV= new Integer(cleanTO);
+				} catch(NumberFormatException e){
+					String [] mpos=cleanTO.split(",");
+					posFromTV = new Integer(mpos[0]);
+				}
+				
 				int ourPosition=this.closestValue(posFromTV, offMap.keySet(), spottedWords.length());
 				dataBuffer.append("<paragraph_id>"+getPID(paragraphs, Integer.parseInt(cleanTO))+"</paragraph_id>\n");
 				dataBuffer.append("<token_id>"+offMap.get(new Integer(ourPosition))+"</token_id>\n");
@@ -201,11 +208,24 @@ public class ThemaStream extends HttpServlet {
 					String cleanDTO=domainPos.replace('[', ' ');
 					cleanDTO=cleanDTO.replace(']', ' ');
 					cleanDTO=cleanDTO.trim();
-					Integer dtoPosTV= new Integer(cleanDTO);
+					//Integer dtoPosTV= new Integer(cleanDTO);
+					Integer dtoPosTV;
+					try{
+						dtoPosTV= new Integer(cleanDTO);
+					} catch(NumberFormatException e){
+						String [] mpos=cleanDTO.split(",");
+						dtoPosTV = new Integer(mpos[0]);
+					}
 					String cleanRTO=rangePos.replace('[', ' ');
 					cleanRTO=cleanRTO.replace(']', ' ');
 					cleanRTO=cleanRTO.trim();
-					Integer rtoPosTV= new Integer(cleanRTO);
+					Integer rtoPosTV;
+					try{
+						rtoPosTV= new Integer(cleanRTO);
+					} catch(NumberFormatException e){
+						String [] mpos=cleanRTO.split(",");
+						rtoPosTV = new Integer(mpos[0]);
+					}
 					int ourDTOP=this.closestValue(dtoPosTV, offMap.keySet(), domainPos.length());
 					int ourRTOP=this.closestValue(rtoPosTV, offMap.keySet(), rangePos.length());
 					dataBuffer.append("<term_offset>"+domainPos+", "+rangePos+"</term_offset>\n");
