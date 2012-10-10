@@ -7,8 +7,9 @@ import java.util.regex.Pattern;
 public class PaiceHuskFrenchStemmer {
 	static Vector punctuation = null;
     static Vector stopwords = null;
-    static String rule_pattern = "^([a-zàâèéêëîïôûùç]*)(\\*){0,1}(\\d)([a-zàâèéêëîïôûùç]*)([.|>])";
-
+    static String rule_pattern_str = "^([a-zàâèéêëîïôûùç]*)(\\*){0,1}(\\d)([a-zàâèéêëîïôûùç]*)([.|>])";
+    static Pattern rule_pattern = Pattern.compile(rule_pattern_str);
+    
     public static String stem(String form){
     		//System.err.println("To stem: "+form);
             boolean stem_found = false;
@@ -22,8 +23,8 @@ public class PaiceHuskFrenchStemmer {
                             break;
                     }
                     rule = stemrules_array[ rule_number];
-                    Pattern pattern = Pattern.compile(rule_pattern);
-                    Matcher matcher = pattern.matcher(rule);
+                    //Pattern pattern = Pattern.compile(rule_pattern);
+                    Matcher matcher = rule_pattern.matcher(rule);
                     if(matcher.matches()){
                             if(matcher.group(2) == null || !(matcher.group(2)).equals("*")){
                                     reversed_stem = matcher.group(4) + reversed.substring( Integer.parseInt(matcher.group(3)));
@@ -49,15 +50,14 @@ public class PaiceHuskFrenchStemmer {
             String rule = "";
             for(int count = startAt; count < rulesCount; count++){
                     rule = stemrules_array[ count];
-                    new_rule = regexpMatchAndReplace(rule, rule_pattern, "$1");
+                    new_rule = regexpMatchAndReplace(rule, "$1");
                     if(reversed.startsWith(new_rule)) return count;
             }
             return -1;
     }
 
-    private static String regexpMatchAndReplace(String text, String patternStr, String replaceStr){
-            Pattern pattern = Pattern.compile(patternStr);
-            Matcher matcher = pattern.matcher(text);
+    private static String regexpMatchAndReplace(String text, String replaceStr){
+            Matcher matcher = rule_pattern.matcher(text);
             return matcher.replaceAll(replaceStr);
     }
 

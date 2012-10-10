@@ -31,6 +31,7 @@ import obir.ir.AnnotationTriple;
 import obir.ir.Corpus;
 import obir.ir.DocumentAnnotation;
 import obir.ir.SemanticSimilarity;
+import obir.ir.analysis.fr.CustomFrenchStemmer;
 import obir.ir.analysis.fr.PaiceHuskFrenchStemmer;
 import obir.otr.OTR;
 import obir.otr.ObirProject;
