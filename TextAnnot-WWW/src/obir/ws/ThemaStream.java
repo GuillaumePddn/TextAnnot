@@ -36,7 +36,7 @@ public class ThemaStream extends HttpServlet {
 	 * Parameters used to add relations to the result or not
 	 * Change manually this value if you want to modify the behaviour of the Web Service
 	 */
-	private static boolean RELATIONS_ENABLED=false;
+	private boolean RELATIONS_ENABLED=false; //do not use static otherwise all users will have the same configuration
        
     /**
      * @see HttpServlet#HttpServlet()
