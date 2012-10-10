@@ -79,6 +79,7 @@ public class ThemaStream extends HttpServlet {
 			PrintWriter out = response.getWriter();
 			String text=request.getParameter("text");
 			String rel=request.getParameter("rels");
+			RELATIONS_ENABLED=false;
 			if(rel != null) {
 				if(rel.equals("on")) RELATIONS_ENABLED=true;
 			}
