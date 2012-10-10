@@ -183,7 +183,7 @@ public class ThemaStream extends HttpServlet {
 				}
 				
 				int ourPosition=this.closestValue(posFromTV, offMap.keySet(), spottedWords.length());
-				dataBuffer.append("<paragraph_id>"+getPID(paragraphs, Integer.parseInt(cleanTO))+"</paragraph_id>\n");
+				dataBuffer.append("<paragraph_id>"+getPID(paragraphs, posFromTV.intValue())+"</paragraph_id>\n");
 				dataBuffer.append("<token_id>"+offMap.get(new Integer(ourPosition))+"</token_id>\n");
 				dataBuffer.append("<instance_of>"+className+"</instance_of>\n");
 				dataBuffer.append("</concept>\n");
@@ -229,7 +229,7 @@ public class ThemaStream extends HttpServlet {
 					int ourDTOP=this.closestValue(dtoPosTV, offMap.keySet(), domainPos.length());
 					int ourRTOP=this.closestValue(rtoPosTV, offMap.keySet(), rangePos.length());
 					dataBuffer.append("<term_offset>"+domainPos+", "+rangePos+"</term_offset>\n");
-					dataBuffer.append("<paragraph_id>"+getPID(paragraphs, Integer.parseInt(cleanDTO))+"</paragraph_id>\n");
+					dataBuffer.append("<paragraph_id>"+getPID(paragraphs, dtoPosTV.intValue())+"</paragraph_id>\n");
 					dataBuffer.append("<token_id>"+offMap.get(new Integer(ourDTOP))+" , "+offMap.get(new Integer(ourRTOP))+"</token_id>\n");
 					dataBuffer.append("</relation>\n");
 				}
